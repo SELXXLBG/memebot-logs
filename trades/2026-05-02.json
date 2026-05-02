@@ -141,5 +141,12 @@
     "entryPrice": 0,
     "exitPrice": 0,
     "profitSOL": 0
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-02T18:50:30.092Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": 0
   }
 ]

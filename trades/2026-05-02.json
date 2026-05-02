@@ -1,1 +1,9 @@
-
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-02T19:03:30.091Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": 0
+  }
+]

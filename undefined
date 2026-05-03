@@ -1,0 +1,373 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:00:03.589Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:00:30.228Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:01:00.413Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:01:30.268Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:02:00.320Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:02:30.258Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:03:00.339Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:03:30.165Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:04:00.274Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:04:30.239Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:05:00.278Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:05:30.122Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:06:00.272Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:06:30.224Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:07:00.302Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:07:30.141Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:08:00.244Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:08:30.224Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:09:00.282Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:09:30.119Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:10:00.268Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:10:30.240Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:11:00.245Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:11:30.242Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:12:00.239Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:12:30.248Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:13:00.264Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:13:30.213Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:14:00.316Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:14:30.295Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:15:00.321Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:15:30.311Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:16:00.347Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:16:30.293Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:17:00.339Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:17:30.353Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:18:00.196Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:18:30.315Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:19:00.340Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:19:30.302Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:20:00.299Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:20:30.332Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:21:00.214Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:21:30.303Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:24:00.360Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-03T00:24:30.332Z",
+    "entryPrice": 0,
+    "exitPrice": 0,
+    "profitSOL": -0.5,
+    "reason": "NO_PRICE_DATA"
+  },
+  {
+    "reason": "NO_PRICE_DATA"
+  }
+]

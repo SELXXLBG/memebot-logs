@@ -1,0 +1,691 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MemBot Dashboard</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap');
+
+  :root {
+    --bg: #0a0a0f;
+    --surface: #111118;
+    --surface2: #1a1a24;
+    --border: #2a2a3a;
+    --accent: #7c3aed;
+    --accent2: #06b6d4;
+    --green: #10b981;
+    --red: #ef4444;
+    --yellow: #f59e0b;
+    --text: #e2e8f0;
+    --muted: #64748b;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', sans-serif;
+    min-height: 100vh;
+    padding: 24px;
+  }
+
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 28px;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+
+  .logo-area { display: flex; align-items: center; gap: 20px; }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .logo-icon {
+    width: 40px; height: 40px;
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 20px;
+  }
+
+  h1 { font-size: 1.5rem; font-weight: 700; }
+  h1 span { color: var(--accent2); }
+
+  .lang-toggle {
+    display: flex;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 4px;
+    gap: 4px;
+  }
+
+  .lang-btn {
+    background: transparent;
+    border: none;
+    color: var(--muted);
+    padding: 4px 10px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: all 0.2s;
+  }
+
+  .lang-btn.active {
+    background: var(--accent);
+    color: white;
+  }
+
+  .status-badge {
+    display: flex; align-items: center; gap: 8px;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 6px 14px;
+    font-size: 0.8rem;
+    color: var(--muted);
+  }
+
+  .dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    background: var(--green);
+    box-shadow: 0 0 6px var(--green);
+    animation: pulse 2s infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.4; }
+  }
+
+  .config-bar {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 24px;
+    flex-wrap: wrap;
+  }
+
+  input[type="text"], input[type="password"] {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--text);
+    padding: 8px 14px;
+    font-size: 0.85rem;
+    font-family: 'Inter', sans-serif;
+    outline: none;
+    transition: border 0.2s;
+  }
+
+  input:focus { border-color: var(--accent); }
+  #token-input { min-width: 280px; }
+
+  button.main-btn {
+    background: linear-gradient(135deg, var(--accent), #6d28d9);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 18px;
+    font-size: 0.85rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+    transition: opacity 0.2s, transform 0.1s;
+  }
+
+  button.main-btn:hover { opacity: 0.9; transform: translateY(-1px); }
+  button.main-btn:active { transform: translateY(0); }
+
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 16px;
+    margin-bottom: 24px;
+  }
+
+  .stat-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 20px;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.2s, transform 0.2s;
+  }
+
+  .stat-card:hover { border-color: var(--accent); transform: translateY(-2px); }
+
+  .stat-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--accent), var(--accent2));
+    opacity: 0.7;
+  }
+
+  .stat-label { font-size: 0.72rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 8px; }
+  .stat-value { font-size: 1.6rem; font-weight: 700; font-family: 'JetBrains Mono', monospace; }
+  .stat-value.green { color: var(--green); }
+  .stat-value.red { color: var(--red); }
+  .stat-value.yellow { color: var(--yellow); }
+  .stat-sub { font-size: 0.75rem; color: var(--muted); margin-top: 4px; }
+
+  .main-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+
+  @media (max-width: 900px) {
+    .main-grid { grid-template-columns: 1fr; }
+  }
+
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 20px;
+  }
+
+  .card-title {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .chart-wrap { position: relative; height: 240px; }
+
+  .trades-list { max-height: 320px; overflow-y: auto; }
+  .trades-list::-webkit-scrollbar { width: 4px; }
+  .trades-list::-webkit-scrollbar-track { background: transparent; }
+  .trades-list::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+
+  .trade-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--border);
+    font-size: 0.82rem;
+    gap: 10px;
+  }
+
+  .trade-item:last-child { border-bottom: none; }
+
+  .trade-token {
+    font-weight: 600;
+    font-family: 'JetBrains Mono', monospace;
+    min-width: 60px;
+  }
+
+  .trade-reason {
+    color: var(--muted);
+    font-size: 0.72rem;
+    flex: 1;
+  }
+
+  .trade-pnl {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 600;
+    min-width: 80px;
+    text-align: right;
+  }
+
+  .badge {
+    font-size: 0.65rem;
+    padding: 2px 7px;
+    border-radius: 4px;
+    font-weight: 600;
+  }
+  .badge-sim { background: rgba(124,58,237,0.2); color: var(--accent); }
+  .badge-live { background: rgba(16,185,129,0.2); color: var(--green); }
+  .badge-sl { background: rgba(239,68,68,0.15); color: var(--red); }
+  .badge-tp { background: rgba(16,185,129,0.15); color: var(--green); }
+
+  .winrate-bar {
+    height: 6px;
+    background: var(--border);
+    border-radius: 3px;
+    overflow: hidden;
+    margin-top: 10px;
+  }
+  .winrate-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--accent), var(--green));
+    border-radius: 3px;
+    transition: width 0.6s ease;
+  }
+
+  .empty-state {
+    text-align: center;
+    color: var(--muted);
+    padding: 40px 20px;
+    font-size: 0.9rem;
+  }
+  .empty-state .big { font-size: 2.5rem; margin-bottom: 12px; }
+
+  .refresh-hint {
+    font-size: 0.72rem;
+    color: var(--muted);
+    text-align: right;
+    margin-top: 10px;
+  }
+
+  #error-msg {
+    background: rgba(239,68,68,0.1);
+    border: 1px solid rgba(239,68,68,0.3);
+    border-radius: 8px;
+    padding: 10px 16px;
+    font-size: 0.82rem;
+    color: var(--red);
+    margin-bottom: 16px;
+    display: none;
+  }
+
+  .sim-notice {
+    background: rgba(245,158,11,0.1);
+    border: 1px solid rgba(245,158,11,0.3);
+    border-radius: 8px;
+    padding: 8px 14px;
+    font-size: 0.78rem;
+    color: var(--yellow);
+    margin-bottom: 16px;
+    display: none;
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="logo-area">
+    <div class="logo">
+      <div class="logo-icon">🤖</div>
+      <div>
+        <h1>Mem<span>Bot</span></h1>
+        <div id="sub-title" style="font-size:0.75rem;color:var(--muted);">Solana Scalping Dashboard</div>
+      </div>
+    </div>
+    <div class="lang-toggle">
+      <button class="lang-btn" id="lang-fr" onclick="setLang('fr')">FR</button>
+      <button class="lang-btn" id="lang-en" onclick="setLang('en')">EN</button>
+    </div>
+  </div>
+  <div class="status-badge">
+    <span class="dot"></span>
+    <span id="status-text">En attente de données</span>
+  </div>
+</header>
+
+<div class="config-bar">
+  <input type="text" id="repo-input" placeholder="user/repo (ex: SELXXLBG/memebot-logs)" value="SELXXLBG/memebot-logs" />
+  <input type="password" id="token-input" placeholder="GitHub Token" />
+  <button class="main-btn" id="load-btn" onclick="loadData()">🔄 Charger</button>
+</div>
+
+<div id="error-msg"></div>
+<div class="sim-notice" id="sim-notice">⚠️ Mode Simulation — les données affichées ne représentent pas de l'argent réel</div>
+
+<div class="stats-grid">
+  <div class="stat-card">
+    <div class="stat-label" id="label-pnl">PnL Total</div>
+    <div class="stat-value" id="stat-pnl">—</div>
+    <div class="stat-sub" id="stat-pnl-usd"></div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-label" id="label-total">Trades Totaux</div>
+    <div class="stat-value" id="stat-total">—</div>
+    <div class="stat-sub" id="stat-days">sur 0 jours</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-label" id="label-wr">Win Rate</div>
+    <div class="stat-value yellow" id="stat-wr">—</div>
+    <div class="winrate-bar"><div class="winrate-fill" id="wr-fill" style="width:0%"></div></div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-label" id="label-best">Meilleur Trade</div>
+    <div class="stat-value green" id="stat-best">—</div>
+    <div class="stat-sub" id="stat-best-token"></div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-label" id="label-worst">Pire Trade</div>
+    <div class="stat-value red" id="stat-worst">—</div>
+    <div class="stat-sub" id="stat-worst-token"></div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-label" id="label-sltp">Stop Loss / TP</div>
+    <div class="stat-value" id="stat-sltp" style="font-size:1.1rem">—</div>
+    <div class="stat-sub" id="label-sltp-sub">SL vs TP déclenchés</div>
+  </div>
+</div>
+
+<div class="main-grid">
+  <div class="card">
+    <div class="card-title">
+      <span id="label-chart">Courbe PnL cumulée (SOL)</span>
+      <span style="font-size:0.7rem;color:var(--muted)" id="chart-count"></span>
+    </div>
+    <div class="chart-wrap">
+      <canvas id="pnlChart"></canvas>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-title" id="label-recent">Derniers Trades</div>
+    <div class="trades-list" id="trades-list">
+      <div class="empty-state" id="empty-msg"><div class="big">📡</div>Entre tes infos GitHub et clique sur Charger</div>
+    </div>
+  </div>
+</div>
+
+<div class="refresh-hint" id="last-refresh"></div>
+
+<script>
+let chart = null;
+let currentLang = localStorage.getItem('lang') || 'fr';
+
+const translations = {
+  fr: {
+    subTitle: 'Solana Scalping Dashboard',
+    statusWait: 'En attente de données',
+    statusLoading: 'Chargement…',
+    statusEmpty: 'Aucun trade trouvé',
+    statusError: 'Erreur GitHub',
+    statusFilesEmpty: 'Fichiers vides',
+    statusLoaded: 'trades chargés',
+    btnLoad: '🔄 Charger',
+    simNotice: '⚠️ Mode Simulation — les données affichées ne représentent pas de l\'argent réel',
+    labelPnl: 'PnL Total',
+    labelTotal: 'Trades Totaux',
+    labelWr: 'Win Rate',
+    labelBest: 'Meilleur Trade',
+    labelWorst: 'Pire Trade',
+    labelSltp: 'Stop Loss / TP',
+    labelSltpSub: 'SL vs TP déclenchés',
+    labelChart: 'Courbe PnL cumulée (SOL)',
+    labelRecent: 'Derniers Trades',
+    labelSur: 'sur',
+    labelJours: 'jours',
+    labelPoints: 'points',
+    labelEst: '≈ $ (estimé)',
+    emptyMsg: '<div class="big">📡</div>Entre tes infos GitHub et clique sur Charger',
+    noTradeMsg: '<div class="big">🕐</div>Aucun trade loggé encore — le bot n\'a pas encore finalisé de trade.',
+    lastUpdate: 'Dernière mise à jour :',
+    placeholderRepo: 'user/repo (ex: SELXXLBG/memebot-logs)',
+    placeholderToken: 'GitHub Token'
+  },
+  en: {
+    subTitle: 'Solana Scalping Dashboard',
+    statusWait: 'Waiting for data',
+    statusLoading: 'Loading…',
+    statusEmpty: 'No trades found',
+    statusError: 'GitHub Error',
+    statusFilesEmpty: 'Empty files',
+    statusLoaded: 'trades loaded',
+    btnLoad: '🔄 Load',
+    simNotice: '⚠️ Simulation Mode — displayed data does not represent real money',
+    labelPnl: 'Total PnL',
+    labelTotal: 'Total Trades',
+    labelWr: 'Win Rate',
+    labelBest: 'Best Trade',
+    labelWorst: 'Worst Trade',
+    labelSltp: 'Stop Loss / TP',
+    labelSltpSub: 'SL vs TP triggered',
+    labelChart: 'Cumulative PnL Curve (SOL)',
+    labelRecent: 'Recent Trades',
+    labelSur: 'over',
+    labelJours: 'days',
+    labelPoints: 'points',
+    labelEst: '≈ $ (estimated)',
+    emptyMsg: '<div class="big">📡</div>Enter your GitHub info and click Load',
+    noTradeMsg: '<div class="big">🕐</div>No trades logged yet — the bot hasn\'t completed any trade.',
+    lastUpdate: 'Last update:',
+    placeholderRepo: 'user/repo (e.g. SELXXLBG/memebot-logs)',
+    placeholderToken: 'GitHub Token'
+  }
+};
+
+function updateUI() {
+  const t = translations[currentLang];
+  document.getElementById('sub-title').textContent = t.subTitle;
+  document.getElementById('load-btn').textContent = t.btnLoad;
+  document.getElementById('sim-notice').textContent = t.simNotice;
+  document.getElementById('label-pnl').textContent = t.labelPnl;
+  document.getElementById('label-total').textContent = t.labelTotal;
+  document.getElementById('label-wr').textContent = t.labelWr;
+  document.getElementById('label-best').textContent = t.labelBest;
+  document.getElementById('label-worst').textContent = t.labelWorst;
+  document.getElementById('label-sltp').textContent = t.labelSltp;
+  document.getElementById('label-sltp-sub').textContent = t.labelSltpSub;
+  document.getElementById('label-chart').textContent = t.labelChart;
+  document.getElementById('label-recent').textContent = t.labelRecent;
+  document.getElementById('repo-input').placeholder = t.placeholderRepo;
+  document.getElementById('token-input').placeholder = t.placeholderToken;
+  
+  if (document.getElementById('trades-list').innerHTML.includes('big')) {
+    document.getElementById('trades-list').innerHTML = `<div class="empty-state">${t.emptyMsg}</div>`;
+  }
+
+  // Update active button
+  document.getElementById('lang-fr').classList.toggle('active', currentLang === 'fr');
+  document.getElementById('lang-en').classList.toggle('active', currentLang === 'en');
+}
+
+function setLang(l) {
+  currentLang = l;
+  localStorage.setItem('lang', l);
+  updateUI();
+  // If data already loaded, refresh the display
+  if (window.lastData) renderDashboard(window.lastData, window.lastDays);
+}
+
+function formatSOL(v) {
+  const n = Number(v);
+  if (isNaN(n)) return '0.000000';
+  return (n >= 0 ? '+' : '') + n.toFixed(6);
+}
+
+function showError(msg) {
+  const el = document.getElementById('error-msg');
+  el.textContent = msg;
+  el.style.display = 'block';
+  setTimeout(() => el.style.display = 'none', 6000);
+}
+
+async function fetchFile(repo, token, path) {
+  const url = `https://api.github.com/repos/${repo}/contents/${path}`;
+  const headers = { 'Accept': 'application/vnd.github+json' };
+  if (token) headers['Authorization'] = 'Bearer ' + token;
+  const r = await fetch(url, { headers });
+  if (!r.ok) return null;
+  const data = await r.json();
+  if (!data.content) return null;
+  const decoded = atob(data.content.replace(/\n/g, ''));
+  
+  // ✅ FIX : Vérifie si le JSON est vide avant de parser
+  if (!decoded || decoded.trim() === '') return null;
+  
+  try {
+    return JSON.parse(decoded);
+  } catch (e) {
+    console.error(`Erreur JSON dans ${path}:`, e);
+    return null;
+  }
+}
+
+async function listFiles(repo, token, path = 'trades') {
+  const url = `https://api.github.com/repos/${repo}/contents/${path}`;
+  const headers = { 'Accept': 'application/vnd.github+json' };
+  if (token) headers['Authorization'] = 'Bearer ' + token;
+  const r = await fetch(url, { headers });
+  if (r.status === 404) return [];
+  if (!r.ok) { showError(`${translations[currentLang].statusError}: ${r.status}`); return []; }
+  return r.json();
+}
+
+async function loadData() {
+  document.getElementById('error-msg').style.display = 'none';
+  const repo = document.getElementById('repo-input').value.trim();
+  const token = document.getElementById('token-input').value.trim();
+  document.getElementById('status-text').textContent = translations[currentLang].statusLoading;
+
+  const files = await listFiles(repo, token);
+  if (!files || files.length === 0) {
+    document.getElementById('status-text').textContent = translations[currentLang].statusEmpty;
+    document.getElementById('trades-list').innerHTML = `<div class="empty-state">${translations[currentLang].noTradeMsg}</div>`;
+    return;
+  }
+
+  const jsonFiles = files.filter(f => f.name.endsWith('.json')).sort((a,b) => a.name.localeCompare(b.name));
+  let allTrades = [];
+
+  for (const f of jsonFiles) {
+    const trades = await fetchFile(repo, token, f.path);
+    if (Array.isArray(trades)) allTrades.push(...trades);
+  }
+
+  if (allTrades.length === 0) {
+    document.getElementById('status-text').textContent = translations[currentLang].statusFilesEmpty;
+    return;
+  }
+
+  window.lastData = allTrades;
+  window.lastDays = jsonFiles.length;
+  renderDashboard(allTrades, jsonFiles.length);
+  document.getElementById('last-refresh').textContent = `${translations[currentLang].lastUpdate} ${new Date().toLocaleTimeString()}`;
+}
+
+function renderDashboard(trades, days) {
+  const tLang = translations[currentLang];
+  
+  // Check sim mode
+  const isAllSim = trades.every(t => t.status && t.status.includes('SIMULATION'));
+  document.getElementById('sim-notice').style.display = isAllSim ? 'block' : 'none';
+
+  // Stats
+  let totalPnl = 0, wins = 0, best = -Infinity, worst = Infinity;
+  let bestToken = '', worstToken = '', slCount = 0, tpCount = 0;
+
+  for (const t of trades) {
+    const pnl = Number(t.profitSOL || t.profit || 0);
+    totalPnl += pnl;
+    if (pnl > 0) wins++;
+    if (pnl > best) { best = pnl; bestToken = t.symbol || t.token || '?'; }
+    if (pnl < worst) { worst = pnl; worstToken = t.symbol || t.token || '?'; }
+    const r = (t.reason || '').toUpperCase();
+    if (r.includes('STOP') || r.includes('SL')) slCount++;
+    if (r.includes('PROFIT') || r.includes('TP')) tpCount++;
+  }
+
+  const wr = trades.length > 0 ? Math.round((wins / trades.length) * 100) : 0;
+
+  const pnlEl = document.getElementById('stat-pnl');
+  pnlEl.textContent = formatSOL(totalPnl) + ' SOL';
+  pnlEl.className = 'stat-value ' + (totalPnl >= 0 ? 'green' : 'red');
+
+  document.getElementById('stat-pnl-usd').textContent = `≈ ${(totalPnl * 140).toFixed(2)} ${tLang.labelEst}`;
+  document.getElementById('stat-total').textContent = trades.length;
+  document.getElementById('stat-days').textContent = `${tLang.labelSur} ${days} ${tLang.labelJours}`;
+  document.getElementById('stat-wr').textContent = wr + '%';
+  document.getElementById('wr-fill').style.width = wr + '%';
+  document.getElementById('stat-best').textContent = best === -Infinity ? '—' : formatSOL(best) + ' SOL';
+  document.getElementById('stat-best-token').textContent = bestToken;
+  document.getElementById('stat-worst').textContent = worst === Infinity ? '—' : formatSOL(worst) + ' SOL';
+  document.getElementById('stat-worst-token').textContent = worstToken;
+  document.getElementById('stat-sltp').textContent = slCount + ' SL / ' + tpCount + ' TP';
+  document.getElementById('status-text').textContent = `${trades.length} ${tLang.statusLoaded}`;
+  document.getElementById('chart-count').textContent = `${trades.length} ${tLang.labelPoints}`;
+
+  // PnL Chart
+  let cumulative = 0;
+  const labels = trades.map((t, i) => {
+    const d = (t.timestamp || '').slice(0, 10) || ('#' + (i+1));
+    return d;
+  });
+  const data = trades.map(t => {
+    cumulative += Number(t.profitSOL || t.profit || 0);
+    return +cumulative.toFixed(6);
+  });
+
+  const ctx = document.getElementById('pnlChart').getContext('2d');
+  if (chart) chart.destroy();
+
+  const gradient = ctx.createLinearGradient(0, 0, 0, 240);
+  const isPositive = cumulative >= 0;
+  gradient.addColorStop(0, isPositive ? 'rgba(16,185,129,0.4)' : 'rgba(239,68,68,0.4)');
+  gradient.addColorStop(1, 'rgba(0,0,0,0)');
+
+  chart = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels,
+      datasets: [{
+        data,
+        borderColor: isPositive ? '#10b981' : '#ef4444',
+        backgroundColor: gradient,
+        borderWidth: 2,
+        pointRadius: data.length > 50 ? 0 : 3,
+        pointHoverRadius: 5,
+        fill: true,
+        tension: 0.3
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: { legend: { display: false }, tooltip: {
+        callbacks: { label: ctx => formatSOL(ctx.parsed.y) + ' SOL' }
+      }},
+      scales: {
+        x: { display: data.length <= 30, ticks: { color: '#64748b', font: { size: 10 } }, grid: { color: '#1a1a24' } },
+        y: { ticks: { color: '#64748b', font: { size: 10, family: 'JetBrains Mono' }, callback: v => v.toFixed(4) }, grid: { color: '#1a1a24' } }
+      }
+    }
+  });
+
+  // Trades list (last 30)
+  const recent = [...trades].reverse().slice(0, 30);
+  const listEl = document.getElementById('trades-list');
+  if (recent.length === 0) {
+    listEl.innerHTML = `<div class="empty-state">${tLang.noTradeMsg}</div>`;
+    return;
+  }
+  listEl.innerHTML = recent.map(t => {
+    const pnl = Number(t.profitSOL || t.profit || 0);
+    const r = (t.reason || 'UNKNOWN').toUpperCase();
+    const isSim = (t.status || '').includes('SIMULATION');
+    const rBadge = r.includes('STOP') || r.includes('SL') ? 'badge-sl' : (r.includes('PROFIT') || r.includes('TP') ? 'badge-tp' : '');
+    return `<div class="trade-item">
+      <span class="trade-token">${t.symbol || t.token || '?'}</span>
+      <span class="badge ${isSim ? 'badge-sim' : 'badge-live'}">${isSim ? 'SIM' : 'LIVE'}</span>
+      <span class="trade-reason"><span class="badge ${rBadge}">${r}</span></span>
+      <span class="trade-pnl" style="color:${pnl >= 0 ? '#10b981' : '#ef4444'}">${formatSOL(pnl)}</span>
+    </div>`;
+  }).join('');
+}
+
+// Init
+updateUI();
+setInterval(loadData, 90000);
+setTimeout(() => {
+  if (document.getElementById('repo-input').value.trim()) loadData();
+}, 500);
+</script>
+</body>
+</html>

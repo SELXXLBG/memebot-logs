@@ -1172,5 +1172,27 @@
     "buyTxid": "DRY_RUN_BUY_1778103728447",
     "sellTxid": "DRY_RUN_SELL_1778103780128",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778103780202"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-06T22:11:00.241Z",
+    "token": "2Y5B9gmNZSHoeQdC9aw9hCxAJthUJbzHmHzBajwepump",
+    "symbol": "UU",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00003457,
+    "exitPrice": 0.00003857,
+    "peakPrice": 0.00003857,
+    "profitSOL": 0.080995082,
+    "profitLamports": 80995082,
+    "pnlPct": 11.570726063060444,
+    "peakPnlPct": 0,
+    "reason": "TAKEPROFIT10P",
+    "buyTxid": "DRY_RUN_BUY_1778105168567",
+    "sellTxid": "DRY_RUN_SELL_1778105460151",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778105460232"
   }
 ]

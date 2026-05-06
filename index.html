@@ -427,6 +427,11 @@ const translations = {
     labelRecent: 'Derniers Trades',
     labelLossAnalysis: 'Analyse des Pertes',
     labelLossSub: 'Points communs',
+    labelAvgMcapLoss: 'MCap Moyenne (Pertes)',
+    labelAvgMcapWin: 'MCap Moyenne (Gains)',
+    labelAvgLiqLoss: 'Liquidité Moyenne (Pertes)',
+    diagLowCap: '💡 Diagnostic: Les pertes semblent liées à des Market Caps trop faibles.',
+    diagNormal: '💡 Diagnostic: Les pertes sont réparties normalement.',
     labelSur: 'sur',
     labelJours: 'jours',
     labelPoints: 'points',
@@ -457,7 +462,12 @@ const translations = {
     labelChart: 'Cumulative PnL Curve (SOL)',
     labelRecent: 'Recent Trades',
     labelLossAnalysis: 'Loss Analysis (Post-Mortem)',
-    labelLossSub: 'Common determinants of losses',
+    labelLossSub: 'Common determinants',
+    labelAvgMcapLoss: 'Avg MCap (Losses)',
+    labelAvgMcapWin: 'Avg MCap (Wins)',
+    labelAvgLiqLoss: 'Avg Liquidity (Losses)',
+    diagLowCap: '💡 Diagnosis: Losses seem linked to low Market Caps.',
+    diagNormal: '💡 Diagnosis: Losses are normally distributed.',
     labelSur: 'over',
     labelJours: 'days',
     labelPoints: 'points',
@@ -484,6 +494,8 @@ function updateUI() {
   document.getElementById('label-sltp-sub').textContent = t.labelSltpSub;
   document.getElementById('label-chart').textContent = t.labelChart;
   document.getElementById('label-recent').textContent = t.labelRecent;
+  document.getElementById('label-loss-analysis').textContent = t.labelLossAnalysis;
+  document.getElementById('label-loss-sub').textContent = t.labelLossSub;
   document.getElementById('repo-input').placeholder = t.placeholderRepo;
   document.getElementById('token-input').placeholder = t.placeholderToken;
   
@@ -680,11 +692,11 @@ function renderDashboard(trades, days) {
     
     document.getElementById('loss-card').style.display = 'block';
     lossEl.innerHTML = `
-      <div style="margin-bottom:0.5rem">MCap Moyenne (Pertes): <b>$${Math.round(avgMcapLoss/1000)}k</b></div>
-      <div style="margin-bottom:0.5rem">MCap Moyenne (Gains): <b>$${Math.round(avgMcapWin/1000)}k</b></div>
-      <div style="margin-bottom:0.5rem">Liquidité Moyenne (Pertes): <b>$${Math.round(avgLiqLoss/1000)}k</b></div>
+      <div style="margin-bottom:0.5rem">${tLang.labelAvgMcapLoss}: <b>$${Math.round(avgMcapLoss/1000)}k</b></div>
+      <div style="margin-bottom:0.5rem">${tLang.labelAvgMcapWin}: <b>$${Math.round(avgMcapWin/1000)}k</b></div>
+      <div style="margin-bottom:0.5rem">${tLang.labelAvgLiqLoss}: <b>$${Math.round(avgLiqLoss/1000)}k</b></div>
       <div style="color:#ef4444;font-style:italic;margin-top:0.8rem;font-size:0.75rem">
-        💡 Diagnostic: ${avgMcapLoss < avgMcapWin * 0.8 ? 'Pertes liées à des Market Caps trop faibles.' : 'Pertes réparties normalement.'}
+        ${avgMcapLoss < avgMcapWin * 0.8 ? tLang.diagLowCap : tLang.diagNormal}
       </div>
     `;
   } else if (document.getElementById('loss-card')) {

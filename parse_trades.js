@@ -59,9 +59,3 @@ for (const [date, trades] of Object.entries(tradesByDate)) {
   fs.writeFileSync(filePath, JSON.stringify(trades, null, 2), 'utf8');
   console.log(`✅ Written ${trades.length} trades → trades/${date}.json`);
 }
-
-// Print quick stats
-const all = Object.values(tradesByDate).flat();
-const wins = all.filter(t => t.profitSOL > 0).length;
-const totalPnl = all.reduce((s, t) => s + t.profitSOL, 0);
-console.log(`\n📊 Total: ${all.length} trades | Wins: ${wins} (${Math.round(wins/all.length*100)}%) | PnL: ${totalPnl.toFixed(4)} SOL`);

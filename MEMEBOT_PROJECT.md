@@ -20,7 +20,7 @@ Partnership project: investor provides capital, builder provides infrastructure 
 - **Data source**: Dexscreener API (Real-time token monitoring)
 - **Execution**: Jupiter API v6 (Swaps) + Solana web3.js (Signatures)
 - **Shared State**: Fichier physique `/tmp/memebot_position.json` pour synchroniser l'état entre les workflows.
-- **Security**: Configuration injectée directement dans les fichiers JSON (hardcoded) pour contourner les restrictions d'accès aux variables d'environnement de n8n sur ce VPS.
+- **Security**: Secrets sortis des exports JSON. Utiliser les variables d'environnement n8n/Docker (`GITHUB_TOKEN`) ou des credentials n8n.
 
 ### Wallet Setup
 - **Trading wallet**: `C39XubwzreN3NfV52WGsaPwB6AQCfqpsTAS5XemkzbMc` (Clés dérivées via script sécurisé sur VPS).
@@ -52,7 +52,7 @@ Partnership project: investor provides capital, builder provides infrastructure 
 ## Simulation & Testing (Dry Run)
 - **Mode Simulation** : Activé via la variable `DRY_RUN=true` dans le code.
 - **Fonctionnement** : Le bot détecte de vrais tokens, simule l'achat et la vente au prix du marché, et logue les résultats sur GitHub sans dépenser de SOL réels.
-- **Activation Réelle** : Passer `DRY_RUN=false` et `USE_MOCK_SCANNER=false` dans les configurations des workflows.
+- **Activation Réelle** : Ne pas passer live tant que la signature Solana, le broadcast RPC et la gestion des clés privées ne sont pas implémentés proprement.
 
 ---
 

@@ -1,0 +1,391 @@
+{
+  "name": "WF2 Trade Executor",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "memebot/trade-exec",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "86750582-7252-4fe7-bf92-ee69db7aea9c",
+      "name": "Webhook Trigger",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [
+        416,
+        -128
+      ],
+      "webhookId": "memebot-trade-exec"
+    },
+    {
+      "parameters": {
+        "jsCode": "const fs = require('fs');\nconst statePath = '/tmp/memebot_position.json';\nlet hasPosition = false;\ntry {\n  if (fs.existsSync(statePath)) {\n    const data = JSON.parse(fs.readFileSync(statePath, 'utf8'));\n    hasPosition = Boolean(data && data.tokenAddress);\n  }\n} catch (e) {}\n\nif (hasPosition) {\n  return [{ json: { canTrade: false, reason: 'OPEN_POSITION_EXISTS' } }];\n}\nreturn [{ json: { ...$json, canTrade: true } }];"
+      },
+      "id": "0c925751-4fea-454b-ba59-11318bd9cbb1",
+      "name": "Check Open Position",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        656,
+        -128
+      ]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "b2dc5b5e-10c5-4a5d-8e30-7d638221305a",
+              "leftValue": "={{$json.canTrade === true || $json.canTrade === \"true\"}}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "true",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "d29666d6-15f1-407f-b88e-6ad5c35dac37",
+      "name": "Can Trade?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [
+        896,
+        -128
+      ]
+    },
+    {
+      "parameters": {
+        "url": "https://api.jup.ag/swap/v1/quote",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "inputMint",
+              "value": "So11111111111111111111111111111111111111112"
+            },
+            {
+              "name": "outputMint",
+              "value": "={{$json.body.tokenAddress || $json.tokenAddress}}"
+            },
+            {
+              "name": "amount",
+              "value": "500000000"
+            },
+            {
+              "name": "slippageBps",
+              "value": "100"
+            }
+          ]
+        },
+        "options": {
+          "timeout": 12000
+        }
+      },
+      "id": "2ecb21a1-5177-4cce-b3f8-1dbabf1c89ad",
+      "name": "Jupiter Quote",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1136,
+        -208
+      ],
+      "continueOnFail": true
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "15ce55eb-9f3c-4edb-9309-19d19814179f",
+              "leftValue": "={{Number($json.outAmount || $json.body?.outAmount || 0) > 0}}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "true",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "e4be5ba6-5b49-4680-b45e-7625690b1f92",
+      "name": "Quote Status 200?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [
+        1360,
+        -208
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.jup.ag/swap/v1/swap",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"quoteResponse\": {{$json.body || $json}},\n  \"userPublicKey\": \"{{'C39XubwzreN3NfV52WGsaPwB6AQCfqpsTAS5XemkzbMc'}}\",\n  \"wrapAndUnwrapSol\": true\n}",
+        "options": {
+          "timeout": 12000
+        }
+      },
+      "id": "81957a85-5fc9-41dc-b2b6-899c88496d67",
+      "name": "Jupiter Swap TX",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1584,
+        -256
+      ],
+      "continueOnFail": true
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "54ce81ed-e4fd-47a1-af06-606ecd51140c",
+              "leftValue": "={{Number($json.statusCode || 200) === 200}}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "true",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "3ccbd6e1-f73f-4ba3-bfaf-88ff4fd49fbf",
+      "name": "Swap Status 200?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [
+        1808,
+        -256
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "const isDryRun = true;\nconst quoteNode = $item(0).$node['Jupiter Quote'].json;\nconst quote = quoteNode.body || quoteNode;\nconst candidate = $item(0).$node['Check Open Position'].json;\nconst entryPrice = Number(candidate.body?.price ?? candidate.price ?? 0);\nconst solAmountLamports = Number(quote.inAmount || 500000000);\nconst tokenAmountRaw = String(quote.outAmount || '0');\n\nif (!candidate.body?.tokenAddress && !candidate.tokenAddress) {\n  throw new Error('Missing tokenAddress from scanner payload');\n}\nif (!(entryPrice > 0)) {\n  throw new Error('Missing positive scanner entry price');\n}\nif (!(Number(tokenAmountRaw) > 0)) {\n  throw new Error('Jupiter quote returned empty outAmount');\n}\n\nif (isDryRun) {\n  return [{\n    json: {\n      tokenAddress: candidate.body?.tokenAddress || candidate.tokenAddress,\n      symbol: candidate.body?.symbol || candidate.symbol || 'UNKNOWN',\n      marketCap: Number(candidate.body?.marketCap ?? candidate.marketCap ?? 0),\n      liquidity: Number(candidate.body?.liquidity ?? candidate.liquidity ?? 0),\n      entryPrice,\n      entryTime: Date.now(),\n      solAmountLamports,\n      tokenAmountRaw,\n      txid: 'DRY_RUN_BUY_' + Date.now(),\n      isDryRun: true\n    }\n  }];\n}\n\nthrow new Error('LIVE_TRADING_NOT_IMPLEMENTED: add signing, RPC broadcast, and secret management before disabling dry run');"
+      },
+      "id": "f3a55e01-0a7f-4769-bc54-db071eccf1de",
+      "name": "Sign & Broadcast Buy",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        2016,
+        -304
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "const fs = require('fs');\nconst statePath = '/tmp/memebot_position.json';\nconst position = {\n  tokenAddress: $json.tokenAddress,\n  symbol: $json.symbol,\n  entryPrice: Number($json.entryPrice),\n  entryTime: Number($json.entryTime),\n  solAmountLamports: Number($json.solAmountLamports),\n  tokenAmountRaw: String($json.tokenAmountRaw),\n  txid: $json.txid,\n  isDryRun: Boolean($json.isDryRun)\n};\n\nif (!position.tokenAddress || !(position.entryPrice > 0) || !(Number(position.tokenAmountRaw) > 0)) {\n  throw new Error('Refusing to store incomplete position state');\n}\n\nfs.writeFileSync(statePath, JSON.stringify(position, null, 2));\nreturn [{ json: { ok: true, message: 'POSITION_OPENED', position } }];"
+      },
+      "id": "7ed4d424-1911-4ca1-b865-5f28543c9f76",
+      "name": "Store Open Position",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        2224,
+        -304
+      ]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{$json}}",
+        "options": {}
+      },
+      "id": "9b88640f-4fe3-413b-bdb3-0863b65e55b7",
+      "name": "Respond Success",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.1,
+      "position": [
+        2448,
+        -304
+      ]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ { ok: false, reason: $json.reason || 'TRADE_SKIPPED' } }}",
+        "options": {
+          "responseCode": 200
+        }
+      },
+      "id": "8c9c580f-ad8a-4b81-98de-bbad2d2035f2",
+      "name": "Respond Skipped",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.1,
+      "position": [
+        1136,
+        16
+      ]
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Webhook Trigger": {
+      "main": [
+        [
+          {
+            "node": "Check Open Position",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Check Open Position": {
+      "main": [
+        [
+          {
+            "node": "Can Trade?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Can Trade?": {
+      "main": [
+        [
+          {
+            "node": "Jupiter Quote",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Respond Skipped",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Jupiter Quote": {
+      "main": [
+        [
+          {
+            "node": "Quote Status 200?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Quote Status 200?": {
+      "main": [
+        [
+          {
+            "node": "Jupiter Swap TX",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Respond Skipped",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Jupiter Swap TX": {
+      "main": [
+        [
+          {
+            "node": "Swap Status 200?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Swap Status 200?": {
+      "main": [
+        [
+          {
+            "node": "Sign & Broadcast Buy",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Respond Skipped",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Sign & Broadcast Buy": {
+      "main": [
+        [
+          {
+            "node": "Store Open Position",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Store Open Position": {
+      "main": [
+        [
+          {
+            "node": "Respond Success",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "timeSavedMode": "fixed",
+    "callerPolicy": "workflowsFromSameOwner",
+    "availableInMCP": true
+  },
+  "versionId": "7de1baf2-7b9b-41b6-8182-9efa477162d0",
+  "meta": {
+    "instanceId": "af0cf43e3f9e603b399bdeace168c60a3d389a1bf234ffd6d52093e577978cf4"
+  },
+  "id": "3e3GxJvFXYNQvcvV",
+  "tags": []
+}

@@ -1,0 +1,548 @@
+{
+  "name": "WF3 Price Monitor & Exit",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "seconds"
+            }
+          ]
+        }
+      },
+      "id": "9ddf2314-5071-4372-ade8-edc6a4350e40",
+      "name": "Schedule Every 30s",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        12976,
+        7536
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "const fs = require('fs');\nconst statePath = '/tmp/memebot_position.json';\nlet position = null;\ntry {\n  if (fs.existsSync(statePath)) {\n    position = JSON.parse(fs.readFileSync(statePath, 'utf8'));\n  }\n} catch (e) {}\n\nif (!position || !position.tokenAddress) {\n  return [{ json: { hasPosition: false } }];\n}\nreturn [{ json: { hasPosition: true, ...position } }];"
+      },
+      "id": "4e7f9081-a363-4b5f-870d-e815566ffd6c",
+      "name": "Load Open Position",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        13216,
+        7536
+      ]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "11613133-0f70-4693-b605-2306a596c266",
+              "leftValue": "={{$json.hasPosition === true || $json.hasPosition === \"true\"}}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "true",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "d8ae962e-3cac-4939-9001-8e6ff5fc8b04",
+      "name": "Has Open Position?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [
+        13456,
+        7536
+      ]
+    },
+    {
+      "parameters": {
+        "url": "={{'https://api.dexscreener.com/latest/dex/tokens/' + $json.tokenAddress}}",
+        "options": {
+          "timeout": 10000
+        }
+      },
+      "id": "7d24ed3f-9cd5-4a36-b74d-a332433a42a5",
+      "name": "Fetch Current Price",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        13696,
+        7456
+      ],
+      "continueOnFail": true
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "fb313123-4caf-47a9-a462-851bcba205cc",
+              "leftValue": "={{Number($json.statusCode || 200) === 200}}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "true",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "8c9eb4d0-d2b7-42b3-9861-64c7e8a64b96",
+      "name": "Price Status 200?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [
+        13888,
+        7456
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "const root = $json.body || $json;\nconst pairs = Array.isArray(root.pairs) ? root.pairs : [];\nconst position = $item(0).$node['Load Open Position'].json;\nconst pair = pairs\n  .filter(p => String(p.chainId || '').toLowerCase() === 'solana')\n  .sort((a, b) => Number(b.liquidity?.usd || 0) - Number(a.liquidity?.usd || 0))[0] || null;\n\nif (!pair) {\n  return [{ json: { ...position, shouldExit: 0, reason: 'NO_PRICE_DATA' } }];\n}\n\nconst entryPrice = Number(position.entryPrice || 0);\nconst currentPrice = Number(pair.priceUsd || 0);\nconst now = Date.now();\nconst maxHoldMs = 12 * 60 * 60 * 1000;\nconst elapsed = now - Number(position.entryTime || now);\n\nif (!(entryPrice > 0) || !(currentPrice > 0)) {\n  return [{ json: { ...position, entryPrice, exitPrice: currentPrice, shouldExit: 0, reason: 'INVALID_PRICE_DATA' } }];\n}\n\nlet shouldExit = 0;\nlet reason = 'HOLD';\n\nif (currentPrice >= entryPrice * 1.10) {\n  shouldExit = 1;\n  reason = 'TAKE_PROFIT_10P';\n} else if (currentPrice <= entryPrice * 0.85) {\n  shouldExit = 1;\n  reason = 'STOP_LOSS_15P';\n} else if (elapsed > maxHoldMs) {\n  shouldExit = 1;\n  reason = 'FORCE_EXIT_12H';\n}\n\nconst pnlPct = ((currentPrice - entryPrice) / entryPrice) * 100;\nconst solAmountLamports = Number(position.solAmountLamports || position.amount || 0);\nconst profitLamports = Math.floor(solAmountLamports * (pnlPct / 100));\n\nreturn [{\n  json: {\n    ...position,\n    entryPrice,\n    exitPrice: currentPrice,\n    profitLamports,\n    profit: profitLamports / 1e9,\n    pnlPct,\n    reason,\n    shouldExit\n  }\n}];"
+      },
+      "id": "43d1985e-0401-4222-b599-7443d82e5ab3",
+      "name": "Evaluate Exit Rules",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        14128,
+        7376
+      ]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "4fee8d24-2ca8-4b5f-997c-f1f91a0f5cf9",
+              "leftValue": "={{Number($json.shouldExit || 0) === 1}}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "true",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "38df68c7-2dcd-4bca-a6cf-4453745573a4",
+      "name": "Should Exit?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [
+        14304,
+        7376
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://n8n.morganjaouen.fr/webhook/memebot/profit-sweep",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{$json}}",
+        "options": {
+          "timeout": 12000
+        }
+      },
+      "id": "d658ff6e-e5ee-4f7e-ad7e-18aab03594db",
+      "name": "Call WF4 Webhook",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        15472,
+        7168
+      ],
+      "continueOnFail": true
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "2f658161-1715-46f2-af1b-5e8cfe879ae1",
+              "leftValue": "={{Number($json.statusCode || 200) === 200}}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "true",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "00a449eb-f283-4065-8c36-707f642d4126",
+      "name": "WF4 Status 200?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [
+        15680,
+        7168
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "const fs = require('fs');\nconst statePath = '/tmp/memebot_position.json';\ntry {\n  if (fs.existsSync(statePath)) fs.unlinkSync(statePath);\n} catch (e) {}\nreturn [{ json: { ok: true, message: 'POSITION_CLEARED_AFTER_EXIT' } }];"
+      },
+      "id": "5a90adf5-d23e-4896-904e-07b5f604ac10",
+      "name": "Clear Open Position",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        15904,
+        7056
+      ]
+    },
+    {
+      "parameters": {
+        "url": "https://api.jup.ag/swap/v1/quote",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "inputMint",
+              "value": "={{$json.tokenAddress}}"
+            },
+            {
+              "name": "outputMint",
+              "value": "So11111111111111111111111111111111111111112"
+            },
+            {
+              "name": "amount",
+              "value": "={{$json.tokenAmountRaw}}"
+            },
+            {
+              "name": "slippageBps",
+              "value": "200"
+            }
+          ]
+        },
+        "options": {
+          "timeout": 12000
+        }
+      },
+      "id": "e58b963e-f7a2-4e72-becf-47c0d10fadab",
+      "name": "Jupiter Quote Sell",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        14496,
+        7264
+      ],
+      "continueOnFail": true
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "d2b787ba-e208-4b5c-b90e-79da98b09ddd",
+              "leftValue": "={{Number($json.outAmount || $json.body?.outAmount || 0) > 0}}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "true",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "3192fd40-fef7-4209-9b68-5d84dba98116",
+      "name": "Quote Sell OK?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [
+        14672,
+        7264
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.jup.ag/swap/v1/swap",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"quoteResponse\": {{$json.body || $json}},\n  \"userPublicKey\": \"{{'C39XubwzreN3NfV52WGsaPwB6AQCfqpsTAS5XemkzbMc'}}\",\n  \"wrapAndUnwrapSol\": true\n}",
+        "options": {
+          "timeout": 12000
+        }
+      },
+      "id": "0983cf1b-6c35-4c6e-abda-e828ca4195cd",
+      "name": "Jupiter Swap Sell TX",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        14880,
+        7248
+      ],
+      "continueOnFail": true
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "da5f9b5c-d33b-4845-858c-5b7729202f95",
+              "leftValue": "={{Number($json.statusCode || 200) === 200}}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "true",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "8fa9d4bb-0682-4083-ac69-b0afa8689b07",
+      "name": "Swap Sell OK?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [
+        15056,
+        7248
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "const exit = $item(0).$node['Evaluate Exit Rules'].json;\nconst quoteNode = $item(0).$node['Jupiter Quote Sell'].json;\nconst quote = quoteNode.body || quoteNode || {};\nconst outLamports = Number(quote.outAmount || 0);\nconst inLamports = Number(exit.solAmountLamports || exit.amount || 0);\n\n// In dry-run, always use the price-based PnL from Evaluate Exit Rules.\n// The Jupiter quote can differ from the Dexscreener price due to slippage\n// or timing, which would flip the sign and corrupt the trade log.\n// (e.g. a TAKE_PROFIT trade showing a negative PnL)\nconst priceBasedProfitLamports = Number(exit.profitLamports || 0);\n\n// For live mode: use real on-chain amounts (outLamports - inLamports).\n// For dry-run: use the price-based estimate which matches the exit reason.\nconst profitLamports = priceBasedProfitLamports;\n\nreturn [{\n  json: {\n    ...exit,\n    sellTxid: 'DRY_RUN_SELL_' + Date.now(),\n    profitLamports,\n    profit: profitLamports / 1e9,\n    isDryRun: true\n  }\n}];"
+      },
+      "id": "5b0627eb-f6e4-4a1b-ab18-d1949204adbe",
+      "name": "Sign Broadcast Sell",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        15264,
+        7168
+      ]
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Schedule Every 30s": {
+      "main": [
+        [
+          {
+            "node": "Load Open Position",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Load Open Position": {
+      "main": [
+        [
+          {
+            "node": "Has Open Position?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Has Open Position?": {
+      "main": [
+        [
+          {
+            "node": "Fetch Current Price",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Fetch Current Price": {
+      "main": [
+        [
+          {
+            "node": "Price Status 200?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Price Status 200?": {
+      "main": [
+        [
+          {
+            "node": "Evaluate Exit Rules",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Evaluate Exit Rules": {
+      "main": [
+        [
+          {
+            "node": "Should Exit?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Should Exit?": {
+      "main": [
+        [
+          {
+            "node": "Jupiter Quote Sell",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Call WF4 Webhook": {
+      "main": [
+        [
+          {
+            "node": "WF4 Status 200?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "WF4 Status 200?": {
+      "main": [
+        [
+          {
+            "node": "Clear Open Position",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Jupiter Quote Sell": {
+      "main": [
+        [
+          {
+            "node": "Quote Sell OK?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Quote Sell OK?": {
+      "main": [
+        [
+          {
+            "node": "Jupiter Swap Sell TX",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Jupiter Swap Sell TX": {
+      "main": [
+        [
+          {
+            "node": "Swap Sell OK?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Swap Sell OK?": {
+      "main": [
+        [
+          {
+            "node": "Sign Broadcast Sell",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Sign Broadcast Sell": {
+      "main": [
+        [
+          {
+            "node": "Call WF4 Webhook",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "timeSavedMode": "fixed",
+    "callerPolicy": "workflowsFromSameOwner",
+    "availableInMCP": true
+  },
+  "versionId": "ddbc9cb4-ca8e-447b-b6b9-9b9819c9d8b7",
+  "meta": {
+    "instanceId": "af0cf43e3f9e603b399bdeace168c60a3d389a1bf234ffd6d52093e577978cf4"
+  },
+  "id": "0FKNMmbJ2fDmq18F",
+  "tags": []
+}

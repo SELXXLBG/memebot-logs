@@ -1,0 +1,392 @@
+{
+  "name": "WF1 Token Scanner",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "minutes",
+              "minutesInterval": 2
+            }
+          ]
+        }
+      },
+      "id": "5e425e08-5bd1-461e-b02c-874dda24dd4b",
+      "name": "Schedule Every 2m",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        11520,
+        3504
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "const useMock = false;\nreturn [{ json: { useMock } }];"
+      },
+      "id": "0a7be192-af80-48bd-a627-e7f1355ff358",
+      "name": "Set Scan Mode",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        11760,
+        3504
+      ]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "5c020ac6-c2ec-4fc8-9b47-db4a89012163",
+              "leftValue": "={{$json.useMock === true || $json.useMock === \"true\"}}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "true",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "b8401ae8-f640-489a-b9ca-c189e130118d",
+      "name": "Use Mock Data?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [
+        12000,
+        3504
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "let tokens;\ntry {\n  tokens = JSON.parse((process.env.MOCK_SCANNER_JSON) ?? '[]');\n} catch (e) {\n  tokens = [];\n}\nif (!Array.isArray(tokens) || tokens.length === 0) {\n  const now = Date.now();\n  tokens = [\n    {\n      tokenAddress: 'DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263',\n      symbol: 'BONK',\n      marketCap: 50000,\n      liquidity: 20000,\n      price: 1,\n      pairCreatedAt: now - 10 * 60 * 1000\n    }\n  ];\n}\nreturn tokens.map(t => ({ json: t }));"
+      },
+      "id": "9305ed21-2ea4-4236-b674-94a5b524cfac",
+      "name": "Mock Token Feed",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        12240,
+        3392
+      ]
+    },
+    {
+      "parameters": {
+        "url": "https://api.dexscreener.com/token-boosts/latest/v1",
+        "options": {
+          "timeout": 10000
+        }
+      },
+      "id": "16480a93-fc53-494c-986f-88be85284446",
+      "name": "Dexscreener Tokens",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        12240,
+        3584
+      ],
+      "continueOnFail": true
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "01eaad7e-6cdd-4649-bec9-65ebb72b2cde",
+              "leftValue": "={{Number($json.statusCode || 200) === 200}}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "true",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "c6b664f8-8713-4f8f-8e79-d8d98dc5b0cb",
+      "name": "Dex Status 200?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [
+        12464,
+        3584
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "const inputItems = $input.all();\nconst seen = new Set();\nconst results = [];\n\nfor (const item of inputItems) {\n  const data = item.json.body ?? item.json;\n  const rows = Array.isArray(data) ? data : (data?.tokenAddress ? [data] : (Array.isArray(data.tokens) ? data.tokens : []));\n\n  for (const token of rows) {\n    if (String(token.chainId || '').toLowerCase() !== 'solana' || !token.tokenAddress) continue;\n    if (seen.has(token.tokenAddress)) continue;\n    seen.add(token.tokenAddress);\n    results.push({ json: { tokenAddress: token.tokenAddress, source: 'dexscreener-token-boosts' } });\n  }\n}\n\nreturn results.slice(0, 30);"
+      },
+      "id": "4c6988e9-62cf-4bc9-a5fc-480da2839cfe",
+      "name": "Extract Tokens",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        12688,
+        3568
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "const now = Date.now();\nconst twentyFourHoursAgo = now - 24 * 60 * 60 * 1000;\n\nreturn $input.all()\n  .map(item => item.json)\n  .filter(token => {\n    const marketCap = Number(token.marketCap || 0);\n    const liquidity = Number(token.liquidity || 0);\n    const price = Number(token.price || 0);\n    const pairCreatedAt = Number(token.pairCreatedAt || 0);\n    const ageOk = pairCreatedAt > 0 && pairCreatedAt >= twentyFourHoursAgo;\n\n    return marketCap >= 10000\n      && marketCap <= 500000\n      && liquidity >= 5000\n      && price > 0\n      && ageOk\n      && Boolean(token.tokenAddress);\n  })\n  .map(token => ({\n    json: {\n      tokenAddress: token.tokenAddress,\n      symbol: token.symbol || 'UNKNOWN',\n      marketCap: Number(token.marketCap),\n      liquidity: Number(token.liquidity),\n      price: Number(token.price),\n      pairCreatedAt: Number(token.pairCreatedAt)\n    }\n  }));"
+      },
+      "id": "d0c02876-c23e-4b81-a429-91ce6dbfb83a",
+      "name": "Filter Candidates",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        12464,
+        3392
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://n8n.morganjaouen.fr/webhook/memebot/trade-exec",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{$json}}",
+        "options": {
+          "timeout": 10000
+        }
+      },
+      "id": "d30bd0ac-b6ef-458c-a27c-a3c4df9f99ca",
+      "name": "Call WF2 Webhook",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        12688,
+        3392
+      ],
+      "continueOnFail": true
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "26d878e8-afe5-4cd4-907c-90fd5adbb437",
+              "leftValue": "={{Number($json.statusCode || 200) === 200}}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "true",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "c663b64b-800f-46f6-bb9f-6e09b535ecdc",
+      "name": "WF2 Status 200?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [
+        12912,
+        3392
+      ]
+    },
+    {
+      "parameters": {
+        "url": "={{'https://api.dexscreener.com/token-pairs/v1/solana/' + $json.tokenAddress}}",
+        "options": {
+          "timeout": 10000
+        }
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        12880,
+        3568
+      ],
+      "id": "72a02161-93e5-449a-8d27-296129adcb60",
+      "name": "Fetch Token Details",
+      "continueOnFail": true
+    },
+    {
+      "parameters": {
+        "jsCode": "const root = $json.body ?? $json;\nlet pairs = [];\nif (Array.isArray(root)) {\n  pairs = root;\n} else if (Array.isArray(root.pairs)) {\n  pairs = root.pairs;\n} else if (root.chainId) {\n  pairs = [root];\n}\n\nconst solanaPairs = pairs.filter(p => String(p.chainId || '').toLowerCase() === 'solana');\nif (solanaPairs.length === 0) return [];\n\nconst pair = solanaPairs.sort((a, b) => Number(b.liquidity?.usd || 0) - Number(a.liquidity?.usd || 0))[0];\n\nreturn [{\n  json: {\n    tokenAddress: pair.baseToken?.address || $item(0).$node['Extract Tokens'].json.tokenAddress,\n    symbol: pair.baseToken?.symbol || 'UNKNOWN',\n    marketCap: Number(pair.marketCap || pair.fdv || 0),\n    liquidity: Number(pair.liquidity?.usd || 0),\n    price: Number(pair.priceUsd || 0),\n    pairCreatedAt: Number(pair.pairCreatedAt || 0),\n    pairAddress: pair.pairAddress || '',\n    dexId: pair.dexId || ''\n  }\n}];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        13040,
+        3568
+      ],
+      "id": "ca0bea1d-d806-425f-b775-27657ad1fab0",
+      "name": "Normalize Token Details"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Schedule Every 2m": {
+      "main": [
+        [
+          {
+            "node": "Set Scan Mode",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Set Scan Mode": {
+      "main": [
+        [
+          {
+            "node": "Use Mock Data?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Use Mock Data?": {
+      "main": [
+        [
+          {
+            "node": "Mock Token Feed",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Dexscreener Tokens",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Dexscreener Tokens": {
+      "main": [
+        [
+          {
+            "node": "Dex Status 200?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Dex Status 200?": {
+      "main": [
+        [
+          {
+            "node": "Extract Tokens",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Mock Token Feed": {
+      "main": [
+        [
+          {
+            "node": "Filter Candidates",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Extract Tokens": {
+      "main": [
+        [
+          {
+            "node": "Fetch Token Details",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Filter Candidates": {
+      "main": [
+        [
+          {
+            "node": "Call WF2 Webhook",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Call WF2 Webhook": {
+      "main": [
+        [
+          {
+            "node": "WF2 Status 200?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Fetch Token Details": {
+      "main": [
+        [
+          {
+            "node": "Normalize Token Details",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Normalize Token Details": {
+      "main": [
+        [
+          {
+            "node": "Filter Candidates",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "timeSavedMode": "fixed",
+    "callerPolicy": "workflowsFromSameOwner",
+    "availableInMCP": true
+  },
+  "versionId": "dc0e5eb4-f6bf-4118-9851-e7169324104a",
+  "meta": {
+    "instanceId": "af0cf43e3f9e603b399bdeace168c60a3d389a1bf234ffd6d52093e577978cf4"
+  },
+  "id": "rzoh9I3eHXsImrbC",
+  "tags": []
+}

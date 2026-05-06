@@ -377,6 +377,11 @@
 </div>
 
 <div class="main-grid">
+  <div class="card" id="loss-card" style="display:none">
+    <div class="card-title" id="label-loss-analysis">Analyse des Pertes</div>
+    <div style="font-size:0.75rem;color:var(--muted);margin-bottom:0.8rem" id="label-loss-sub">Points communs</div>
+    <div id="loss-analysis-content" style="font-size:0.85rem"></div>
+  </div>
   <div class="card">
     <div class="card-title">
       <span id="label-chart">Courbe PnL cumulée (SOL)</span>
@@ -420,6 +425,8 @@ const translations = {
     labelSltpSub: 'SL vs TP déclenchés',
     labelChart: 'Courbe PnL cumulée (SOL)',
     labelRecent: 'Derniers Trades',
+    labelLossAnalysis: 'Analyse des Pertes',
+    labelLossSub: 'Points communs',
     labelSur: 'sur',
     labelJours: 'jours',
     labelPoints: 'points',
@@ -449,6 +456,8 @@ const translations = {
     labelSltpSub: 'SL vs TP triggered',
     labelChart: 'Cumulative PnL Curve (SOL)',
     labelRecent: 'Recent Trades',
+    labelLossAnalysis: 'Loss Analysis (Post-Mortem)',
+    labelLossSub: 'Common determinants of losses',
     labelSur: 'over',
     labelJours: 'days',
     labelPoints: 'points',
@@ -658,6 +667,29 @@ function renderDashboard(trades, days) {
       }
     }
   });
+
+  // Loss Analysis (Post-Mortem)
+  const lostTrades = trades.filter(t => Number(t.profitSOL || t.profit || 0) < 0);
+  const winTrades = trades.filter(t => Number(t.profitSOL || t.profit || 0) > 0);
+  
+  const lossEl = document.getElementById('loss-analysis-content');
+  if (lostTrades.length >= 2 && lossEl) {
+    const avgMcapLoss = lostTrades.reduce((acc, t) => acc + Number(t.marketCap || 0), 0) / lostTrades.length;
+    const avgLiqLoss = lostTrades.reduce((acc, t) => acc + Number(t.liquidity || 0), 0) / lostTrades.length;
+    const avgMcapWin = winTrades.length > 0 ? winTrades.reduce((acc, t) => acc + Number(t.marketCap || 0), 0) / winTrades.length : 0;
+    
+    document.getElementById('loss-card').style.display = 'block';
+    lossEl.innerHTML = `
+      <div style="margin-bottom:0.5rem">MCap Moyenne (Pertes): <b>$${Math.round(avgMcapLoss/1000)}k</b></div>
+      <div style="margin-bottom:0.5rem">MCap Moyenne (Gains): <b>$${Math.round(avgMcapWin/1000)}k</b></div>
+      <div style="margin-bottom:0.5rem">Liquidité Moyenne (Pertes): <b>$${Math.round(avgLiqLoss/1000)}k</b></div>
+      <div style="color:#ef4444;font-style:italic;margin-top:0.8rem;font-size:0.75rem">
+        💡 Diagnostic: ${avgMcapLoss < avgMcapWin * 0.8 ? 'Pertes liées à des Market Caps trop faibles.' : 'Pertes réparties normalement.'}
+      </div>
+    `;
+  } else if (document.getElementById('loss-card')) {
+    document.getElementById('loss-card').style.display = 'none';
+  }
 
   // Trades list (last 30)
   const recent = [...trades].reverse().slice(0, 30);

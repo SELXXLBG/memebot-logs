@@ -1,0 +1,147 @@
+[22:48, 30/04/2026] 🐤: Hey
+[22:48, 30/04/2026] 🐤: Whats good
+[22:48, 30/04/2026] 🐤: How you
+[22:48, 30/04/2026] 🐤: Need you for smth
+[22:52, 30/04/2026] selyan: Hi !
+[22:53, 30/04/2026] selyan: Tell me what you need
+[22:53, 30/04/2026] 🐤: Do you think you can use automation to trade meme coins
+[22:55, 30/04/2026] selyan: Yes everything is possible with n8n
+[22:56, 30/04/2026] 🐤: Okok, what you got going atm?
+[22:56, 30/04/2026] 🐤: Busy with anything?
+[22:57, 30/04/2026] selyan: Not really I finished the dropshipping system and I lauchend the ads I just had to wait
+[22:58, 30/04/2026] 🐤: Not really I finished the dropshipping system and I lauchend the ads I just had to wait
+Okok sorry I couldn't help much. Been so busy
+[22:58, 30/04/2026] 🐤: But if you wanna. I've got smth we could work on
+[22:59, 30/04/2026] selyan: Yes tell me what you have in mind
+[22:59, 30/04/2026] 🐤: You know about meme coins?
+[23:00, 30/04/2026] 🐤: It full of rugs and only a few ppl can actually make money from it
+[23:00, 30/04/2026] 🐤: Hundreds and thousands of coins are being launched daily
+[23:01, 30/04/2026] 🐤: And 90% get rugged within 5 to 12 hours
+[23:02, 30/04/2026] selyan: A yes it's trading scalping
+[23:02, 30/04/2026] 🐤: But they do reach a particular level before getting rugged, and ppl largely lose money because they hold the bag hoping for an increase
+[23:03, 30/04/2026] 🐤: But I want to create a system with discipline and instead of waiting and hoping to get rugged we enter, and exits after gaining 10%
+[23:05, 30/04/2026] 🐤: So in theory $100 as principal capital we go in and exit around $115
+[23:05, 30/04/2026] selyan: Here's what I can build in practice:
+An n8n workflow that monitors new tokens in real time (via Dexscreener API or Pump.fun), filters them according to security criteria (minimum liquidity, contract age, volume), and triggers an automatic purchase. Then, a trailing take-profit order at +10% with a stop-loss for a clean exit without waiting.
+The bot runs 24/7 on my VPS, with no manual intervention. The discipline is coded into the system; you don't have to decide.
+What we need to define together: the capital per trade, the network (Solana? ETH?), and the exact entry criteria.
+[23:05, 30/04/2026] 🐤: So in theory $100 as principal capital we go in and exit around $115
+So with that done 20 to 50 times a day
+[23:06, 30/04/2026] 🐤: So with that done 20 to 50 times a day
+So a minimum of 1 to 5 minutes hold each time
+[23:07, 30/04/2026] 🐤: Here's what I can build in practice:
+An n8n workflow that monitors new tokens in real time (via Dexscreener API or Pump.fun), filters them according to security criteria (minimum liquidity, contract age, volume), and triggers an automatic purchase. Then, a trailing take-profit order at +10% with a stop-loss for a clean exit without waiting.
+The bot runs 24/7 on my VPS, with no manual intervention. The discipline is coded into the system; you don't have to decide.
+What we need to define together: the capital per trade, the network (Solana? ETH?), and the exact entry criteria.
+Okay so this is possible
+[23:09, 30/04/2026] 🐤: How would you want to get started
+[23:09, 30/04/2026] 🐤: I can provided the funding and extras needed
+[23:09, 30/04/2026] 🐤: Should I create a n8n account so its easier
+[23:10, 30/04/2026] 🐤: Technically, yes, it's possible, but 20-50 trades per day isn't realistic with N8n. N8n isn't HFT; there's latency.
+
+Realistically, we're talking about 3 to 10 opportunities per day, depending on the filters you apply. And every $100 trade on the same coins exposes you to slippage and gas fees, so your theoretical $15 gain is often less in practice.
+
+The basic idea is sound: enter early, exit at +10%, no emotions. But don't get carried away with crazy numbers before you've even tested it. Build your portfolio, test with a small amount of capital, see the real results, and then scale up.
+Yes the 15% is to account for slippage the original goal is 10% so $10
+[23:11, 30/04/2026] 🐤: So we're allowing slippage to be accounted for with the 15$
+[23:11, 30/04/2026] 🐤: Technically, yes, it's possible, but 20-50 trades per day isn't realistic with N8n. N8n isn't HFT; there's latency.
+
+Realistically, we're talking about 3 to 10 opportunities per day, depending on the filters you apply. And every $100 trade on the same coins exposes you to slippage and gas fees, so your theoretical $15 gain is often less in practice.
+
+The basic idea is sound: enter early, exit at +10%, no emotions. But don't get carried away with crazy numbers before you've even tested it. Build your portfolio, test with a small amount of capital, see the real results, and then scale up.
+That's the goal
+[23:13, 30/04/2026] selyan: Okay let's do it properly then.
+
+No need for a separate n8n account, I already have it running on my VPS 24/7.
+
+What I need from you to get started:
+- The network (Solana is best for meme coins, fastest + cheapest fees)
+- A wallet we'll use for the bot with the starting capital loaded
+- Your exact entry criteria if you have any in mind (market cap range, min liquidity, etc.)
+
+I'll handle the workflow, the monitoring, and the auto exit at +10%. We test with a small amount first, see the real results, then we scale.
+[23:14, 30/04/2026] 🐤: Okay let's do it properly then.
+
+No need for a separate n8n account, I already have it running on my VPS 24/7.
+
+What I need from you to get started:
+The network (Solana is best for meme coins, fastest + cheapest fees)
+A wallet we'll use for the bot with the starting capital loaded
+Your exact entry criteria if you have any in mind (market cap range, min liquidity, etc.)
+
+I'll handle the workflow, the monitoring, and the auto exit at +10%. We test with a small amount first, see the real results, then we scale.
+Can I get added to the n8n account so I can keep track of how its going and been done
+[23:15, 30/04/2026] 🐤: I'd provide the necessary,  it's on Solana network
+[23:15, 30/04/2026] 🐤: And the entry criteria is usually determined by market cap from how I tested it in theory
+[23:24, 30/04/2026] selyan: I can't really add you to n8n directly since it's self-hosted on my VPS, but we can work around that.
+
+Best option: I set up a GitHub repo where I push the workflow files + logs. You'll be able to see everything in real time — what the bot detects, what it buys, what it exits at.
+
+For the market cap entry criteria, what range were you thinking? Like under $100k mcap? That's usually the sweet spot to catch early before the pump.
+[23:26, 30/04/2026] 🐤: I can't really add you to n8n directly since it's self-hosted on my VPS, but we can work around that.
+
+Best option: I set up a GitHub repo where I push the workflow files + logs. You'll be able to see everything in real time — what the bot detects, what it buys, what it exits at.
+
+For the market cap entry criteria, what range were you thinking? Like under $100k mcap? That's usually the sweet spot to catch early before the pump.
+Okay so I'd have to trust you on this with virtually everything
+[23:27, 30/04/2026] 🐤: I'm fine with that
+[23:27, 30/04/2026] 🐤: If you're fine with that
+[23:28, 30/04/2026] 🐤: If this can be successful we're looking at a great source of passive income for not just for me for us both
+[23:30, 30/04/2026] 🐤: So before we proceed I'd need your word, I'm willing to go 50/50, you manage it, I supply investment.
+[23:32, 30/04/2026] 🐤: And an NDA
+[23:32, 30/04/2026] 🐤: This would have to be a private project between us and should not be disclosed to anyone else
+[23:34, 30/04/2026] selyan: I'm in. 50/50 on profits, you supply the capital, I build and manage the system. That's a fair deal.
+
+But let's be honest about one thing before we start: this is crypto, specifically meme coins. The bot will be disciplined but there's always risk of a bad trade. If we lose on a position, that loss comes from your capital since you're the one investing. I won't owe you money if a trade goes wrong — that's the nature of the market.
+
+If you're good with that, I'm good. We keep it between us, no problem. NDA is fine too, keep it simple.
+
+Send me the market cap range you had in mind and we start building.
+[23:34, 30/04/2026] 🐤: I'm in. 50/50 on profits, you supply the capital, I build and manage the system. That's a fair deal.
+
+But let's be honest about one thing before we start: this is crypto, specifically meme coins. The bot will be disciplined but there's always risk of a bad trade. If we lose on a position, that loss comes from your capital since you're the one investing. I won't owe you money if a trade goes wrong — that's the nature of the market.
+
+If you're good with that, I'm good. We keep it between us, no problem. NDA is fine too, keep it simple.
+
+Send me the market cap range you had in mind and we start building.
+I'm fine, and I'm well aware of the risk
+[23:35, 30/04/2026] 🐤: Worst case, we lose the investment, 
+Best case we beat the matrix
+[23:36, 30/04/2026] 🐤: I'm fine with that, as long as you have our best interest in mind
+[23:40, 30/04/2026] 🐤: I'm in. 50/50 on profits, you supply the capital, I build and manage the system. That's a fair deal.
+
+But let's be honest about one thing before we start: this is crypto, specifically meme coins. The bot will be disciplined but there's always risk of a bad trade. If we lose on a position, that loss comes from your capital since you're the one investing. I won't owe you money if a trade goes wrong — that's the nature of the market.
+
+If you're good with that, I'm good. We keep it between us, no problem. NDA is fine too, keep it simple.
+
+Send me the market cap range you had in mind and we start building.
+It's usually preferable we get in and out under 100k MC to avoid the risk of rugs
+[23:43, 30/04/2026] 🐤: If we hit the coins between 30k and 100k market cap
+[23:44, 30/04/2026] 🐤: They are early coins and should be enough to hit 15% before exits
+[23:44, 30/04/2026] 🐤: Let me know what else you need
+[00:48, 01/05/2026] selyan: Perfect. 30k–100k mcap, exit at +10% (targeting +15% to cover slippage and fees). That's clean and workable.
+Last things I need:
+1. The wallet address we'll use for the bot (or create a fresh one just for this)
+2. Minimum liquidity you want to see before entering — I'd suggest at least $10k so we can exit without moving the price too much
+Once I have that I'll start building the workflow this week.
+[00:51, 01/05/2026] 🐤: Perfect. 30k–100k mcap, exit at +10% (targeting +15% to cover slippage and fees). That's clean and workable.
+Last things I need:
+The wallet address we'll use for the bot (or create a fresh one just for this)
+Minimum liquidity you want to see before entering — I'd suggest at least $10k so we can exit without moving the price too much
+Once I have that I'll start building the workflow this week.
+Okay
+[00:51, 01/05/2026] 🐤: I'd have thr funded wallet sent shortly
+[00:55, 01/05/2026] selyan: Ok perfect, tell me when you have everything
+[10:23, 01/05/2026] 🐤: Hey bro
+[10:29, 01/05/2026] 🐤: Symptom 
+Forest 
+East
+Occur 
+Brave 
+Surprise 
+Material 
+Will 
+Bracket
+Grunt 
+Slim
+Rice

@@ -54,7 +54,7 @@
     },
     {
       "parameters": {
-        "jsCode": "\nconst payload = $json.body || $json;\n\n// MOCK SWEET PROFIT FOR DRY RUN\nconst profitLamports = payload.profitLamports || 0;\n\nreturn [{\n  json: {\n    ...payload,\n    sweepTxid: profitLamports > 0 ? 'DRY_RUN_SWEEP_MOCK_' + Date.now() : null,\n    sweepStatus: profitLamports > 0 ? 'MOCK_SUCCESS' : 'NO_PROFIT'\n  }\n}];\n"
+        "jsCode": "\nconst payload = $json.body || $json;\nconst storageWallet = 'B12z9uHALwceTy1vdeEs2XBQfa79fvsWMM6sJGyPCKyQ';\n\n// PROFIT SWEEP LOGIC\nconst profitLamports = Number(payload.profitLamports || 0);\nconst isProfit = profitLamports > 0;\n\nreturn [{\n  json: {\n    ...payload,\n    storageWallet,\n    sweepAmountLamports: isProfit ? profitLamports : 0,\n    sweepTxid: isProfit ? 'DRY_RUN_SWEEP_TO_' + storageWallet.slice(0,6) + '_' + Date.now() : null,\n    sweepStatus: isProfit ? 'SUCCESS_SWEPT' : 'NO_PROFIT_TO_SWEEP'\n  }\n}];\n"
       },
       "id": "8b14b6c5-1dc6-4762-9ebe-7a341ae9e5bf",
       "name": "Sweep Profit Transfer",

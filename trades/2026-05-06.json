@@ -1150,5 +1150,27 @@
     "sellTxid": "DRY_RUN_SELL",
     "sweepTxid": null,
     "isDryRun": true
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-06T21:43:00.216Z",
+    "token": "AjmYWnVKbJcPeB2i1yQAzFaa8REcPKURUn9gZ2nrpump",
+    "symbol": "USDUM",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.0000285,
+    "exitPrice": 0.00003449,
+    "peakPrice": 0.00003449,
+    "profitSOL": 0.147122807,
+    "profitLamports": 147122807,
+    "pnlPct": 21.017543859649106,
+    "peakPnlPct": 0,
+    "reason": "TAKEPROFIT10P",
+    "buyTxid": "DRY_RUN_BUY_1778103728447",
+    "sellTxid": "DRY_RUN_SELL_1778103780128",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778103780202"
   }
 ]

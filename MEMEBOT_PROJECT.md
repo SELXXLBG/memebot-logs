@@ -37,15 +37,21 @@ Partnership project: investor provides capital, builder provides infrastructure 
 |-----------|-------|
 | Market Cap | $30,000 – $100,000 |
 | Min Liquidity | ≥ $10,000 |
-| Token Age | < 1 hour (catch early) |
+| Token Age | 5 min – 6 hours |
+| Volume | 1h volume ≥ 35% liquidity and 24h volume ≥ 2x liquidity |
+| Flow | Minimum recent buys and balanced buy/sell ratio |
 | Network | Solana only |
 
 ### Exit Criteria
 | Condition | Action |
 |-----------|--------|
 | +10% gain | Sell 100%, sweep profit to profit wallet |
-| -15% loss | Stop-loss, sell to preserve capital |
-| Token age > 12h | Force exit (rug risk increases) |
+| +7% peak then fade | Protect green, exit near +1.5% |
+| +5% peak then return to entry | Breakeven exit |
+| -12% loss | Stop-loss, sell to preserve capital |
+| Liquidity drain | Emergency exit |
+| No momentum after 45 min | Exit and free capital |
+| Hold time > 6h | Force exit (rug risk increases) |
 
 ---
 

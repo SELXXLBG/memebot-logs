@@ -67,7 +67,7 @@
     },
     {
       "parameters": {
-        "jsCode": "const src = $json.body || $json;\nconst now = new Date();\nconst day = now.toISOString().slice(0, 10);\nconst isDryRun = Boolean(src.isDryRun ?? true);\nconst logLine = {\n  status: isDryRun ? '[SIMULATION]' : '[LIVE]',\n  timestamp: now.toISOString(),\n  token: src.tokenAddress,\n  symbol: src.symbol || 'UNKNOWN',\n  entryPrice: Number(src.entryPrice || 0),\n  exitPrice: Number(src.exitPrice || 0),\n  profitSOL: Number(src.profit || 0),\n  profitLamports: Number(src.profitLamports || 0),\n  pnlPct: Number(src.pnlPct || 0),\n  reason: src.reason,\n  buyTxid: src.txid || null,\n  sellTxid: src.sellTxid || null,\n  sweepTxid: src.sweepTxid || null\n};\n\nreturn [{ json: { ...src, tradeDate: day, githubPath: 'trades/' + day + '.json', logLine } }];"
+        "jsCode": "const src = $json.body || $json;\nconst now = new Date();\nconst day = now.toISOString().slice(0, 10);\nconst isDryRun = Boolean(src.isDryRun ?? true);\nconst logLine = {\n  status: isDryRun ? '[SIMULATION]' : '[LIVE]',\n  timestamp: now.toISOString(),\n  token: src.tokenAddress,\n  symbol: src.symbol || 'UNKNOWN',\n  marketCap: Number(src.marketCap || 0),\n  liquidity: Number(src.liquidity || 0),\n  volume1h: Number(src.volume1h || 0),\n  volume24h: Number(src.volume24h || 0),\n  candidateScore: Number(src.candidateScore || 0),\n  entryPrice: Number(src.entryPrice || 0),\n  exitPrice: Number(src.exitPrice || 0),\n  peakPrice: Number(src.peakPrice || 0),\n  profitSOL: Number(src.profit || 0),\n  profitLamports: Number(src.profitLamports || 0),\n  pnlPct: Number(src.pnlPct || 0),\n  peakPnlPct: Number(src.peakPnlPct || 0),\n  reason: src.reason,\n  buyTxid: src.txid || null,\n  sellTxid: src.sellTxid || null,\n  sweepTxid: src.sweepTxid || null\n};\n\nreturn [{ json: { ...src, tradeDate: day, githubPath: 'trades/' + day + '.json', logLine } }];"
       },
       "id": "38a3ad0f-a0b2-4e26-b034-120c0dca76ba",
       "name": "Build Trade Log",
@@ -237,7 +237,7 @@
     },
     {
       "parameters": {
-        "jsCode": "const fs = require('fs');\nconst statePath = '/tmp/memebot_position.json';\ntry {\n  if (fs.existsSync(statePath)) fs.unlinkSync(statePath);\n} catch (e) {}\nreturn [{ json: { ok: true, message: 'LOGGED_AND_POSITION_CLEARED' } }];"
+        "jsCode": "const fs = require('fs');\nconst statePath = '/tmp/memebot_position.json';\nconst cooldownPath = '/tmp/memebot_token_cooldown.json';\nconst trade = $node['Build Trade Log'].json.logLine || {};\n\ntry {\n  let cooldown = {};\n  try {\n    cooldown = JSON.parse(fs.readFileSync(cooldownPath, 'utf8'));\n  } catch (e) {}\n  if (trade.token) cooldown[trade.token] = Date.now();\n  fs.writeFileSync(cooldownPath, JSON.stringify(cooldown, null, 2));\n} catch (e) {}\n\ntry {\n  if (fs.existsSync(statePath)) fs.unlinkSync(statePath);\n} catch (e) {}\nreturn [{ json: { ok: true, message: 'LOGGED_AND_POSITION_CLEARED' } }];"
       },
       "id": "77342b70-437d-47d5-abed-8ede79877ad4",
       "name": "Clear Position State",

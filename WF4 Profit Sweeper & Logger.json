@@ -86,7 +86,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "={{'Bearer ' + $env.GITHUB_TOKEN}}"
+              "value": "Bearer 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"
             },
             {
               "name": "Accept",
@@ -175,7 +175,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "={{'Bearer ' + $env.GITHUB_TOKEN}}"
+              "value": "Bearer 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"
             },
             {
               "name": "Accept",

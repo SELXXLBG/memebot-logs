@@ -512,7 +512,6 @@ function setLang(l) {
   currentLang = l;
   localStorage.setItem('lang', l);
   updateUI();
-  // If data already loaded, refresh the display
   if (window.lastData) renderDashboard(window.lastData, window.lastDays);
 }
 
@@ -530,7 +529,7 @@ function showError(msg) {
 }
 
 async function fetchFile(repo, token, path) {
-  const url = `https://api.github.com/repos/${repo}/contents/${path}`;
+  const url = `https://api.github.com/repos/${repo}/contents/${path}?t=${Date.now()}`;
   const headers = { 'Accept': 'application/vnd.github+json' };
   if (token) headers['Authorization'] = 'Bearer ' + token;
   const r = await fetch(url, { headers });
@@ -538,10 +537,7 @@ async function fetchFile(repo, token, path) {
   const data = await r.json();
   if (!data.content) return null;
   const decoded = atob(data.content.replace(/\n/g, ''));
-  
-  // ✅ FIX : Vérifie si le JSON est vide avant de parser
   if (!decoded || decoded.trim() === '') return null;
-  
   try {
     return JSON.parse(decoded);
   } catch (e) {
@@ -551,7 +547,7 @@ async function fetchFile(repo, token, path) {
 }
 
 async function listFiles(repo, token, path = 'trades') {
-  const url = `https://api.github.com/repos/${repo}/contents/${path}`;
+  const url = `https://api.github.com/repos/${repo}/contents/${path}?t=${Date.now()}`;
   const headers = { 'Accept': 'application/vnd.github+json' };
   if (token) headers['Authorization'] = 'Bearer ' + token;
   const r = await fetch(url, { headers });
@@ -594,12 +590,9 @@ async function loadData() {
 
 function renderDashboard(trades, days) {
   const tLang = translations[currentLang];
-  
-  // Check sim mode
   const isAllSim = trades.every(t => t.status && t.status.includes('SIMULATION'));
   document.getElementById('sim-notice').style.display = isAllSim ? 'block' : 'none';
 
-  // Stats
   let totalPnl = 0, wins = 0, best = -Infinity, worst = Infinity;
   let bestToken = '', worstToken = '', slCount = 0, tpCount = 0;
 
@@ -615,7 +608,6 @@ function renderDashboard(trades, days) {
   }
 
   const wr = trades.length > 0 ? Math.round((wins / trades.length) * 100) : 0;
-
   const pnlEl = document.getElementById('stat-pnl');
   pnlEl.textContent = formatSOL(totalPnl) + ' SOL';
   pnlEl.className = 'stat-value ' + (totalPnl >= 0 ? 'green' : 'red');
@@ -633,12 +625,8 @@ function renderDashboard(trades, days) {
   document.getElementById('status-text').textContent = `${trades.length} ${tLang.statusLoaded}`;
   document.getElementById('chart-count').textContent = `${trades.length} ${tLang.labelPoints}`;
 
-  // PnL Chart
   let cumulative = 0;
-  const labels = trades.map((t, i) => {
-    const d = (t.timestamp || '').slice(0, 10) || ('#' + (i+1));
-    return d;
-  });
+  const labels = trades.map((t, i) => (t.timestamp || '').slice(0, 10) || ('#' + (i+1)));
   const data = trades.map(t => {
     cumulative += Number(t.profitSOL || t.profit || 0);
     return +cumulative.toFixed(6);
@@ -646,7 +634,6 @@ function renderDashboard(trades, days) {
 
   const ctx = document.getElementById('pnlChart').getContext('2d');
   if (chart) chart.destroy();
-
   const gradient = ctx.createLinearGradient(0, 0, 0, 240);
   const isPositive = cumulative >= 0;
   gradient.addColorStop(0, isPositive ? 'rgba(16,185,129,0.4)' : 'rgba(239,68,68,0.4)');
@@ -680,16 +667,13 @@ function renderDashboard(trades, days) {
     }
   });
 
-  // Loss Analysis (Post-Mortem)
   const lostTrades = trades.filter(t => Number(t.profitSOL || t.profit || 0) < 0);
   const winTrades = trades.filter(t => Number(t.profitSOL || t.profit || 0) > 0);
-  
   const lossEl = document.getElementById('loss-analysis-content');
   if (lostTrades.length >= 2 && lossEl) {
     const avgMcapLoss = lostTrades.reduce((acc, t) => acc + Number(t.marketCap || 0), 0) / lostTrades.length;
     const avgLiqLoss = lostTrades.reduce((acc, t) => acc + Number(t.liquidity || 0), 0) / lostTrades.length;
     const avgMcapWin = winTrades.length > 0 ? winTrades.reduce((acc, t) => acc + Number(t.marketCap || 0), 0) / winTrades.length : 0;
-    
     document.getElementById('loss-card').style.display = 'block';
     lossEl.innerHTML = `
       <div style="margin-bottom:0.5rem">${tLang.labelAvgMcapLoss}: <b>$${Math.round(avgMcapLoss/1000)}k</b></div>
@@ -703,7 +687,6 @@ function renderDashboard(trades, days) {
     document.getElementById('loss-card').style.display = 'none';
   }
 
-  // Trades list (last 30)
   const recent = [...trades].reverse().slice(0, 30);
   const listEl = document.getElementById('trades-list');
   if (recent.length === 0) {
@@ -724,7 +707,6 @@ function renderDashboard(trades, days) {
   }).join('');
 }
 
-// Init
 updateUI();
 setInterval(loadData, 90000);
 setTimeout(() => {

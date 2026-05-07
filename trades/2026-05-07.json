@@ -394,5 +394,27 @@
     "buyTxid": "DRY_RUN_BUY_1778163728358",
     "sellTxid": "DRY_RUN_SELL_1778163870116",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T14:42:30.238Z",
+    "token": "ETZKRf2VWzQKi5X3Lr8CzpLHREB5jRB1SWUGzXNGpump",
+    "symbol": "Pandamic",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00006945,
+    "exitPrice": 0.00008132,
+    "peakPrice": 0.00008132,
+    "profitSOL": 0.119640028,
+    "profitLamports": 119640028,
+    "pnlPct": 17.09143268538518,
+    "peakPnlPct": 0,
+    "reason": "TAKEPROFIT10P",
+    "buyTxid": "DRY_RUN_BUY_1778164928628",
+    "sellTxid": "DRY_RUN_SELL_1778164950132",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778164950233"
   }
 ]

@@ -526,5 +526,27 @@
     "buyTxid": "DRY_RUN_BUY_1778172008474",
     "sellTxid": "DRY_RUN_SELL_1778172060139",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T17:05:30.210Z",
+    "token": "J28wLDnwLgrtQ5c2ikx6F2dQFfs6jxfzREjc6REYpump",
+    "symbol": "ELONMASK",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00003477,
+    "exitPrice": 0.00003451,
+    "peakPrice": 0.0000369,
+    "profitSOL": -0.005234398,
+    "profitLamports": -5234398,
+    "pnlPct": -0.7477710670117943,
+    "peakPnlPct": 6.125970664365838,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1778173448325",
+    "sellTxid": "DRY_RUN_SELL_1778173530122",
+    "sweepTxid": null
   }
 ]

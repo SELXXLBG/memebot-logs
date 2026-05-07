@@ -284,5 +284,27 @@
     "buyTxid": "DRY_RUN_BUY_1778153768583",
     "sellTxid": "DRY_RUN_SELL_1778153910125",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T11:41:30.755Z",
+    "token": "F7WCQWh2SUQaPXDUcgnA9rJwU2ZVRBFzCkF5kVAEpump",
+    "symbol": "HANTA",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00004081,
+    "exitPrice": 0.00004508,
+    "peakPrice": 0.00004508,
+    "profitSOL": 0.073241852,
+    "profitLamports": 73241852,
+    "pnlPct": 10.463121783876513,
+    "peakPnlPct": 0,
+    "reason": "TAKEPROFIT10P",
+    "buyTxid": "DRY_RUN_BUY_1778154008448",
+    "sellTxid": "DRY_RUN_SELL_1778154090395",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778154090747"
   }
 ]

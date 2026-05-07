@@ -218,5 +218,27 @@
     "buyTxid": "DRY_RUN_BUY_1778142728616",
     "sellTxid": "DRY_RUN_SELL_1778143110120",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T09:53:00.340Z",
+    "token": "5LNAmDt1VNK7FXeZqcuvJB3zfCxx8QQ3NFDUSbqLpump",
+    "symbol": "KIKI",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.0000435,
+    "exitPrice": 0.00003534,
+    "peakPrice": 0.0000435,
+    "profitSOL": -0.131310345,
+    "profitLamports": -131310345,
+    "pnlPct": -18.758620689655178,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS15P",
+    "buyTxid": "DRY_RUN_BUY_1778147408451",
+    "sellTxid": "DRY_RUN_SELL_1778147580173",
+    "sweepTxid": null
   }
 ]

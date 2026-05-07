@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1778121128540",
     "sellTxid": "DRY_RUN_SELL_1778121240147",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778121240243"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T03:09:30.217Z",
+    "token": "4j5NN1CyR24ajbrVErDTg3z7pTUHKxP8iU4Zdkj5pump",
+    "symbol": "LUNADD",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00004117,
+    "exitPrice": 0.00004596,
+    "peakPrice": 0.00004596,
+    "profitSOL": 0.081442798,
+    "profitLamports": 81442798,
+    "pnlPct": 11.634685450570803,
+    "peakPnlPct": 0,
+    "reason": "TAKEPROFIT10P",
+    "buyTxid": "DRY_RUN_BUY_1778123168445",
+    "sellTxid": "DRY_RUN_SELL_1778123370114",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778123370212"
   }
 ]

@@ -768,5 +768,27 @@
     "buyTxid": "DRY_RUN_BUY_1778191368614",
     "sellTxid": "DRY_RUN_SELL_1778191770138",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778191770251"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T22:45:30.193Z",
+    "token": "7nxkhcsDWJDjrxR35VYKpq9gojnd23Cue6MQY1oapump",
+    "symbol": "RENTA",
+    "marketCap": 127916,
+    "liquidity": 28666.85,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.0001518,
+    "exitPrice": 0.0001279,
+    "peakPrice": 0.0001518,
+    "profitSOL": -0.110210804,
+    "profitLamports": -110210804,
+    "pnlPct": -15.744400527009232,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS15P",
+    "buyTxid": "DRY_RUN_BUY_1778193768477",
+    "sellTxid": "DRY_RUN_SELL_1778193930124",
+    "sweepTxid": null
   }
 ]

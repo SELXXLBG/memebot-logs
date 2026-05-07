@@ -636,5 +636,27 @@
     "buyTxid": "DRY_RUN_BUY_1778183808458",
     "sellTxid": "DRY_RUN_SELL_1778184150120",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T20:18:00.334Z",
+    "token": "B4eAiVxxWMkBUrTkVNGMjqeHPcbqtpzfK52d3NAWpump",
+    "symbol": "RATWIF",
+    "marketCap": 150654,
+    "liquidity": 32535.14,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.0001632,
+    "exitPrice": 0.0001506,
+    "peakPrice": 0.0001933,
+    "profitSOL": -0.054044118,
+    "profitLamports": -54044118,
+    "pnlPct": -7.720588235294122,
+    "peakPnlPct": 18.44362745098039,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1778184648323",
+    "sellTxid": "DRY_RUN_SELL_1778185080133",
+    "sweepTxid": null
   }
 ]

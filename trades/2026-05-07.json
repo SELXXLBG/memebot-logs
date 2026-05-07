@@ -504,5 +504,27 @@
     "buyTxid": "DRY_RUN_BUY_1778171528476",
     "sellTxid": "DRY_RUN_SELL_1778171730113",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T16:41:00.244Z",
+    "token": "6u3cntHKZqffKpTEursajbmMHzsKFKaGcSiQ1aQqpump",
+    "symbol": "RAT",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00004675,
+    "exitPrice": 0.00003654,
+    "peakPrice": 0.00004675,
+    "profitSOL": -0.152877006,
+    "profitLamports": -152877006,
+    "pnlPct": -21.83957219251337,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS8P",
+    "buyTxid": "DRY_RUN_BUY_1778172008474",
+    "sellTxid": "DRY_RUN_SELL_1778172060139",
+    "sweepTxid": null
   }
 ]

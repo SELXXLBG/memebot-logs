@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1778114888392",
     "sellTxid": "DRY_RUN_SELL_1778116230121",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T02:34:00.253Z",
+    "token": "69PzM2hDa3MCo7cvKPgiPxhr1FdGdMV3S7h6wpRkpump",
+    "symbol": "MOONCLUB",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00009679,
+    "exitPrice": 0.0001079,
+    "peakPrice": 0.0001079,
+    "profitSOL": 0.080349209,
+    "profitLamports": 80349209,
+    "pnlPct": 11.47845851844198,
+    "peakPnlPct": 0,
+    "reason": "TAKEPROFIT10P",
+    "buyTxid": "DRY_RUN_BUY_1778121128540",
+    "sellTxid": "DRY_RUN_SELL_1778121240147",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778121240243"
   }
 ]

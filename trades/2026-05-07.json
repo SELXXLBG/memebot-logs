@@ -482,5 +482,27 @@
     "buyTxid": "DRY_RUN_BUY_1778170088480",
     "sellTxid": "DRY_RUN_SELL_1778170350143",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T16:35:30.173Z",
+    "token": "7VtLgSK2zDvJVWPXZdCSe7BD6mep21jMLoSkfuS4pump",
+    "symbol": "$DYOR",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00009029,
+    "exitPrice": 0.00007639,
+    "peakPrice": 0.00009122,
+    "profitSOL": -0.107763872,
+    "profitLamports": -107763872,
+    "pnlPct": -15.39483885258611,
+    "peakPnlPct": 1.0300143980507173,
+    "reason": "STOPLOSS8P",
+    "buyTxid": "DRY_RUN_BUY_1778171528476",
+    "sellTxid": "DRY_RUN_SELL_1778171730113",
+    "sweepTxid": null
   }
 ]

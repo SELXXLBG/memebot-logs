@@ -262,5 +262,27 @@
     "buyTxid": "DRY_RUN_BUY_1778152208445",
     "sellTxid": "DRY_RUN_SELL_1778152380156",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T11:38:30.248Z",
+    "token": "3aPGjvQbCMB7vvrMvPwmUkU5cfJwPQgWJqqfoMM8pump",
+    "symbol": "WIFMASK",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00009873,
+    "exitPrice": 0.00008799,
+    "peakPrice": 0.0001062,
+    "profitSOL": -0.076147068,
+    "profitLamports": -76147068,
+    "pnlPct": -10.878152537222723,
+    "peakPnlPct": 0,
+    "reason": "BREAKEVEN_EXIT",
+    "buyTxid": "DRY_RUN_BUY_1778153768583",
+    "sellTxid": "DRY_RUN_SELL_1778153910125",
+    "sweepTxid": null
   }
 ]

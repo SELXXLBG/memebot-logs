@@ -306,5 +306,27 @@
     "buyTxid": "DRY_RUN_BUY_1778154008448",
     "sellTxid": "DRY_RUN_SELL_1778154090395",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778154090747"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T13:56:00.262Z",
+    "token": "47SwTBSDBTLJ4MhLqYuzTVRUdtonGDuff9TqJBS8pump",
+    "symbol": "MPGA",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00006014,
+    "exitPrice": 0.00004923,
+    "peakPrice": 0.00006226,
+    "profitSOL": -0.126987031,
+    "profitLamports": -126987031,
+    "pnlPct": -18.141004323245756,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS15P",
+    "buyTxid": "DRY_RUN_BUY_1778161928540",
+    "sellTxid": "DRY_RUN_SELL_1778162160149",
+    "sweepTxid": null
   }
 ]

@@ -680,5 +680,27 @@
     "buyTxid": "DRY_RUN_BUY_1778185608384",
     "sellTxid": "DRY_RUN_SELL_1778188170122",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778188170199"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T21:20:30.422Z",
+    "token": "utLyQQCPvjuCc6zeaXdsFeEC3JNdxKS3vxaZWoGdoge",
+    "symbol": "OGDOGE",
+    "marketCap": 167866,
+    "liquidity": 33005.16,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.000158,
+    "exitPrice": 0.0001678,
+    "peakPrice": 0.0001941,
+    "profitSOL": 0.043417721,
+    "profitLamports": 43417721,
+    "pnlPct": 6.202531645569634,
+    "peakPnlPct": 22.84810126582279,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1778188368408",
+    "sellTxid": "DRY_RUN_SELL_1778188830226",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778188830418"
   }
 ]

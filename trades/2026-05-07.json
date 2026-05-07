@@ -724,5 +724,27 @@
     "buyTxid": "DRY_RUN_BUY_1778189208413",
     "sellTxid": "DRY_RUN_SELL_1778189520119",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778189520265"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T21:44:00.254Z",
+    "token": "AfQjXmVMQ2rx7iitN3DKfBVKJmF1j7yjuxiMu2Wpump",
+    "symbol": "maskunc",
+    "marketCap": 118951,
+    "liquidity": 27564.3,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00008863,
+    "exitPrice": 0.0001189,
+    "peakPrice": 0.0001189,
+    "profitSOL": 0.239072548,
+    "profitLamports": 239072548,
+    "pnlPct": 34.15322125691076,
+    "peakPnlPct": 34.15322125691076,
+    "reason": "TAKEPROFIT25P",
+    "buyTxid": "DRY_RUN_BUY_1778190168390",
+    "sellTxid": "DRY_RUN_SELL_1778190240131",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778190240242"
   }
 ]

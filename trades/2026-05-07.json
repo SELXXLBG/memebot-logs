@@ -152,5 +152,27 @@
     "buyTxid": "DRY_RUN_BUY_1778136488431",
     "sellTxid": "DRY_RUN_SELL_1778136540160",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778136540361"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T07:07:30.182Z",
+    "token": "H1sSxovMKYX4untSFy5pP1Nj2vXY5euxG6Wb6T2vpump",
+    "symbol": "TOASTER",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.000018,
+    "exitPrice": 0.00002157,
+    "peakPrice": 0.00002157,
+    "profitSOL": 0.138833333,
+    "profitLamports": 138833333,
+    "pnlPct": 19.83333333333332,
+    "peakPnlPct": 0,
+    "reason": "TAKEPROFIT10P",
+    "buyTxid": "DRY_RUN_BUY_1778137568546",
+    "sellTxid": "DRY_RUN_SELL_1778137650124",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778137650176"
   }
 ]

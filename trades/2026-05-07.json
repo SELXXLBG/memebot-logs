@@ -372,5 +372,27 @@
     "buyTxid": "DRY_RUN_BUY_1778163488468",
     "sellTxid": "DRY_RUN_SELL_1778163540139",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778163540219"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T14:24:30.256Z",
+    "token": "FZUsaHuSnecp9Vb5MeSFCfHJKaJZaCVfZnExCQ8XeFd3",
+    "symbol": "MISSBUSD",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00003973,
+    "exitPrice": 0.00003782,
+    "peakPrice": 0.00004175,
+    "profitSOL": -0.033652153,
+    "profitLamports": -33652153,
+    "pnlPct": -4.807450289453814,
+    "peakPnlPct": 0,
+    "reason": "BREAKEVEN_EXIT",
+    "buyTxid": "DRY_RUN_BUY_1778163728358",
+    "sellTxid": "DRY_RUN_SELL_1778163870116",
+    "sweepTxid": null
   }
 ]

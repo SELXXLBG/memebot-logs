@@ -790,5 +790,27 @@
     "buyTxid": "DRY_RUN_BUY_1778193768477",
     "sellTxid": "DRY_RUN_SELL_1778193930124",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T23:09:00.381Z",
+    "token": "BbbrP2rXYczQmkgc15nH5ZFccoHFmm4mpagRLkUypump",
+    "symbol": "GIGARAT",
+    "marketCap": 90827,
+    "liquidity": 23792.37,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00009492,
+    "exitPrice": 0.00009082,
+    "peakPrice": 0.0001056,
+    "profitSOL": -0.030235989,
+    "profitLamports": -30235989,
+    "pnlPct": -4.319426885798572,
+    "peakPnlPct": 11.25158027812895,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1778194488636",
+    "sellTxid": "DRY_RUN_SELL_1778195340149",
+    "sweepTxid": null
   }
 ]

@@ -350,5 +350,27 @@
     "buyTxid": "DRY_RUN_BUY_1778162168312",
     "sellTxid": "DRY_RUN_SELL_1778162400199",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778162400312"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T14:19:00.226Z",
+    "token": "EpX9wbwjHFCZnQdSY8yZcewCPn2khPPwNs6B1PPRpump",
+    "symbol": "CosmoBones",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.0001101,
+    "exitPrice": 0.0001434,
+    "peakPrice": 0.0001434,
+    "profitSOL": 0.211716621,
+    "profitLamports": 211716621,
+    "pnlPct": 30.245231607629407,
+    "peakPnlPct": 0,
+    "reason": "TAKEPROFIT10P",
+    "buyTxid": "DRY_RUN_BUY_1778163488468",
+    "sellTxid": "DRY_RUN_SELL_1778163540139",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778163540219"
   }
 ]

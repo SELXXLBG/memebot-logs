@@ -592,5 +592,27 @@
     "buyTxid": "DRY_RUN_BUY_1778177048658",
     "sellTxid": "DRY_RUN_SELL_1778177130136",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T18:38:30.225Z",
+    "token": "BvfCqsEMSfzoHfTzbFtHakYGemZqyUEsPEiKDKmVpump",
+    "symbol": "pepemask",
+    "marketCap": 314025,
+    "liquidity": 45579.28,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.0003906,
+    "exitPrice": 0.000314,
+    "peakPrice": 0.0004034,
+    "profitSOL": -0.137275986,
+    "profitLamports": -137275986,
+    "pnlPct": -19.61085509472607,
+    "peakPnlPct": 3.2770097286226285,
+    "reason": "STOPLOSS15P",
+    "buyTxid": "DRY_RUN_BUY_1778179008471",
+    "sellTxid": "DRY_RUN_SELL_1778179110137",
+    "sweepTxid": null
   }
 ]

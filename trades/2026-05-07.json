@@ -570,5 +570,27 @@
     "buyTxid": "DRY_RUN_BUY_1778176448395",
     "sellTxid": "DRY_RUN_SELL_1778176470117",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T18:05:30.302Z",
+    "token": "357dqB6LSrMhZfr7hoSoBEM9JpEQPKNzQCYFxoY6pump",
+    "symbol": "FILES",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00004236,
+    "exitPrice": 0.00004112,
+    "peakPrice": 0.00004501,
+    "profitSOL": -0.02049103,
+    "profitLamports": -20491030,
+    "pnlPct": -2.927289896128427,
+    "peakPnlPct": 6.255901794145411,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1778177048658",
+    "sellTxid": "DRY_RUN_SELL_1778177130136",
+    "sweepTxid": null
   }
 ]

@@ -25,15 +25,43 @@
   * { margin: 0; padding: 0; box-sizing: border-box; }
 
   body {
-    background:
-      radial-gradient(circle at 15% 20%, rgba(139, 92, 246, 0.2), transparent 40%),
-      radial-gradient(circle at 85% 10%, rgba(34, 211, 238, 0.16), transparent 45%),
-      radial-gradient(circle at 50% 100%, rgba(59, 130, 246, 0.12), transparent 40%),
-      var(--bg);
+    background: var(--bg);
     color: var(--text);
     font-family: 'Inter', sans-serif;
     min-height: 100vh;
     padding: 24px;
+    overflow-x: hidden;
+    position: relative;
+  }
+
+  body::before, body::after {
+    content: '';
+    position: fixed;
+    width: 40vw;
+    height: 40vw;
+    border-radius: 50%;
+    filter: blur(100px);
+    z-index: -1;
+    opacity: 0.15;
+    animation: float 20s infinite alternate;
+  }
+
+  body::before {
+    top: -10%;
+    left: -10%;
+    background: var(--accent);
+  }
+
+  body::after {
+    bottom: -10%;
+    right: -10%;
+    background: var(--accent2);
+    animation-delay: -10s;
+  }
+
+  @keyframes float {
+    0% { transform: translate(0, 0) scale(1); }
+    100% { transform: translate(10%, 10%) scale(1.1); }
   }
 
   header {
@@ -106,7 +134,7 @@
     width: 8px; height: 8px;
     border-radius: 50%;
     background: var(--green);
-    box-shadow: 0 0 6px var(--green);
+    box-shadow: 0 0 10px var(--green);
     animation: pulse 2s infinite;
   }
 
@@ -163,16 +191,20 @@
   .stat-card {
     background: var(--surface);
     border: 1px solid var(--border);
-    border-radius: 14px;
-    padding: 20px;
+    border-radius: 16px;
+    padding: 24px;
     position: relative;
     overflow: hidden;
-    transition: border-color 0.2s, transform 0.2s;
-    backdrop-filter: blur(12px);
-    box-shadow: 0 10px 35px rgba(2, 6, 23, 0.35);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    backdrop-filter: blur(16px);
+    box-shadow: 0 4px 24px -1px rgba(0, 0, 0, 0.2);
   }
 
-  .stat-card:hover { border-color: var(--accent); transform: translateY(-2px); }
+  .stat-card:hover {
+    border-color: rgba(139, 92, 246, 0.5);
+    transform: translateY(-4px);
+    box-shadow: 0 12px 40px -4px rgba(0, 0, 0, 0.4);
+  }
 
   .stat-card::before {
     content: '';
@@ -209,10 +241,15 @@
   .card {
     background: var(--surface);
     border: 1px solid var(--border);
-    border-radius: 14px;
-    padding: 20px;
-    backdrop-filter: blur(12px);
-    box-shadow: 0 10px 30px rgba(2, 6, 23, 0.35);
+    border-radius: 16px;
+    padding: 24px;
+    backdrop-filter: blur(16px);
+    box-shadow: 0 4px 24px -1px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+  }
+
+  .card:hover {
+    border-color: rgba(148, 163, 184, 0.4);
   }
 
   .card-title {
@@ -341,20 +378,30 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-size: 0.8rem;
-    background: rgba(15, 23, 42, 0.45);
+    font-size: 0.85rem;
+    background: rgba(255, 255, 255, 0.03);
     border: 1px solid var(--border);
-    border-radius: 8px;
-    padding: 8px 10px;
+    border-radius: 10px;
+    padding: 10px 14px;
+    transition: transform 0.2s;
+  }
+
+  .token-row:hover {
+    transform: scale(1.02);
+    background: rgba(255, 255, 255, 0.05);
   }
 
   .token-row .name {
     font-family: 'JetBrains Mono', monospace;
     font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 8px;
   }
 
   .token-row .value {
     font-family: 'JetBrains Mono', monospace;
+    font-weight: 700;
   }
 
   #error-msg {
@@ -993,13 +1040,21 @@ function renderDashboard(trades, days) {
   const tokenRanking = Object.entries(tokenPnL).sort((a, b) => b[1] - a[1]);
   const bestTokens = tokenRanking.slice(0, 5);
   const worstTokens = [...tokenRanking].reverse().slice(0, 5);
-  document.getElementById('best-tokens').innerHTML = `<li class="trade-reason" style="padding-bottom:6px">${tLang.labelBestTokens}</li>` +
-    (bestTokens.length ? bestTokens.map(([name, val]) => `
-      <li class="token-row"><span class="name">${name}</span><span class="value" style="color:${val >= 0 ? '#10b981' : '#f43f5e'}">${formatSOL(val)}</span></li>
+  
+  document.getElementById('best-tokens').innerHTML = `<li class="trade-reason" style="padding-bottom:10px; font-weight:700; color:var(--green)">🏆 ${tLang.labelBestTokens}</li>` +
+    (bestTokens.length ? bestTokens.map(([name, val], i) => `
+      <li class="token-row">
+        <span class="name"><span style="color:var(--muted); font-size:0.7rem">#${i+1}</span> ${name}</span>
+        <span class="value" style="color:var(--green)">${formatSOL(val)}</span>
+      </li>
     `).join('') : `<li class="token-row">—</li>`);
-  document.getElementById('worst-tokens').innerHTML = `<li class="trade-reason" style="padding-bottom:6px">${tLang.labelWorstTokens}</li>` +
-    (worstTokens.length ? worstTokens.map(([name, val]) => `
-      <li class="token-row"><span class="name">${name}</span><span class="value" style="color:${val >= 0 ? '#10b981' : '#f43f5e'}">${formatSOL(val)}</span></li>
+    
+  document.getElementById('worst-tokens').innerHTML = `<li class="trade-reason" style="padding-bottom:10px; font-weight:700; color:var(--red)">💀 ${tLang.labelWorstTokens}</li>` +
+    (worstTokens.length ? worstTokens.map(([name, val], i) => `
+      <li class="token-row">
+        <span class="name"><span style="color:var(--muted); font-size:0.7rem">#${i+1}</span> ${name}</span>
+        <span class="value" style="color:var(--red)">${formatSOL(val)}</span>
+      </li>
     `).join('') : `<li class="token-row">—</li>`);
 
   let streakType = '';

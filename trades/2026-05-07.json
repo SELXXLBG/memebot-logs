@@ -658,5 +658,27 @@
     "buyTxid": "DRY_RUN_BUY_1778184648323",
     "sellTxid": "DRY_RUN_SELL_1778185080133",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T21:09:30.208Z",
+    "token": "8Znyt9AppSvCvtRrXGz2SV7huo1cUj6cT7vCqAAppump",
+    "symbol": "HFRS",
+    "marketCap": 148092,
+    "liquidity": 31532.87,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.0001312,
+    "exitPrice": 0.000148,
+    "peakPrice": 0.0001596,
+    "profitSOL": 0.089634146,
+    "profitLamports": 89634146,
+    "pnlPct": 12.804878048780491,
+    "peakPnlPct": 21.646341463414647,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1778185608384",
+    "sellTxid": "DRY_RUN_SELL_1778188170122",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778188170199"
   }
 ]

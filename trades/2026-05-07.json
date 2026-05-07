@@ -614,5 +614,27 @@
     "buyTxid": "DRY_RUN_BUY_1778179008471",
     "sellTxid": "DRY_RUN_SELL_1778179110137",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T20:02:30.358Z",
+    "token": "FGijtUZ5QqbrTfRi72WEHpprXn6DKPhYDQFwFrFwSYZa",
+    "symbol": "WHO",
+    "marketCap": 71411,
+    "liquidity": 21717.63,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00009165,
+    "exitPrice": 0.00007141,
+    "peakPrice": 0.00009549,
+    "profitSOL": -0.154588107,
+    "profitLamports": -154588107,
+    "pnlPct": -22.084015275504644,
+    "peakPnlPct": 4.189852700490988,
+    "reason": "STOPLOSS15P",
+    "buyTxid": "DRY_RUN_BUY_1778183808458",
+    "sellTxid": "DRY_RUN_SELL_1778184150120",
+    "sweepTxid": null
   }
 ]

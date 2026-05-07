@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T01:10:30.434Z",
+    "token": "GUA14pT5yYpUkWLpWV4V3cXiNGhy1tKQ7tfNwn9Apump",
+    "symbol": "USTRL",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.0001302,
+    "exitPrice": 0.0001215,
+    "peakPrice": 0.0001409,
+    "profitSOL": -0.046774194,
+    "profitLamports": -46774194,
+    "pnlPct": -6.682027649769581,
+    "peakPnlPct": 0,
+    "reason": "TRAILING_STOP",
+    "buyTxid": "DRY_RUN_BUY_1778114888392",
+    "sellTxid": "DRY_RUN_SELL_1778116230121",
+    "sweepTxid": null
+  }
+]

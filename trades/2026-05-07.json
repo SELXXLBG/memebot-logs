@@ -240,5 +240,27 @@
     "buyTxid": "DRY_RUN_BUY_1778147408451",
     "sellTxid": "DRY_RUN_SELL_1778147580173",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T11:13:00.293Z",
+    "token": "9bSZhZFAeREPhpAto5P6H4WXUNutWJTQkvporCPXpump",
+    "symbol": "VIRUS",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00002419,
+    "exitPrice": 0.00001965,
+    "peakPrice": 0.00002419,
+    "profitSOL": -0.131376602,
+    "profitLamports": -131376602,
+    "pnlPct": -18.76808598594461,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS15P",
+    "buyTxid": "DRY_RUN_BUY_1778152208445",
+    "sellTxid": "DRY_RUN_SELL_1778152380156",
+    "sweepTxid": null
   }
 ]

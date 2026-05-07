@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1778129888485",
     "sellTxid": "DRY_RUN_SELL_1778130390159",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T05:53:00.226Z",
+    "token": "DTQGwab4qLYuVNqw9ZczTSGsQKRDqBGUwHXx1tF3pump",
+    "symbol": "HARRY",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00008498,
+    "exitPrice": 0.00006916,
+    "peakPrice": 0.00008498,
+    "profitSOL": -0.130313015,
+    "profitLamports": -130313015,
+    "pnlPct": -18.61614497528831,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS15P",
+    "buyTxid": "DRY_RUN_BUY_1778133128520",
+    "sellTxid": "DRY_RUN_SELL_1778133180133",
+    "sweepTxid": null
   }
 ]

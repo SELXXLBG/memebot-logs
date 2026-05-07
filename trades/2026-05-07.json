@@ -460,5 +460,27 @@
     "buyTxid": "DRY_RUN_BUY_1778169008415",
     "sellTxid": "DRY_RUN_SELL_1778169030117",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T16:12:30.241Z",
+    "token": "Dagi5mNUCkrTA8p225LFY1TxxMk5po8Mj1aCyeWCpump",
+    "symbol": "TrackHanta",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00008507,
+    "exitPrice": 0.00007782,
+    "peakPrice": 0.00008566,
+    "profitSOL": -0.059656754,
+    "profitLamports": -59656754,
+    "pnlPct": -8.522393323145645,
+    "peakPnlPct": 0.6935464911249632,
+    "reason": "STOPLOSS8P",
+    "buyTxid": "DRY_RUN_BUY_1778170088480",
+    "sellTxid": "DRY_RUN_SELL_1778170350143",
+    "sweepTxid": null
   }
 ]

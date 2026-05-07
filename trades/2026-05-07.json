@@ -174,5 +174,27 @@
     "buyTxid": "DRY_RUN_BUY_1778137568546",
     "sellTxid": "DRY_RUN_SELL_1778137650124",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778137650176"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T08:18:30.199Z",
+    "token": "9sdAdn3EpUyy9jwwzurheuzGEcAXiQUDxVVdA2ZRpump",
+    "symbol": "OHIO",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.0002618,
+    "exitPrice": 0.0002036,
+    "peakPrice": 0.0002644,
+    "profitSOL": -0.155614974,
+    "profitLamports": -155614974,
+    "pnlPct": -22.230710466004595,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS15P",
+    "buyTxid": "DRY_RUN_BUY_1778141768467",
+    "sellTxid": "DRY_RUN_SELL_1778141910129",
+    "sweepTxid": null
   }
 ]

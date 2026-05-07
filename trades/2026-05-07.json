@@ -416,5 +416,27 @@
     "buyTxid": "DRY_RUN_BUY_1778164928628",
     "sellTxid": "DRY_RUN_SELL_1778164950132",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778164950233"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T15:21:00.322Z",
+    "token": "Gfs8XVq7r6u965TWgKfEeGbMSMjX8Uy89UuQG3uPpump",
+    "symbol": "WIFVIRUS",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00009473,
+    "exitPrice": 0.00008903,
+    "peakPrice": 0.0001011,
+    "profitSOL": -0.042119709,
+    "profitLamports": -42119709,
+    "pnlPct": -6.01710123508919,
+    "peakPnlPct": 0,
+    "reason": "BREAKEVEN_EXIT",
+    "buyTxid": "DRY_RUN_BUY_1778167208442",
+    "sellTxid": "DRY_RUN_SELL_1778167260148",
+    "sweepTxid": null
   }
 ]

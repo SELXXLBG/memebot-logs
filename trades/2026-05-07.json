@@ -812,5 +812,27 @@
     "buyTxid": "DRY_RUN_BUY_1778194488636",
     "sellTxid": "DRY_RUN_SELL_1778195340149",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T23:53:30.195Z",
+    "token": "6H3uNurH3c7Wt2rd7qW1d8HSKqFQWcAHw9S8HBzXpump",
+    "symbol": "RATLON",
+    "marketCap": 239457,
+    "liquidity": 42219,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.0001757,
+    "exitPrice": 0.0002394,
+    "peakPrice": 0.0002394,
+    "profitSOL": 0.25378486,
+    "profitLamports": 253784860,
+    "pnlPct": 36.25498007968128,
+    "peakPnlPct": 36.25498007968128,
+    "reason": "TAKEPROFIT25P",
+    "buyTxid": "DRY_RUN_BUY_1778197848471",
+    "sellTxid": "DRY_RUN_SELL_1778198010115",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778198010192"
   }
 ]

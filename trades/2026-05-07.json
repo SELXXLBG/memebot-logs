@@ -702,5 +702,27 @@
     "buyTxid": "DRY_RUN_BUY_1778188368408",
     "sellTxid": "DRY_RUN_SELL_1778188830226",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778188830418"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T21:32:00.272Z",
+    "token": "C1QVo85W419fJri4hNtAULNTqYxZvj5pfBhVGVgLpump",
+    "symbol": "Runner",
+    "marketCap": 121938,
+    "liquidity": 27686.61,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00009555,
+    "exitPrice": 0.0001219,
+    "peakPrice": 0.0001219,
+    "profitSOL": 0.193040293,
+    "profitLamports": 193040293,
+    "pnlPct": 27.577184720041853,
+    "peakPnlPct": 27.577184720041853,
+    "reason": "TAKEPROFIT25P",
+    "buyTxid": "DRY_RUN_BUY_1778189208413",
+    "sellTxid": "DRY_RUN_SELL_1778189520119",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778189520265"
   }
 ]

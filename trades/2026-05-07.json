@@ -130,5 +130,27 @@
     "buyTxid": "DRY_RUN_BUY_1778133128520",
     "sellTxid": "DRY_RUN_SELL_1778133180133",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-07T06:49:00.379Z",
+    "token": "6uY6K1RbHsVL1ie181e7ieYdGZDbpaaJXWa2MNtApump",
+    "symbol": "1sol1lambo",
+    "marketCap": 0,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.000115,
+    "exitPrice": 0.0001293,
+    "peakPrice": 0.0001293,
+    "profitSOL": 0.087043478,
+    "profitLamports": 87043478,
+    "pnlPct": 12.434782608695647,
+    "peakPnlPct": 0,
+    "reason": "TAKEPROFIT10P",
+    "buyTxid": "DRY_RUN_BUY_1778136488431",
+    "sellTxid": "DRY_RUN_SELL_1778136540160",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778136540361"
   }
 ]

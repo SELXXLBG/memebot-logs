@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1778211168585",
     "sellTxid": "DRY_RUN_SELL_1778211240130",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T04:54:30.190Z",
+    "token": "2R2F91ewRgZ6R33TcCDebK6Lh6pVTzAKgiURcpgVpump",
+    "symbol": "ROFL",
+    "marketCap": 363001,
+    "liquidity": 49030.08,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.0002764,
+    "exitPrice": 0.000363,
+    "peakPrice": 0.000363,
+    "profitSOL": 0.219319826,
+    "profitLamports": 219319826,
+    "pnlPct": 31.331403762662806,
+    "peakPnlPct": 31.331403762662806,
+    "reason": "TAKEPROFIT25P",
+    "buyTxid": "DRY_RUN_BUY_1778215968397",
+    "sellTxid": "DRY_RUN_SELL_1778216070112",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778216070183"
   }
 ]

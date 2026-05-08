@@ -196,5 +196,27 @@
     "buyTxid": "DRY_RUN_BUY_1778225808689",
     "sellTxid": "DRY_RUN_SELL_1778226150122",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778226150188"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T08:33:30.197Z",
+    "token": "LhCrBWvpgRi4iSGpd3satmDm8qRK9merpzoNk1kpump",
+    "symbol": "SUMMERVIBE",
+    "marketCap": 105701,
+    "liquidity": 26032.7,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.0001084,
+    "exitPrice": 0.0001057,
+    "peakPrice": 0.0001242,
+    "profitSOL": -0.017435425,
+    "profitLamports": -17435425,
+    "pnlPct": -2.490774907749088,
+    "peakPnlPct": 14.575645756457567,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1778228568400",
+    "sellTxid": "DRY_RUN_SELL_1778229210131",
+    "sweepTxid": null
   }
 ]

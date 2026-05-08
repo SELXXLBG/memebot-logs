@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1778215968397",
     "sellTxid": "DRY_RUN_SELL_1778216070112",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778216070183"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T05:29:00.239Z",
+    "token": "DCbBpVhrfzRJbuAYdZ63A2saq8MmpUYoBKHCjc1npump",
+    "symbol": "KIDO",
+    "marketCap": 202648,
+    "liquidity": 35763.41,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.000255,
+    "exitPrice": 0.0002026,
+    "peakPrice": 0.0002566,
+    "profitSOL": -0.143843138,
+    "profitLamports": -143843138,
+    "pnlPct": -20.549019607843146,
+    "peakPnlPct": 0.6274509803921509,
+    "reason": "STOPLOSS15P",
+    "buyTxid": "DRY_RUN_BUY_1778218008424",
+    "sellTxid": "DRY_RUN_SELL_1778218140134",
+    "sweepTxid": null
   }
 ]

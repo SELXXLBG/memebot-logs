@@ -548,5 +548,27 @@
     "buyTxid": "DRY_RUN_BUY_1778279079561",
     "sellTxid": "DRY_RUN_SELL_1778279100128",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T23:04:00.219Z",
+    "token": "2z6nqGfmknWWVVQFqwNbGrXtGbwB5FjgKms6rqvopump",
+    "symbol": "aliunc",
+    "marketCap": 81759,
+    "liquidity": 23504.69,
+    "volume1h": 207634.18,
+    "volume24h": 207634.18,
+    "candidateScore": 6.3667,
+    "entryPrice": 0.00010486393188452559,
+    "exitPrice": 0.00008175,
+    "peakPrice": 0.0001076,
+    "profitSOL": -0.154292826,
+    "profitLamports": -154292826,
+    "pnlPct": -22.041832181133806,
+    "peakPnlPct": 2.6091603340673166,
+    "reason": "STOPLOSS15P",
+    "buyTxid": "DRY_RUN_BUY_1778281359659",
+    "sellTxid": "DRY_RUN_SELL_1778281440137",
+    "sweepTxid": null
   }
 ]

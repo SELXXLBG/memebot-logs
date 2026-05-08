@@ -174,5 +174,27 @@
     "buyTxid": "DRY_RUN_BUY_1778221608487",
     "sellTxid": "DRY_RUN_SELL_1778221650140",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T07:42:30.195Z",
+    "token": "3Y4njN9WK2GcsCFcdCfAT3uHJYXZiGwa4Arx4T5Ppump",
+    "symbol": "POCKET",
+    "marketCap": 283959,
+    "liquidity": 42629.04,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.0002051,
+    "exitPrice": 0.0002839,
+    "peakPrice": 0.0002839,
+    "profitSOL": 0.268941979,
+    "profitLamports": 268941979,
+    "pnlPct": 38.42028278888348,
+    "peakPnlPct": 38.42028278888348,
+    "reason": "TAKEPROFIT25P",
+    "buyTxid": "DRY_RUN_BUY_1778225808689",
+    "sellTxid": "DRY_RUN_SELL_1778226150122",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778226150188"
   }
 ]

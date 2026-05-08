@@ -526,5 +526,27 @@
     "buyTxid": "DRY_RUN_BUY_1778274039634",
     "sellTxid": "DRY_RUN_SELL_1778276220130",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T22:25:00.238Z",
+    "token": "Fn1xzzniquhbKMRXgoshACqx9D5TFaGU7yeVFu1rpump",
+    "symbol": "BODUKE",
+    "marketCap": 266062,
+    "liquidity": 42927.61,
+    "volume1h": 569471.69,
+    "volume24h": 569471.69,
+    "candidateScore": 6.9114,
+    "entryPrice": 0.00038682035524279385,
+    "exitPrice": 0.000266,
+    "peakPrice": 0.00038682035524279385,
+    "profitSOL": -0.218639603,
+    "profitLamports": -218639603,
+    "pnlPct": -31.234228914080557,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS15P",
+    "buyTxid": "DRY_RUN_BUY_1778279079561",
+    "sellTxid": "DRY_RUN_SELL_1778279100128",
+    "sweepTxid": null
   }
 ]

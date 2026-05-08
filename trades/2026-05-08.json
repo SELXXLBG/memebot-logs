@@ -350,5 +350,27 @@
     "buyTxid": "DRY_RUN_BUY_1778242968445",
     "sellTxid": "DRY_RUN_SELL_1778243010113",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T13:14:30.310Z",
+    "token": "HSznAnNhSFgyRWiZh4m7pBmtjHsSLi4Dbmjp18zppump",
+    "symbol": "GAYTES",
+    "marketCap": 44059,
+    "liquidity": 16686.62,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00004298,
+    "exitPrice": 0.00004405,
+    "peakPrice": 0.00005056,
+    "profitSOL": 0.01742671,
+    "profitLamports": 17426710,
+    "pnlPct": 2.489530013959985,
+    "peakPnlPct": 17.63610981852024,
+    "reason": "PROTECT_GREEN",
+    "buyTxid": "DRY_RUN_BUY_1778245728539",
+    "sellTxid": "DRY_RUN_SELL_1778246070127",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778246070303"
   }
 ]

@@ -460,5 +460,27 @@
     "buyTxid": "DRY_RUN_BUY_1778261808517",
     "sellTxid": "DRY_RUN_SELL_1778261820118",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T18:22:30.287Z",
+    "token": "7Y6F15KXogyw4i5P5Ew9sWbrWUpE2NCXHfU2zWKapump",
+    "symbol": "aliencoin",
+    "marketCap": 51180,
+    "liquidity": 18394.32,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00006796,
+    "exitPrice": 0.00005118,
+    "peakPrice": 0.00007233,
+    "profitSOL": -0.172836963,
+    "profitLamports": -172836963,
+    "pnlPct": -24.69099470276634,
+    "peakPnlPct": 6.430253090052952,
+    "reason": "STOPLOSS15P",
+    "buyTxid": "DRY_RUN_BUY_1778264448514",
+    "sellTxid": "DRY_RUN_SELL_1778264550130",
+    "sweepTxid": null
   }
 ]

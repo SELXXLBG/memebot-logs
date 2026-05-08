@@ -504,5 +504,27 @@
     "buyTxid": "DRY_RUN_BUY_1778265288807",
     "sellTxid": "DRY_RUN_SELL_1778268000131",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T21:37:00.302Z",
+    "token": "DE2bhKYeUFqCy2ohJ492YizLsNSHcpMo2Qynv3Gepump",
+    "symbol": "mama",
+    "marketCap": 92945,
+    "liquidity": 24726.73,
+    "volume1h": 29547.73,
+    "volume24h": 29547.73,
+    "candidateScore": 4.7261,
+    "entryPrice": 0.00009380793390433592,
+    "exitPrice": 0.00009294,
+    "peakPrice": 0.0001038,
+    "profitSOL": -0.006476571,
+    "profitLamports": -6476571,
+    "pnlPct": -0.9252244114245483,
+    "peakPnlPct": 10.651621541791823,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1778274039634",
+    "sellTxid": "DRY_RUN_SELL_1778276220130",
+    "sweepTxid": null
   }
 ]

@@ -438,5 +438,27 @@
     "buyTxid": "DRY_RUN_BUY_1778260368904",
     "sellTxid": "DRY_RUN_SELL_1778260410127",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T17:37:00.275Z",
+    "token": "21AnmvRNE6v18vNGUY7vppCzL7Gf5RntmakmSfJipump",
+    "symbol": "SCRIBLIEN",
+    "marketCap": 78392,
+    "liquidity": 22845.77,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.0001028,
+    "exitPrice": 0.00007839,
+    "peakPrice": 0.0001028,
+    "profitSOL": -0.166215954,
+    "profitLamports": -166215954,
+    "pnlPct": -23.74513618677043,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS15P",
+    "buyTxid": "DRY_RUN_BUY_1778261808517",
+    "sellTxid": "DRY_RUN_SELL_1778261820118",
+    "sweepTxid": null
   }
 ]

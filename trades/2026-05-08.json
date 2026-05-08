@@ -394,5 +394,27 @@
     "buyTxid": "DRY_RUN_BUY_1778253888461",
     "sellTxid": "DRY_RUN_SELL_1778253960178",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778253960270"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T16:23:00.380Z",
+    "token": "F1nZKrkEmzBFHp7xooWyhHiq839n85QwGAGQ8DD6pump",
+    "symbol": "UNFAZED",
+    "marketCap": 101445,
+    "liquidity": 25345.66,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.0001023,
+    "exitPrice": 0.0001014,
+    "peakPrice": 0.0001168,
+    "profitSOL": -0.006158358,
+    "profitLamports": -6158358,
+    "pnlPct": -0.8797653958944363,
+    "peakPnlPct": 14.173998044965785,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1778256768457",
+    "sellTxid": "DRY_RUN_SELL_1778257380142",
+    "sweepTxid": null
   }
 ]

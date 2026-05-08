@@ -130,5 +130,27 @@
     "buyTxid": "DRY_RUN_BUY_1778218008424",
     "sellTxid": "DRY_RUN_SELL_1778218140134",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T06:13:30.254Z",
+    "token": "Cvnewn7rSqhSayieCNNAsYTbcDPpPTwPDYNh883rpump",
+    "symbol": "FLAPIBARA",
+    "marketCap": 65165,
+    "liquidity": 20507.2,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00005176,
+    "exitPrice": 0.00006516,
+    "peakPrice": 0.00006516,
+    "profitSOL": 0.18122102,
+    "profitLamports": 181221020,
+    "pnlPct": 25.888717156105113,
+    "peakPnlPct": 25.888717156105113,
+    "reason": "TAKEPROFIT25P",
+    "buyTxid": "DRY_RUN_BUY_1778220648489",
+    "sellTxid": "DRY_RUN_SELL_1778220810104",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778220810248"
   }
 ]

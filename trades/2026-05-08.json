@@ -482,5 +482,27 @@
     "buyTxid": "DRY_RUN_BUY_1778264448514",
     "sellTxid": "DRY_RUN_SELL_1778264550130",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T19:20:00.224Z",
+    "token": "5736T6za3QKFGUfaVFLuLRhrE347JjQceSvCDj3Ypump",
+    "symbol": "TITO",
+    "marketCap": 57809,
+    "liquidity": 19731.71,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00006447,
+    "exitPrice": 0.0000578,
+    "peakPrice": 0.00006447,
+    "profitSOL": -0.072421282,
+    "profitLamports": -72421282,
+    "pnlPct": -10.345897316581349,
+    "peakPnlPct": 0,
+    "reason": "STALE_NO_MOMENTUM",
+    "buyTxid": "DRY_RUN_BUY_1778265288807",
+    "sellTxid": "DRY_RUN_SELL_1778268000131",
+    "sweepTxid": null
   }
 ]

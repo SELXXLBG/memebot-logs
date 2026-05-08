@@ -570,5 +570,27 @@
     "buyTxid": "DRY_RUN_BUY_1778281359659",
     "sellTxid": "DRY_RUN_SELL_1778281440137",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T23:41:00.446Z",
+    "token": "3xQxrpyBgNoXSrAhfoL549HFPeB8WcJtHg5QJjTCpump",
+    "symbol": "alienaura",
+    "marketCap": 123602,
+    "liquidity": 28559.85,
+    "volume1h": 123981.45,
+    "volume24h": 123981.45,
+    "candidateScore": 5.718,
+    "entryPrice": 0.00015713049705420352,
+    "exitPrice": 0.0001236,
+    "peakPrice": 0.00015713049705420352,
+    "profitSOL": -0.149374873,
+    "profitLamports": -149374873,
+    "pnlPct": -21.339267476915634,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS15P",
+    "buyTxid": "DRY_RUN_BUY_1778283639726",
+    "sellTxid": "DRY_RUN_SELL_1778283660133",
+    "sweepTxid": null
   }
 ]

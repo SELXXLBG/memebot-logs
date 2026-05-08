@@ -218,5 +218,27 @@
     "buyTxid": "DRY_RUN_BUY_1778228568400",
     "sellTxid": "DRY_RUN_SELL_1778229210131",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T09:03:30.204Z",
+    "token": "2iStU7GGt8b1sYWT5zeKZMBzZQKsTYLH6Xofioqopump",
+    "symbol": "alein",
+    "marketCap": 68651,
+    "liquidity": 21167.34,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00005421,
+    "exitPrice": 0.00006865,
+    "peakPrice": 0.00006865,
+    "profitSOL": 0.186460062,
+    "profitLamports": 186460062,
+    "pnlPct": 26.637151817007943,
+    "peakPnlPct": 26.637151817007943,
+    "reason": "TAKEPROFIT25P",
+    "buyTxid": "DRY_RUN_BUY_1778230848462",
+    "sellTxid": "DRY_RUN_SELL_1778231010116",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778231010198"
   }
 ]

@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T00:49:00.236Z",
+    "token": "G8t6o3bgz7AZsFc9Ez6g7zoPMvVVpWJjkxudKC3Bpump",
+    "symbol": "HINC",
+    "marketCap": 34019,
+    "liquidity": 14541.66,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.00004074,
+    "exitPrice": 0.00003401,
+    "peakPrice": 0.00004251,
+    "profitSOL": -0.115635739,
+    "profitLamports": -115635739,
+    "pnlPct": -16.5193912616593,
+    "peakPnlPct": 4.3446244477172264,
+    "reason": "STOPLOSS15P",
+    "buyTxid": "DRY_RUN_BUY_1778201088393",
+    "sellTxid": "DRY_RUN_SELL_1778201340145",
+    "sweepTxid": null
+  }
+]

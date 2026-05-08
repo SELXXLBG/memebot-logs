@@ -262,5 +262,27 @@
     "buyTxid": "DRY_RUN_BUY_1778233248403",
     "sellTxid": "DRY_RUN_SELL_1778233680122",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T10:10:00.255Z",
+    "token": "Dyfj1Cc6h9cunNq4YhV823vtiugGftm5f3nz8A8apump",
+    "symbol": "DCB",
+    "marketCap": 118489,
+    "liquidity": 27439.9,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.0001297,
+    "exitPrice": 0.0001184,
+    "peakPrice": 0.0001388,
+    "profitSOL": -0.060986893,
+    "profitLamports": -60986893,
+    "pnlPct": -8.712413261372399,
+    "peakPnlPct": 7.016191210485739,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1778234928460",
+    "sellTxid": "DRY_RUN_SELL_1778235000144",
+    "sweepTxid": null
   }
 ]

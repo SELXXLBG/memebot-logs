@@ -416,5 +416,27 @@
     "buyTxid": "DRY_RUN_BUY_1778256768457",
     "sellTxid": "DRY_RUN_SELL_1778257380142",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T17:13:30.222Z",
+    "token": "Bwrv4oGSfUeWWikUfcBx5L6wqbyi14sMo8YtjZrHdATo",
+    "symbol": "DATO",
+    "marketCap": 38234,
+    "liquidity": 11064.2,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 2.25,
+    "exitPrice": 1.82,
+    "peakPrice": 2.25,
+    "profitSOL": -0.133777778,
+    "profitLamports": -133777778,
+    "pnlPct": -19.11111111111111,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS15P",
+    "buyTxid": "DRY_RUN_BUY_1778260368904",
+    "sellTxid": "DRY_RUN_SELL_1778260410127",
+    "sweepTxid": null
   }
 ]

@@ -372,5 +372,27 @@
     "buyTxid": "DRY_RUN_BUY_1778245728539",
     "sellTxid": "DRY_RUN_SELL_1778246070127",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778246070303"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T15:26:00.280Z",
+    "token": "h3m9p5ufM5h93CqqU8hhgbaFmAzsSrRRJyWsX1Xpump",
+    "symbol": "JESUS",
+    "marketCap": 477938,
+    "liquidity": 56683.04,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.0003814,
+    "exitPrice": 0.0004779,
+    "peakPrice": 0.0004779,
+    "profitSOL": 0.177110644,
+    "profitLamports": 177110644,
+    "pnlPct": 25.30152071316204,
+    "peakPnlPct": 25.30152071316204,
+    "reason": "TAKEPROFIT25P",
+    "buyTxid": "DRY_RUN_BUY_1778253888461",
+    "sellTxid": "DRY_RUN_SELL_1778253960178",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778253960270"
   }
 ]

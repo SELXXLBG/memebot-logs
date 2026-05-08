@@ -284,5 +284,27 @@
     "buyTxid": "DRY_RUN_BUY_1778234928460",
     "sellTxid": "DRY_RUN_SELL_1778235000144",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T10:27:00.228Z",
+    "token": "H3xzHMJMo7okVJXmdrerBxh5BDV67AsPD81T1DwGpump",
+    "symbol": "TROLLKAHUR",
+    "marketCap": 121373,
+    "liquidity": 28074.36,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.0001236,
+    "exitPrice": 0.0001213,
+    "peakPrice": 0.0001393,
+    "profitSOL": -0.01302589,
+    "profitLamports": -13025890,
+    "pnlPct": -1.8608414239482216,
+    "peakPnlPct": 12.702265372168286,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1778235528407",
+    "sellTxid": "DRY_RUN_SELL_1778236020125",
+    "sweepTxid": null
   }
 ]

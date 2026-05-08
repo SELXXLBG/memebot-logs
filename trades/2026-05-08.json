@@ -240,5 +240,27 @@
     "buyTxid": "DRY_RUN_BUY_1778230848462",
     "sellTxid": "DRY_RUN_SELL_1778231010116",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778231010198"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T09:48:00.281Z",
+    "token": "Du1itvzho6rfroJW8BnD14HxW9bwBwdkeUMjxtFSpump",
+    "symbol": "Hitlur",
+    "marketCap": 173270,
+    "liquidity": 34428.09,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.0002077,
+    "exitPrice": 0.0001732,
+    "peakPrice": 0.0002185,
+    "profitSOL": -0.116273472,
+    "profitLamports": -116273472,
+    "pnlPct": -16.610495907558978,
+    "peakPnlPct": 5.1998074145401985,
+    "reason": "STOPLOSS15P",
+    "buyTxid": "DRY_RUN_BUY_1778233248403",
+    "sellTxid": "DRY_RUN_SELL_1778233680122",
+    "sweepTxid": null
   }
 ]

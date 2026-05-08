@@ -152,5 +152,27 @@
     "buyTxid": "DRY_RUN_BUY_1778220648489",
     "sellTxid": "DRY_RUN_SELL_1778220810104",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778220810248"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T06:27:30.211Z",
+    "token": "GG5gqSmLSsAQW1uMp4ZyHC94PyWzGvZ5PExK5DPRpump",
+    "symbol": "Antlion",
+    "marketCap": 93937,
+    "liquidity": 24731.46,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.0001097,
+    "exitPrice": 0.00009393,
+    "peakPrice": 0.0001294,
+    "profitSOL": -0.100628989,
+    "profitLamports": -100628989,
+    "pnlPct": -14.375569735642657,
+    "peakPnlPct": 17.958067456700096,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1778221608487",
+    "sellTxid": "DRY_RUN_SELL_1778221650140",
+    "sweepTxid": null
   }
 ]

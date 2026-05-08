@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1778201088393",
     "sellTxid": "DRY_RUN_SELL_1778201340145",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T01:34:00.241Z",
+    "token": "GRzVr7w2QAgn2yxphqHLEPVweuuV5T741EEH3s13pump",
+    "symbol": "MASK",
+    "marketCap": 281526,
+    "liquidity": 43136.02,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.0002221,
+    "exitPrice": 0.0002815,
+    "peakPrice": 0.0002815,
+    "profitSOL": 0.187212967,
+    "profitLamports": 187212967,
+    "pnlPct": 26.744709590274653,
+    "peakPnlPct": 26.744709590274653,
+    "reason": "TAKEPROFIT25P",
+    "buyTxid": "DRY_RUN_BUY_1778203368414",
+    "sellTxid": "DRY_RUN_SELL_1778204040128",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778204040236"
   }
 ]

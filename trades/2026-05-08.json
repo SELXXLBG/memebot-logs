@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1778203368414",
     "sellTxid": "DRY_RUN_SELL_1778204040128",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778204040236"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-08T01:39:30.223Z",
+    "token": "21rwEDi83RveK3DNgtC6Trs4vyERfqvQTN36F1dmW6ND",
+    "symbol": "Clawd",
+    "marketCap": 175629,
+    "liquidity": 34489.15,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 0,
+    "entryPrice": 0.0001737,
+    "exitPrice": 0.0001756,
+    "peakPrice": 0.0002068,
+    "profitSOL": 0.007656879,
+    "profitLamports": 7656879,
+    "pnlPct": 1.093839953943592,
+    "peakPnlPct": 19.055843408175026,
+    "reason": "PROTECT_GREEN",
+    "buyTxid": "DRY_RUN_BUY_1778204088500",
+    "sellTxid": "DRY_RUN_SELL_1778204370127",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778204370218"
   }
 ]

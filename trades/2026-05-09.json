@@ -240,5 +240,27 @@
     "buyTxid": "DRY_RUN_BUY_1778360675755",
     "sellTxid": "DRY_RUN_SELL_1778360760147",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-09T23:04:15.194Z",
+    "token": "P9ApVDdR4ffREPbpW7dqDwxyKHsfWBoDrMtxJwtpump",
+    "symbol": "MOM",
+    "marketCap": 77829,
+    "liquidity": 22872.44,
+    "volume1h": 152046.45,
+    "volume24h": 152046.45,
+    "candidateScore": 8.6182,
+    "entryPrice": 0.0000968915104860137,
+    "exitPrice": 0.00007782,
+    "peakPrice": 0.0000968915104860137,
+    "profitSOL": -0.137783561,
+    "profitLamports": -137783561,
+    "pnlPct": -19.683365849443202,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS13P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1778367755344",
+    "sellTxid": "DRY_RUN_SELL_1778367855125",
+    "sweepTxid": null
   }
 ]

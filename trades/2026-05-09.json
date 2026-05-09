@@ -196,5 +196,27 @@
     "buyTxid": "DRY_RUN_BUY_1778347235425",
     "sellTxid": "DRY_RUN_SELL_1778347470138",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-09T19:16:45.372Z",
+    "token": "A49fTbyuLNJExFxerUG2FNfRavegipuNi2GWpLyUpump",
+    "symbol": "hermes",
+    "marketCap": 77416,
+    "liquidity": 22762.46,
+    "volume1h": 108330.08,
+    "volume24h": 108330.08,
+    "candidateScore": 8.1747,
+    "entryPrice": 0.00009653802528506193,
+    "exitPrice": 0.00007741,
+    "peakPrice": 0.00009653802528506193,
+    "profitSOL": -0.138697862,
+    "profitLamports": -138697862,
+    "pnlPct": -19.813980272105017,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS12P",
+    "buyTxid": "DRY_RUN_BUY_1778354195391",
+    "sellTxid": "DRY_RUN_SELL_1778354205120",
+    "sweepTxid": null
   }
 ]

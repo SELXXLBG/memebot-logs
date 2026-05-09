@@ -262,5 +262,27 @@
     "buyTxid": "DRY_RUN_BUY_1778367755344",
     "sellTxid": "DRY_RUN_SELL_1778367855125",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-09T23:41:00.386Z",
+    "token": "H2PRkwsBnMnW8kL1NRiy53UVNysooDCXf2carZPXpump",
+    "symbol": "CONSENSUS-1",
+    "marketCap": 302729,
+    "liquidity": 47639,
+    "volume1h": 1055367.39,
+    "volume24h": 1286441.35,
+    "candidateScore": 7.6221,
+    "entryPrice": 0.00024775845192613865,
+    "exitPrice": 0.0003027,
+    "peakPrice": 0.0003027,
+    "profitSOL": 0.155228139,
+    "profitLamports": 155228139,
+    "pnlPct": 22.175448565621654,
+    "peakPnlPct": 22.175448565621654,
+    "reason": "TAKEPROFIT15P",
+    "buyTxid": "DRY_RUN_BUY_1778369795589",
+    "sellTxid": "DRY_RUN_SELL_1778370060146",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778370060374"
   }
 ]

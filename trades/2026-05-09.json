@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1778286159468",
     "sellTxid": "DRY_RUN_SELL_1778286540125",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-09T00:36:30.304Z",
+    "token": "3pLzTheHXt6qj6KbzAv3wMfoCeaZt2izrvv95a9Fpump",
+    "symbol": "lolien",
+    "marketCap": 103666,
+    "liquidity": 26769.02,
+    "volume1h": 267434.36,
+    "volume24h": 267434.36,
+    "candidateScore": 6.5558,
+    "entryPrice": 0.00012448479704402527,
+    "exitPrice": 0.0001036,
+    "peakPrice": 0.0001474,
+    "profitSOL": -0.117438903,
+    "profitLamports": -117438903,
+    "pnlPct": -16.776986057694387,
+    "peakPnlPct": 18.408033350346024,
+    "reason": "STOPLOSS15P",
+    "buyTxid": "DRY_RUN_BUY_1778286759453",
+    "sellTxid": "DRY_RUN_SELL_1778286990116",
+    "sweepTxid": null
   }
 ]

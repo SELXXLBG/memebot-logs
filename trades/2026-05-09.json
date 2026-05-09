@@ -152,5 +152,27 @@
     "buyTxid": "DRY_RUN_BUY_1778339315557",
     "sellTxid": "DRY_RUN_SELL_1778339610142",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-09T16:23:30.283Z",
+    "token": "8PtCzHBJ8u1SWydCSbADAdc4bQ2o3kMeBVjYmF5dpump",
+    "symbol": "gayaura",
+    "marketCap": 79530,
+    "liquidity": 22940.11,
+    "volume1h": 45701.75,
+    "volume24h": 45701.75,
+    "candidateScore": 6.8421,
+    "entryPrice": 0.0000914755531951748,
+    "exitPrice": 0.00007953,
+    "peakPrice": 0.00009777,
+    "profitSOL": -0.091411169,
+    "profitLamports": -91411169,
+    "pnlPct": -13.058738403786881,
+    "peakPnlPct": 6.881015293119017,
+    "reason": "STOPLOSS12P",
+    "buyTxid": "DRY_RUN_BUY_1778343755556",
+    "sellTxid": "DRY_RUN_SELL_1778343810129",
+    "sweepTxid": null
   }
 ]

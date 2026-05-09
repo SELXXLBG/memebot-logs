@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-09T00:12:30.271Z",
+    "token": "BrCk87b8mRa3ukontSaWbNtkGtKtnQpKyCEtBR19pump",
+    "symbol": "Bully",
+    "marketCap": 84521,
+    "liquidity": 23480.91,
+    "volume1h": 24352.63,
+    "volume24h": 24352.63,
+    "candidateScore": 5.9743,
+    "entryPrice": 0.00010092139667050602,
+    "exitPrice": 0.00008452,
+    "peakPrice": 0.00010092139667050602,
+    "profitSOL": -0.113761582,
+    "profitLamports": -113761582,
+    "pnlPct": -16.25165446734179,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS15P",
+    "buyTxid": "DRY_RUN_BUY_1778285079509",
+    "sellTxid": "DRY_RUN_SELL_1778285550104",
+    "sweepTxid": null
+  }
+]

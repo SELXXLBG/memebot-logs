@@ -174,5 +174,27 @@
     "buyTxid": "DRY_RUN_BUY_1778343755556",
     "sellTxid": "DRY_RUN_SELL_1778343810129",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-09T17:24:30.304Z",
+    "token": "2ryWMuYm5g3o4d3YrYz6VrhrtKGm8YV7vbJD6a5tpump",
+    "symbol": "auramaxxin",
+    "marketCap": 111858,
+    "liquidity": 27128.59,
+    "volume1h": 20352.27,
+    "volume24h": 20352.27,
+    "candidateScore": 5.8636,
+    "entryPrice": 0.00011282594500013619,
+    "exitPrice": 0.0001118,
+    "peakPrice": 0.000119,
+    "profitSOL": -0.006365216,
+    "profitLamports": -6365216,
+    "pnlPct": -0.909316558469733,
+    "peakPnlPct": 5.4721943608417085,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1778347235425",
+    "sellTxid": "DRY_RUN_SELL_1778347470138",
+    "sweepTxid": null
   }
 ]

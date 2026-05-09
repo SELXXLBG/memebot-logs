@@ -218,5 +218,27 @@
     "buyTxid": "DRY_RUN_BUY_1778354195391",
     "sellTxid": "DRY_RUN_SELL_1778354205120",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-09T21:06:00.291Z",
+    "token": "74rYCxJ5PzXmHM6PboojyqWyLFABB1hV5t3fY5cSpump",
+    "symbol": "AGI",
+    "marketCap": 31988,
+    "liquidity": 14506.54,
+    "volume1h": 45549.03,
+    "volume24h": 45549.03,
+    "candidateScore": 8.5893,
+    "entryPrice": 0.000032244327652553274,
+    "exitPrice": 0.00003198,
+    "peakPrice": 0.00003555,
+    "profitSOL": -0.005738354,
+    "profitLamports": -5738354,
+    "pnlPct": -0.8197648138349103,
+    "peakPnlPct": 10.251949995877684,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1778360675755",
+    "sellTxid": "DRY_RUN_SELL_1778360760147",
+    "sweepTxid": null
   }
 ]

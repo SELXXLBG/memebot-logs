@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1778285079509",
     "sellTxid": "DRY_RUN_SELL_1778285550104",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-09T00:29:00.303Z",
+    "token": "322bSL6UaDju2B4Nv1XAKJorRNRBFnW3pRkHxzMopump",
+    "symbol": "UFO",
+    "marketCap": 30093,
+    "liquidity": 14003.59,
+    "volume1h": 10045.49,
+    "volume24h": 50008.07,
+    "candidateScore": 3.2682,
+    "entryPrice": 0.000041901707583409357,
+    "exitPrice": 0.00003009,
+    "peakPrice": 0.00004225,
+    "profitSOL": -0.197323589,
+    "profitLamports": -197323589,
+    "pnlPct": -28.18908408421547,
+    "peakPnlPct": 0.8312129425688227,
+    "reason": "STOPLOSS15P",
+    "buyTxid": "DRY_RUN_BUY_1778286159468",
+    "sellTxid": "DRY_RUN_SELL_1778286540125",
+    "sweepTxid": null
   }
 ]

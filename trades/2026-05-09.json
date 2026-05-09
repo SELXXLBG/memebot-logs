@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1778286759453",
     "sellTxid": "DRY_RUN_SELL_1778286990116",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-09T03:26:30.384Z",
+    "token": "u9Zx9D7CfFh6nq8U7vWSUGcF4ru4BHshV9om7F2pump",
+    "symbol": "USALI",
+    "marketCap": 368535,
+    "liquidity": 50589.84,
+    "volume1h": 416705.27,
+    "volume24h": 416705.27,
+    "candidateScore": 6.746,
+    "entryPrice": 0.0003598532044626227,
+    "exitPrice": 0.0003685,
+    "peakPrice": 0.0004254,
+    "profitSOL": 0.016820072,
+    "profitLamports": 16820072,
+    "pnlPct": 2.4028674554363825,
+    "peakPnlPct": 18.214870598487472,
+    "reason": "PROTECT_GREEN",
+    "buyTxid": "DRY_RUN_BUY_1778296959472",
+    "sellTxid": "DRY_RUN_SELL_1778297190131",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778297190377"
   }
 ]

@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1778296959472",
     "sellTxid": "DRY_RUN_SELL_1778297190131",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778297190377"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-09T04:01:00.332Z",
+    "token": "8nESVCYcPuuf6nRZeSHWEKonimQdyzmzneY7FPeUpump",
+    "symbol": "Aliun",
+    "marketCap": 44310,
+    "liquidity": 17199.21,
+    "volume1h": 45875.69,
+    "volume24h": 45875.69,
+    "candidateScore": 5.089,
+    "entryPrice": 0.00005732666291607319,
+    "exitPrice": 0.00004431,
+    "peakPrice": 0.00006802,
+    "profitSOL": -0.158942865,
+    "profitLamports": -158942865,
+    "pnlPct": -22.70612356266004,
+    "peakPnlPct": 18.653339545652546,
+    "reason": "STOPLOSS15P",
+    "buyTxid": "DRY_RUN_BUY_1778299119524",
+    "sellTxid": "DRY_RUN_SELL_1778299260149",
+    "sweepTxid": null
   }
 ]

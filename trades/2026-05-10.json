@@ -196,5 +196,27 @@
     "buyTxid": "DRY_RUN_BUY_1778391275493",
     "sellTxid": "DRY_RUN_SELL_1778391315109",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T06:42:30.271Z",
+    "token": "DquiLaMuENvUi25en3uqTrQU7fYzDxoRch3ytCUMpump",
+    "symbol": "Ballscoin",
+    "marketCap": 69125,
+    "liquidity": 21746.67,
+    "volume1h": 130826.04,
+    "volume24h": 130826.04,
+    "candidateScore": 7.9201,
+    "entryPrice": 0.000059694171996826166,
+    "exitPrice": 0.00007023,
+    "peakPrice": 0.00007023,
+    "profitSOL": 0.123547732,
+    "profitLamports": 123547732,
+    "pnlPct": 17.649676091887166,
+    "peakPnlPct": 17.649676091887166,
+    "reason": "TAKEPROFIT15P",
+    "buyTxid": "DRY_RUN_BUY_1778395115514",
+    "sellTxid": "DRY_RUN_SELL_1778395350126",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778395350266"
   }
 ]

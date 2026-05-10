@@ -526,5 +526,27 @@
     "buyTxid": "DRY_RUN_BUY_1778451515790",
     "sellTxid": "DRY_RUN_SELL_1778451645143",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778451645433"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T23:04:00.337Z",
+    "token": "6qdzMx4c9rL2X3Ns3SwZ8uEo4zReDPjdXpAEmpo7pump",
+    "symbol": "BABYTROLL",
+    "marketCap": 300163,
+    "liquidity": 47806.86,
+    "volume1h": 120077.65,
+    "volume24h": 854705.88,
+    "candidateScore": 7.1171,
+    "entryPrice": 0.0003029737177785403,
+    "exitPrice": 0.0003059,
+    "peakPrice": 0.0003323,
+    "profitSOL": 0.006760974,
+    "profitLamports": 6760974,
+    "pnlPct": 0.9658534881889367,
+    "peakPnlPct": 9.679480595374903,
+    "reason": "PROTECTGREEN",
+    "buyTxid": "DRY_RUN_BUY_1778453795512",
+    "sellTxid": "DRY_RUN_SELL_1778454240135",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778454240329"
   }
 ]

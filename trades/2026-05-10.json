@@ -328,5 +328,27 @@
     "buyTxid": "DRY_RUN_BUY_1778408795519",
     "sellTxid": "DRY_RUN_SELL_1778408925168",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T10:34:30.254Z",
+    "token": "BMcReKHFc5KssDgDisZBq3YmJe5RdjnBUumxpXpRpump",
+    "symbol": "MNEMOS",
+    "marketCap": 70478,
+    "liquidity": 21846.88,
+    "volume1h": 97493.78,
+    "volume24h": 139775.48,
+    "candidateScore": 8.3278,
+    "entryPrice": 0.00007063750803763839,
+    "exitPrice": 0.00007047,
+    "peakPrice": 0.00007857,
+    "profitSOL": -0.001659963,
+    "profitLamports": -1659963,
+    "pnlPct": -0.23713752408867347,
+    "peakPnlPct": 11.229858162797697,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1778409035496",
+    "sellTxid": "DRY_RUN_SELL_1778409270154",
+    "sweepTxid": null
   }
 ]

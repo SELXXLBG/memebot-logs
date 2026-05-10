@@ -394,5 +394,27 @@
     "buyTxid": "DRY_RUN_BUY_1778422835422",
     "sellTxid": "DRY_RUN_SELL_1778422935120",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T15:14:30.285Z",
+    "token": "6PpeKAbJWB1VykZK7JoDjvSs7BZB43EEZD8h7Wnapump",
+    "symbol": "TRETARD",
+    "marketCap": 150613,
+    "liquidity": 32004.06,
+    "volume1h": 115687.65,
+    "volume24h": 115687.65,
+    "candidateScore": 8.3578,
+    "entryPrice": 0.0001155776416814363,
+    "exitPrice": 0.0001506,
+    "peakPrice": 0.0001506,
+    "profitSOL": 0.212114129,
+    "profitLamports": 212114129,
+    "pnlPct": 30.302018460538367,
+    "peakPnlPct": 30.302018460538367,
+    "reason": "TAKEPROFIT15P",
+    "buyTxid": "DRY_RUN_BUY_1778425955671",
+    "sellTxid": "DRY_RUN_SELL_1778426070131",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778426070279"
   }
 ]

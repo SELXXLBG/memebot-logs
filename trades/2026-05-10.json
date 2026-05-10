@@ -482,5 +482,27 @@
     "buyTxid": "DRY_RUN_BUY_1778448515530",
     "sellTxid": "DRY_RUN_SELL_1778448555132",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T21:45:00.251Z",
+    "token": "8M66tKkfovpTnnbcEvWCpx4hPkMiKZqd9CcS2mC6pump",
+    "symbol": "ALTGIRL",
+    "marketCap": 70007,
+    "liquidity": 22023.57,
+    "volume1h": 169208.45,
+    "volume24h": 169208.45,
+    "candidateScore": 7.9578,
+    "entryPrice": 0.00008976352750424664,
+    "exitPrice": 0.00007,
+    "peakPrice": 0.00008976352750424664,
+    "profitSOL": -0.154121275,
+    "profitLamports": -154121275,
+    "pnlPct": -22.01732491329694,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS15P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1778449475407",
+    "sellTxid": "DRY_RUN_SELL_1778449500157",
+    "sweepTxid": null
   }
 ]

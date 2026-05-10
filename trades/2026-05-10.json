@@ -130,5 +130,27 @@
     "buyTxid": "DRY_RUN_BUY_1778381315671",
     "sellTxid": "DRY_RUN_SELL_1778381415135",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778381415310"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T03:18:30.221Z",
+    "token": "eer3JN9Q6YAQyynvs4nVMfF543yCK9zGiS8iF7Mpump",
+    "symbol": "MILF",
+    "marketCap": 40492,
+    "liquidity": 16716.65,
+    "volume1h": 204313.31,
+    "volume24h": 308699.92,
+    "candidateScore": 8.7267,
+    "entryPrice": 0.00004674112472005853,
+    "exitPrice": 0.00004049,
+    "peakPrice": 0.00004674112472005853,
+    "profitSOL": -0.093617502,
+    "profitLamports": -93617502,
+    "pnlPct": -13.373928756523734,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS13P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1778382995620",
+    "sellTxid": "DRY_RUN_SELL_1778383110127",
+    "sweepTxid": null
   }
 ]

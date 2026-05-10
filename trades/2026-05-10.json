@@ -416,5 +416,27 @@
     "buyTxid": "DRY_RUN_BUY_1778425955671",
     "sellTxid": "DRY_RUN_SELL_1778426070131",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778426070279"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T15:20:15.253Z",
+    "token": "DYGSvqV1JuDmaWZVgsLGoztxMtGLR2cvwJyru3Mrtt8V",
+    "symbol": "UFOTRUMP",
+    "marketCap": 57388,
+    "liquidity": 27938.34,
+    "volume1h": 89085.15,
+    "volume24h": 89085.15,
+    "candidateScore": 8.5232,
+    "entryPrice": 0.000056483357840187855,
+    "exitPrice": 0.00005738,
+    "peakPrice": 0.0000628,
+    "profitSOL": 0.011112114,
+    "profitLamports": 11112114,
+    "pnlPct": 1.5874448582697185,
+    "peakPnlPct": 11.183191653874825,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1778426195560",
+    "sellTxid": "DRY_RUN_SELL_1778426415162",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778426415247"
   }
 ]

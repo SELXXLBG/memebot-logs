@@ -218,5 +218,27 @@
     "buyTxid": "DRY_RUN_BUY_1778395115514",
     "sellTxid": "DRY_RUN_SELL_1778395350126",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778395350266"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T07:40:45.372Z",
+    "token": "3UURQg2H7nErGh7J4SLdzUWUjzuRSeDhh6Xjfnvfpump",
+    "symbol": "BBTL",
+    "marketCap": 27009,
+    "liquidity": 13418.08,
+    "volume1h": 124591.34,
+    "volume24h": 124591.34,
+    "candidateScore": 7.0276,
+    "entryPrice": 0.00003137778210775233,
+    "exitPrice": 0.000027,
+    "peakPrice": 0.00003137778210775233,
+    "profitSOL": -0.097662973,
+    "profitLamports": -97662973,
+    "pnlPct": -13.951853233982195,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS13P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1778398835682",
+    "sellTxid": "DRY_RUN_SELL_1778398845127",
+    "sweepTxid": null
   }
 ]

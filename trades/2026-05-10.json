@@ -504,5 +504,27 @@
     "buyTxid": "DRY_RUN_BUY_1778449475407",
     "sellTxid": "DRY_RUN_SELL_1778449500157",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T22:20:45.440Z",
+    "token": "DcUt3HdRk6rqfjkySsTU8Jq1FhgnGsyCYXfw2iukpump",
+    "symbol": "MOMMATROLL",
+    "marketCap": 52740,
+    "liquidity": 18851.6,
+    "volume1h": 12824.3,
+    "volume24h": 12824.3,
+    "candidateScore": 5.8064,
+    "entryPrice": 0.00004301650925437788,
+    "exitPrice": 0.00005274,
+    "peakPrice": 0.00005274,
+    "profitSOL": 0.158228634,
+    "profitLamports": 158228634,
+    "pnlPct": 22.60409064836552,
+    "peakPnlPct": 22.60409064836552,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1778451515790",
+    "sellTxid": "DRY_RUN_SELL_1778451645143",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778451645433"
   }
 ]

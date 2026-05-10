@@ -306,5 +306,27 @@
     "buyTxid": "DRY_RUN_BUY_1778406995455",
     "sellTxid": "DRY_RUN_SELL_1778407095119",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T10:28:45.330Z",
+    "token": "VX84kGyL8NyYPmNQuU6U694sFL1iaTpXca4B6mD3F1s",
+    "symbol": "LEGO",
+    "marketCap": 54675,
+    "liquidity": 20573.64,
+    "volume1h": 191231.51,
+    "volume24h": 191231.51,
+    "candidateScore": 8.0349,
+    "entryPrice": 0.00006328654058184531,
+    "exitPrice": 0.00005479,
+    "peakPrice": 0.00006328654058184531,
+    "profitSOL": -0.093978568,
+    "profitLamports": -93978568,
+    "pnlPct": -13.425509600824457,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS13P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1778408795519",
+    "sellTxid": "DRY_RUN_SELL_1778408925168",
+    "sweepTxid": null
   }
 ]

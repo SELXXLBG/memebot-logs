@@ -262,5 +262,27 @@
     "buyTxid": "DRY_RUN_BUY_1778401115558",
     "sellTxid": "DRY_RUN_SELL_1778401170129",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T08:38:00.364Z",
+    "token": "J55K2cLficFk6JX66ZFH6gfk8Zqd32XD5NrFuaRMpump",
+    "symbol": "TEPE",
+    "marketCap": 161700,
+    "liquidity": 35492.65,
+    "volume1h": 47198.86,
+    "volume24h": 1259750.27,
+    "candidateScore": 7.2017,
+    "entryPrice": 0.00013799501172162491,
+    "exitPrice": 0.0001617,
+    "peakPrice": 0.0001617,
+    "profitSOL": 0.12024704,
+    "profitLamports": 120247040,
+    "pnlPct": 17.17814867554399,
+    "peakPnlPct": 17.17814867554399,
+    "reason": "TAKEPROFIT15P",
+    "buyTxid": "DRY_RUN_BUY_1778402195578",
+    "sellTxid": "DRY_RUN_SELL_1778402280165",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778402280359"
   }
 ]

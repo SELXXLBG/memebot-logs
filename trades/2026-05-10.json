@@ -350,5 +350,27 @@
     "buyTxid": "DRY_RUN_BUY_1778409035496",
     "sellTxid": "DRY_RUN_SELL_1778409270154",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T14:07:00.375Z",
+    "token": "3qnF9Kys1Q4tsGd6bev3B8YkX7t8UyKNpxeyt6v5pump",
+    "symbol": "STROLL",
+    "marketCap": 260640,
+    "liquidity": 44137.62,
+    "volume1h": 921008.63,
+    "volume24h": 921008.63,
+    "candidateScore": 8.3129,
+    "entryPrice": 0.00025452367528237574,
+    "exitPrice": 0.0002606,
+    "peakPrice": 0.0002812,
+    "profitSOL": 0.016711322,
+    "profitLamports": 16711322,
+    "pnlPct": 2.3873318310695475,
+    "peakPnlPct": 10.480881469289171,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1778421755638",
+    "sellTxid": "DRY_RUN_SELL_1778422020162",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778422020361"
   }
 ]

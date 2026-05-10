@@ -240,5 +240,27 @@
     "buyTxid": "DRY_RUN_BUY_1778398835682",
     "sellTxid": "DRY_RUN_SELL_1778398845127",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T08:19:30.222Z",
+    "token": "EQ9u1aQ95Zd29hD279mGpSKBJusGRAPSzxW1LcAPpump",
+    "symbol": "GLOOM",
+    "marketCap": 80893,
+    "liquidity": 23207.74,
+    "volume1h": 51005.17,
+    "volume24h": 51005.17,
+    "candidateScore": 7.4961,
+    "entryPrice": 0.00010115962873030736,
+    "exitPrice": 0.00008089,
+    "peakPrice": 0.0001038,
+    "profitSOL": -0.140260896,
+    "profitLamports": -140260896,
+    "pnlPct": -20.03727078155496,
+    "peakPnlPct": 2.610103756639817,
+    "reason": "STOPLOSS13P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1778401115558",
+    "sellTxid": "DRY_RUN_SELL_1778401170129",
+    "sweepTxid": null
   }
 ]

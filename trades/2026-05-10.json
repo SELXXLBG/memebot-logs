@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T00:10:30.268Z",
+    "token": "E5HCFKpiBJtbmy8ThS3yjsduPLopg9yuDYN7ATDWpump",
+    "symbol": "ARENA",
+    "marketCap": 24329,
+    "liquidity": 12626.12,
+    "volume1h": 25784.14,
+    "volume24h": 25784.14,
+    "candidateScore": 6.2872,
+    "entryPrice": 0.00003519154468501903,
+    "exitPrice": 0.00002432,
+    "peakPrice": 0.00003519154468501903,
+    "profitSOL": -0.216247436,
+    "profitLamports": -216247436,
+    "pnlPct": -30.892490745502915,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS13P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1778371715543",
+    "sellTxid": "DRY_RUN_SELL_1778371830136",
+    "sweepTxid": null
+  }
+]

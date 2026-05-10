@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1778374595612",
     "sellTxid": "DRY_RUN_SELL_1778374755144",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T02:32:30.221Z",
+    "token": "3rNheG16Mf1Fys1ZTcEqZzhKpkQHBMVsJzpEw2Q7pump",
+    "symbol": "AGIGUY",
+    "marketCap": 578650,
+    "liquidity": 63614.9,
+    "volume1h": 140009.24,
+    "volume24h": 599707.89,
+    "candidateScore": 9.3148,
+    "entryPrice": 0.0004983147526607721,
+    "exitPrice": 0.0005786,
+    "peakPrice": 0.0005786,
+    "profitSOL": 0.112779468,
+    "profitLamports": 112779468,
+    "pnlPct": 16.111352696371426,
+    "peakPnlPct": 16.111352696371426,
+    "reason": "TAKEPROFIT15P",
+    "buyTxid": "DRY_RUN_BUY_1778379995629",
+    "sellTxid": "DRY_RUN_SELL_1778380350138",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778380350216"
   }
 ]

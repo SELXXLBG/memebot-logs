@@ -460,5 +460,27 @@
     "buyTxid": "DRY_RUN_BUY_1778444075528",
     "sellTxid": "DRY_RUN_SELL_1778445885127",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T21:29:15.277Z",
+    "token": "5MY8A5WPXZvjeGrsMvEokVvKdXaADx4bQ6bH1Ncypump",
+    "symbol": "4chan",
+    "marketCap": 36222,
+    "liquidity": 15636.42,
+    "volume1h": 111665.1,
+    "volume24h": 111665.1,
+    "candidateScore": 7.649,
+    "entryPrice": 0.00004134642911902135,
+    "exitPrice": 0.00003622,
+    "peakPrice": 0.00004462,
+    "profitSOL": -0.08679106,
+    "profitLamports": -86791060,
+    "pnlPct": -12.398722763371465,
+    "peakPnlPct": 7.917421046338082,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1778448515530",
+    "sellTxid": "DRY_RUN_SELL_1778448555132",
+    "sweepTxid": null
   }
 ]

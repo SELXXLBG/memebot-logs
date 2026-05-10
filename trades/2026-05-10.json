@@ -438,5 +438,27 @@
     "buyTxid": "DRY_RUN_BUY_1778426195560",
     "sellTxid": "DRY_RUN_SELL_1778426415162",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778426415247"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T20:44:45.330Z",
+    "token": "4kS1dgYJ4d5ZaNf6BiiMrngAxKDqnEdKnvWCF9HYpump",
+    "symbol": "PTC",
+    "marketCap": 47226,
+    "liquidity": 17813.08,
+    "volume1h": 6404.01,
+    "volume24h": 6404.01,
+    "candidateScore": 4.5508,
+    "entryPrice": 0.00004766403462629297,
+    "exitPrice": 0.00004722,
+    "peakPrice": 0.00004921,
+    "profitSOL": -0.006521149,
+    "profitLamports": -6521149,
+    "pnlPct": -0.9315926143776977,
+    "peakPnlPct": 3.243463097129891,
+    "reason": "STALE_NO_MOMENTUM",
+    "buyTxid": "DRY_RUN_BUY_1778444075528",
+    "sellTxid": "DRY_RUN_SELL_1778445885127",
+    "sweepTxid": null
   }
 ]

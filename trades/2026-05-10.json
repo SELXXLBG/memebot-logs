@@ -174,5 +174,27 @@
     "buyTxid": "DRY_RUN_BUY_1778389235588",
     "sellTxid": "DRY_RUN_SELL_1778389665141",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T05:35:15.230Z",
+    "token": "42trmo6GFkgytKVrh5o7kSqUz5KBBFimmvBonuVMpump",
+    "symbol": "thuglife",
+    "marketCap": 15612,
+    "liquidity": 10174.4,
+    "volume1h": 85846.94,
+    "volume24h": 85846.94,
+    "candidateScore": 6.8315,
+    "entryPrice": 0.000032524269683902294,
+    "exitPrice": 0.00001561,
+    "peakPrice": 0.000032524269683902294,
+    "profitSOL": -0.364035501,
+    "profitLamports": -364035501,
+    "pnlPct": -52.005071438310935,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS13P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1778391275493",
+    "sellTxid": "DRY_RUN_SELL_1778391315109",
+    "sweepTxid": null
   }
 ]

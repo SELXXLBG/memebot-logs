@@ -152,5 +152,27 @@
     "buyTxid": "DRY_RUN_BUY_1778382995620",
     "sellTxid": "DRY_RUN_SELL_1778383110127",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T05:07:45.290Z",
+    "token": "HBzb1qjo2HHJKBnfgatjUYmgPkZVcvvnzNJBgPNMpump",
+    "symbol": "TROLLTRUMP",
+    "marketCap": 32533,
+    "liquidity": 14657.85,
+    "volume1h": 75924.43,
+    "volume24h": 75924.43,
+    "candidateScore": 7.2473,
+    "entryPrice": 0.00003624178198745165,
+    "exitPrice": 0.00003253,
+    "peakPrice": 0.00003815,
+    "profitSOL": -0.071692043,
+    "profitLamports": -71692043,
+    "pnlPct": -10.241720422954954,
+    "peakPnlPct": 5.265243340432468,
+    "reason": "STOPLOSS9P",
+    "buyTxid": "DRY_RUN_BUY_1778389235588",
+    "sellTxid": "DRY_RUN_SELL_1778389665141",
+    "sweepTxid": null
   }
 ]

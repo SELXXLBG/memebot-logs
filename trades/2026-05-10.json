@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1778371715543",
     "sellTxid": "DRY_RUN_SELL_1778371830136",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T00:51:30.433Z",
+    "token": "B8Cd5RyHdk7BkGYQajwmAYqy3EzMSJF1LpJBhdyCpump",
+    "symbol": "Momcoin",
+    "marketCap": 37828,
+    "liquidity": 15827.06,
+    "volume1h": 67032.95,
+    "volume24h": 67032.95,
+    "candidateScore": 7.6575,
+    "entryPrice": 0.000048205521547656106,
+    "exitPrice": 0.00003782,
+    "peakPrice": 0.00004962,
+    "profitSOL": -0.150809801,
+    "profitLamports": -150809801,
+    "pnlPct": -21.544257201716928,
+    "peakPnlPct": 2.934266463532687,
+    "reason": "STOPLOSS13P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1778373995540",
+    "sellTxid": "DRY_RUN_SELL_1778374290127",
+    "sweepTxid": null
   }
 ]

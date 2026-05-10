@@ -372,5 +372,27 @@
     "buyTxid": "DRY_RUN_BUY_1778421755638",
     "sellTxid": "DRY_RUN_SELL_1778422020162",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778422020361"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T14:22:15.217Z",
+    "token": "GtiBrq3taBUMtbEaKoJhirbQn1Yqd4BMxqTqoW9wpump",
+    "symbol": "MMM",
+    "marketCap": 108029,
+    "liquidity": 28416.64,
+    "volume1h": 881529.71,
+    "volume24h": 881529.71,
+    "candidateScore": 7.6083,
+    "entryPrice": 0.00012660330699475997,
+    "exitPrice": 0.000108,
+    "peakPrice": 0.00012660330699475997,
+    "profitSOL": -0.102859201,
+    "profitLamports": -102859201,
+    "pnlPct": -14.694171452827812,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS13P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1778422835422",
+    "sellTxid": "DRY_RUN_SELL_1778422935120",
+    "sweepTxid": null
   }
 ]

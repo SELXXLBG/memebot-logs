@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1778380715647",
     "sellTxid": "DRY_RUN_SELL_1778380935126",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778380935198"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T02:50:15.315Z",
+    "token": "6zE9gHyN6gwSYRTxXwvCGEqrNw9gMDo4xAhq6JWepump",
+    "symbol": "Thumb Coin",
+    "marketCap": 124287,
+    "liquidity": 28948.11,
+    "volume1h": 42298.57,
+    "volume24h": 42298.57,
+    "candidateScore": 7.5933,
+    "entryPrice": 0.00010897213379684092,
+    "exitPrice": 0.000127,
+    "peakPrice": 0.000127,
+    "profitSOL": 0.115804893,
+    "profitLamports": 115804893,
+    "pnlPct": 16.54355620563402,
+    "peakPnlPct": 16.54355620563402,
+    "reason": "TAKEPROFIT15P",
+    "buyTxid": "DRY_RUN_BUY_1778381315671",
+    "sellTxid": "DRY_RUN_SELL_1778381415135",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778381415310"
   }
 ]

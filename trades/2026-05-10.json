@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1778373995540",
     "sellTxid": "DRY_RUN_SELL_1778374290127",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T00:59:15.293Z",
+    "token": "F2qrkSfRT8iu9koCoV6u4Tm6k5iRVrAGKbTZofCkpump",
+    "symbol": "ACTAURA",
+    "marketCap": 80972,
+    "liquidity": 23400.14,
+    "volume1h": 170262.6,
+    "volume24h": 170262.6,
+    "candidateScore": 8.1296,
+    "entryPrice": 0.0001075573442602182,
+    "exitPrice": 0.00008097,
+    "peakPrice": 0.0001075573442602182,
+    "profitSOL": -0.173034591,
+    "profitLamports": -173034591,
+    "pnlPct": -24.719227164901238,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS13P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1778374595612",
+    "sellTxid": "DRY_RUN_SELL_1778374755144",
+    "sweepTxid": null
   }
 ]

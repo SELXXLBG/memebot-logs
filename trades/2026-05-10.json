@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1778379995629",
     "sellTxid": "DRY_RUN_SELL_1778380350138",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778380350216"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-10T02:42:15.204Z",
+    "token": "8AsgZgbV7qUXmkR6KBoHFgd9bi3TZXHgqF6Uhr6spump",
+    "symbol": "solaura",
+    "marketCap": 519330,
+    "liquidity": 60807.94,
+    "volume1h": 400371.24,
+    "volume24h": 1250821.8,
+    "candidateScore": 9.2,
+    "entryPrice": 0.00043291929449091547,
+    "exitPrice": 0.0005193,
+    "peakPrice": 0.0005193,
+    "profitSOL": 0.139671515,
+    "profitLamports": 139671515,
+    "pnlPct": 19.95307361171383,
+    "peakPnlPct": 19.95307361171383,
+    "reason": "TAKEPROFIT15P",
+    "buyTxid": "DRY_RUN_BUY_1778380715647",
+    "sellTxid": "DRY_RUN_SELL_1778380935126",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778380935198"
   }
 ]

@@ -152,5 +152,27 @@
     "buyTxid": "DRY_RUN_BUY_1778487995568",
     "sellTxid": "DRY_RUN_SELL_1778488080137",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778488080394"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-11T10:19:15.239Z",
+    "token": "EKatL1EDukcMwLpAEu3H6AXDnp8w6Z7R534LqWWspump",
+    "symbol": "GOBLINMODE",
+    "marketCap": 62968,
+    "liquidity": 20616.64,
+    "volume1h": 18897.21,
+    "volume24h": 18897.21,
+    "candidateScore": 6.8668,
+    "entryPrice": 0.00007593554301721645,
+    "exitPrice": 0.00006296,
+    "peakPrice": 0.00007741,
+    "profitSOL": -0.119613027,
+    "profitLamports": -119613027,
+    "pnlPct": -17.087575200818122,
+    "peakPnlPct": 1.941721786922972,
+    "reason": "STOPLOSS15P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1778494595587",
+    "sellTxid": "DRY_RUN_SELL_1778494755167",
+    "sweepTxid": null
   }
 ]

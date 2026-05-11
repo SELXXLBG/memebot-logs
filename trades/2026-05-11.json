@@ -262,5 +262,27 @@
     "buyTxid": "DRY_RUN_BUY_1778533842468",
     "sellTxid": "DRY_RUN_SELL_1778536050140",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778536050218"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-11T23:30:15.398Z",
+    "token": "33eum82LaAhtv5YkUq1BdwEviSErH5CnFxqVNLT5pump",
+    "symbol": "WORLDCUP",
+    "marketCap": 63126,
+    "liquidity": 20929.59,
+    "volume1h": 37003.56,
+    "volume24h": 178940.15,
+    "candidateScore": 9.6978,
+    "entryPrice": 0.00006698543727700283,
+    "exitPrice": 0.00006312,
+    "peakPrice": 0.00006698543727700283,
+    "profitSOL": -0.040393946,
+    "profitLamports": -40393946,
+    "pnlPct": -5.7705636241772895,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1778542122477",
+    "sellTxid": "DRY_RUN_SELL_1778542215120",
+    "sweepTxid": null
   }
 ]

@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1778462555455",
     "sellTxid": "DRY_RUN_SELL_1778463255123",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-11T03:11:30.203Z",
+    "token": "6AxUt7CycQcSwwPVex89rh4gw5SmaN9femgSBGNApump",
+    "symbol": "PROG",
+    "marketCap": 201188,
+    "liquidity": 38027.63,
+    "volume1h": 406148.35,
+    "volume24h": 406148.35,
+    "candidateScore": 7.5485,
+    "entryPrice": 0.00023924897097617892,
+    "exitPrice": 0.0002012,
+    "peakPrice": 0.00023924897097617892,
+    "profitSOL": -0.111324532,
+    "profitLamports": -111324532,
+    "pnlPct": -15.903504546302644,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS15P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1778469035671",
+    "sellTxid": "DRY_RUN_SELL_1778469090108",
+    "sweepTxid": null
   }
 ]

@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1778469035671",
     "sellTxid": "DRY_RUN_SELL_1778469090108",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-11T04:15:15.555Z",
+    "token": "42ThXy1nU42kUyNnmvigBVxysus4uqCFjPv7bN23pump",
+    "symbol": "Whisker",
+    "marketCap": 286126,
+    "liquidity": 45256.62,
+    "volume1h": 501163.53,
+    "volume24h": 501163.53,
+    "candidateScore": 8.3046,
+    "entryPrice": 0.00021874283875572225,
+    "exitPrice": 0.0002861,
+    "peakPrice": 0.0002861,
+    "profitSOL": 0.215549972,
+    "profitLamports": 215549972,
+    "pnlPct": 30.792853209470255,
+    "peakPnlPct": 30.792853209470255,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1778472755448",
+    "sellTxid": "DRY_RUN_SELL_1778472915125",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778472915547"
   }
 ]

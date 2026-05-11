@@ -174,5 +174,27 @@
     "buyTxid": "DRY_RUN_BUY_1778494595587",
     "sellTxid": "DRY_RUN_SELL_1778494755167",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-11T13:46:45.304Z",
+    "token": "FBAr3uXdSR9wfTHV6ve5zeUcoTiP1gnFE62qg9z6pump",
+    "symbol": "BABYGOBLIN",
+    "marketCap": 80237,
+    "liquidity": 23602.9,
+    "volume1h": 45856.55,
+    "volume24h": 45856.55,
+    "candidateScore": 8.6833,
+    "entryPrice": 0.00006796854787682337,
+    "exitPrice": 0.00008221,
+    "peakPrice": 0.00008221,
+    "profitSOL": 0.146671023,
+    "profitLamports": 146671023,
+    "pnlPct": 20.9530033641234,
+    "peakPnlPct": 20.9530033641234,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1778507082631",
+    "sellTxid": "DRY_RUN_SELL_1778507205137",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778507205298"
   }
 ]

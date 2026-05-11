@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-11T01:34:15.307Z",
+    "token": "ABGUVUXJyphP2rwgXApBgALtCiozxZWaAnE6grAopump",
+    "symbol": "EPICFACE",
+    "marketCap": 35208,
+    "liquidity": 15587.3,
+    "volume1h": 109187.84,
+    "volume24h": 159561.21,
+    "candidateScore": 8.6162,
+    "entryPrice": 0.000041796093468181157,
+    "exitPrice": 0.0000352,
+    "peakPrice": 0.00004391,
+    "profitSOL": -0.11047122,
+    "profitLamports": -110471220,
+    "pnlPct": -15.78160282659593,
+    "peakPnlPct": 5.057665337618531,
+    "reason": "STOPLOSS15P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1778462555455",
+    "sellTxid": "DRY_RUN_SELL_1778463255123",
+    "sweepTxid": null
+  }
+]

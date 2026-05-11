@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1778472755448",
     "sellTxid": "DRY_RUN_SELL_1778472915125",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778472915547"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-11T05:22:45.465Z",
+    "token": "dickrndLen8WLNH8VoYxQYnVvm595RjieMeCJCFgR3p",
+    "symbol": "HARAMBE",
+    "marketCap": 61494,
+    "liquidity": 30634.28,
+    "volume1h": 35677.27,
+    "volume24h": 166049.74,
+    "candidateScore": 6.8061,
+    "entryPrice": 0.00005077600258450891,
+    "exitPrice": 0.0000615,
+    "peakPrice": 0.0000615,
+    "profitSOL": 0.147841456,
+    "profitLamports": 147841456,
+    "pnlPct": 21.12020810941672,
+    "peakPnlPct": 21.12020810941672,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1778476355622",
+    "sellTxid": "DRY_RUN_SELL_1778476965118",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778476965460"
   }
 ]

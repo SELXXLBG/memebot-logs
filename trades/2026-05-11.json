@@ -240,5 +240,27 @@
     "buyTxid": "DRY_RUN_BUY_1778530122669",
     "sellTxid": "DRY_RUN_SELL_1778530155119",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-11T21:47:30.226Z",
+    "token": "9Qi5ZNHBp3qsbeGv85jC8d598ZvdC6r8CjPbkQc5pump",
+    "symbol": "CTO",
+    "marketCap": 57577,
+    "liquidity": 19943.52,
+    "volume1h": 3288.53,
+    "volume24h": 31843.01,
+    "candidateScore": 7.9021,
+    "entryPrice": 0.00004633920755315009,
+    "exitPrice": 0.00005757,
+    "peakPrice": 0.00005757,
+    "profitSOL": 0.169652333,
+    "profitLamports": 169652333,
+    "pnlPct": 24.23604770100659,
+    "peakPnlPct": 24.23604770100659,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1778533842468",
+    "sellTxid": "DRY_RUN_SELL_1778536050140",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778536050218"
   }
 ]

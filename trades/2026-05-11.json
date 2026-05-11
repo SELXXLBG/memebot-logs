@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1778476355622",
     "sellTxid": "DRY_RUN_SELL_1778476965118",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778476965460"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-11T05:25:30.381Z",
+    "token": "7Kv3rmKREfYNbZWHjCX8T4TeJZ7FQyXHPnsqN8Vkpump",
+    "symbol": "ASSINU",
+    "marketCap": 60754,
+    "liquidity": 20676.6,
+    "volume1h": 415662.99,
+    "volume24h": 415662.99,
+    "candidateScore": 7.0836,
+    "entryPrice": 0.00005017721341278654,
+    "exitPrice": 0.00006075,
+    "peakPrice": 0.00006075,
+    "profitSOL": 0.147496245,
+    "profitLamports": 147496245,
+    "pnlPct": 21.070892279799704,
+    "peakPnlPct": 21.070892279799704,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1778477075525",
+    "sellTxid": "DRY_RUN_SELL_1778477130123",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778477130375"
   }
 ]

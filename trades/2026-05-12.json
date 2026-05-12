@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-12T03:11:30.176Z",
+    "token": "yKTt93ZEjR6fmtysU41Vyt63vWtrkgxjCfiVMH4pump",
+    "symbol": "DBALLS",
+    "marketCap": 197736,
+    "liquidity": 37524.76,
+    "volume1h": 431339.04,
+    "volume24h": 431339.04,
+    "candidateScore": 10.0312,
+    "entryPrice": 0.0002192851795395301,
+    "exitPrice": 0.0001977,
+    "peakPrice": 0.0002301,
+    "profitSOL": -0.068903999,
+    "profitLamports": -68903999,
+    "pnlPct": -9.843428354280997,
+    "peakPnlPct": 4.931851976125152,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1778555442585",
+    "sellTxid": "DRY_RUN_SELL_1778555490108",
+    "sweepTxid": null
+  }
+]

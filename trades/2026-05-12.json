@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1778563482778",
     "sellTxid": "DRY_RUN_SELL_1778563500121",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-12T08:00:45.179Z",
+    "token": "FSJjkoszKtrfacrv13oG8Mo5xVzWf2TewFUfqMpGpump",
+    "symbol": "USDRC",
+    "marketCap": 179385,
+    "liquidity": 36657.08,
+    "volume1h": 837170.99,
+    "volume24h": 837170.99,
+    "candidateScore": 10.2973,
+    "entryPrice": 0.0001999480942168115,
+    "exitPrice": 0.0001793,
+    "peakPrice": 0.0001999480942168115,
+    "profitSOL": -0.072287091,
+    "profitLamports": -72287091,
+    "pnlPct": -10.32672719271931,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1778572842502",
+    "sellTxid": "DRY_RUN_SELL_1778572845124",
+    "sweepTxid": null
   }
 ]

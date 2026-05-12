@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1778584722606",
     "sellTxid": "DRY_RUN_SELL_1778584905130",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778584905314"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-12T12:00:45.228Z",
+    "token": "9fpGNwbUj8zRETtHn3TM4X8w2mi7LKbRkBU3rDt2pump",
+    "symbol": "GRIM",
+    "marketCap": 129792,
+    "liquidity": 29831.3,
+    "volume1h": 123473.08,
+    "volume24h": 159595.44,
+    "candidateScore": 11.5635,
+    "entryPrice": 0.00014799152485380344,
+    "exitPrice": 0.0001297,
+    "peakPrice": 0.00014799152485380344,
+    "profitSOL": -0.086518924,
+    "profitLamports": -86518924,
+    "pnlPct": -12.359846195160909,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1778587242717",
+    "sellTxid": "DRY_RUN_SELL_1778587245136",
+    "sweepTxid": null
   }
 ]

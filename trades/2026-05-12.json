@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1778572842502",
     "sellTxid": "DRY_RUN_SELL_1778572845124",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-12T11:21:45.319Z",
+    "token": "Dpse6VGe8eYUiSuikDv5M5JJ86JoWhAm49CyW7V9pump",
+    "symbol": "Ker",
+    "marketCap": 93982,
+    "liquidity": 25407.84,
+    "volume1h": 152161.1,
+    "volume24h": 182141.18,
+    "candidateScore": 9.5243,
+    "entryPrice": 0.0000724950586860996,
+    "exitPrice": 0.00009398,
+    "peakPrice": 0.00009398,
+    "profitSOL": 0.207454951,
+    "profitLamports": 207454951,
+    "pnlPct": 29.636421713829144,
+    "peakPnlPct": 29.636421713829144,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1778584722606",
+    "sellTxid": "DRY_RUN_SELL_1778584905130",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778584905314"
   }
 ]

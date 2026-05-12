@@ -130,5 +130,27 @@
     "buyTxid": "DRY_RUN_BUY_1778587242717",
     "sellTxid": "DRY_RUN_SELL_1778587245136",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-12T16:37:00.373Z",
+    "token": "DsJN86Gv5RHoAs9KXinA8bZdoJhC1bcKXj3VQtX6pump",
+    "symbol": "SNIPER",
+    "marketCap": 80576,
+    "liquidity": 23613.58,
+    "volume1h": 184385.93,
+    "volume24h": 216883.54,
+    "candidateScore": 10.1326,
+    "entryPrice": 0.00008857562471108154,
+    "exitPrice": 0.00008057,
+    "peakPrice": 0.00008857562471108154,
+    "profitSOL": -0.063267263,
+    "profitLamports": -63267263,
+    "pnlPct": -9.038180354013328,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1778603802694",
+    "sellTxid": "DRY_RUN_SELL_1778603820170",
+    "sweepTxid": null
   }
 ]

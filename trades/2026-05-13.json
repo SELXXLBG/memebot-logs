@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1778657785560",
     "sellTxid": "DRY_RUN_SELL_1778657850139",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-13T19:06:30.331Z",
+    "token": "86HftmUzrfoUy9d4mk3rHwH9RFyg1GzHHXxTR96pBAGS",
+    "symbol": "BP",
+    "marketCap": 61866,
+    "liquidity": 17976.34,
+    "volume1h": 10816.21,
+    "volume24h": 10816.21,
+    "candidateScore": 7.8246,
+    "entryPrice": 0.000050296970715514766,
+    "exitPrice": 0.00006186,
+    "peakPrice": 0.00006186,
+    "profitSOL": 0.1609266,
+    "profitLamports": 160926600,
+    "pnlPct": 22.98951431863959,
+    "peakPnlPct": 22.98951431863959,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1778698825735",
+    "sellTxid": "DRY_RUN_SELL_1778699190136",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778699190325"
   }
 ]

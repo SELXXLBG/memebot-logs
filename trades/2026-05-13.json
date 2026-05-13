@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1778698825735",
     "sellTxid": "DRY_RUN_SELL_1778699190136",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778699190325"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-13T22:09:15.235Z",
+    "token": "C58dayZn6J7KSV21CRh59jDCGbTESKHKYQCiNNWWBJbm",
+    "symbol": "SC",
+    "marketCap": 39973,
+    "liquidity": 17016.76,
+    "volume1h": 112097,
+    "volume24h": 780161.1,
+    "candidateScore": 8.1964,
+    "entryPrice": 0.000041269050059705575,
+    "exitPrice": 0.00003997,
+    "peakPrice": 0.000041269050059705575,
+    "profitSOL": -0.02203431,
+    "profitLamports": -22034310,
+    "pnlPct": -3.147758569257564,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1778710124448",
+    "sellTxid": "DRY_RUN_SELL_1778710155105",
+    "sweepTxid": null
   }
 ]

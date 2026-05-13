@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-13T07:37:30.342Z",
+    "token": "24yzjAnvauPiwSGq6E4TtgduhwcVPZpFWg1jgfk7pump",
+    "symbol": "TROLLESS",
+    "marketCap": 156530,
+    "liquidity": 32846.09,
+    "volume1h": 145818.67,
+    "volume24h": 246212.27,
+    "candidateScore": 8.2931,
+    "entryPrice": 0.00016857965434733128,
+    "exitPrice": 0.0001565,
+    "peakPrice": 0.00016857965434733128,
+    "profitSOL": -0.050158829,
+    "profitLamports": -50158829,
+    "pnlPct": -7.165546989699652,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1778657785560",
+    "sellTxid": "DRY_RUN_SELL_1778657850139",
+    "sweepTxid": null
+  }
+]

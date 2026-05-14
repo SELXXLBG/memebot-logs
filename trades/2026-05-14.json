@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1778793284871",
     "sellTxid": "DRY_RUN_SELL_1778793975217",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778793975490"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-14T22:20:45.264Z",
+    "token": "EjvsudvUcxrZwCWARwdS9BmEPisvZLjmnkdegeRbpump",
+    "symbol": "JOE",
+    "marketCap": 199803,
+    "liquidity": 38978.03,
+    "volume1h": 233463.77,
+    "volume24h": 1326079.85,
+    "candidateScore": 7.4615,
+    "entryPrice": 0.00020643260971661356,
+    "exitPrice": 0.0001998,
+    "peakPrice": 0.00020643260971661356,
+    "profitSOL": -0.022490763,
+    "profitLamports": -22490763,
+    "pnlPct": -3.2129660743613453,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1778797244562",
+    "sellTxid": "DRY_RUN_SELL_1778797245127",
+    "sweepTxid": null
   }
 ]

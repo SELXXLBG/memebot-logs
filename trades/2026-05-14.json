@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-14T01:25:15.261Z",
+    "token": "CSq7XNj3UVyfZ8AY6E4APxyuuNvYgu3Wtb7pQwdpgBBc",
+    "symbol": "MKULTRA",
+    "marketCap": 56626,
+    "liquidity": 19110.07,
+    "volume1h": 41106.93,
+    "volume24h": 41106.93,
+    "candidateScore": 8.4313,
+    "entryPrice": 0.00004688776333083126,
+    "exitPrice": 0.00005662,
+    "peakPrice": 0.00005662,
+    "profitSOL": 0.145295172,
+    "profitLamports": 145295172,
+    "pnlPct": 20.75645323599656,
+    "peakPnlPct": 20.75645323599656,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1778721884778",
+    "sellTxid": "DRY_RUN_SELL_1778721915178",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778721915255"
+  }
+]

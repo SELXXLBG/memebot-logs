@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1778721884778",
     "sellTxid": "DRY_RUN_SELL_1778721915178",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1778721915255"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-14T09:07:00.268Z",
+    "token": "AByd79m4DZQBFTcRLguzu4usK8hvyaCbDtwZNJfYpump",
+    "symbol": "YILONG",
+    "marketCap": 143765,
+    "liquidity": 31333.28,
+    "volume1h": 187267.63,
+    "volume24h": 430105.12,
+    "candidateScore": 7.8175,
+    "entryPrice": 0.00016133356098076306,
+    "exitPrice": 0.0001437,
+    "peakPrice": 0.00016133356098076306,
+    "profitSOL": -0.076509145,
+    "profitLamports": -76509145,
+    "pnlPct": -10.929877747423946,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1778749604476",
+    "sellTxid": "DRY_RUN_SELL_1778749620168",
+    "sweepTxid": null
   }
 ]

@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1778838044733",
     "sellTxid": "DRY_RUN_SELL_1778838060148",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-15T18:45:45.304Z",
+    "token": "C2U9BWSV9cxCu9cB8zDKKuAE27ZX9UFiFeEZxoTfpump",
+    "symbol": "ICED",
+    "marketCap": 121565,
+    "liquidity": 29425.56,
+    "volume1h": 186690.92,
+    "volume24h": 880018.93,
+    "candidateScore": 6.9054,
+    "entryPrice": 0.00012213973780266998,
+    "exitPrice": 0.0001215,
+    "peakPrice": 0.0001413,
+    "profitSOL": -0.003666428,
+    "profitLamports": -3666428,
+    "pnlPct": -0.5237753201202626,
+    "peakPnlPct": 15.687164998082356,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1778870444600",
+    "sellTxid": "DRY_RUN_SELL_1778870745145",
+    "sweepTxid": null
   }
 ]

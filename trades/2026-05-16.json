@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-16T13:47:30.381Z",
+    "token": "DJu5KQXB5oTaB6U5XUps3BsEKt9Zin35YEjBmJKjpump",
+    "symbol": "BABYYAE",
+    "marketCap": 36942,
+    "liquidity": 15336.97,
+    "volume1h": 18719.16,
+    "volume24h": 18719.16,
+    "candidateScore": 9.3075,
+    "entryPrice": 0.00004120022967707852,
+    "exitPrice": 0.0000387,
+    "peakPrice": 0.00004120022967707852,
+    "profitSOL": -0.042479394,
+    "profitLamports": -42479394,
+    "pnlPct": -6.068484803786204,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1778939209801",
+    "sellTxid": "DRY_RUN_SELL_1778939250145",
+    "sweepTxid": null
+  }
+]

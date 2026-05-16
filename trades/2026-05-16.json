@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1778943649512",
     "sellTxid": "DRY_RUN_SELL_1778944110176",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-16T23:21:30.191Z",
+    "token": "DvyN8Z3eHiD1MDFX9B12oA44TpHJrZQ4aMZky4xUpump",
+    "symbol": "BABYFWOG",
+    "marketCap": 43593,
+    "liquidity": 16487.01,
+    "volume1h": 18600.62,
+    "volume24h": 18600.62,
+    "candidateScore": 9.5637,
+    "entryPrice": 0.00005005680988392492,
+    "exitPrice": 0.00004439,
+    "peakPrice": 0.00005005680988392492,
+    "profitSOL": -0.079245301,
+    "profitLamports": -79245301,
+    "pnlPct": -11.32075714985733,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1778973649765",
+    "sellTxid": "DRY_RUN_SELL_1778973690121",
+    "sweepTxid": null
   }
 ]

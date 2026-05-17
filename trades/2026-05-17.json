@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1779033649666",
     "sellTxid": "DRY_RUN_SELL_1779033690132",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-17T16:15:30.281Z",
+    "token": "9R8rrjXxcfQPmLTCLhmVpjr2uesjjkcgkinE6Lwdpump",
+    "symbol": "Dulus",
+    "marketCap": 62491,
+    "liquidity": 19936.37,
+    "volume1h": 16877.35,
+    "volume24h": 218124.35,
+    "candidateScore": 6.8216,
+    "entryPrice": 0.00006582150312122454,
+    "exitPrice": 0.00006249,
+    "peakPrice": 0.00006582150312122454,
+    "profitSOL": -0.035429945,
+    "profitLamports": -35429945,
+    "pnlPct": -5.061420604583958,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779034489558",
+    "sellTxid": "DRY_RUN_SELL_1779034530150",
+    "sweepTxid": null
   }
 ]

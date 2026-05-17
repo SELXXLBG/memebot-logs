@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1779034489558",
     "sellTxid": "DRY_RUN_SELL_1779034530150",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-17T22:19:00.269Z",
+    "token": "HrFXk7njd9oskCXonJ72mA2nxpWbyXZA8tPSmMENpump",
+    "symbol": "DWXRP",
+    "marketCap": 45319,
+    "liquidity": 16664.6,
+    "volume1h": 46618.55,
+    "volume24h": 46618.55,
+    "candidateScore": 10.2034,
+    "entryPrice": 0.00004885511371585429,
+    "exitPrice": 0.00004531,
+    "peakPrice": 0.00005602,
+    "profitSOL": -0.050794675,
+    "profitLamports": -50794675,
+    "pnlPct": -7.2563820779806,
+    "peakPnlPct": 14.665581019455468,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1779056089639",
+    "sellTxid": "DRY_RUN_SELL_1779056340129",
+    "sweepTxid": null
   }
 ]

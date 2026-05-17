@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-17T00:37:30.411Z",
+    "token": "GuPrkDohLfMUpYrhdV7AuZ1g35Ezwxgv2Fs7GacCpump",
+    "symbol": "BINKY",
+    "marketCap": 36887,
+    "liquidity": 15034.46,
+    "volume1h": 41655.15,
+    "volume24h": 41655.15,
+    "candidateScore": 9.9873,
+    "entryPrice": 0.000038634861548030674,
+    "exitPrice": 0.00003688,
+    "peakPrice": 0.0000388,
+    "profitSOL": -0.031795199,
+    "profitLamports": -31795199,
+    "pnlPct": -4.542171183528223,
+    "peakPnlPct": 0.4274337873943913,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1778978209570",
+    "sellTxid": "DRY_RUN_SELL_1778978250176",
+    "sweepTxid": null
+  }
+]

@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1779120649620",
     "sellTxid": "DRY_RUN_SELL_1779120660136",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779120660229"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-18T19:34:00.315Z",
+    "token": "9Y5XZwx1dSDZg3sqsahfg1L2ibnNCDMvZkqz9CSJUR5Y",
+    "symbol": "NPCTOMAIN",
+    "marketCap": 84477,
+    "liquidity": 22463.26,
+    "volume1h": 15997.53,
+    "volume24h": 21385.97,
+    "candidateScore": 7.0033,
+    "entryPrice": 0.00008714989928137724,
+    "exitPrice": 0.00008447,
+    "peakPrice": 0.00008714989928137724,
+    "profitSOL": -0.021525321,
+    "profitLamports": -21525321,
+    "pnlPct": -3.0750457584865014,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779132769810",
+    "sellTxid": "DRY_RUN_SELL_1779132840216",
+    "sweepTxid": null
   }
 ]

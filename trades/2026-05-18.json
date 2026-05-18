@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1779134329540",
     "sellTxid": "DRY_RUN_SELL_1779134340150",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-18T23:17:00.228Z",
+    "token": "9mTxwi3r1NA3NwJobe1ooDE4H9McCbwTftdQsVyepump",
+    "symbol": "BRNDB",
+    "marketCap": 85086,
+    "liquidity": 22982.04,
+    "volume1h": 23923.41,
+    "volume24h": 182852.1,
+    "candidateScore": 6.505,
+    "entryPrice": 0.00009648642755685498,
+    "exitPrice": 0.00008508,
+    "peakPrice": 0.00009648642755685498,
+    "profitSOL": -0.082752565,
+    "profitLamports": -82752565,
+    "pnlPct": -11.821794884191036,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779146089645",
+    "sellTxid": "DRY_RUN_SELL_1779146220158",
+    "sweepTxid": null
   }
 ]

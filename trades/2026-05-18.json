@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-18T05:58:00.309Z",
+    "token": "oGU32wdsj9uF8mg6Te3PAjrDr7rxjc6X9htamSigBTC",
+    "symbol": "gBTC",
+    "marketCap": 46737,
+    "liquidity": 16716.3,
+    "volume1h": 3600.79,
+    "volume24h": 3600.79,
+    "candidateScore": 7.4807,
+    "entryPrice": 0.000035470852892420566,
+    "exitPrice": 0.00004673,
+    "peakPrice": 0.00004673,
+    "profitSOL": 0.222193782,
+    "profitLamports": 222193782,
+    "pnlPct": 31.741968939194294,
+    "peakPnlPct": 31.741968939194294,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1779083809546",
+    "sellTxid": "DRY_RUN_SELL_1779083880171",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779083880301"
+  }
+]

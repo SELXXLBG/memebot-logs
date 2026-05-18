@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1779099649527",
     "sellTxid": "DRY_RUN_SELL_1779099810149",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779099810288"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-18T16:11:00.244Z",
+    "token": "DiWdBtCtTq6qRCRketLqgF352QS3rcB6byWjJhkZpump",
+    "symbol": "GRANDPATROLL",
+    "marketCap": 42547,
+    "liquidity": 15903.66,
+    "volume1h": 18027.9,
+    "volume24h": 18027.9,
+    "candidateScore": 6.9555,
+    "entryPrice": 0.00003437149493743057,
+    "exitPrice": 0.00004254,
+    "peakPrice": 0.00004254,
+    "profitSOL": 0.166357429,
+    "profitLamports": 166357429,
+    "pnlPct": 23.765347062847493,
+    "peakPnlPct": 23.765347062847493,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1779120649620",
+    "sellTxid": "DRY_RUN_SELL_1779120660136",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779120660229"
   }
 ]

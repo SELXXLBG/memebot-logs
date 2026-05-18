@@ -130,5 +130,27 @@
     "buyTxid": "DRY_RUN_BUY_1779146089645",
     "sellTxid": "DRY_RUN_SELL_1779146220158",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-18T23:47:00.249Z",
+    "token": "yxqegfnoem8mMuRSqu8ouD8qsw32GpuMMXgTZGwpump",
+    "symbol": "TYGR",
+    "marketCap": 118111,
+    "liquidity": 29484.54,
+    "volume1h": 64837.63,
+    "volume24h": 937923.82,
+    "candidateScore": 5.2517,
+    "entryPrice": 0.00012641209332176187,
+    "exitPrice": 0.0001181,
+    "peakPrice": 0.0001281,
+    "profitSOL": -0.046027759,
+    "profitLamports": -46027759,
+    "pnlPct": -6.575394096674563,
+    "peakPnlPct": 1.335241458221748,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779147889589",
+    "sellTxid": "DRY_RUN_SELL_1779148020177",
+    "sweepTxid": null
   }
 ]

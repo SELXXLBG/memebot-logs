@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1779187729501",
     "sellTxid": "DRY_RUN_SELL_1779187770115",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-19T22:39:30.161Z",
+    "token": "fXMo81RKHLV73gPjb3B726hEXsAWQyRwvzpyXd3pump",
+    "symbol": "Crime",
+    "marketCap": 40323,
+    "liquidity": 16473.38,
+    "volume1h": 49408.12,
+    "volume24h": 675850.11,
+    "candidateScore": 7.9327,
+    "entryPrice": 0.00004435880646981088,
+    "exitPrice": 0.00004032,
+    "peakPrice": 0.00004435880646981088,
+    "profitSOL": -0.063734009,
+    "profitLamports": -63734009,
+    "pnlPct": -9.104858293605252,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779230329755",
+    "sellTxid": "DRY_RUN_SELL_1779230370114",
+    "sweepTxid": null
   }
 ]

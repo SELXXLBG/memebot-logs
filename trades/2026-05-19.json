@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1779163729614",
     "sellTxid": "DRY_RUN_SELL_1779163800183",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-19T06:19:00.215Z",
+    "token": "3iE8Tu1jm9NXfTiQa45Q52BW6cXZAGzqfmTSAMVHpump",
+    "symbol": "MEMERIES",
+    "marketCap": 38380,
+    "liquidity": 15200.13,
+    "volume1h": 25674.74,
+    "volume24h": 25674.74,
+    "candidateScore": 9.0868,
+    "entryPrice": 0.00003963903242861439,
+    "exitPrice": 0.00003838,
+    "peakPrice": 0.00003963903242861439,
+    "profitSOL": -0.022233709,
+    "profitLamports": -22233709,
+    "pnlPct": -3.1762440995041192,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779171529669",
+    "sellTxid": "DRY_RUN_SELL_1779171540144",
+    "sweepTxid": null
   }
 ]

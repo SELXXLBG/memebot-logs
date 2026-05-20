@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1779279649712",
     "sellTxid": "DRY_RUN_SELL_1779279660122",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-20T14:10:30.176Z",
+    "token": "GdbPQFicLpH6AEwNtPqj25Dzja1bgDT3CocW6N2ypump",
+    "symbol": "memorial",
+    "marketCap": 40263,
+    "liquidity": 15490.11,
+    "volume1h": 2466.17,
+    "volume24h": 2466.17,
+    "candidateScore": 9.4782,
+    "entryPrice": 0.00004168126258685725,
+    "exitPrice": 0.00004026,
+    "peakPrice": 0.00004168126258685725,
+    "profitSOL": -0.023868851,
+    "profitLamports": -23868851,
+    "pnlPct": -3.4098357358910683,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779286129700",
+    "sellTxid": "DRY_RUN_SELL_1779286230128",
+    "sweepTxid": null
   }
 ]

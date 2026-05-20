@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1779240169510",
     "sellTxid": "DRY_RUN_SELL_1779241380141",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779241380224"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-20T09:37:00.384Z",
+    "token": "HbugFhaL4ijduGiHcY4uT6CNgX58Qac9djsAFo7Dpump",
+    "symbol": "PTROLL",
+    "marketCap": 48135,
+    "liquidity": 17104.65,
+    "volume1h": 8786.36,
+    "volume24h": 24021.75,
+    "candidateScore": 8.0469,
+    "entryPrice": 0.00004834637478209723,
+    "exitPrice": 0.00004864,
+    "peakPrice": 0.00005376,
+    "profitSOL": 0.004251356,
+    "profitLamports": 4251356,
+    "pnlPct": 0.6073365774086985,
+    "peakPnlPct": 11.1975825329254,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1779269209552",
+    "sellTxid": "DRY_RUN_SELL_1779269820158",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779269820373"
   }
 ]

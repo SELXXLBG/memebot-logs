@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-20T01:43:00.232Z",
+    "token": "8EDiaqWpQ7geFrYMrZoAjCxQA3LUg4pC7ygkVt3pump",
+    "symbol": "FOR",
+    "marketCap": 35392,
+    "liquidity": 14461.92,
+    "volume1h": 4401.34,
+    "volume24h": 4401.34,
+    "candidateScore": 9.0713,
+    "entryPrice": 0.00003498366093185592,
+    "exitPrice": 0.00003539,
+    "peakPrice": 0.00003596,
+    "profitSOL": 0.008130576,
+    "profitLamports": 8130576,
+    "pnlPct": 1.1615109949058295,
+    "peakPnlPct": 2.79084304540305,
+    "reason": "STALE_NO_MOMENTUM",
+    "buyTxid": "DRY_RUN_BUY_1779240169510",
+    "sellTxid": "DRY_RUN_SELL_1779241380141",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779241380224"
+  }
+]

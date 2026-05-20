@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1779286129700",
     "sellTxid": "DRY_RUN_SELL_1779286230128",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-20T15:16:30.172Z",
+    "token": "8P2fEWMK9mPaVQgsKTWiFRkN7vqsCENy3VW8cFHvpump",
+    "symbol": "AJAK",
+    "marketCap": 151518,
+    "liquidity": 30496.48,
+    "volume1h": 27331.54,
+    "volume24h": 120356.32,
+    "candidateScore": 6.6395,
+    "entryPrice": 0.00015699722656546447,
+    "exitPrice": 0.0001515,
+    "peakPrice": 0.0001646,
+    "profitSOL": -0.024510361,
+    "profitLamports": -24510361,
+    "pnlPct": -3.5014800488671365,
+    "peakPnlPct": 4.842616395752269,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779290089567",
+    "sellTxid": "DRY_RUN_SELL_1779290190127",
+    "sweepTxid": null
   }
 ]

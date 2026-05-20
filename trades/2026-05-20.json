@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1779269209552",
     "sellTxid": "DRY_RUN_SELL_1779269820158",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779269820373"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-20T12:21:00.192Z",
+    "token": "HfAFNsnjmbWMMRkwNeUUoHJ8V6UnUGFzkpu3Seajpump",
+    "symbol": "HENRY",
+    "marketCap": 219937,
+    "liquidity": 36934.05,
+    "volume1h": 34513.19,
+    "volume24h": 277006.36,
+    "candidateScore": 5.9037,
+    "entryPrice": 0.0002268944476369166,
+    "exitPrice": 0.0002199,
+    "peakPrice": 0.0002268944476369166,
+    "profitSOL": -0.021578816,
+    "profitLamports": -21578816,
+    "pnlPct": -3.0826878796564134,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779279649712",
+    "sellTxid": "DRY_RUN_SELL_1779279660122",
+    "sweepTxid": null
   }
 ]

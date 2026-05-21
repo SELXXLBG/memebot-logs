@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1779338569387",
     "sellTxid": "DRY_RUN_SELL_1779338820183",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779338820273"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-21T08:46:00.263Z",
+    "token": "BCJS9gNKpXXTHKRb2b3rkrbuXZimZkYijeTez28wpump",
+    "symbol": "BEZOS",
+    "marketCap": 35587,
+    "liquidity": 15216.07,
+    "volume1h": 18295.4,
+    "volume24h": 394434.97,
+    "candidateScore": 5.9221,
+    "entryPrice": 0.00003300784195046845,
+    "exitPrice": 0.00003558,
+    "peakPrice": 0.00003852,
+    "profitSOL": 0.054547965,
+    "profitLamports": 54547965,
+    "pnlPct": 7.792566546432609,
+    "peakPnlPct": 16.69954084790848,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1779352969623",
+    "sellTxid": "DRY_RUN_SELL_1779353160162",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779353160247"
   }
 ]

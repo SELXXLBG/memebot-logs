@@ -152,5 +152,27 @@
     "buyTxid": "DRY_RUN_BUY_1779377449738",
     "sellTxid": "DRY_RUN_SELL_1779377460126",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-21T20:45:00.248Z",
+    "token": "3wJppbwtoQqipcVwS8HJCLWf5sTkv4U5QBhyBhq9pump",
+    "symbol": "ubc",
+    "marketCap": 2070,
+    "liquidity": 3579.24,
+    "volume1h": 17936.1,
+    "volume24h": 17936.1,
+    "candidateScore": 9.157,
+    "entryPrice": 0.000044944106521504,
+    "exitPrice": 0.000002069,
+    "peakPrice": 0.00004656,
+    "profitSOL": -0.667775531,
+    "profitLamports": -667775531,
+    "pnlPct": -95.39650432474376,
+    "peakPnlPct": 3.5953400869652574,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779396049611",
+    "sellTxid": "DRY_RUN_SELL_1779396300150",
+    "sweepTxid": null
   }
 ]

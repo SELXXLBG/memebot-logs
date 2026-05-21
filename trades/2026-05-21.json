@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-21T04:12:00.261Z",
+    "token": "9Do1bmSUm22nnsfMSzjNebUUDDiL3cZycW5HEoonpump",
+    "symbol": "PWHALE",
+    "marketCap": 40969,
+    "liquidity": 15888.04,
+    "volume1h": 20120.36,
+    "volume24h": 34378.01,
+    "candidateScore": 7.6939,
+    "entryPrice": 0.00004485288970367322,
+    "exitPrice": 0.00004098,
+    "peakPrice": 0.0000507,
+    "profitSOL": -0.060442545,
+    "profitLamports": -60442545,
+    "pnlPct": -8.634649248376192,
+    "peakPnlPct": 13.036195293004571,
+    "reason": "STOPLOSS6P",
+    "buyTxid": "DRY_RUN_BUY_1779336169686",
+    "sellTxid": "DRY_RUN_SELL_1779336720180",
+    "sweepTxid": null
+  }
+]

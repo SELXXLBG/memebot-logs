@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1779365689606",
     "sellTxid": "DRY_RUN_SELL_1779365700168",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-21T12:48:00.313Z",
+    "token": "HXHWVuUf9LDJ7UfidZZ9gibUVBJtWh3SXoHAtaNgpump",
+    "symbol": "Glove",
+    "marketCap": 41733,
+    "liquidity": 15953.13,
+    "volume1h": 30450.83,
+    "volume24h": 30450.83,
+    "candidateScore": 8.9643,
+    "entryPrice": 0.00004771164080014788,
+    "exitPrice": 0.00004188,
+    "peakPrice": 0.00004799,
+    "profitSOL": -0.085558755,
+    "profitLamports": -85558755,
+    "pnlPct": -12.222679208571268,
+    "peakPnlPct": 0.5834198849251421,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779367609707",
+    "sellTxid": "DRY_RUN_SELL_1779367680207",
+    "sweepTxid": null
   }
 ]

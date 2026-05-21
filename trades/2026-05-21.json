@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1779352969623",
     "sellTxid": "DRY_RUN_SELL_1779353160162",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779353160247"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-21T09:44:30.205Z",
+    "token": "ANtHE9jZzZjMAgpgpRDEXPeX9mM9H77zvGjejojFpump",
+    "symbol": "shibcorn",
+    "marketCap": 44477,
+    "liquidity": 17470.43,
+    "volume1h": 28154.94,
+    "volume24h": 28154.94,
+    "candidateScore": 9.6414,
+    "entryPrice": 0.00005093175003003845,
+    "exitPrice": 0.00004984,
+    "peakPrice": 0.00005382,
+    "profitSOL": -0.015004885,
+    "profitLamports": -15004885,
+    "pnlPct": -2.143554912985631,
+    "peakPnlPct": 5.670824128874678,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1779356569623",
+    "sellTxid": "DRY_RUN_SELL_1779356670157",
+    "sweepTxid": null
   }
 ]

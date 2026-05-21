@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1779356569623",
     "sellTxid": "DRY_RUN_SELL_1779356670157",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-21T12:15:00.293Z",
+    "token": "6fofdVZxhwH4FPn9BeAF7HaDRGN1KftmvkqsVNkhpump",
+    "symbol": "PERPFLOW",
+    "marketCap": 43824,
+    "liquidity": 16317.12,
+    "volume1h": 45723.15,
+    "volume24h": 45723.15,
+    "candidateScore": 10.1374,
+    "entryPrice": 0.000048540544210609546,
+    "exitPrice": 0.00004382,
+    "peakPrice": 0.000048540544210609546,
+    "profitSOL": -0.068074659,
+    "profitLamports": -68074659,
+    "pnlPct": -9.72495114625801,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779365689606",
+    "sellTxid": "DRY_RUN_SELL_1779365700168",
+    "sweepTxid": null
   }
 ]

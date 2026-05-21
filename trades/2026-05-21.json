@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1779336169686",
     "sellTxid": "DRY_RUN_SELL_1779336720180",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-21T04:47:00.284Z",
+    "token": "F1joFfyf2rMxGavhGKpbNEzEApb2mvatRbuCsPB4pump",
+    "symbol": "CLUTCH26",
+    "marketCap": 128974,
+    "liquidity": 28348.95,
+    "volume1h": 98121.49,
+    "volume24h": 98121.49,
+    "candidateScore": 10.5982,
+    "entryPrice": 0.00010635555629917442,
+    "exitPrice": 0.0001289,
+    "peakPrice": 0.0001289,
+    "profitSOL": 0.148380687,
+    "profitLamports": 148380687,
+    "pnlPct": 21.197241108314877,
+    "peakPnlPct": 21.197241108314877,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1779338569387",
+    "sellTxid": "DRY_RUN_SELL_1779338820183",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779338820273"
   }
 ]

@@ -130,5 +130,27 @@
     "buyTxid": "DRY_RUN_BUY_1779473089676",
     "sellTxid": "DRY_RUN_SELL_1779473130107",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-22T21:05:30.201Z",
+    "token": "E1snjUcT6JGF5P4C2VgPZVM8TKq7u27mmXaK6a76pump",
+    "symbol": "BABYCUP",
+    "marketCap": 36114,
+    "liquidity": 14749.62,
+    "volume1h": 65791.51,
+    "volume24h": 65791.51,
+    "candidateScore": 9.8086,
+    "entryPrice": 0.000036681593229674344,
+    "exitPrice": 0.00003611,
+    "peakPrice": 0.00003823,
+    "profitSOL": -0.010907794,
+    "profitLamports": -10907794,
+    "pnlPct": -1.5582562788247265,
+    "peakPnlPct": 4.221209151496281,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1779483769740",
+    "sellTxid": "DRY_RUN_SELL_1779483930141",
+    "sweepTxid": null
   }
 ]

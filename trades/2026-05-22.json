@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-22T00:01:30.235Z",
+    "token": "CbyQSD5njpmhcEa8S3MczdF5xRHKT5NpyyceX285pump",
+    "symbol": "BUFFDON",
+    "marketCap": 123662,
+    "liquidity": 29331.15,
+    "volume1h": 46017.68,
+    "volume24h": 1033955,
+    "candidateScore": 7.2613,
+    "entryPrice": 0.00009565398527799861,
+    "exitPrice": 0.0001236,
+    "peakPrice": 0.0001236,
+    "profitSOL": -0.7,
+    "profitLamports": -700000000,
+    "pnlPct": 29.215734860165053,
+    "peakPnlPct": 29.215734860165053,
+    "reason": "TAKEPROFIT20P_SELL_FAILED",
+    "buyTxid": "DRY_RUN_BUY_1779407449655",
+    "sellTxid": "SELL_FAILED_FORCE_EXIT_1779408090160",
+    "sweepTxid": null
+  }
+]

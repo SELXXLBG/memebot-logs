@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1779407449655",
     "sellTxid": "SELL_FAILED_FORCE_EXIT_1779408090160",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-22T04:29:00.222Z",
+    "token": "EGuzeLqKoQAbdwMpG31neYNtFQ8KH8midraQrJQZpump",
+    "symbol": "SQUIDWARD",
+    "marketCap": 32988,
+    "liquidity": 14244.88,
+    "volume1h": 32680.16,
+    "volume24h": 32680.16,
+    "candidateScore": 9.7492,
+    "entryPrice": 0.00003563378359612422,
+    "exitPrice": 0.00003298,
+    "peakPrice": 0.00003563378359612422,
+    "profitSOL": -0.052131667,
+    "profitLamports": -52131667,
+    "pnlPct": -7.44738090740627,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779424129663",
+    "sellTxid": "DRY_RUN_SELL_1779424140120",
+    "sweepTxid": null
   }
 ]

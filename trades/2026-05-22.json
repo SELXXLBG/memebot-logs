@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1779456409786",
     "sellTxid": "DRY_RUN_SELL_1779456450126",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-22T18:05:30.158Z",
+    "token": "671crjNuuLbiBRFEC7pFuXV818tNp5zvfTF2LSScPEPE",
+    "symbol": "PEPE",
+    "marketCap": 34656,
+    "liquidity": 14597.06,
+    "volume1h": 56201.26,
+    "volume24h": 56201.26,
+    "candidateScore": 8.8668,
+    "entryPrice": 0.000040919686557227186,
+    "exitPrice": 0.00003465,
+    "peakPrice": 0.00004273,
+    "profitSOL": -0.107253525,
+    "profitLamports": -107253525,
+    "pnlPct": -15.321932020321988,
+    "peakPnlPct": 4.424064784174349,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779473089676",
+    "sellTxid": "DRY_RUN_SELL_1779473130107",
+    "sweepTxid": null
   }
 ]

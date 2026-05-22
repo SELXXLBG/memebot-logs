@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1779424129663",
     "sellTxid": "DRY_RUN_SELL_1779424140120",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-22T04:49:00.208Z",
+    "token": "EWBz9V3apuPRD3U7QS6gjVVtsnjNqUVdUCM1YveQpump",
+    "symbol": "FATU",
+    "marketCap": 40736,
+    "liquidity": 15819.59,
+    "volume1h": 36583.09,
+    "volume24h": 36583.09,
+    "candidateScore": 9.1803,
+    "entryPrice": 0.00003714031379407614,
+    "exitPrice": 0.00004073,
+    "peakPrice": 0.00004305,
+    "profitSOL": 0.067656411,
+    "profitLamports": 67656411,
+    "pnlPct": 9.66520160768381,
+    "peakPnlPct": 15.911783187105048,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1779425209554",
+    "sellTxid": "DRY_RUN_SELL_1779425340147",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779425340198"
   }
 ]

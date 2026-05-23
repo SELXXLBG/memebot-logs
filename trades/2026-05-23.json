@@ -152,5 +152,27 @@
     "buyTxid": "DRY_RUN_BUY_1779574849672",
     "sellTxid": "DRY_RUN_SELL_1779574890101",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-23T23:47:00.186Z",
+    "token": "EoXGTFVCMa1fg6AT87Sm4fyNQsRZbdzP4QBwdFc4pump",
+    "symbol": "GMEBank",
+    "marketCap": 33262,
+    "liquidity": 14179.27,
+    "volume1h": 14127.04,
+    "volume24h": 14127.04,
+    "candidateScore": 9.0825,
+    "entryPrice": 0.00003688761662922312,
+    "exitPrice": 0.00003326,
+    "peakPrice": 0.00003688761662922312,
+    "profitSOL": -0.068839678,
+    "profitLamports": -68839678,
+    "pnlPct": -9.83423967367209,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779580009524",
+    "sellTxid": "DRY_RUN_SELL_1779580020121",
+    "sweepTxid": null
   }
 ]

@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1779504289659",
     "sellTxid": "DRY_RUN_SELL_1779504300142",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-23T06:22:00.226Z",
+    "token": "FVjYERdrgUeR3GrBJ9vX9BmMYM6bRWyCkijd14srpump",
+    "symbol": "TrollBank",
+    "marketCap": 49262,
+    "liquidity": 17188.93,
+    "volume1h": 38790.84,
+    "volume24h": 38790.84,
+    "candidateScore": 8.3992,
+    "entryPrice": 0.00004733772359981363,
+    "exitPrice": 0.00004926,
+    "peakPrice": 0.00005469,
+    "profitSOL": 0.028425394,
+    "profitLamports": 28425394,
+    "pnlPct": 4.06077067929379,
+    "peakPnlPct": 15.531537727376724,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1779517249635",
+    "sellTxid": "DRY_RUN_SELL_1779517320143",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779517320215"
   }
 ]

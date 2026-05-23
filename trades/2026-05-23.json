@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1779538009638",
     "sellTxid": "DRY_RUN_SELL_1779538020119",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-23T20:35:30.326Z",
+    "token": "GyLh2TQD8CeJeCwpeZikD13kJobr81Qgdxd7rGcVpump",
+    "symbol": "ZECBank",
+    "marketCap": 132298,
+    "liquidity": 30255.35,
+    "volume1h": 51824.51,
+    "volume24h": 891608.69,
+    "candidateScore": 5.8836,
+    "entryPrice": 0.00012159812970830998,
+    "exitPrice": 0.0001322,
+    "peakPrice": 0.0001433,
+    "profitSOL": 0.061031442,
+    "profitLamports": 61031442,
+    "pnlPct": 8.718777432779444,
+    "peakPnlPct": 17.847207307997685,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1779567769569",
+    "sellTxid": "DRY_RUN_SELL_1779568530152",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779568530321"
   }
 ]

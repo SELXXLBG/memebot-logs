@@ -130,5 +130,27 @@
     "buyTxid": "DRY_RUN_BUY_1779571129647",
     "sellTxid": "DRY_RUN_SELL_1779571260133",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779571260191"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-23T22:21:30.136Z",
+    "token": "7rjZufn7VoYc3fY7ZRDoGVMx6HdS7DRJe72F3KiKpump",
+    "symbol": "Crown",
+    "marketCap": 19633,
+    "liquidity": 10988.78,
+    "volume1h": 10710.78,
+    "volume24h": 109848.41,
+    "candidateScore": 4.7895,
+    "entryPrice": 0.000020763512835430003,
+    "exitPrice": 0.00001964,
+    "peakPrice": 0.000020763512835430003,
+    "profitSOL": -0.037876972,
+    "profitLamports": -37876972,
+    "pnlPct": -5.4109959347191445,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779574849672",
+    "sellTxid": "DRY_RUN_SELL_1779574890101",
+    "sweepTxid": null
   }
 ]

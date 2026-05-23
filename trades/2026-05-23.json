@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1779534409800",
     "sellTxid": "DRY_RUN_SELL_1779534570156",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-23T12:07:00.180Z",
+    "token": "aGhaKDNvQKH9S9vePPcYDEYdgP5dUCbTfnVbM7ppump",
+    "symbol": "Robbery",
+    "marketCap": 32423,
+    "liquidity": 13757.91,
+    "volume1h": 41267.8,
+    "volume24h": 41267.8,
+    "candidateScore": 9.4026,
+    "entryPrice": 0.000034429990857749615,
+    "exitPrice": 0.00003242,
+    "peakPrice": 0.000034429990857749615,
+    "profitSOL": -0.04086535,
+    "profitLamports": -40865350,
+    "pnlPct": -5.837907033011023,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779538009638",
+    "sellTxid": "DRY_RUN_SELL_1779538020119",
+    "sweepTxid": null
   }
 ]

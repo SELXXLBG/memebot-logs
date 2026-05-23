@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1779567769569",
     "sellTxid": "DRY_RUN_SELL_1779568530152",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779568530321"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-23T21:21:00.199Z",
+    "token": "3yqMqvx41obPu8D2iPGtAqYwsFj6GSoUzf18xwSZpump",
+    "symbol": "GPL",
+    "marketCap": 48210,
+    "liquidity": 17175.76,
+    "volume1h": 26847.22,
+    "volume24h": 26847.22,
+    "candidateScore": 9.7393,
+    "entryPrice": 0.000042746185219133224,
+    "exitPrice": 0.00004823,
+    "peakPrice": 0.00005111,
+    "profitSOL": 0.089801471,
+    "profitLamports": 89801471,
+    "pnlPct": 12.828781686025668,
+    "peakPnlPct": 19.566225004618946,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1779571129647",
+    "sellTxid": "DRY_RUN_SELL_1779571260133",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779571260191"
   }
 ]

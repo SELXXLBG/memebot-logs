@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-23T02:45:00.225Z",
+    "token": "9s96G11xGsHczudfJqKQzQxzvubQgJXSySJ1wRgxpump",
+    "symbol": "BTCBANK",
+    "marketCap": 258106,
+    "liquidity": 41120.75,
+    "volume1h": 117248.1,
+    "volume24h": 804384.96,
+    "candidateScore": 6.2398,
+    "entryPrice": 0.00026826842191676314,
+    "exitPrice": 0.0002581,
+    "peakPrice": 0.00026826842191676314,
+    "profitSOL": -0.026532737,
+    "profitLamports": -26532737,
+    "pnlPct": -3.790390924175994,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779504289659",
+    "sellTxid": "DRY_RUN_SELL_1779504300142",
+    "sweepTxid": null
+  }
+]

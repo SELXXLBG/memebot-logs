@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1779517249635",
     "sellTxid": "DRY_RUN_SELL_1779517320143",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779517320215"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-23T11:09:30.213Z",
+    "token": "5R5jxFGEKLKQm4pX8dqMh4AyFaXurkSKdhWpWivNpump",
+    "symbol": "Bunker",
+    "marketCap": 56253,
+    "liquidity": 23825.5,
+    "volume1h": 19653.11,
+    "volume24h": 19653.11,
+    "candidateScore": 8.2545,
+    "entryPrice": 0.00005663975468681302,
+    "exitPrice": 0.00005625,
+    "peakPrice": 0.00006195,
+    "profitSOL": -0.004816905,
+    "profitLamports": -4816905,
+    "pnlPct": -0.6881291929461073,
+    "peakPnlPct": 9.375473715502027,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1779534409800",
+    "sellTxid": "DRY_RUN_SELL_1779534570156",
+    "sweepTxid": null
   }
 ]

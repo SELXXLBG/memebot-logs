@@ -196,5 +196,27 @@
     "buyTxid": "DRY_RUN_BUY_1779641929565",
     "sellTxid": "DRY_RUN_SELL_1779642000212",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-24T17:28:30.297Z",
+    "token": "3e8VBHe8qGgzb1diQEYkRPr5ihu2BPBCTz5umNDFpump",
+    "symbol": "YALLSOLD",
+    "marketCap": 50064,
+    "liquidity": 17520.4,
+    "volume1h": 15926.57,
+    "volume24h": 104921.61,
+    "candidateScore": 7.7845,
+    "entryPrice": 0.000038450259011752014,
+    "exitPrice": 0.00005006,
+    "peakPrice": 0.00005006,
+    "profitSOL": 0.21135927,
+    "profitLamports": 211359270,
+    "pnlPct": 30.194181487046833,
+    "peakPnlPct": 30.194181487046833,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1779643129559",
+    "sellTxid": "DRY_RUN_SELL_1779643710157",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779643710291"
   }
 ]

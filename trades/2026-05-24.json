@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1779602089540",
     "sellTxid": "DRY_RUN_SELL_1779602130116",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-24T09:55:00.231Z",
+    "token": "2R3yUdZXb8C5nxpEp4rzhmrZ3Hu652EwohZz9nKEpump",
+    "symbol": "CULT",
+    "marketCap": 35942,
+    "liquidity": 14864.5,
+    "volume1h": 7552.64,
+    "volume24h": 7552.64,
+    "candidateScore": 9.341,
+    "entryPrice": 0.000039123668511610806,
+    "exitPrice": 0.00003622,
+    "peakPrice": 0.000039123668511610806,
+    "profitSOL": -0.051952387,
+    "profitLamports": -51952387,
+    "pnlPct": -7.421769537662544,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779616489521",
+    "sellTxid": "DRY_RUN_SELL_1779616500143",
+    "sweepTxid": null
   }
 ]

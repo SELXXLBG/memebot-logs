@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1779626089580",
     "sellTxid": "DRY_RUN_SELL_1779626100117",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-24T14:24:30.193Z",
+    "token": "9mApP3jyDxesvTtq2BFZayuZ9G3pnbgG8dx2QNsnpump",
+    "symbol": "MHGA",
+    "marketCap": 38772,
+    "liquidity": 15279.02,
+    "volume1h": 24347.92,
+    "volume24h": 24347.92,
+    "candidateScore": 9.6225,
+    "entryPrice": 0.000036956103661422765,
+    "exitPrice": 0.00003877,
+    "peakPrice": 0.00004235,
+    "profitSOL": 0.034357719,
+    "profitLamports": 34357719,
+    "pnlPct": 4.908245618086367,
+    "peakPnlPct": 14.595414029557835,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1779632569607",
+    "sellTxid": "DRY_RUN_SELL_1779632670134",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779632670186"
   }
 ]

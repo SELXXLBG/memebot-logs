@@ -130,5 +130,27 @@
     "buyTxid": "DRY_RUN_BUY_1779632569607",
     "sellTxid": "DRY_RUN_SELL_1779632670134",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779632670186"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-24T15:39:00.245Z",
+    "token": "GvGtfMeKkUsiE1STdgmCqkKXpmV4ZFEctswiGYv7pump",
+    "symbol": "Cloud",
+    "marketCap": 37104,
+    "liquidity": 15044.37,
+    "volume1h": 10328.67,
+    "volume24h": 10328.67,
+    "candidateScore": 8.9863,
+    "entryPrice": 0.000039534567272900886,
+    "exitPrice": 0.00003763,
+    "peakPrice": 0.000039534567272900886,
+    "profitSOL": -0.033722314,
+    "profitLamports": -33722314,
+    "pnlPct": -4.81747342712508,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779637129550",
+    "sellTxid": "DRY_RUN_SELL_1779637140143",
+    "sweepTxid": null
   }
 ]

@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1779583009578",
     "sellTxid": "DRY_RUN_SELL_1779583050125",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-24T04:03:00.241Z",
+    "token": "pjZbxvMz5arnLXM3wCqc8g4h2oZZeBjfxELLm2vpump",
+    "symbol": "SAFEBANK",
+    "marketCap": 38682,
+    "liquidity": 15367.54,
+    "volume1h": 16796.03,
+    "volume24h": 16796.03,
+    "candidateScore": 9.358,
+    "entryPrice": 0.000032460219808089486,
+    "exitPrice": 0.00003903,
+    "peakPrice": 0.00003903,
+    "profitSOL": 0.14167637,
+    "profitLamports": 141676370,
+    "pnlPct": 20.239481527704385,
+    "peakPnlPct": 20.239481527704385,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1779595249738",
+    "sellTxid": "DRY_RUN_SELL_1779595380142",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779595380231"
   }
 ]

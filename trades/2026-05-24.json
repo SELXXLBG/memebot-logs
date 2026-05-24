@@ -218,5 +218,27 @@
     "buyTxid": "DRY_RUN_BUY_1779643129559",
     "sellTxid": "DRY_RUN_SELL_1779643710157",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779643710291"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-24T19:47:00.199Z",
+    "token": "8KeuyR8GSsDXFje6TGNTmXgpFXFgRX6oE7GUZJhmpump",
+    "symbol": "PFSC",
+    "marketCap": 31488,
+    "liquidity": 13765.65,
+    "volume1h": 18616.96,
+    "volume24h": 18616.96,
+    "candidateScore": 8.8864,
+    "entryPrice": 0.00003338821004886666,
+    "exitPrice": 0.00003148,
+    "peakPrice": 0.00003338821004886666,
+    "profitSOL": -0.040006549,
+    "profitLamports": -40006549,
+    "pnlPct": -5.715221169609946,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779652009486",
+    "sellTxid": "DRY_RUN_SELL_1779652020132",
+    "sweepTxid": null
   }
 ]

@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-24T00:37:30.180Z",
+    "token": "Q163RRojpi4MBoTqgXwZwypQScb7sPaRCUzBibTpump",
+    "symbol": "Piggy",
+    "marketCap": 30485,
+    "liquidity": 13572.16,
+    "volume1h": 12183.83,
+    "volume24h": 12183.83,
+    "candidateScore": 8.9408,
+    "entryPrice": 0.000033172570356491535,
+    "exitPrice": 0.00003048,
+    "peakPrice": 0.00003359,
+    "profitSOL": -0.056818005,
+    "profitLamports": -56818005,
+    "pnlPct": -8.116857776034914,
+    "peakPnlPct": 1.258357851147884,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779583009578",
+    "sellTxid": "DRY_RUN_SELL_1779583050125",
+    "sweepTxid": null
+  }
+]

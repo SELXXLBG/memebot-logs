@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1779616489521",
     "sellTxid": "DRY_RUN_SELL_1779616500143",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-24T12:35:00.198Z",
+    "token": "GdQ5vvvt71AwgLmNPpDxSuRvn8UjqEPBB9uUC1Bvpump",
+    "symbol": "Robber",
+    "marketCap": 30206,
+    "liquidity": 13544.86,
+    "volume1h": 32948.97,
+    "volume24h": 32948.97,
+    "candidateScore": 8.4988,
+    "entryPrice": 0.000034119280371872566,
+    "exitPrice": 0.0000302,
+    "peakPrice": 0.000034119280371872566,
+    "profitSOL": -0.080408973,
+    "profitLamports": -80408973,
+    "pnlPct": -11.486996000957758,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779626089580",
+    "sellTxid": "DRY_RUN_SELL_1779626100117",
+    "sweepTxid": null
   }
 ]

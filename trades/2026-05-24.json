@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1779595249738",
     "sellTxid": "DRY_RUN_SELL_1779595380142",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779595380231"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-24T05:55:30.157Z",
+    "token": "GWAdiJXCUB58BoDTvkePE5yy6aznp3FPpUokNbUnpump",
+    "symbol": "AttentionBank",
+    "marketCap": 27653,
+    "liquidity": 12948.41,
+    "volume1h": 10916.42,
+    "volume24h": 10916.42,
+    "candidateScore": 8.7202,
+    "entryPrice": 0.00003281874068395196,
+    "exitPrice": 0.00002767,
+    "peakPrice": 0.00003293,
+    "profitSOL": -0.109818915,
+    "profitLamports": -109818915,
+    "pnlPct": -15.688416364097854,
+    "peakPnlPct": 0.339011533439011,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779602089540",
+    "sellTxid": "DRY_RUN_SELL_1779602130116",
+    "sweepTxid": null
   }
 ]

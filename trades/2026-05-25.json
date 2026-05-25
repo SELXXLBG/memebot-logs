@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1779708778721",
     "sellTxid": "DRY_RUN_SELL_1779708900150",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779708900231"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-25T21:57:30.230Z",
+    "token": "DsuiBdiEKHxgYtjE1fDLnbyJ4jUXW2B1Dc1NFY2Fpump",
+    "symbol": "MILKIT",
+    "marketCap": 111570,
+    "liquidity": 26356.87,
+    "volume1h": 101249.51,
+    "volume24h": 195192.98,
+    "candidateScore": 6.8325,
+    "entryPrice": 0.00011605570205968961,
+    "exitPrice": 0.0001115,
+    "peakPrice": 0.000121,
+    "profitSOL": -0.027478111,
+    "profitLamports": -27478111,
+    "pnlPct": -3.9254444019877024,
+    "peakPnlPct": 4.260280066004377,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1779745738565",
+    "sellTxid": "DRY_RUN_SELL_1779746250171",
+    "sweepTxid": null
   }
 ]

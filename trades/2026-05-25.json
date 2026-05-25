@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1779673018471",
     "sellTxid": "DRY_RUN_SELL_1779673080290",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-25T11:35:00.243Z",
+    "token": "BeQKKrSWtSwixg1dBqbyephapBtjMEMNXBgGvP9opump",
+    "symbol": "AdBank",
+    "marketCap": 46951,
+    "liquidity": 16892.36,
+    "volume1h": 47144.65,
+    "volume24h": 47144.65,
+    "candidateScore": 9.2578,
+    "entryPrice": 0.000036899637331979937,
+    "exitPrice": 0.00004695,
+    "peakPrice": 0.00004695,
+    "profitSOL": 0.19065916,
+    "profitLamports": 190659160,
+    "pnlPct": 27.237022894286504,
+    "peakPnlPct": 27.237022894286504,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1779708778721",
+    "sellTxid": "DRY_RUN_SELL_1779708900150",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779708900231"
   }
 ]

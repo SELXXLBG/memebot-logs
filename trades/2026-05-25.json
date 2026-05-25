@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-25T01:32:30.219Z",
+    "token": "2nB2vNGYR5vsh3QL5ZVFn1kHfGDqJdLUSZDbtveSpump",
+    "symbol": "WORLDCUP26",
+    "marketCap": 54853,
+    "liquidity": 18164.7,
+    "volume1h": 5022.51,
+    "volume24h": 5022.51,
+    "candidateScore": 9.9448,
+    "entryPrice": 0.00004130160233427258,
+    "exitPrice": 0.00005485,
+    "peakPrice": 0.00005485,
+    "profitSOL": 0.229624949,
+    "profitLamports": 229624949,
+    "pnlPct": 32.803564268703425,
+    "peakPnlPct": 32.803564268703425,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1779672658503",
+    "sellTxid": "DRY_RUN_SELL_1779672750167",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779672750213"
+  }
+]

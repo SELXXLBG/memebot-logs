@@ -152,5 +152,27 @@
     "buyTxid": "DRY_RUN_BUY_1779789778479",
     "sellTxid": "DRY_RUN_SELL_1779789900139",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-26T21:53:00.203Z",
+    "token": "Acz4DoETv2d9Rn8KNwAiCEBfsBD9oepe4ezu1oh6pump",
+    "symbol": "WCC",
+    "marketCap": 40582,
+    "liquidity": 15551.86,
+    "volume1h": 50084.25,
+    "volume24h": 50084.25,
+    "candidateScore": 7.867,
+    "entryPrice": 0.00004794422867689181,
+    "exitPrice": 0.00004058,
+    "peakPrice": 0.00004794422867689181,
+    "profitSOL": -0.10751993,
+    "profitLamports": -107519930,
+    "pnlPct": -15.35998988850398,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779832378570",
+    "sellTxid": "DRY_RUN_SELL_1779832380115",
+    "sweepTxid": null
   }
 ]

@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1779767338635",
     "sellTxid": "DRY_RUN_SELL_1779768720145",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-26T04:53:30.170Z",
+    "token": "DC6TUh28kkeskMRxB3G4ge21rCDz4oAHYZfsn21ipump",
+    "symbol": "PHAGE",
+    "marketCap": 29591,
+    "liquidity": 13263.06,
+    "volume1h": 19786.14,
+    "volume24h": 19786.14,
+    "candidateScore": 7.0856,
+    "entryPrice": 0.000034603102597532975,
+    "exitPrice": 0.00002959,
+    "peakPrice": 0.00003495,
+    "profitSOL": -0.101412058,
+    "profitLamports": -101412058,
+    "pnlPct": -14.487436736064193,
+    "peakPnlPct": 1.002503753786978,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779771178601",
+    "sellTxid": "DRY_RUN_SELL_1779771210122",
+    "sweepTxid": null
   }
 ]

@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1779775738826",
     "sellTxid": "DRY_RUN_SELL_1779775740186",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-26T07:39:00.190Z",
+    "token": "Hqrshz4vLwTAqTtH189uYqqzJmAeujpspCYdd3Mtpump",
+    "symbol": "EB",
+    "marketCap": 31679,
+    "liquidity": 13706.33,
+    "volume1h": 29933.38,
+    "volume24h": 29933.38,
+    "candidateScore": 9.6001,
+    "entryPrice": 0.000037224459070619424,
+    "exitPrice": 0.00003167,
+    "peakPrice": 0.000037224459070619424,
+    "profitSOL": -0.104450715,
+    "profitLamports": -104450715,
+    "pnlPct": -14.921530652955695,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779781138726",
+    "sellTxid": "DRY_RUN_SELL_1779781140125",
+    "sweepTxid": null
   }
 ]

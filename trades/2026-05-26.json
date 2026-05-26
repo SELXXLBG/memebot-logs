@@ -174,5 +174,27 @@
     "buyTxid": "DRY_RUN_BUY_1779832378570",
     "sellTxid": "DRY_RUN_SELL_1779832380115",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-26T23:10:00.365Z",
+    "token": "CFJLPcKUSyUfVtvSWQ1j5AHwtbPfAKTAZgAdWV1pump",
+    "symbol": "ROCKY",
+    "marketCap": 93831,
+    "liquidity": 24242,
+    "volume1h": 47568.13,
+    "volume24h": 328947.3,
+    "candidateScore": 6.8345,
+    "entryPrice": 0.00008848991194672998,
+    "exitPrice": 0.00009383,
+    "peakPrice": 0.00009988,
+    "profitSOL": 0.042242799,
+    "profitLamports": 42242799,
+    "pnlPct": 6.034685689917629,
+    "peakPnlPct": 12.871623219748187,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1779836098721",
+    "sellTxid": "DRY_RUN_SELL_1779837000181",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779837000351"
   }
 ]

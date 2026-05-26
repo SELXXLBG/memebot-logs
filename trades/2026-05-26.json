@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1779771178601",
     "sellTxid": "DRY_RUN_SELL_1779771210122",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-26T06:09:00.396Z",
+    "token": "FWoq6ByqFaAo3Me2TWwMbawhGER6GN1US9R5748Fpump",
+    "symbol": "Pikacoin",
+    "marketCap": 44521,
+    "liquidity": 16361.08,
+    "volume1h": 44050.82,
+    "volume24h": 44050.82,
+    "candidateScore": 8.3215,
+    "entryPrice": 0.00004686173190579118,
+    "exitPrice": 0.00004452,
+    "peakPrice": 0.00004686173190579118,
+    "profitSOL": -0.034979765,
+    "profitLamports": -34979765,
+    "pnlPct": -4.997109177481738,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779775738826",
+    "sellTxid": "DRY_RUN_SELL_1779775740186",
+    "sweepTxid": null
   }
 ]

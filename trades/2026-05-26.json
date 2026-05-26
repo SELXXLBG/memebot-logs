@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1779761458659",
     "sellTxid": "DRY_RUN_SELL_1779761550117",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-26T04:12:00.306Z",
+    "token": "2zAeNf5dyotpJr5vBjKGPBwkN5eGSKdbuUncTSTapump",
+    "symbol": "Ae86",
+    "marketCap": 45370,
+    "liquidity": 16596.21,
+    "volume1h": 933.03,
+    "volume24h": 22100.26,
+    "candidateScore": 5.4719,
+    "entryPrice": 0.000047668155514442095,
+    "exitPrice": 0.00004631,
+    "peakPrice": 0.000047668155514442095,
+    "profitSOL": -0.019944319,
+    "profitLamports": -19944319,
+    "pnlPct": -2.8491883098573227,
+    "peakPnlPct": 0,
+    "reason": "STALE_NO_MOMENTUM",
+    "buyTxid": "DRY_RUN_BUY_1779767338635",
+    "sellTxid": "DRY_RUN_SELL_1779768720145",
+    "sweepTxid": null
   }
 ]

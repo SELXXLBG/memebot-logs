@@ -130,5 +130,27 @@
     "buyTxid": "DRY_RUN_BUY_1779784978624",
     "sellTxid": "DRY_RUN_SELL_1779785040144",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-26T10:05:00.205Z",
+    "token": "14B2Ag1P5iTfXR2ThCHXLhqzYb6er5sjH4rxUjq7pump",
+    "symbol": "Peppy",
+    "marketCap": 70096,
+    "liquidity": 20561.23,
+    "volume1h": 74762.31,
+    "volume24h": 82369.56,
+    "candidateScore": 9.2219,
+    "entryPrice": 0.00007934751085275642,
+    "exitPrice": 0.00007009,
+    "peakPrice": 0.00007934751085275642,
+    "profitSOL": -0.081669325,
+    "profitLamports": -81669325,
+    "pnlPct": -11.667046329828029,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779789778479",
+    "sellTxid": "DRY_RUN_SELL_1779789900139",
+    "sweepTxid": null
   }
 ]

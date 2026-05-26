@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-26T02:12:30.154Z",
+    "token": "Gmbz4mqxZVBqG2cE5rakCzZLSZFW9FPqZiQvcQLspump",
+    "symbol": "Asset",
+    "marketCap": 34107,
+    "liquidity": 14252.74,
+    "volume1h": 36395.09,
+    "volume24h": 36395.09,
+    "candidateScore": 9.6603,
+    "entryPrice": 0.000037620759453176,
+    "exitPrice": 0.0000341,
+    "peakPrice": 0.00004389,
+    "profitSOL": -0.065509885,
+    "profitLamports": -65509885,
+    "pnlPct": -9.3585549689874,
+    "peakPnlPct": 16.66431150765815,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779761458659",
+    "sellTxid": "DRY_RUN_SELL_1779761550117",
+    "sweepTxid": null
+  }
+]

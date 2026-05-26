@@ -196,5 +196,27 @@
     "buyTxid": "DRY_RUN_BUY_1779836098721",
     "sellTxid": "DRY_RUN_SELL_1779837000181",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779837000351"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-26T23:49:00.200Z",
+    "token": "3y71WucihB2LcqdJGZqbcHAnfVL87CCBPtJwT9oipump",
+    "symbol": "Rambo",
+    "marketCap": 21009,
+    "liquidity": 11355.37,
+    "volume1h": 4850.4,
+    "volume24h": 292919.44,
+    "candidateScore": 5.687,
+    "entryPrice": 0.0000204967748036434,
+    "exitPrice": 0.000021,
+    "peakPrice": 0.00002222,
+    "profitSOL": 0.017186003,
+    "profitLamports": 17186003,
+    "pnlPct": 2.4551433148748325,
+    "peakPnlPct": 8.407299259834238,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1779839218520",
+    "sellTxid": "DRY_RUN_SELL_1779839340125",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779839340190"
   }
 ]

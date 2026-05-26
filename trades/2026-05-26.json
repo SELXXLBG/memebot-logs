@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1779781138726",
     "sellTxid": "DRY_RUN_SELL_1779781140125",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-26T08:44:00.218Z",
+    "token": "AiB681NrfWpmtWstc37ruYqKfEsGphiGzPcfoVYnBAGS",
+    "symbol": "APPLE",
+    "marketCap": 58200,
+    "liquidity": 16907.48,
+    "volume1h": 17869.88,
+    "volume24h": 17869.88,
+    "candidateScore": 9.3049,
+    "entryPrice": 0.00006199381526944863,
+    "exitPrice": 0.0000582,
+    "peakPrice": 0.00006199381526944863,
+    "profitSOL": -0.042837672,
+    "profitLamports": -42837672,
+    "pnlPct": -6.119667345781629,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779784978624",
+    "sellTxid": "DRY_RUN_SELL_1779785040144",
+    "sweepTxid": null
   }
 ]

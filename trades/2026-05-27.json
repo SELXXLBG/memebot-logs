@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-27T01:17:30.387Z",
+    "token": "4MhKUVWwjHHU9FwrBi85mDSSSxqwCgXDuExvpzkRpump",
+    "symbol": "RICHGUY",
+    "marketCap": 43265,
+    "liquidity": 16066.83,
+    "volume1h": 43198.1,
+    "volume24h": 43198.1,
+    "candidateScore": 8.8649,
+    "entryPrice": 0.000040400871644489564,
+    "exitPrice": 0.00004326,
+    "peakPrice": 0.00004693,
+    "profitSOL": 0.049538283,
+    "profitLamports": 49538283,
+    "pnlPct": 7.07689769832084,
+    "peakPnlPct": 16.160860124415088,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1779844498554",
+    "sellTxid": "DRY_RUN_SELL_1779844650341",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779844650382"
+  }
+]

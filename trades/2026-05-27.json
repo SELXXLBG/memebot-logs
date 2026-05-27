@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1779896818873",
     "sellTxid": "DRY_RUN_SELL_1779896850118",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779896850157"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-27T17:54:00.233Z",
+    "token": "9VaPoRTWxueLGUf4kCVzcEZDY3D4oEkjZ16ze8oTpump",
+    "symbol": "TROLLWHLE",
+    "marketCap": 81851,
+    "liquidity": 23038.56,
+    "volume1h": 26366.94,
+    "volume24h": 606859.36,
+    "candidateScore": 5.9728,
+    "entryPrice": 0.0000871093750794885,
+    "exitPrice": 0.00008185,
+    "peakPrice": 0.0000871093750794885,
+    "profitSOL": -0.042263678,
+    "profitLamports": -42263678,
+    "pnlPct": -6.0376682471768985,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779904378574",
+    "sellTxid": "DRY_RUN_SELL_1779904440153",
+    "sweepTxid": null
   }
 ]

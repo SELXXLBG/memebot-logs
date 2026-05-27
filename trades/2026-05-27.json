@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1779904378574",
     "sellTxid": "DRY_RUN_SELL_1779904440153",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-27T21:24:00.241Z",
+    "token": "2mNVZ6aEjrGwiUVCfz7XGWpiXuWzgBDoznwE579upump",
+    "symbol": "$CVNT",
+    "marketCap": 134004,
+    "liquidity": 28922.91,
+    "volume1h": 112068.39,
+    "volume24h": 339979.2,
+    "candidateScore": 6.2422,
+    "entryPrice": 0.0001272836999091883,
+    "exitPrice": 0.000134,
+    "peakPrice": 0.0001419,
+    "profitSOL": 0.036936466,
+    "profitLamports": 36936466,
+    "pnlPct": 5.2766380106828255,
+    "peakPnlPct": 11.483245773999203,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1779916618671",
+    "sellTxid": "DRY_RUN_SELL_1779917040160",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1779917040234"
   }
 ]

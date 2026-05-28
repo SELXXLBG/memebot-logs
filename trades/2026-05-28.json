@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1779935459062",
     "sellTxid": "DRY_RUN_SELL_1779935730387",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-28T05:19:30.150Z",
+    "token": "3MjUbDatbMXHfrNZnEtD8tMrGXaZgKEEnjdstmMRpump",
+    "symbol": "CAT",
+    "marketCap": 32811,
+    "liquidity": 13710.47,
+    "volume1h": 68448.53,
+    "volume24h": 68448.53,
+    "candidateScore": 9.7978,
+    "entryPrice": 0.00003497178389508639,
+    "exitPrice": 0.00003281,
+    "peakPrice": 0.00003586,
+    "profitSOL": -0.043270562,
+    "profitLamports": -43270562,
+    "pnlPct": -6.181508788832833,
+    "peakPnlPct": 2.5398078278712153,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779945538566",
+    "sellTxid": "DRY_RUN_SELL_1779945570100",
+    "sweepTxid": null
   }
 ]

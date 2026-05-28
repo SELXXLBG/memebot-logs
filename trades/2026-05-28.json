@@ -152,5 +152,27 @@
     "buyTxid": "DRY_RUN_BUY_1779992458761",
     "sellTxid": "DRY_RUN_SELL_1779993660201",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-28T19:22:00.231Z",
+    "token": "BxmMWiR9PpskYpMD3ZeRS3rpmFxV9K1xLybhWvjMpump",
+    "symbol": "TiredBull",
+    "marketCap": 80039,
+    "liquidity": 21900.33,
+    "volume1h": 28325.36,
+    "volume24h": 162574.87,
+    "candidateScore": 6.2326,
+    "entryPrice": 0.00008416314512371844,
+    "exitPrice": 0.00008003,
+    "peakPrice": 0.00008416314512371844,
+    "profitSOL": -0.034376111,
+    "profitLamports": -34376111,
+    "pnlPct": -4.9108729452098965,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779996058688",
+    "sellTxid": "DRY_RUN_SELL_1779996120166",
+    "sweepTxid": null
   }
 ]

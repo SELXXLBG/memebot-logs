@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1779955499142",
     "sellTxid": "DRY_RUN_SELL_1779955710329",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-28T09:03:00.197Z",
+    "token": "ENfWrydF7dPit2AhV5bszg3Rk8hki8XxmZH4KUCWpump",
+    "symbol": "NIETZSCHE",
+    "marketCap": 31426,
+    "liquidity": 13396.24,
+    "volume1h": 23629.79,
+    "volume24h": 23629.79,
+    "candidateScore": 8.1239,
+    "entryPrice": 0.000034883139361990045,
+    "exitPrice": 0.00003144,
+    "peakPrice": 0.000034883139361990045,
+    "profitSOL": -0.069093482,
+    "profitLamports": -69093482,
+    "pnlPct": -9.870497394915722,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779958978454",
+    "sellTxid": "DRY_RUN_SELL_1779958980134",
+    "sweepTxid": null
   }
 ]

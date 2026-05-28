@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-28T01:44:30.455Z",
+    "token": "EdyNYYCXxxh76LHx5Lyp24wkAbUjxk7UavwdT8PSpump",
+    "symbol": "$RISK",
+    "marketCap": 31290,
+    "liquidity": 13480.02,
+    "volume1h": 30000.06,
+    "volume24h": 30000.06,
+    "candidateScore": 9.0025,
+    "entryPrice": 0.00003130388273661186,
+    "exitPrice": 0.00003129,
+    "peakPrice": 0.00003426,
+    "profitSOL": -0.000310439,
+    "profitLamports": -310439,
+    "pnlPct": -0.04434828972709518,
+    "peakPnlPct": 9.443292668390852,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1779932579296",
+    "sellTxid": "DRY_RUN_SELL_1779932670404",
+    "sweepTxid": null
+  }
+]

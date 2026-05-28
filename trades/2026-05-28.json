@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1779932579296",
     "sellTxid": "DRY_RUN_SELL_1779932670404",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-28T02:35:30.437Z",
+    "token": "A3F7JL4eEG9YvXkqfqvQimncGmGvArZgjVdHNqUrpump",
+    "symbol": "KNICKS",
+    "marketCap": 156628,
+    "liquidity": 31506.97,
+    "volume1h": 98868.93,
+    "volume24h": 415666.25,
+    "candidateScore": 6.0052,
+    "entryPrice": 0.0001810554972929397,
+    "exitPrice": 0.0001607,
+    "peakPrice": 0.0001832,
+    "profitSOL": -0.078698788,
+    "profitLamports": -78698788,
+    "pnlPct": -11.242683926909661,
+    "peakPnlPct": 1.1844449570015585,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1779935459062",
+    "sellTxid": "DRY_RUN_SELL_1779935730387",
+    "sweepTxid": null
   }
 ]

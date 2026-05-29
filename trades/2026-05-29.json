@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-29T00:21:30.240Z",
+    "token": "2GBS5oGVaDz7unigNaUW853C9wMhdfWn9kYVNMKApump",
+    "symbol": "GBTC",
+    "marketCap": 44617,
+    "liquidity": 16123.24,
+    "volume1h": 28858.78,
+    "volume24h": 28858.78,
+    "candidateScore": 8.5126,
+    "entryPrice": 0.00004995679652666718,
+    "exitPrice": 0.00004461,
+    "peakPrice": 0.00004995679652666718,
+    "profitSOL": -0.074919888,
+    "profitLamports": -74919888,
+    "pnlPct": -10.702841051493433,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780014058655",
+    "sellTxid": "DRY_RUN_SELL_1780014090157",
+    "sweepTxid": null
+  }
+]

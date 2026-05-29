@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1780037219422",
     "sellTxid": "DRY_RUN_SELL_1780037220369",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-29T08:56:30.224Z",
+    "token": "5Jjw95dWbRFDUCM4MKJv4HBzZkwUiVVT1GQSmRdpump",
+    "symbol": "BABEL",
+    "marketCap": 115919,
+    "liquidity": 26699.54,
+    "volume1h": 68838.87,
+    "volume24h": 401675.03,
+    "candidateScore": 7.1287,
+    "entryPrice": 0.00009590177900592283,
+    "exitPrice": 0.0001159,
+    "peakPrice": 0.0001159,
+    "profitSOL": 0.145969708,
+    "profitLamports": 145969708,
+    "pnlPct": 20.852815454906313,
+    "peakPnlPct": 20.852815454906313,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1780044898654",
+    "sellTxid": "DRY_RUN_SELL_1780044990151",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1780044990217"
   }
 ]

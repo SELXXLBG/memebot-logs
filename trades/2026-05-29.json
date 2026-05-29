@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1780014058655",
     "sellTxid": "DRY_RUN_SELL_1780014090157",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-29T06:47:00.455Z",
+    "token": "Buf9grcbLyW9RdnKKuQSyq9Uqhtuhv6W7nNqEwAQpump",
+    "symbol": "Folkcat",
+    "marketCap": 32719,
+    "liquidity": 13757.58,
+    "volume1h": 9592.87,
+    "volume24h": 9592.87,
+    "candidateScore": 8.2931,
+    "entryPrice": 0.00003510169149313215,
+    "exitPrice": 0.00003271,
+    "peakPrice": 0.00003510169149313215,
+    "profitSOL": -0.047695253,
+    "profitLamports": -47695253,
+    "pnlPct": -6.813607525438206,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780037219422",
+    "sellTxid": "DRY_RUN_SELL_1780037220369",
+    "sweepTxid": null
   }
 ]

@@ -8,13 +8,13 @@
         "responseMode": "responseNode",
         "options": {}
       },
-      "id": "a7f67951-71be-4087-a840-beacc3a77a4a",
+      "id": "79d4b49c-7403-4149-84e5-89f1818187af",
       "name": "Webhook Trigger",
       "type": "n8n-nodes-base.webhook",
       "typeVersion": 2,
       "position": [
-        16000,
-        6560
+        17200,
+        10560
       ],
       "webhookId": "memebot-profit-sweep"
     },
@@ -43,39 +43,39 @@
         },
         "options": {}
       },
-      "id": "95453aab-35a2-431c-bb3a-d4164afad4d4",
+      "id": "844c3be2-37ae-4985-af03-3edaa6bc002d",
       "name": "Profit >= 0?",
       "type": "n8n-nodes-base.if",
       "typeVersion": 2,
       "position": [
-        16240,
-        6560
+        17440,
+        10560
       ]
     },
     {
       "parameters": {
         "jsCode": "\nconst payload = $json.body || $json;\nconst storageWallet = 'B12z9uHALwceTy1vdeEs2XBQfa79fvsWMM6sJGyPCKyQ';\n\n// PROFIT SWEEP LOGIC\nconst profitLamports = Number(payload.profitLamports || 0);\nconst isProfit = profitLamports > 0;\n\nreturn [{\n  json: {\n    ...payload,\n    storageWallet,\n    sweepAmountLamports: isProfit ? profitLamports : 0,\n    sweepTxid: isProfit ? 'DRY_RUN_SWEEP_TO_' + storageWallet.slice(0,6) + '_' + Date.now() : null,\n    sweepStatus: isProfit ? 'SUCCESS_SWEPT' : 'NO_PROFIT_TO_SWEEP'\n  }\n}];\n"
       },
-      "id": "8b14b6c5-1dc6-4762-9ebe-7a341ae9e5bf",
+      "id": "6899fd64-728c-4504-8e51-8faaa5b6c59d",
       "name": "Sweep Profit Transfer",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        16480,
-        6448
+        17680,
+        10448
       ]
     },
     {
       "parameters": {
         "jsCode": "const src = $json.body || $json;\nconst now = new Date();\nconst day = now.toISOString().slice(0, 10);\nconst isDryRun = Boolean(src.isDryRun ?? true);\nconst logLine = {\n  status: isDryRun ? '[SIMULATION]' : '[LIVE]',\n  timestamp: now.toISOString(),\n  token: src.tokenAddress,\n  symbol: src.symbol || 'UNKNOWN',\n  marketCap: Number(src.marketCap || 0),\n  liquidity: Number(src.liquidity || 0),\n  volume1h: Number(src.volume1h || 0),\n  volume24h: Number(src.volume24h || 0),\n  candidateScore: Number(src.candidateScore || 0),\n  entryPrice: Number(src.entryPrice || 0),\n  exitPrice: Number(src.exitPrice || 0),\n  peakPrice: Number(src.peakPrice || 0),\n  profitSOL: Number(src.profit || 0),\n  profitLamports: Number(src.profitLamports || 0),\n  pnlPct: Number(src.pnlPct || 0),\n  peakPnlPct: Number(src.peakPnlPct || 0),\n  reason: src.reason,\n  buyTxid: src.txid || null,\n  sellTxid: src.sellTxid || null,\n  sweepTxid: src.sweepTxid || null\n};\n\nreturn [{ json: { ...src, tradeDate: day, githubPath: 'trades/' + day + '.json', logLine } }];"
       },
-      "id": "38a3ad0f-a0b2-4e26-b034-120c0dca76ba",
+      "id": "e6d9fa1d-e0b1-4789-9bab-deb6d2477fe2",
       "name": "Build Trade Log",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        16720,
-        6576
+        17920,
+        10576
       ]
     },
     {
@@ -95,17 +95,16 @@
           ]
         },
         "options": {
-          "timeout": 12000,
-          "ignoreResponseCode": true
+          "timeout": 12000
         }
       },
-      "id": "07cb04c5-c1a2-4987-b935-98f5ac664aad",
+      "id": "8ff5ff20-4b18-4718-be30-750b4ef495c1",
       "name": "GitHub Get Daily File",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
       "position": [
-        16960,
-        6576
+        18160,
+        10576
       ],
       "continueOnFail": true
     },
@@ -144,26 +143,26 @@
         },
         "options": {}
       },
-      "id": "66da4831-3ee0-4b10-92eb-96036230e27c",
+      "id": "1178896e-9c62-4afa-a06d-10399caae10e",
       "name": "GitHub GET 200/404?",
       "type": "n8n-nodes-base.if",
       "typeVersion": 2,
       "position": [
-        17184,
-        6576
+        18384,
+        10576
       ]
     },
     {
       "parameters": {
         "jsCode": "const getFileResult = $node['GitHub Get Daily File'].json;\nconst sha = getFileResult?.sha || getFileResult?.body?.sha || getFileResult?.data?.sha || '';\nconst content = getFileResult?.content || getFileResult?.body?.content || getFileResult?.data?.content || '';\n\nlet existingTrades = [];\nif (content) {\n  try {\n    const normalizedContent = String(content).split(String.fromCharCode(10)).join('');\n    const decoded = Buffer.from(normalizedContent, 'base64').toString('utf-8').trim();\n    const parsed = decoded ? JSON.parse(decoded) : [];\n    existingTrades = Array.isArray(parsed) ? parsed : [];\n  } catch (e) {\n    existingTrades = [];\n  }\n}\n\nconst newEntry = $node['Build Trade Log'].json.logLine;\nexistingTrades.push(newEntry);\n\nreturn [{\n  json: {\n    fileContent: Buffer.from(JSON.stringify(existingTrades, null, 2)).toString('base64'),\n    commitMessage: 'trade: ' + (newEntry.symbol || 'unknown') + ' | ' + (newEntry.reason || '?'),\n    githubPath: $node['Build Trade Log'].json.githubPath,\n    existingSha: (sha && sha !== 'undefined') ? sha : null\n  }\n}];"
       },
-      "id": "e9310c33-974f-4d5a-a278-21d5f8cc08c9",
+      "id": "4ad3fbe2-130c-4f0d-845f-87499707cbcd",
       "name": "Prepare GitHub PUT",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        17408,
-        6560
+        18608,
+        10560
       ]
     },
     {
@@ -190,13 +189,13 @@
           "timeout": 12000
         }
       },
-      "id": "b3933d58-c7dc-40e7-9643-d7d9fe54b18a",
+      "id": "c19cc46e-1b31-4ed5-bca4-83b43819b67c",
       "name": "GitHub Put Daily File",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.1,
       "position": [
-        17632,
-        6560
+        18832,
+        10560
       ],
       "webhookId": "873a1e4a-a8f4-49be-b040-969be6584425",
       "continueOnFail": true
@@ -226,26 +225,26 @@
         },
         "options": {}
       },
-      "id": "88d0e9b5-ccd5-48c8-bbd7-bb49d0713b46",
+      "id": "87a2b310-e723-4e99-ba73-c5dc3cab62d0",
       "name": "GitHub PUT 200?",
       "type": "n8n-nodes-base.if",
       "typeVersion": 2,
       "position": [
-        17840,
-        6560
+        19040,
+        10560
       ]
     },
     {
       "parameters": {
         "jsCode": "const fs = require('fs');\nconst statePath = '/tmp/memebot_position.json';\nconst cooldownPath = '/tmp/memebot_token_cooldown.json';\nconst trade = $node['Build Trade Log'].json.logLine || {};\n\ntry {\n  let cooldown = {};\n  try {\n    cooldown = JSON.parse(fs.readFileSync(cooldownPath, 'utf8'));\n  } catch (e) {}\n  if (trade.token) cooldown[trade.token] = Date.now();\n  fs.writeFileSync(cooldownPath, JSON.stringify(cooldown, null, 2));\n} catch (e) {}\n\ntry {\n  if (fs.existsSync(statePath)) fs.unlinkSync(statePath);\n} catch (e) {}\nreturn [{ json: { ok: true, message: 'LOGGED_AND_POSITION_CLEARED' } }];"
       },
-      "id": "77342b70-437d-47d5-abed-8ede79877ad4",
+      "id": "086ecd2c-ab1e-4f84-8aa7-c6f2ed8b2f1c",
       "name": "Clear Position State",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        18064,
-        6544
+        19264,
+        10544
       ]
     },
     {
@@ -254,19 +253,19 @@
         "responseBody": "={{$json}}",
         "options": {}
       },
-      "id": "77a277e6-981d-4d2b-82a3-2289cdfcb6f1",
+      "id": "b481684b-33a1-4cfc-8242-5aeaa452c450",
       "name": "Respond",
       "type": "n8n-nodes-base.respondToWebhook",
       "typeVersion": 1.1,
       "position": [
-        18256,
-        6752
+        19456,
+        10752
       ]
     },
     {
       "parameters": {
         "chatId": "8229030669",
-        "text": "=🤖 *MEMEBOT TRADE LOG*\n\n*Status:* {{$node[\"Build Trade Log\"].json.logLine.status}}\n*Token:* {{$node[\"Build Trade Log\"].json.logLine.symbol}}\n*Entry:* {{$node[\"Build Trade Log\"].json.logLine.entryPrice}} SOL\n*Exit:* {{$node[\"Build Trade Log\"].json.logLine.exitPrice}} SOL\n*PnL:* {{$node[\"Build Trade Log\"].json.logLine.profitSOL}} SOL\n*Reason:* {{$node[\"Build Trade Log\"].json.logLine.reason}}\n*Logged:* {{$node[\"Build Trade Log\"].json.tradeDate}}",
+        "text": "={{ ($node[\"Build Trade Log\"].json.logLine.profitSOL >= 0 ? '✅' : '❌') + ' ' + $node[\"Build Trade Log\"].json.logLine.reason.replace('TAKEPROFIT', 'TP').replace('STOPLOSS', 'SL') + ' (' + ($node[\"Build Trade Log\"].json.logLine.profitSOL >= 0 ? '+' : '') + $node[\"Build Trade Log\"].json.logLine.profitSOL.toFixed(3) + ' SOL)' }}\n={{ '0.700 ➔ ' + (0.7 + $node[\"Build Trade Log\"].json.logLine.profitSOL).toFixed(3) + ' SOL | ' + $node[\"Build Trade Log\"].json.logLine.symbol }}",
         "additionalFields": {
           "disable_web_page_preview": true,
           "parse_mode": "Markdown"
@@ -275,10 +274,10 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        18256,
-        6400
+        19456,
+        10400
       ],
-      "id": "123a26a5-caa8-4aea-adb4-da5af380e998",
+      "id": "86b0c345-88c7-45e8-bff4-5760b991f6be",
       "name": "Send a text message",
       "webhookId": "1d550245-8e3c-40ea-9b01-53e9f6495100",
       "credentials": {
@@ -300,10 +299,10 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        18256,
-        6544
+        19456,
+        10544
       ],
-      "id": "104f522f-5559-47f8-a263-d4a1e9f34207",
+      "id": "6b9c5a79-1196-4505-af25-3d5477bb963c",
       "name": "Send Telegram to Legible0",
       "webhookId": "1d550245-8e3c-40ea-9b01-53e9f6495100",
       "credentials": {
@@ -467,7 +466,7 @@
     "callerPolicy": "workflowsFromSameOwner",
     "availableInMCP": true
   },
-  "versionId": "456f8304-a44a-4a19-acba-0758764ae8f4",
+  "versionId": "796a9d2c-c794-4040-9504-a519a2e91559",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "af0cf43e3f9e603b399bdeace168c60a3d389a1bf234ffd6d52093e577978cf4"

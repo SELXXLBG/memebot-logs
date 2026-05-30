@@ -8,13 +8,13 @@
         "responseMode": "responseNode",
         "options": {}
       },
-      "id": "86750582-7252-4fe7-bf92-ee69db7aea9c",
+      "id": "865f1043-d948-42c7-9bb4-f6b9926a629a",
       "name": "Webhook Trigger",
       "type": "n8n-nodes-base.webhook",
       "typeVersion": 2,
       "position": [
-        416,
-        -128
+        4912,
+        3824
       ],
       "webhookId": "memebot-trade-exec"
     },
@@ -22,13 +22,13 @@
       "parameters": {
         "jsCode": "const fs = require('fs');\nconst statePath = '/tmp/memebot_position.json';\nlet hasPosition = false;\ntry {\n  if (fs.existsSync(statePath)) {\n    const data = JSON.parse(fs.readFileSync(statePath, 'utf8'));\n    hasPosition = Boolean(data && data.tokenAddress);\n  }\n} catch (e) {}\n\nif (hasPosition) {\n  return [{ json: { canTrade: false, reason: 'OPEN_POSITION_EXISTS' } }];\n}\nreturn [{ json: { ...$json, canTrade: true } }];"
       },
-      "id": "0c925751-4fea-454b-ba59-11318bd9cbb1",
+      "id": "24db8e48-a12a-4346-8d31-6ef48e1700d5",
       "name": "Check Open Position",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        656,
-        -128
+        5152,
+        3824
       ]
     },
     {
@@ -56,13 +56,13 @@
         },
         "options": {}
       },
-      "id": "d29666d6-15f1-407f-b88e-6ad5c35dac37",
+      "id": "7dd6d26c-7f43-496f-a186-7074de40b18f",
       "name": "Can Trade?",
       "type": "n8n-nodes-base.if",
       "typeVersion": 2,
       "position": [
-        896,
-        -128
+        5392,
+        3824
       ]
     },
     {
@@ -93,13 +93,13 @@
           "timeout": 12000
         }
       },
-      "id": "2ecb21a1-5177-4cce-b3f8-1dbabf1c89ad",
+      "id": "35fe91ea-50e3-49ab-b00f-217663ce0fb8",
       "name": "Jupiter Quote",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
       "position": [
-        1136,
-        -208
+        5632,
+        3744
       ],
       "continueOnFail": true
     },
@@ -128,13 +128,13 @@
         },
         "options": {}
       },
-      "id": "e4be5ba6-5b49-4680-b45e-7625690b1f92",
+      "id": "cfff1d30-be43-41ae-8052-54f740763738",
       "name": "Quote Status 200?",
       "type": "n8n-nodes-base.if",
       "typeVersion": 2,
       "position": [
-        1360,
-        -208
+        5856,
+        3744
       ]
     },
     {
@@ -148,13 +148,13 @@
           "timeout": 12000
         }
       },
-      "id": "81957a85-5fc9-41dc-b2b6-899c88496d67",
+      "id": "eb4d8409-befa-4b5a-9b11-d6f83c22e0d7",
       "name": "Jupiter Swap TX",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
       "position": [
-        1584,
-        -256
+        6080,
+        3696
       ],
       "continueOnFail": true
     },
@@ -183,39 +183,39 @@
         },
         "options": {}
       },
-      "id": "3ccbd6e1-f73f-4ba3-bfaf-88ff4fd49fbf",
+      "id": "51fbebe7-712e-44ee-8a43-678196b0d18d",
       "name": "Swap Status 200?",
       "type": "n8n-nodes-base.if",
       "typeVersion": 2,
       "position": [
-        1808,
-        -256
+        6304,
+        3696
       ]
     },
     {
       "parameters": {
-        "jsCode": "const isDryRun = true;\nconst quoteNode = $item(0).$node['Jupiter Quote'].json;\nconst quote = quoteNode.body || quoteNode;\nconst candidate = $item(0).$node['Check Open Position'].json;\nconst entryPrice = Number(candidate.body?.price ?? candidate.price ?? 0);\nconst solAmountLamports = Number(quote.inAmount || 700000000);\nconst tokenAmountRaw = String(quote.outAmount || '0');\n\nif (!candidate.body?.tokenAddress && !candidate.tokenAddress) {\n  throw new Error('Missing tokenAddress from scanner payload');\n}\nif (!(entryPrice > 0)) {\n  throw new Error('Missing positive scanner entry price');\n}\nif (!(Number(tokenAmountRaw) > 0)) {\n  throw new Error('Jupiter quote returned empty outAmount');\n}\n\nif (isDryRun) {\n  return [{\n    json: {\n      tokenAddress: candidate.body?.tokenAddress || candidate.tokenAddress,\n      symbol: candidate.body?.symbol || candidate.symbol || 'UNKNOWN',\n      marketCap: Number(candidate.body?.marketCap ?? candidate.marketCap ?? 0),\n      liquidity: Number(candidate.body?.liquidity ?? candidate.liquidity ?? 0),\n      volume1h: Number(candidate.body?.volume1h ?? candidate.volume1h ?? 0),\n      volume24h: Number(candidate.body?.volume24h ?? candidate.volume24h ?? 0),\n      candidateScore: Number(candidate.body?.candidateScore ?? candidate.candidateScore ?? 0),\n      entryPrice,\n      entryTime: Date.now(),\n      peakPrice: entryPrice,\n      solAmountLamports,\n      tokenAmountRaw,\n      txid: 'DRY_RUN_BUY_' + Date.now(),\n      isDryRun: true\n    }\n  }];\n}\n\nthrow new Error('LIVE_TRADING_NOT_IMPLEMENTED: add signing, RPC broadcast, and secret management before disabling dry run');"
+        "jsCode": "const isDryRun = true;\nconst quoteNode = $item(0).$node['Jupiter Quote'].json;\nconst quote = quoteNode.body || quoteNode;\nconst candidate = $item(0).$node['Check Open Position'].json;\n\n// REALISM UPDATE: Kai's feedback\n// In live trading, we enter late. Let's simulate this by adding 0.5% to 2% random slippage to the entry price.\nconst scanPrice = Number(candidate.body?.price ?? candidate.price ?? 0);\nconst simulatedSlippage = 1.005 + (Math.random() * 0.015); // 0.5% to 2% random penalty\nconst entryPrice = scanPrice * simulatedSlippage;\n\nconst solAmountLamports = Number(quote.inAmount || 700000000);\nconst tokenAmountRaw = String(quote.outAmount || '0');\n\nif (!candidate.body?.tokenAddress && !candidate.tokenAddress) {\n  throw new Error('Missing tokenAddress from scanner payload');\n}\nif (!(entryPrice > 0)) {\n  throw new Error('Missing positive scanner entry price');\n}\nif (!(Number(tokenAmountRaw) > 0)) {\n  throw new Error('Jupiter quote returned empty outAmount');\n}\n\nif (isDryRun) {\n  const marketCap = Number(candidate.body?.marketCap ?? candidate.marketCap ?? 0);\n  const liquidity = Number(candidate.body?.liquidity ?? candidate.liquidity ?? 0);\n\n  return [{\n    json: {\n      tokenAddress: candidate.body?.tokenAddress || candidate.tokenAddress,\n      symbol: candidate.body?.symbol || candidate.symbol || 'UNKNOWN',\n      marketCap,\n      liquidity,\n      volume1h: Number(candidate.body?.volume1h ?? candidate.volume1h ?? 0),\n      volume24h: Number(candidate.body?.volume24h ?? candidate.volume24h ?? 0),\n      candidateScore: Number(candidate.body?.candidateScore ?? candidate.candidateScore ?? 0),\n      entryPrice,\n      entryTime: Date.now(),\n      peakPrice: entryPrice,\n      solAmountLamports,\n      tokenAmountRaw,\n      txid: 'DRY_RUN_BUY_' + Date.now(),\n      isDryRun: true\n    }\n  }];\n}\n\nthrow new Error('LIVE_TRADING_NOT_IMPLEMENTED: add signing, RPC broadcast, and secret management before disabling dry run');"
       },
-      "id": "f3a55e01-0a7f-4769-bc54-db071eccf1de",
+      "id": "9b470608-e4a5-456d-af52-f800921e946e",
       "name": "Sign & Broadcast Buy",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        2016,
-        -304
+        6512,
+        3648
       ]
     },
     {
       "parameters": {
         "jsCode": "const fs = require('fs');\nconst statePath = '/tmp/memebot_position.json';\nconst position = {\n  tokenAddress: $json.tokenAddress,\n  symbol: $json.symbol,\n  marketCap: Number($json.marketCap || 0),\n  liquidity: Number($json.liquidity || 0),\n  volume1h: Number($json.volume1h || 0),\n  volume24h: Number($json.volume24h || 0),\n  candidateScore: Number($json.candidateScore || 0),\n  entryPrice: Number($json.entryPrice),\n  entryTime: Number($json.entryTime),\n  peakPrice: Number($json.peakPrice || $json.entryPrice),\n  solAmountLamports: Number($json.solAmountLamports),\n  tokenAmountRaw: String($json.tokenAmountRaw),\n  txid: $json.txid,\n  isDryRun: Boolean($json.isDryRun)\n};\n\nif (!position.tokenAddress || !(position.entryPrice > 0) || !(Number(position.tokenAmountRaw) > 0)) {\n  throw new Error('Refusing to store incomplete position state');\n}\n\nfs.writeFileSync(statePath, JSON.stringify(position, null, 2));\nreturn [{ json: { ok: true, message: 'POSITION_OPENED', position } }];"
       },
-      "id": "7ed4d424-1911-4ca1-b865-5f28543c9f76",
+      "id": "7bff5d41-02ac-4974-839e-32623a44a1ee",
       "name": "Store Open Position",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        2224,
-        -304
+        6720,
+        3648
       ]
     },
     {
@@ -224,13 +224,13 @@
         "responseBody": "={{$json}}",
         "options": {}
       },
-      "id": "9b88640f-4fe3-413b-bdb3-0863b65e55b7",
+      "id": "d6e45c27-b222-4a1d-a293-6eec8326e116",
       "name": "Respond Success",
       "type": "n8n-nodes-base.respondToWebhook",
       "typeVersion": 1.1,
       "position": [
-        2448,
-        -304
+        6944,
+        3648
       ]
     },
     {
@@ -241,13 +241,13 @@
           "responseCode": 200
         }
       },
-      "id": "8c9c580f-ad8a-4b81-98de-bbad2d2035f2",
+      "id": "0b4598bd-d369-4bac-91cf-afb494013baa",
       "name": "Respond Skipped",
       "type": "n8n-nodes-base.respondToWebhook",
       "typeVersion": 1.1,
       "position": [
-        1136,
-        16
+        5632,
+        3968
       ]
     }
   ],
@@ -382,7 +382,7 @@
     "callerPolicy": "workflowsFromSameOwner",
     "availableInMCP": true
   },
-  "versionId": "7de1baf2-7b9b-41b6-8182-9efa477162d0",
+  "versionId": "50463800-5488-4b5f-b96b-50d2a37e4d60",
   "meta": {
     "instanceId": "af0cf43e3f9e603b399bdeace168c60a3d389a1bf234ffd6d52093e577978cf4"
   },

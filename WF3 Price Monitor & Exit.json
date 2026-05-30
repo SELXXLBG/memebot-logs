@@ -6,31 +6,32 @@
         "rule": {
           "interval": [
             {
-              "field": "seconds"
+              "field": "seconds",
+              "secondsInterval": 30
             }
           ]
         }
       },
-      "id": "9ddf2314-5071-4372-ade8-edc6a4350e40",
+      "id": "f3225c99-b4d5-44d6-b218-226b026a2595",
       "name": "Schedule Every 30s",
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1.2,
       "position": [
-        12976,
-        7536
+        -1552,
+        6736
       ]
     },
     {
       "parameters": {
         "jsCode": "const fs = require('fs');\nconst statePath = '/tmp/memebot_position.json';\nlet position = null;\ntry {\n  if (fs.existsSync(statePath)) {\n    position = JSON.parse(fs.readFileSync(statePath, 'utf8'));\n  }\n} catch (e) {}\n\nif (!position || !position.tokenAddress) {\n  return [{ json: { hasPosition: false } }];\n}\nreturn [{ json: { hasPosition: true, ...position } }];"
       },
-      "id": "4e7f9081-a363-4b5f-870d-e815566ffd6c",
+      "id": "36146b02-b06b-4d53-b4da-89691dbebe20",
       "name": "Load Open Position",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        13216,
-        7536
+        -1312,
+        6736
       ]
     },
     {
@@ -58,13 +59,13 @@
         },
         "options": {}
       },
-      "id": "d8ae962e-3cac-4939-9001-8e6ff5fc8b04",
+      "id": "d978b51a-9a6a-4e1a-9c05-54ec2e1a3125",
       "name": "Has Open Position?",
       "type": "n8n-nodes-base.if",
       "typeVersion": 2,
       "position": [
-        13456,
-        7536
+        -1072,
+        6736
       ]
     },
     {
@@ -74,13 +75,13 @@
           "timeout": 10000
         }
       },
-      "id": "7d24ed3f-9cd5-4a36-b74d-a332433a42a5",
+      "id": "04882dd9-8814-4072-b093-09867b9c26c5",
       "name": "Fetch Current Price",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
       "position": [
-        13696,
-        7456
+        -832,
+        6656
       ],
       "continueOnFail": true
     },
@@ -109,26 +110,26 @@
         },
         "options": {}
       },
-      "id": "8c9eb4d0-d2b7-42b3-9861-64c7e8a64b96",
+      "id": "686b3e1e-dc77-4fcc-a084-294953aba07f",
       "name": "Price Status 200?",
       "type": "n8n-nodes-base.if",
       "typeVersion": 2,
       "position": [
-        13888,
-        7456
+        -640,
+        6656
       ]
     },
     {
       "parameters": {
-        "jsCode": "const fs = require('fs');\nconst root = $json.body || $json;\nconst pairs = Array.isArray(root.pairs) ? root.pairs : [];\nconst position = $item(0).$node['Load Open Position'].json;\nconst pair = pairs\n  .filter(pair => String(pair.chainId || '').toLowerCase() === 'solana')\n  .sort((a, b) => Number(b.liquidity?.usd || 0) - Number(a.liquidity?.usd || 0))[0] || null;\n\nif (!pair) {\n  return [{ json: { ...position, shouldExit: 0, reason: 'NO_PRICE_DATA' } }];\n}\n\nconst entryPrice = Number(position.entryPrice || 0);\nconst currentPrice = Number(pair.priceUsd || 0);\nconst now = Date.now();\nconst maxHoldMs = 6 * 60 * 60 * 1000;\nconst staleNoMoveMs = 30 * 60 * 1000;\nconst elapsed = now - Number(position.entryTime || now);\n\nif (!(entryPrice > 0) || !(currentPrice > 0)) {\n  return [{ json: { ...position, entryPrice, exitPrice: currentPrice, shouldExit: 0, reason: 'INVALID_PRICE_DATA' } }];\n}\n\nconst pnlPct = ((currentPrice - entryPrice) / entryPrice) * 100;\nconst peakPrice = Math.max(Number(position.peakPrice || entryPrice), currentPrice);\nconst peakPnlPct = ((peakPrice - entryPrice) / entryPrice) * 100;\nconst currentLiquidity = Number(pair.liquidity?.usd || 0);\nconst marketCap = Number(pair.marketCap || pair.fdv || 0);\n\nlet shouldExit = 0;\nlet reason = 'HOLD';\n\n// --- EXIT RULES ---\nif (currentPrice <= entryPrice * 0.85) {\n  shouldExit = 1;\n  reason = 'STOPLOSS15P';\n} else if (peakPnlPct >= 20 && currentPrice <= peakPrice * 0.93) {\n  shouldExit = 1;\n  reason = 'TRAILINGSTOP';\n} else if (currentPrice >= entryPrice * 1.25) {\n  shouldExit = 1;\n  reason = 'TAKEPROFIT25P';\n} else if (peakPnlPct >= 7 && currentPrice <= entryPrice * 1.00) {\n  shouldExit = 1;\n  reason = 'BREAKEVENEXIT';\n} else if (peakPnlPct >= 15 && pnlPct <= 3) {\n  shouldExit = 1;\n  reason = 'PROTECT_GREEN';\n} else if (currentLiquidity > 0 && currentLiquidity < Math.max(Number(position.liquidity || 0) * 0.55, 6000)) {\n  shouldExit = 1;\n  reason = 'LIQUIDITY_DRAIN';\n} else if (elapsed > (45 * 60 * 1000) && pnlPct < 2) {\n  shouldExit = 1;\n  reason = 'STALE_NO_MOMENTUM';\n} else if (elapsed > maxHoldMs) {\n  shouldExit = 1;\n  reason = 'FORCE_EXIT_6H';\n}\n\nconst statePath = '/tmp/memebot_position.json';\ntry {\n  const posData = JSON.parse(fs.readFileSync(statePath, 'utf8'));\n  posData.peakPrice = peakPrice;\n  fs.writeFileSync(statePath, JSON.stringify(posData, null, 2), 'utf8');\n} catch (e) {}\n\nconst solAmountLamports = Number(position.solAmountLamports || position.amount || 0);\nconst profitLamports = Math.floor(solAmountLamports * (pnlPct / 100));\n\nreturn [{\n  json: {\n    ...position,\n    entryPrice,\n    exitPrice: currentPrice,\n    peakPrice,\n    marketCap,\n    liquidity: currentLiquidity,\n    profitLamports,\n    profit: profitLamports / 1e9,\n    pnlPct,\n    peakPnlPct,\n    reason,\n    shouldExit\n  }\n}];"
+        "jsCode": "const fs = require('fs');\nconst root = $json.body || $json;\nconst pairs = Array.isArray(root.pairs) ? root.pairs : [];\nconst position = $item(0).$node['Load Open Position'].json;\nconst pair = pairs\n  .filter(pair => String(pair.chainId || '').toLowerCase() === 'solana')\n  .sort((a, b) => Number(b.liquidity?.usd || 0) - Number(a.liquidity?.usd || 0))[0] || null;\n\nif (!pair) {\n  return [{ json: { ...position, shouldExit: 0, reason: 'NO_PRICE_DATA' } }];\n}\n\nconst entryPrice = Number(position.entryPrice || 0);\nconst currentPrice = Number(pair.priceUsd || 0);\nconst now = Date.now();\nconst maxHoldMs = 90 * 60 * 1000;\nconst elapsed = now - Number(position.entryTime || now);\n\nif (!(entryPrice > 0) || !(currentPrice > 0)) {\n  return [{ json: { ...position, entryPrice, exitPrice: currentPrice, shouldExit: 0, reason: 'INVALID_PRICE_DATA' } }];\n}\n\nconst pnlPct = ((currentPrice - entryPrice) / entryPrice) * 100;\nconst peakPrice = Math.max(Number(position.peakPrice || entryPrice), currentPrice);\nconst peakPnlPct = ((peakPrice - entryPrice) / entryPrice) * 100;\nconst currentLiquidity = Number(pair.liquidity?.usd || 0);\nconst entryLiquidity = Number(position.liquidity || 0);\nconst marketCap = Number(pair.marketCap || pair.fdv || 0);\n\nconst elapsedMin = Math.max(elapsed / 60000, 0.25);\nconst velocityPctPerMin = pnlPct / elapsedMin;\n\nlet shouldExit = 0;\nlet reason = 'HOLD';\n\n// EXIT RULES v6 — tighter SL, faster velocity kill, better trailing\n// GRACE (first 5 min): SL -8% — if it dumps this fast, token is dead\n// NORMAL (5-15 min): SL -6%\n// LATE (15+ min): SL -4%\n// VELOCITY KILL: dumping > 2%/min with loss > -3% => instant exit\n\nconst gracePeriodMs = 5 * 60 * 1000;\nconst normalPeriodMs = 15 * 60 * 1000;\nconst isInGracePeriod = elapsed < gracePeriodMs;\nconst isLateMode = elapsed > normalPeriodMs;\n\n// 0. VELOCITY KILL — faster trigger\nif (velocityPctPerMin <= -2 && pnlPct < -3) {\n  shouldExit = 1;\n  reason = 'VELOCITY_KILL';\n}\n\n// 0b. INSTANT DUMP — price never went green and already -5% in under 2 min\nif (!shouldExit && elapsed < (2 * 60 * 1000) && peakPnlPct < 1 && pnlPct <= -5) {\n  shouldExit = 1;\n  reason = 'INSTANT_DUMP';\n}\n\n// 1. Dynamic stop loss based on time phase\nif (!shouldExit) {\n  const slMultiplier = isInGracePeriod ? 0.92 : (isLateMode ? 0.96 : 0.94);\n  if (currentPrice <= entryPrice * slMultiplier) {\n    shouldExit = 1;\n    reason = isInGracePeriod ? 'STOPLOSS8P_EARLY' : (isLateMode ? 'STOPLOSS4P_LATE' : 'STOPLOSS6P');\n  }\n}\n\n// 2. Trailing stop: activate at +8%, trail 5% from peak\nif (!shouldExit && peakPnlPct >= 8 && currentPrice <= peakPrice * 0.95) {\n  shouldExit = 1;\n  reason = 'TRAILINGSTOP';\n}\n\n// 3. Take profit at +20%\nif (!shouldExit && currentPrice >= entryPrice * 1.20) {\n  shouldExit = 1;\n  reason = 'TAKEPROFIT20P';\n}\n\n// 4. Protect breakeven: was up +4%, now back to -0.5%\nif (!shouldExit && peakPnlPct >= 4 && pnlPct <= -0.5) {\n  shouldExit = 1;\n  reason = 'BREAKEVENEXIT';\n}\n\n// 5. Protect green: was up +6%, now below +1.5%\nif (!shouldExit && peakPnlPct >= 6 && pnlPct <= 1.5) {\n  shouldExit = 1;\n  reason = 'PROTECTGREEN';\n}\n\n// 6. Liquidity drain: exit if liq drops 30% from entry\nif (!shouldExit && entryLiquidity > 0 && currentLiquidity > 0 && currentLiquidity < entryLiquidity * 0.70) {\n  shouldExit = 1;\n  reason = 'LIQUIDITY_DRAIN';\n}\n\n// 7. No momentum after 20min — gives token more time\nif (!shouldExit && !isInGracePeriod && elapsed > (20 * 60 * 1000) && pnlPct < 2 && pnlPct > -3) {\n  shouldExit = 1;\n  reason = 'STALE_NO_MOMENTUM';\n}\n\n// 8. Force exit after 90min\nif (!shouldExit && elapsed > maxHoldMs) {\n  shouldExit = 1;\n  reason = 'FORCE_EXIT_90M';\n}\n\nconst statePath = '/tmp/memebot_position.json';\ntry {\n  const posData = JSON.parse(fs.readFileSync(statePath, 'utf8'));\n  posData.peakPrice = peakPrice;\n  fs.writeFileSync(statePath, JSON.stringify(posData, null, 2), 'utf8');\n} catch (e) {}\n\nconst solAmountLamports = Number(position.solAmountLamports || position.amount || 0);\nconst profitLamports = Math.floor(solAmountLamports * (pnlPct / 100));\n\nreturn [{\n  json: {\n    ...position,\n    entryPrice,\n    exitPrice: currentPrice,\n    peakPrice,\n    marketCap,\n    liquidity: currentLiquidity,\n    profitLamports,\n    profit: profitLamports / 1e9,\n    profitSOL: profitLamports / 1e9,\n    pnlPct,\n    peakPnlPct,\n    velocityPctPerMin: Number(velocityPctPerMin.toFixed(3)),\n    isInGracePeriod,\n    isLateMode,\n    elapsedMinutes: Math.floor(elapsed / 60000),\n    reason,\n    shouldExit\n  }\n}];"
       },
-      "id": "43d1985e-0401-4222-b599-7443d82e5ab3",
+      "id": "a330f6df-f16e-47dd-94ae-112a0cd6c2fb",
       "name": "Evaluate Exit Rules",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        14128,
-        7376
+        -400,
+        6576
       ]
     },
     {
@@ -156,13 +157,13 @@
         },
         "options": {}
       },
-      "id": "38df68c7-2dcd-4bca-a6cf-4453745573a4",
+      "id": "d9f151fb-328c-41d4-8584-5a7cdf74e7f2",
       "name": "Should Exit?",
       "type": "n8n-nodes-base.if",
       "typeVersion": 2,
       "position": [
-        14304,
-        7376
+        -224,
+        6576
       ]
     },
     {
@@ -176,13 +177,13 @@
           "timeout": 12000
         }
       },
-      "id": "d658ff6e-e5ee-4f7e-ad7e-18aab03594db",
+      "id": "bf2725bf-ecd4-4806-a7e5-b3f191cb0d29",
       "name": "Call WF4 Webhook",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
       "position": [
-        15472,
-        7168
+        944,
+        6368
       ],
       "continueOnFail": true
     },
@@ -211,26 +212,26 @@
         },
         "options": {}
       },
-      "id": "00a449eb-f283-4065-8c36-707f642d4126",
+      "id": "874c31fb-1a03-47ef-bb8e-93eec00b418b",
       "name": "WF4 Status 200?",
       "type": "n8n-nodes-base.if",
       "typeVersion": 2,
       "position": [
-        15680,
-        7168
+        1152,
+        6368
       ]
     },
     {
       "parameters": {
         "jsCode": "const fs = require('fs');\nconst statePath = '/tmp/memebot_position.json';\ntry {\n  if (fs.existsSync(statePath)) fs.unlinkSync(statePath);\n} catch (e) {}\nreturn [{ json: { ok: true, message: 'POSITION_CLEARED_AFTER_EXIT' } }];"
       },
-      "id": "5a90adf5-d23e-4896-904e-07b5f604ac10",
+      "id": "8e7a0fab-7ae5-4989-b3c4-4dffb3207ee4",
       "name": "Clear Open Position",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        15904,
-        7056
+        1376,
+        6256
       ]
     },
     {
@@ -261,13 +262,13 @@
           "timeout": 12000
         }
       },
-      "id": "e58b963e-f7a2-4e72-becf-47c0d10fadab",
+      "id": "3d4e24d8-7ed1-41ef-b89a-fe128f97dfcf",
       "name": "Jupiter Quote Sell",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
       "position": [
-        14496,
-        7264
+        -32,
+        6464
       ],
       "continueOnFail": true
     },
@@ -296,13 +297,13 @@
         },
         "options": {}
       },
-      "id": "3192fd40-fef7-4209-9b68-5d84dba98116",
+      "id": "7714820a-f69a-4299-849a-643b82cbc90b",
       "name": "Quote Sell OK?",
       "type": "n8n-nodes-base.if",
       "typeVersion": 2,
       "position": [
-        14672,
-        7264
+        144,
+        6464
       ]
     },
     {
@@ -316,13 +317,13 @@
           "timeout": 12000
         }
       },
-      "id": "0983cf1b-6c35-4c6e-abda-e828ca4195cd",
+      "id": "127a53c6-cc7e-4475-bcf8-9f8b20b2a1f4",
       "name": "Jupiter Swap Sell TX",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
       "position": [
-        14880,
-        7248
+        352,
+        6448
       ],
       "continueOnFail": true
     },
@@ -351,26 +352,39 @@
         },
         "options": {}
       },
-      "id": "8fa9d4bb-0682-4083-ac69-b0afa8689b07",
+      "id": "637ad761-3f8d-4e3f-8c0e-7c5d81740129",
       "name": "Swap Sell OK?",
       "type": "n8n-nodes-base.if",
       "typeVersion": 2,
       "position": [
-        15056,
-        7248
+        528,
+        6448
       ]
     },
     {
       "parameters": {
         "jsCode": "const exit = $item(0).$node['Evaluate Exit Rules'].json;\nconst quoteNode = $item(0).$node['Jupiter Quote Sell'].json;\nconst quote = quoteNode.body || quoteNode || {};\nconst outLamports = Number(quote.outAmount || 0);\nconst inLamports = Number(exit.solAmountLamports || exit.amount || 0);\n\n// In dry-run, always use the price-based PnL from Evaluate Exit Rules.\n// The Jupiter quote can differ from the Dexscreener price due to slippage\n// or timing, which would flip the sign and corrupt the trade log.\n// (e.g. a TAKE_PROFIT trade showing a negative PnL)\nconst priceBasedProfitLamports = Number(exit.profitLamports || 0);\n\n// For live mode: use real on-chain amounts (outLamports - inLamports).\n// For dry-run: use the price-based estimate which matches the exit reason.\nconst profitLamports = priceBasedProfitLamports;\n\nreturn [{\n  json: {\n    ...exit,\n    sellTxid: 'DRY_RUN_SELL_' + Date.now(),\n    profitLamports,\n    profit: profitLamports / 1e9,\n    isDryRun: true\n  }\n}];"
       },
-      "id": "5b0627eb-f6e4-4a1b-ab18-d1949204adbe",
+      "id": "7c34054d-6775-4420-835e-361a8daf75bf",
       "name": "Sign Broadcast Sell",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        15264,
-        7168
+        736,
+        6368
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "const fs = require('fs');\nconst exit = $item(0).$node['Evaluate Exit Rules'].json;\nconst profitLamports = Number(exit.profitLamports || 0);\n\nreturn [{\n  json: {\n    ...exit,\n    sellTxid: 'SELL_FAILED_FORCE_EXIT_' + Date.now(),\n    profitLamports: Math.min(profitLamports, -Number(exit.solAmountLamports || 700000000)),\n    profit: Math.min(profitLamports, -Number(exit.solAmountLamports || 700000000)) / 1e9,\n    reason: exit.reason + '_SELL_FAILED',\n    isDryRun: true\n  }\n}];"
+      },
+      "id": "fc0e1a2b-force-exit-fallback-001",
+      "name": "Force Exit on Sell Fail",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        736,
+        6656
       ]
     }
   ],
@@ -494,6 +508,13 @@
             "type": "main",
             "index": 0
           }
+        ],
+        [
+          {
+            "node": "Force Exit on Sell Fail",
+            "type": "main",
+            "index": 0
+          }
         ]
       ]
     },
@@ -516,6 +537,13 @@
             "type": "main",
             "index": 0
           }
+        ],
+        [
+          {
+            "node": "Force Exit on Sell Fail",
+            "type": "main",
+            "index": 0
+          }
         ]
       ]
     },
@@ -529,9 +557,20 @@
           }
         ]
       ]
+    },
+    "Force Exit on Sell Fail": {
+      "main": [
+        [
+          {
+            "node": "Call WF4 Webhook",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     }
   },
-  "active": false,
+  "active": true,
   "settings": {
     "executionOrder": "v1",
     "binaryMode": "separate",
@@ -539,7 +578,7 @@
     "callerPolicy": "workflowsFromSameOwner",
     "availableInMCP": true
   },
-  "versionId": "ddbc9cb4-ca8e-447b-b6b9-9b9819c9d8b7",
+  "versionId": "81427a21-6a53-48dc-8ff3-b55e7dc86bd3",
   "meta": {
     "instanceId": "af0cf43e3f9e603b399bdeace168c60a3d389a1bf234ffd6d52093e577978cf4"
   },

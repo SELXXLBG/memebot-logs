@@ -12,26 +12,26 @@
           ]
         }
       },
-      "id": "5e425e08-5bd1-461e-b02c-874dda24dd4b",
+      "id": "356ef4cc-bd08-4e13-ae51-fc6baef76cc1",
       "name": "Schedule Every 2m",
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1.2,
       "position": [
-        11520,
-        3504
+        10928,
+        6800
       ]
     },
     {
       "parameters": {
         "jsCode": "const useMock = false;\nreturn [{ json: { useMock } }];"
       },
-      "id": "0a7be192-af80-48bd-a627-e7f1355ff358",
+      "id": "8a963ba6-713c-447f-83e7-7239118162f1",
       "name": "Set Scan Mode",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        11760,
-        3504
+        11168,
+        6800
       ]
     },
     {
@@ -59,26 +59,26 @@
         },
         "options": {}
       },
-      "id": "b8401ae8-f640-489a-b9ca-c189e130118d",
+      "id": "e3cc9df7-2ed2-42cc-9e57-ec4154a7675b",
       "name": "Use Mock Data?",
       "type": "n8n-nodes-base.if",
       "typeVersion": 2,
       "position": [
-        12000,
-        3504
+        11408,
+        6800
       ]
     },
     {
       "parameters": {
         "jsCode": "let tokens;\ntry {\n  tokens = JSON.parse((process.env.MOCK_SCANNER_JSON) ?? '[]');\n} catch (e) {\n  tokens = [];\n}\nif (!Array.isArray(tokens) || tokens.length === 0) {\n  const now = Date.now();\n  tokens = [\n    {\n      tokenAddress: 'DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263',\n      symbol: 'BONK',\n      marketCap: 50000,\n      liquidity: 20000,\n      price: 1,\n      pairCreatedAt: now - 10 * 60 * 1000\n    }\n  ];\n}\nreturn tokens.map(t => ({ json: t }));"
       },
-      "id": "9305ed21-2ea4-4236-b674-94a5b524cfac",
+      "id": "66994e26-eed4-4ab2-a078-c027d406e93e",
       "name": "Mock Token Feed",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        12240,
-        3392
+        11648,
+        6688
       ]
     },
     {
@@ -88,13 +88,13 @@
           "timeout": 10000
         }
       },
-      "id": "16480a93-fc53-494c-986f-88be85284446",
+      "id": "4f4b2fab-0404-42bd-bb54-4f99aaa1373a",
       "name": "Dexscreener Tokens",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
       "position": [
-        12240,
-        3584
+        11648,
+        6880
       ],
       "continueOnFail": true
     },
@@ -123,39 +123,39 @@
         },
         "options": {}
       },
-      "id": "c6b664f8-8713-4f8f-8e79-d8d98dc5b0cb",
+      "id": "ae74b808-07b6-421a-9ee2-4e03840125ec",
       "name": "Dex Status 200?",
       "type": "n8n-nodes-base.if",
       "typeVersion": 2,
       "position": [
-        12464,
-        3584
+        11872,
+        6880
       ]
     },
     {
       "parameters": {
         "jsCode": "const inputItems = $input.all();\nconst seen = new Set();\nconst results = [];\n\nfor (const item of inputItems) {\n  const data = item.json.body ?? item.json;\n  const rows = Array.isArray(data) ? data : (data?.tokenAddress ? [data] : (Array.isArray(data.tokens) ? data.tokens : []));\n\n  for (const token of rows) {\n    if (String(token.chainId || '').toLowerCase() !== 'solana' || !token.tokenAddress) continue;\n    if (seen.has(token.tokenAddress)) continue;\n    seen.add(token.tokenAddress);\n    results.push({ json: { tokenAddress: token.tokenAddress, source: 'dexscreener-token-boosts' } });\n  }\n}\n\nreturn results.slice(0, 30);"
       },
-      "id": "4c6988e9-62cf-4bc9-a5fc-480da2839cfe",
+      "id": "1487a445-5e48-45de-98d0-91ac23fa3c80",
       "name": "Extract Tokens",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        12688,
-        3568
+        12096,
+        6864
       ]
     },
     {
       "parameters": {
-        "jsCode": "const fs = require('fs');\nconst now = Date.now();\nconst minAgeMs = 1 * 60 * 1000; // 1 minute instead of 5\nconst maxAgeMs = 6 * 60 * 60 * 1000;\nconst cooldownMs = 12 * 60 * 60 * 1000;\nconst cooldownPath = '/tmp/memebot_token_cooldown.json';\n\nlet cooldown = {};\ntry {\n  cooldown = JSON.parse(fs.readFileSync(cooldownPath, 'utf8'));\n} catch (e) {\n  cooldown = {};\n}\n\nconst freshCooldown = {};\nfor (const [address, seenAt] of Object.entries(cooldown)) {\n  if (now - Number(seenAt || 0) < cooldownMs) freshCooldown[address] = Number(seenAt);\n}\n\nconst scored = $input.all()\n  .map(item => item.json)\n  .map(token => {\n    const marketCap = Number(token.marketCap || 0);\n    const liquidity = Number(token.liquidity || 0);\n    const volume5m = Number(token.volume5m || 0);\n    const volume1h = Number(token.volume1h || 0);\n    const volume24h = Number(token.volume24h || 0);\n    const buys5m = Number(token.buys5m || 0);\n    const sells5m = Number(token.sells5m || 0);\n    const buys1h = Number(token.buys1h || 0);\n    const sells1h = Number(token.sells1h || 0);\n    const price = Number(token.price || 0);\n    const pairCreatedAt = Number(token.pairCreatedAt || 0);\n    const ageMs = pairCreatedAt > 0 ? now - pairCreatedAt : Number.POSITIVE_INFINITY;\n    const buySellRatio5m = buys5m / Math.max(sells5m, 1);\n    const buySellRatio1h = buys1h / Math.max(sells1h, 1);\n\n    const capOk = marketCap >= 40000 && marketCap <= 400000;\n    const liquidityOk = liquidity >= 10000 && liquidity <= 250000;\n    const ageOk = ageMs >= (5 * 60 * 1000) && ageMs <= maxAgeMs;\n    const volumeOk = volume1h >= liquidity * 0.15;\n    const flowOk = buys5m >= 2;\n    const priceOk = price > 0;\n    const cooldownOk = !freshCooldown[token.tokenAddress];\n\n    const liquidityScore = Math.min(liquidity / 25000, 2);\n    const volumeScore = Math.min(volume1h / Math.max(liquidity, 1), 3);\n    const flowScore = Math.min(buySellRatio5m, 3);\n    const capScore = marketCap >= 30000 && marketCap <= 150000 ? 1 : 0.4;\n    const score = liquidityScore + volumeScore + flowScore + capScore;\n\n    return {\n      token,\n      score,\n      passes: capOk && liquidityOk && ageOk && volumeOk && flowOk && priceOk && cooldownOk && Boolean(token.tokenAddress)\n    };\n  })\n  .filter(row => row.passes)\n  .sort((a, b) => b.score - a.score)\n  .slice(0, 3);\n\ntry {\n  fs.writeFileSync(cooldownPath, JSON.stringify(freshCooldown, null, 2));\n} catch (e) {}\n\nreturn scored.map(({ token, score }) => ({\n  json: {\n    tokenAddress: token.tokenAddress,\n    symbol: token.symbol || 'UNKNOWN',\n    marketCap: Number(token.marketCap),\n    liquidity: Number(token.liquidity),\n    volume1h: Number(token.volume1h || 0),\n    volume24h: Number(token.volume24h || 0),\n    buys5m: Number(token.buys5m || 0),\n    sells5m: Number(token.sells5m || 0),\n    price: Number(token.price),\n    pairCreatedAt: Number(token.pairCreatedAt),\n    candidateScore: Number(score.toFixed(4))\n  }\n}));"
+        "jsCode": "const fs = require('fs');\nconst now = Date.now();\nconst maxAgeMs = 6 * 60 * 60 * 1000;\nconst cooldownMs = 12 * 60 * 60 * 1000;\nconst cooldownPath = '/tmp/memebot_token_cooldown.json';\n\nlet cooldown = {};\ntry {\n  cooldown = JSON.parse(fs.readFileSync(cooldownPath, 'utf8'));\n} catch (e) {\n  cooldown = {};\n}\n\nconst freshCooldown = {};\nfor (const [address, seenAt] of Object.entries(cooldown)) {\n  if (now - Number(seenAt || 0) < cooldownMs) freshCooldown[address] = Number(seenAt);\n}\n\nconst scored = $input.all()\n  .map(item => item.json)\n  .map(token => {\n    const marketCap = Number(token.marketCap || 0);\n    const liquidity = Number(token.liquidity || 0);\n    const volume5m = Number(token.volume5m || 0);\n    const volume1h = Number(token.volume1h || 0);\n    const volume24h = Number(token.volume24h || 0);\n    const buys5m = Number(token.buys5m || 0);\n    const sells5m = Number(token.sells5m || 0);\n    const buys1h = Number(token.buys1h || 0);\n    const sells1h = Number(token.sells1h || 0);\n    const price = Number(token.price || 0);\n    const priceChange5m = Number(token.priceChange5m || 0);\n    const priceChange1h = Number(token.priceChange1h || 0);\n    const pairCreatedAt = Number(token.pairCreatedAt || 0);\n    const ageMs = pairCreatedAt > 0 ? now - pairCreatedAt : Number.POSITIVE_INFINITY;\n    const buySellRatio5m = buys5m / Math.max(sells5m, 1);\n    const buySellRatio1h = buys1h / Math.max(sells1h, 1);\n    const liqToCapRatio = liquidity / Math.max(marketCap, 1);\n    const volLiqRatio = volume1h / Math.max(liquidity, 1);\n\n    // ═══════════════════════════════════════════════\n    // ENTRY FILTERS v6 — relaxed to match boosted-token reality\n    // ═══════════════════════════════════════════════\n    const capOk = marketCap >= 20000 && marketCap <= 500000;\n    const liquidityOk = liquidity >= 5000 && liquidity <= 500000;\n    const ageOk = ageMs >= (3 * 60 * 1000) && ageMs <= maxAgeMs;\n    const volumeOk = volume1h >= liquidity * 0.05;\n    const volume5mOk = volume5m >= 200;\n    const flowOk = buys5m >= 2 && buySellRatio5m >= 1.0;\n    const flow1hOk = buys1h >= 5 && buySellRatio1h >= 0.8;\n    const momentumOk = priceChange5m >= -3;\n    const momentum1hOk = priceChange1h > -10;\n    const priceOk = price > 0;\n    const cooldownOk = !freshCooldown[token.tokenAddress];\n    const liqRatioOk = liqToCapRatio >= 0.04;\n    // v6: relaxed overheating from 2.5x to 5x\n    const notOverheated = volLiqRatio <= 5;\n    // v6: relaxed pump ceiling from 20% to 50%\n    const notChasingTop = priceChange1h <= 50;\n    // v6: relaxed 5m pump from 8% to 20%\n    const notFomo5m = priceChange5m <= 20;\n\n    // ═══════════════════════════════════════════════\n    // SCORING v4 — penalizes overheating, rewards very fresh tokens\n    // ═══════════════════════════════════════════════\n    const liquidityScore = Math.min(liquidity / 20000, 1.5);\n    // Volume score: sweet spot 1-5x liquidity, penalize above\n    const volRaw = volLiqRatio;\n    const volumeScore = volRaw <= 5 ? Math.min(volRaw * 0.5, 2) : Math.max(2 - (volRaw - 5) * 0.3, 0);\n    const flowScore = Math.min(buySellRatio5m * 0.6 + buySellRatio1h * 0.4, 2.5);\n    const momentumScore = priceChange5m > 5 ? 1.5 : priceChange5m > 3 ? 1.2 : priceChange5m > 1 ? 0.8 : 0;\n    // Sweet spot: 35k-80k (early movers only, v4)\n    const capScore = marketCap >= 35000 && marketCap <= 80000 ? 1.5 : (marketCap <= 100000 ? 0.7 : 0.2);\n    const liqRatioScore = liqToCapRatio >= 0.2 ? 1 : liqToCapRatio >= 0.12 ? 0.5 : 0;\n    // bonus for fresh tokens (under 2h old) — catching momentum early\n    const freshnessScore = ageMs <= (2 * 60 * 60 * 1000) ? 0.5 : 0;\n    // v5: strong bonus for very fresh tokens (under 20 min old) — catch early curve\n    const veryFreshScore = ageMs <= (20 * 60 * 1000) ? 2.0 : ageMs <= (60 * 60 * 1000) ? 0.8 : 0;\n    const score = liquidityScore + volumeScore + flowScore + momentumScore + capScore + liqRatioScore + freshnessScore + veryFreshScore;\n\n    return {\n      token,\n      score,\n      passes: capOk && liquidityOk && ageOk && volumeOk && volume5mOk && flowOk && flow1hOk && momentumOk && momentum1hOk && priceOk && cooldownOk && liqRatioOk && notOverheated && notChasingTop && notFomo5m && Boolean(token.tokenAddress)\n    };\n  })\n  .filter(row => row.passes)\n  .sort((a, b) => b.score - a.score)\n  .slice(0, 3);\n\ntry {\n  fs.writeFileSync(cooldownPath, JSON.stringify(freshCooldown, null, 2));\n} catch (e) {}\n\nreturn scored.map(({ token, score }) => ({\n  json: {\n    tokenAddress: token.tokenAddress,\n    symbol: token.symbol || 'UNKNOWN',\n    marketCap: Number(token.marketCap),\n    liquidity: Number(token.liquidity),\n    volume5m: Number(token.volume5m || 0),\n    volume1h: Number(token.volume1h || 0),\n    volume24h: Number(token.volume24h || 0),\n    buys5m: Number(token.buys5m || 0),\n    sells5m: Number(token.sells5m || 0),\n    buys1h: Number(token.buys1h || 0),\n    sells1h: Number(token.sells1h || 0),\n    priceChange5m: Number(token.priceChange5m || 0),\n    priceChange1h: Number(token.priceChange1h || 0),\n    price: Number(token.price),\n    pairCreatedAt: Number(token.pairCreatedAt),\n    candidateScore: Number(score.toFixed(4))\n  }\n}));"
       },
-      "id": "d0c02876-c23e-4b81-a429-91ce6dbfb83a",
+      "id": "80c5a8e6-b767-4419-a5fe-c51147172743",
       "name": "Filter Candidates",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        12464,
-        3392
+        11872,
+        6688
       ]
     },
     {
@@ -169,13 +169,13 @@
           "timeout": 10000
         }
       },
-      "id": "d30bd0ac-b6ef-458c-a27c-a3c4df9f99ca",
+      "id": "f6f59195-1086-4397-a256-483baf6aa4ad",
       "name": "Call WF2 Webhook",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
       "position": [
-        12688,
-        3392
+        12096,
+        6688
       ],
       "continueOnFail": true
     },
@@ -204,13 +204,13 @@
         },
         "options": {}
       },
-      "id": "c663b64b-800f-46f6-bb9f-6e09b535ecdc",
+      "id": "af529981-0b98-4e72-bfd5-2cd0d288065e",
       "name": "WF2 Status 200?",
       "type": "n8n-nodes-base.if",
       "typeVersion": 2,
       "position": [
-        12912,
-        3392
+        12320,
+        6688
       ]
     },
     {
@@ -223,10 +223,10 @@
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
       "position": [
-        12880,
-        3568
+        12288,
+        6864
       ],
-      "id": "72a02161-93e5-449a-8d27-296129adcb60",
+      "id": "99094059-4f6f-4a01-89a5-e6484588dfec",
       "name": "Fetch Token Details",
       "continueOnFail": true
     },
@@ -237,10 +237,10 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        13040,
-        3568
+        12448,
+        6864
       ],
-      "id": "ca0bea1d-d806-425f-b775-27657ad1fab0",
+      "id": "91c7c10c-96d8-42d8-ba53-ba4d4143ec48",
       "name": "Normalize Token Details"
     }
   ],
@@ -375,7 +375,7 @@
       ]
     }
   },
-  "active": false,
+  "active": true,
   "settings": {
     "executionOrder": "v1",
     "binaryMode": "separate",
@@ -383,7 +383,7 @@
     "callerPolicy": "workflowsFromSameOwner",
     "availableInMCP": true
   },
-  "versionId": "dc0e5eb4-f6bf-4118-9851-e7169324104a",
+  "versionId": "3e8759cd-8137-4744-8e7d-6d06832d6542",
   "meta": {
     "instanceId": "af0cf43e3f9e603b399bdeace168c60a3d389a1bf234ffd6d52093e577978cf4"
   },

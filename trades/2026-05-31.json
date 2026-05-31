@@ -130,5 +130,27 @@
     "buyTxid": "DRY_RUN_BUY_1780253698715",
     "sellTxid": "DRY_RUN_SELL_1780253730175",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-31T21:09:00.320Z",
+    "token": "FCMc9YjXHvMJVyPoEzh67onPjMi3v6Yww7SwRxAmpump",
+    "symbol": "FrogFather",
+    "marketCap": 39229,
+    "liquidity": 15042.52,
+    "volume1h": 5425.76,
+    "volume24h": 5425.76,
+    "candidateScore": 8.5838,
+    "entryPrice": 0.0000384590190336904,
+    "exitPrice": 0.00003922,
+    "peakPrice": 0.00003938,
+    "profitSOL": 0.01385076,
+    "profitLamports": 13850760,
+    "pnlPct": 1.9786801260920732,
+    "peakPnlPct": 2.394707378008814,
+    "reason": "STALE_NO_MOMENTUM",
+    "buyTxid": "DRY_RUN_BUY_1780260538539",
+    "sellTxid": "DRY_RUN_SELL_1780261740166",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1780261740312"
   }
 ]

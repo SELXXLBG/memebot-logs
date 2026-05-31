@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1780186018667",
     "sellTxid": "DRY_RUN_SELL_1780186080155",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1780233978862"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-31T13:38:43.499Z",
+    "token": "DuZ8NT1jvCVmabWwNj43YUs4JQzYboRHuydUdK9spump",
+    "symbol": "SPCXTROLL",
+    "marketCap": 158289,
+    "liquidity": 31645.74,
+    "volume1h": 152960.44,
+    "volume24h": 543128.84,
+    "candidateScore": 6.7,
+    "entryPrice": 0.00016888695390880775,
+    "exitPrice": 0.0001582,
+    "peakPrice": 0.00016888695390880775,
+    "profitSOL": -0.04429512,
+    "profitLamports": -44295120,
+    "pnlPct": -6.327874155737501,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780190698684",
+    "sellTxid": "DRY_RUN_SELL_1780190700121",
+    "sweepTxid": null
   }
 ]

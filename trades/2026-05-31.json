@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1780190698684",
     "sellTxid": "DRY_RUN_SELL_1780190700121",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-31T13:46:26.056Z",
+    "token": "HziPQunVCQN6Knjxv96pEjqLxpJsZ7KFvHGV7TVEpump",
+    "symbol": "HOMO",
+    "marketCap": 45512,
+    "liquidity": 16360.62,
+    "volume1h": 23569.45,
+    "volume24h": 23569.45,
+    "candidateScore": 9.3723,
+    "entryPrice": 0.00003737923958267313,
+    "exitPrice": 0.00004551,
+    "peakPrice": 0.00004551,
+    "profitSOL": 0.152264528,
+    "profitLamports": 152264528,
+    "pnlPct": 21.752075505291526,
+    "peakPnlPct": 21.752075505291526,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1780206658691",
+    "sellTxid": "DRY_RUN_SELL_1780206750134",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1780235186048"
   }
 ]

@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1780206658691",
     "sellTxid": "DRY_RUN_SELL_1780206750134",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1780235186048"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-31T13:46:34.839Z",
+    "token": "VGz5JN59ozf2Mtsv8R4FbCDUWxtEgmAdKEBZL4Epump",
+    "symbol": "AirCorg",
+    "marketCap": 55398,
+    "liquidity": 18275.98,
+    "volume1h": 20702,
+    "volume24h": 128984.58,
+    "candidateScore": 6.4524,
+    "entryPrice": 0.000045554249089209346,
+    "exitPrice": 0.00005539,
+    "peakPrice": 0.00005539,
+    "profitSOL": 0.151139043,
+    "profitLamports": 151139043,
+    "pnlPct": 21.591291937507755,
+    "peakPnlPct": 21.591291937507755,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1780209538460",
+    "sellTxid": "DRY_RUN_SELL_1780210050179",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1780235194830"
   }
 ]

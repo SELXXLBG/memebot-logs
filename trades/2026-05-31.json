@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1780238218707",
     "sellTxid": "DRY_RUN_SELL_1780238250127",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-31T18:55:30.231Z",
+    "token": "MBupVP4g2oAguQuD9LZN2aQ6cEjx4sJdH39gVYNpump",
+    "symbol": "gaycoin",
+    "marketCap": 34261,
+    "liquidity": 14066.87,
+    "volume1h": 24835.72,
+    "volume24h": 24835.72,
+    "candidateScore": 9.1778,
+    "entryPrice": 0.000039364236405532314,
+    "exitPrice": 0.00003426,
+    "peakPrice": 0.000039364236405532314,
+    "profitSOL": -0.090766793,
+    "profitLamports": -90766793,
+    "pnlPct": -12.966684665106207,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780253698715",
+    "sellTxid": "DRY_RUN_SELL_1780253730175",
+    "sweepTxid": null
   }
 ]

@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-05-31T13:26:18.870Z",
+    "token": "H48z8Mn4c4FZs1AexoRDhVYzZZyNP7kgTRpcxuLcpump",
+    "symbol": "S&P500",
+    "marketCap": 42592,
+    "liquidity": 15769.8,
+    "volume1h": 26971.71,
+    "volume24h": 26971.71,
+    "candidateScore": 9.0127,
+    "entryPrice": 0.00003536666977165163,
+    "exitPrice": 0.00004259,
+    "peakPrice": 0.00004259,
+    "profitSOL": 0.142968823,
+    "profitLamports": 142968823,
+    "pnlPct": 20.424117608433317,
+    "peakPnlPct": 20.424117608433317,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1780186018667",
+    "sellTxid": "DRY_RUN_SELL_1780186080155",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1780233978862"
+  }
+]

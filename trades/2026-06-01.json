@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1780275658573",
     "sellTxid": "DRY_RUN_SELL_1780275840159",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-01T03:03:30.202Z",
+    "token": "Fuu6SApor3k4JQQHMEUW33wsar7hdTh3gYLh75Cipump",
+    "symbol": "SPCX",
+    "marketCap": 45729,
+    "liquidity": 16354.32,
+    "volume1h": 20143.76,
+    "volume24h": 52770.01,
+    "candidateScore": 7.9383,
+    "entryPrice": 0.000048500899512664685,
+    "exitPrice": 0.00004572,
+    "peakPrice": 0.00004892,
+    "profitSOL": -0.04013595,
+    "profitLamports": -40135950,
+    "pnlPct": -5.733707087099541,
+    "peakPnlPct": 0.8641086898313669,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780282858690",
+    "sellTxid": "DRY_RUN_SELL_1780283010148",
+    "sweepTxid": null
   }
 ]

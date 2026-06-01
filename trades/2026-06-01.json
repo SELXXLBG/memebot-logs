@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1780282858690",
     "sellTxid": "DRY_RUN_SELL_1780283010148",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-01T15:49:30.185Z",
+    "token": "CbzToRqBoapsMr7LxYfrBTV9hjLQDGnAe74EqNNJpump",
+    "symbol": "key",
+    "marketCap": 36991,
+    "liquidity": 14412.19,
+    "volume1h": 5054,
+    "volume24h": 5054,
+    "candidateScore": 9.5744,
+    "entryPrice": 0.00003870642272736988,
+    "exitPrice": 0.00003699,
+    "peakPrice": 0.00003870642272736988,
+    "profitSOL": -0.031041255,
+    "profitLamports": -31041255,
+    "pnlPct": -4.434464893486959,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780328938687",
+    "sellTxid": "DRY_RUN_SELL_1780328970135",
+    "sweepTxid": null
   }
 ]

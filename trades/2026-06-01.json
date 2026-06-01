@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-01T00:50:00.331Z",
+    "token": "BBQifNheCBM7eyqufSLDpBpf6ExvBrF2BpoWa66Bpump",
+    "symbol": "PEPE",
+    "marketCap": 51754,
+    "liquidity": 17395.56,
+    "volume1h": 7370.65,
+    "volume24h": 7370.65,
+    "candidateScore": 9.7142,
+    "entryPrice": 0.0000395185363516682,
+    "exitPrice": 0.00005175,
+    "peakPrice": 0.00005175,
+    "profitSOL": 0.216658442,
+    "profitLamports": 216658442,
+    "pnlPct": 30.95120613649819,
+    "peakPnlPct": 30.95120613649819,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1780274938644",
+    "sellTxid": "DRY_RUN_SELL_1780275000163",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1780275000320"
+  }
+]

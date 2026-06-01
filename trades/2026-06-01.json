@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1780343458568",
     "sellTxid": "DRY_RUN_SELL_1780343520241",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-01T22:51:00.199Z",
+    "token": "CmZW9itGvfxktRT3yJ3HAzHjfobf2VPvzkx1Rbxpump",
+    "symbol": "DEPLOYER",
+    "marketCap": 124425,
+    "liquidity": 27412.02,
+    "volume1h": 25573.54,
+    "volume24h": 371719.12,
+    "candidateScore": 6.3332,
+    "entryPrice": 0.0001255481854105595,
+    "exitPrice": 0.0001244,
+    "peakPrice": 0.0001323,
+    "profitSOL": -0.006401764,
+    "profitLamports": -6401764,
+    "pnlPct": -0.9145376389191081,
+    "peakPnlPct": 5.377867125168829,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1780353778662",
+    "sellTxid": "DRY_RUN_SELL_1780354260144",
+    "sweepTxid": null
   }
 ]

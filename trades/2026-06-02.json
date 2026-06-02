@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-02T06:32:30.187Z",
+    "token": "CLbAfJsGkDEGV2ADZdT55WWGNYTF1h9BesMEeWQbpump",
+    "symbol": "REACT",
+    "marketCap": 45029,
+    "liquidity": 16263.29,
+    "volume1h": 12118,
+    "volume24h": 272167.14,
+    "candidateScore": 6.5066,
+    "entryPrice": 0.00004844333082227848,
+    "exitPrice": 0.00004503,
+    "peakPrice": 0.00004844333082227848,
+    "profitSOL": -0.049322199,
+    "profitLamports": -49322199,
+    "pnlPct": -7.0460283476394,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780381858616",
+    "sellTxid": "DRY_RUN_SELL_1780381950140",
+    "sweepTxid": null
+  }
+]

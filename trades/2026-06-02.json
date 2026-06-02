@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1780395898647",
     "sellTxid": "DRY_RUN_SELL_1780396290159",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1780396290340"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-02T10:51:30.177Z",
+    "token": "DpPowzjETiU6421ReuwBB8XmDB7sMyB2JGzFLssYpump",
+    "symbol": "MASTER",
+    "marketCap": 47542,
+    "liquidity": 16387.68,
+    "volume1h": 55509.17,
+    "volume24h": 55509.17,
+    "candidateScore": 7.3848,
+    "entryPrice": 0.000047744912013997386,
+    "exitPrice": 0.00004756,
+    "peakPrice": 0.00005081,
+    "profitSOL": -0.002711041,
+    "profitLamports": -2711041,
+    "pnlPct": -0.3872915588223862,
+    "peakPnlPct": 6.419716482258936,
+    "reason": "PROTECTGREEN",
+    "buyTxid": "DRY_RUN_BUY_1780397458459",
+    "sellTxid": "DRY_RUN_SELL_1780397490138",
+    "sweepTxid": null
   }
 ]

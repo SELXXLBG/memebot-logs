@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1780397458459",
     "sellTxid": "DRY_RUN_SELL_1780397490138",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-02T21:27:30.202Z",
+    "token": "9cbLAQvAHcU8nncveGC1naKW5oWSvhK5t18wtveWpump",
+    "symbol": "Painmaxxin",
+    "marketCap": 80590,
+    "liquidity": 21181.61,
+    "volume1h": 32489.03,
+    "volume24h": 206265.94,
+    "candidateScore": 6.8297,
+    "entryPrice": 0.00008327663286525095,
+    "exitPrice": 0.00008059,
+    "peakPrice": 0.00008327663286525095,
+    "profitSOL": -0.022583082,
+    "profitLamports": -22583082,
+    "pnlPct": -3.2261545319659612,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780435618688",
+    "sellTxid": "DRY_RUN_SELL_1780435650141",
+    "sweepTxid": null
   }
 ]

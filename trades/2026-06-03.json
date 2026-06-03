@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1780470178664",
     "sellTxid": "DRY_RUN_SELL_1780470330245",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-03T07:29:30.542Z",
+    "token": "2nxGATu6e2i1b76ya8X3odgFCiRuKDyiQmox8ng9pump",
+    "symbol": "NEH",
+    "marketCap": 30434,
+    "liquidity": 12691.72,
+    "volume1h": 10053.68,
+    "volume24h": 10053.68,
+    "candidateScore": 7.364,
+    "entryPrice": 0.0000316403275771765,
+    "exitPrice": 0.00003043,
+    "peakPrice": 0.0000316403275771765,
+    "profitSOL": -0.026776882,
+    "profitLamports": -26776882,
+    "pnlPct": -3.8252687941497867,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780471738639",
+    "sellTxid": "DRY_RUN_SELL_1780471770472",
+    "sweepTxid": null
   }
 ]

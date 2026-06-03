@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1780471738639",
     "sellTxid": "DRY_RUN_SELL_1780471770472",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-03T09:42:00.313Z",
+    "token": "CLPAnV9cR1y7vye2ct66uu7fbB9acp6Ld5FUnjoGpump",
+    "symbol": "JOMO",
+    "marketCap": 94180,
+    "liquidity": 22661.16,
+    "volume1h": 105794.98,
+    "volume24h": 162647.13,
+    "candidateScore": 7.9602,
+    "entryPrice": 0.00010035854438558605,
+    "exitPrice": 0.00009418,
+    "peakPrice": 0.0001005,
+    "profitSOL": -0.043095295,
+    "profitLamports": -43095295,
+    "pnlPct": -6.156470705521159,
+    "peakPnlPct": 0.14095024522323363,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780479659211",
+    "sellTxid": "DRY_RUN_SELL_1780479720119",
+    "sweepTxid": null
   }
 ]

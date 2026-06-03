@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1780468858668",
     "sellTxid": "DRY_RUN_SELL_1780469550118",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1780469550285"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-03T07:05:30.384Z",
+    "token": "GhrTH8tWDTmodEsatV3WoN3q7YqnG7fHYbr4d4MYpump",
+    "symbol": "SOLITHER",
+    "marketCap": 48361,
+    "liquidity": 16523.65,
+    "volume1h": 10843.75,
+    "volume24h": 302578.85,
+    "candidateScore": 7.0038,
+    "entryPrice": 0.00005002191272139949,
+    "exitPrice": 0.00004849,
+    "peakPrice": 0.00005347,
+    "profitSOL": -0.021437384,
+    "profitLamports": -21437384,
+    "pnlPct": -3.062483295933899,
+    "peakPnlPct": 6.89315360211208,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1780470178664",
+    "sellTxid": "DRY_RUN_SELL_1780470330245",
+    "sweepTxid": null
   }
 ]

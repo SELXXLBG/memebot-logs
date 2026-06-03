@@ -390,8 +390,11 @@
   <div class="toolbar">
     <div class="period-filter">
       <button class="period-btn active" id="period-today" onclick="setPeriod('today')">Aujourd'hui</button>
+      <button class="period-btn" id="period-3d" onclick="setPeriod('3d')">3j</button>
       <button class="period-btn" id="period-7d" onclick="setPeriod('7d')">7j</button>
+      <button class="period-btn" id="period-14d" onclick="setPeriod('14d')">14j</button>
       <button class="period-btn" id="period-30d" onclick="setPeriod('30d')">30j</button>
+      <button class="period-btn" id="period-since_v7" onclick="setPeriod('since_v7')" title="Trades depuis les filtres v7 (2026-06-03)">v7+</button>
       <button class="period-btn" id="period-all" onclick="setPeriod('all')">Tout</button>
     </div>
     <button class="main-btn" id="export-btn" onclick="exportCSV()">Export CSV</button>
@@ -556,7 +559,8 @@ function setPeriod(period) {
   currentPeriod = period;
   localStorage.setItem('period', period);
   document.querySelectorAll('.period-btn').forEach(b => b.classList.remove('active'));
-  document.getElementById('period-' + (period === 'today' ? 'today' : period)).classList.add('active');
+  const btn = document.getElementById('period-' + period);
+  if (btn) btn.classList.add('active');
   renderFromCurrentData();
 }
 
@@ -582,8 +586,11 @@ function getFilteredTrades(trades) {
     let minTs = 0;
     if (currentPeriod === 'today') {
       const d = new Date(); d.setHours(0, 0, 0, 0); minTs = d.getTime();
-    } else if (currentPeriod === '7d') { minTs = now - 7 * 86400000; }
+    } else if (currentPeriod === '3d') { minTs = now - 3 * 86400000; }
+    else if (currentPeriod === '7d') { minTs = now - 7 * 86400000; }
+    else if (currentPeriod === '14d') { minTs = now - 14 * 86400000; }
     else if (currentPeriod === '30d') { minTs = now - 30 * 86400000; }
+    else if (currentPeriod === 'since_v7') { minTs = new Date('2026-06-03T00:00:00Z').getTime(); }
     filtered = filtered.filter(t => { const ts = parseTradeTime(t); return ts !== null && ts >= minTs; });
   }
 

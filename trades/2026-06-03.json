@@ -152,5 +152,27 @@
     "buyTxid": "DRY_RUN_BUY_1780507491578",
     "sellTxid": "DRY_RUN_SELL_1780507830138",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1780507830302"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-03T21:21:00.353Z",
+    "token": "Cpn5RvSKMduMTykDggqSAg7BhNDGr2QXsTCJGZXQpump",
+    "symbol": "PokeBurn",
+    "marketCap": 54698,
+    "liquidity": 16979.59,
+    "volume1h": 72199.13,
+    "volume24h": 140836.89,
+    "candidateScore": 8.6397,
+    "entryPrice": 0.000050791238595570664,
+    "exitPrice": 0.00005528,
+    "peakPrice": 0.00005963,
+    "profitSOL": 0.061863681,
+    "profitLamports": 61863681,
+    "pnlPct": 8.837668717180653,
+    "peakPnlPct": 17.402137945106418,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1780521411670",
+    "sellTxid": "DRY_RUN_SELL_1780521660142",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1780521660342"
   }
 ]

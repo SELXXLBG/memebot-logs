@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1780458538564",
     "sellTxid": "DRY_RUN_SELL_1780458630144",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-03T06:52:30.291Z",
+    "token": "GFbmpE8dNDHmKjoZyTQXmjN74F1eoXE7M5smzU8ppump",
+    "symbol": "PROPHECY",
+    "marketCap": 92753,
+    "liquidity": 22488.84,
+    "volume1h": 88094.37,
+    "volume24h": 129960.9,
+    "candidateScore": 7.9397,
+    "entryPrice": 0.00009081959368621636,
+    "exitPrice": 0.00009275,
+    "peakPrice": 0.0001078,
+    "profitSOL": 0.014878776,
+    "profitLamports": 14878776,
+    "pnlPct": 2.125539473842222,
+    "peakPnlPct": 18.696853426201525,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1780468858668",
+    "sellTxid": "DRY_RUN_SELL_1780469550118",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1780469550285"
   }
 ]

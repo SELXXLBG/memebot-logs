@@ -130,5 +130,27 @@
     "buyTxid": "DRY_RUN_BUY_1780479659211",
     "sellTxid": "DRY_RUN_SELL_1780479720119",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-03T17:30:30.307Z",
+    "token": "78B31QV1rtyoe2EYvVNjBVjeowyrtcH5FPTE4tCypump",
+    "symbol": "Openverse",
+    "marketCap": 74790,
+    "liquidity": 20589.77,
+    "volume1h": 13346.45,
+    "volume24h": 448751.82,
+    "candidateScore": 7.0791,
+    "entryPrice": 0.00005996273890227527,
+    "exitPrice": 0.00007479,
+    "peakPrice": 0.00007479,
+    "profitSOL": 0.173092206,
+    "profitLamports": 173092206,
+    "pnlPct": 24.727458033378973,
+    "peakPnlPct": 24.727458033378973,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1780507491578",
+    "sellTxid": "DRY_RUN_SELL_1780507830138",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1780507830302"
   }
 ]

@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-04T00:15:00.385Z",
+    "token": "HH5Gu1eF2FJKyPufm28omEQfs22MXQsyXWZZvDe6pump",
+    "symbol": "Hypnos",
+    "marketCap": 34268,
+    "liquidity": 13388.62,
+    "volume1h": 7126.55,
+    "volume24h": 148049.87,
+    "candidateScore": 5.4296,
+    "entryPrice": 0.000035145364668272924,
+    "exitPrice": 0.00003427,
+    "peakPrice": 0.00003635,
+    "profitSOL": -0.017434882,
+    "profitLamports": -17434882,
+    "pnlPct": -2.490697355213808,
+    "peakPnlPct": 3.4275795488175693,
+    "reason": "STALE_NO_MOMENTUM",
+    "buyTxid": "DRY_RUN_BUY_1780530891528",
+    "sellTxid": "DRY_RUN_SELL_1780532100163",
+    "sweepTxid": null
+  }
+]

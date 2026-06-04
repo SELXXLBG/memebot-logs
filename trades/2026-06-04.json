@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1780563291548",
     "sellTxid": "DRY_RUN_SELL_1780563330109",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-04T20:43:00.236Z",
+    "token": "FdfnFzFzCArFBVW9wqPd5sesdrK7uXTzQkw4vRwDpump",
+    "symbol": "acron ",
+    "marketCap": 19702,
+    "liquidity": 10040.55,
+    "volume1h": 18721.92,
+    "volume24h": 252858.12,
+    "candidateScore": 6.2357,
+    "entryPrice": 0.000020682112885748776,
+    "exitPrice": 0.0000197,
+    "peakPrice": 0.000020682112885748776,
+    "profitSOL": -0.033240271,
+    "profitLamports": -33240271,
+    "pnlPct": -4.748610024392189,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780605771728",
+    "sellTxid": "DRY_RUN_SELL_1780605780135",
+    "sweepTxid": null
   }
 ]

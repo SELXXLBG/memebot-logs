@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1780605771728",
     "sellTxid": "DRY_RUN_SELL_1780605780135",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-04T22:43:00.234Z",
+    "token": "Hjj93YiyaFYY8zY2EW6FM2i2gd4rxzhoLCLFabrRpump",
+    "symbol": "WIF",
+    "marketCap": 75642,
+    "liquidity": 27690.28,
+    "volume1h": 48898.49,
+    "volume24h": 48898.49,
+    "candidateScore": 9.6598,
+    "entryPrice": 0.00007832314245130846,
+    "exitPrice": 0.00007564,
+    "peakPrice": 0.00007832314245130846,
+    "profitSOL": -0.023980138,
+    "profitLamports": -23980138,
+    "pnlPct": -3.4257339112465988,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780612971531",
+    "sellTxid": "DRY_RUN_SELL_1780612980137",
+    "sweepTxid": null
   }
 ]

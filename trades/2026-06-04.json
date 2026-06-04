@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1780544451494",
     "sellTxid": "DRY_RUN_SELL_1780544490132",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-04T08:30:30.192Z",
+    "token": "FWS2Fy5Q2bQuwAQvV2jy9Q8rbyR8mFNJ4rr8bzvrpump",
+    "symbol": "CAPTAINGROK",
+    "marketCap": 33579,
+    "liquidity": 13116.16,
+    "volume1h": 46136.43,
+    "volume24h": 142752.18,
+    "candidateScore": 6.6822,
+    "entryPrice": 0.000028713787146257044,
+    "exitPrice": 0.00003464,
+    "peakPrice": 0.00003464,
+    "profitSOL": 0.144472374,
+    "profitLamports": 144472374,
+    "pnlPct": 20.638910581725412,
+    "peakPnlPct": 20.638910581725412,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1780561371604",
+    "sellTxid": "DRY_RUN_SELL_1780561830136",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1780561830188"
   }
 ]

@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1780530891528",
     "sellTxid": "DRY_RUN_SELL_1780532100163",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-04T03:41:30.455Z",
+    "token": "88YMSeC31wDNKDPhBYgVfr3g8NtdUNgCJdrn8dDCpump",
+    "symbol": "BEAR",
+    "marketCap": 25054,
+    "liquidity": 11289.35,
+    "volume1h": 34126.33,
+    "volume24h": 34126.33,
+    "candidateScore": 9.5285,
+    "entryPrice": 0.000039986378897771515,
+    "exitPrice": 0.00002505,
+    "peakPrice": 0.000039986378897771515,
+    "profitSOL": -0.261475671,
+    "profitLamports": -261475671,
+    "pnlPct": -37.353667197416414,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780544451494",
+    "sellTxid": "DRY_RUN_SELL_1780544490132",
+    "sweepTxid": null
   }
 ]

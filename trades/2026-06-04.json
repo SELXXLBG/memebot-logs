@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1780561371604",
     "sellTxid": "DRY_RUN_SELL_1780561830136",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1780561830188"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-04T08:55:30.152Z",
+    "token": "2uhCxwxWTvsAS8VKB47dWQQU8GTDQhedJEzfjAz2pump",
+    "symbol": "ewok",
+    "marketCap": 67834,
+    "liquidity": 19134.74,
+    "volume1h": 26504.52,
+    "volume24h": 471241.4,
+    "candidateScore": 7.1009,
+    "entryPrice": 0.00007087528279851274,
+    "exitPrice": 0.00006785,
+    "peakPrice": 0.00007087528279851274,
+    "profitSOL": -0.029879218,
+    "profitLamports": -29879218,
+    "pnlPct": -4.268459580067075,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780563291548",
+    "sellTxid": "DRY_RUN_SELL_1780563330109",
+    "sweepTxid": null
   }
 ]

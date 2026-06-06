@@ -152,5 +152,27 @@
     "buyTxid": "DRY_RUN_BUY_1780772571683",
     "sellTxid": "DRY_RUN_SELL_1780772640143",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-06T22:45:00.299Z",
+    "token": "AQ37Epit6TRabS2fwT8DDtWz9ppFSK8RgKGTxHzLYN8Z",
+    "symbol": "dca",
+    "marketCap": 30667,
+    "liquidity": 11576.65,
+    "volume1h": 40676.54,
+    "volume24h": 40676.54,
+    "candidateScore": 9.5059,
+    "entryPrice": 0.00003212325920214881,
+    "exitPrice": 0.00003066,
+    "peakPrice": 0.00003212325920214881,
+    "profitSOL": -0.031885976,
+    "profitLamports": -31885976,
+    "pnlPct": -4.555139293122932,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780785891611",
+    "sellTxid": "DRY_RUN_SELL_1780785900172",
+    "sweepTxid": null
   }
 ]

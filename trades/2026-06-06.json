@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1780716291607",
     "sellTxid": "DRY_RUN_SELL_1780716390121",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-06T05:33:30.163Z",
+    "token": "6KHeDqkeGc5JKAM9u5UKXZ1uqTeV4o45PAjAruHNpump",
+    "symbol": "POKEGOTCHI",
+    "marketCap": 41484,
+    "liquidity": 20598.33,
+    "volume1h": 21574.32,
+    "volume24h": 168143.7,
+    "candidateScore": 6.325,
+    "entryPrice": 0.000046098969384122607,
+    "exitPrice": 0.00004163,
+    "peakPrice": 0.00004635,
+    "profitSOL": -0.067860055,
+    "profitLamports": -67860055,
+    "pnlPct": -9.694293481671215,
+    "peakPnlPct": 0.5445471324655149,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780723851547",
+    "sellTxid": "DRY_RUN_SELL_1780724010121",
+    "sweepTxid": null
   }
 ]

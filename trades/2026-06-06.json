@@ -174,5 +174,27 @@
     "buyTxid": "DRY_RUN_BUY_1780785891611",
     "sellTxid": "DRY_RUN_SELL_1780785900172",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-06T23:25:30.158Z",
+    "token": "7Z5NVd8NWwXSi8h2FoHtqS5XNWgW2KGv4uPYocPspump",
+    "symbol": "DMNDHANDS",
+    "marketCap": 29548,
+    "liquidity": 11359.27,
+    "volume1h": 9229.08,
+    "volume24h": 9229.08,
+    "candidateScore": 8.2593,
+    "entryPrice": 0.000029641313058504267,
+    "exitPrice": 0.00002954,
+    "peakPrice": 0.00003188,
+    "profitSOL": -0.002392578,
+    "profitLamports": -2392578,
+    "pnlPct": -0.3417967966004157,
+    "peakPnlPct": 7.552590322423118,
+    "reason": "PROTECTGREEN",
+    "buyTxid": "DRY_RUN_BUY_1780788291480",
+    "sellTxid": "DRY_RUN_SELL_1780788330122",
+    "sweepTxid": null
   }
 ]

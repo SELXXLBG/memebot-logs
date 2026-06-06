@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1780756131561",
     "sellTxid": "DRY_RUN_SELL_1780756140124",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-06T17:25:30.244Z",
+    "token": "2vSYiRZDxgvVJhB9tWoXYvpaFjsdKz5ZEdj5yFbCpump",
+    "symbol": "NEXTCYCLE",
+    "marketCap": 26637,
+    "liquidity": 10779.68,
+    "volume1h": 7536.67,
+    "volume24h": 7536.67,
+    "candidateScore": 8.0867,
+    "entryPrice": 0.000026630014871735226,
+    "exitPrice": 0.00002675,
+    "peakPrice": 0.00002877,
+    "profitSOL": 0.003153944,
+    "profitLamports": 3153944,
+    "pnlPct": 0.4505635045368478,
+    "peakPnlPct": 8.035989234599073,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1780766691712",
+    "sellTxid": "DRY_RUN_SELL_1780766730158",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1780766730234"
   }
 ]

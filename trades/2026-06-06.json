@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1780723851547",
     "sellTxid": "DRY_RUN_SELL_1780724010121",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-06T05:41:00.193Z",
+    "token": "vPqxCA5pPv1nnWCPBJBLnBDTTthiV8dCD1YPx6Wpump",
+    "symbol": "BEPE",
+    "marketCap": 27269,
+    "liquidity": 10930.8,
+    "volume1h": 10977.6,
+    "volume24h": 10977.6,
+    "candidateScore": 8.3491,
+    "entryPrice": 0.000028253656992330936,
+    "exitPrice": 0.00002726,
+    "peakPrice": 0.000028253656992330936,
+    "profitSOL": -0.024618403,
+    "profitLamports": -24618403,
+    "pnlPct": -3.516914616046519,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780724451372",
+    "sellTxid": "DRY_RUN_SELL_1780724460131",
+    "sweepTxid": null
   }
 ]

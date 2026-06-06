@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-06T03:26:30.164Z",
+    "token": "C25SnCHy5Q78eicLphV2jfnMH4eJ5Jv5Ro3BAf4dpump",
+    "symbol": "PaperApe",
+    "marketCap": 22011,
+    "liquidity": 9897.16,
+    "volume1h": 17633.02,
+    "volume24h": 17633.02,
+    "candidateScore": 8.4149,
+    "entryPrice": 0.00002803786438438595,
+    "exitPrice": 0.00002201,
+    "peakPrice": 0.00002897,
+    "profitSOL": -0.150493098,
+    "profitLamports": -150493098,
+    "pnlPct": -21.499013982472988,
+    "peakPnlPct": 3.324559969457401,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780716291607",
+    "sellTxid": "DRY_RUN_SELL_1780716390121",
+    "sweepTxid": null
+  }
+]

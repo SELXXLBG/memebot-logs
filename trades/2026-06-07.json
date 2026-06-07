@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1780850811829",
     "sellTxid": "DRY_RUN_SELL_1780850880155",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1780850880273"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-07T22:17:12.171Z",
+    "token": "F5VZrHKG5bMg8NasnwcPeMpmYuFAayaJmEGwzNTZpump",
+    "symbol": "BUSD",
+    "marketCap": 31878,
+    "liquidity": 12592.06,
+    "volume1h": 48158.6,
+    "volume24h": 48158.6,
+    "candidateScore": 10.3927,
+    "entryPrice": 0.000038343713860361166,
+    "exitPrice": 0.00003336,
+    "peakPrice": 0.000038343713860361166,
+    "profitSOL": -0.7,
+    "profitLamports": -700000000,
+    "pnlPct": -12.997473010858277,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL_SELL_FAILED",
+    "buyTxid": "DRY_RUN_BUY_1780870611637",
+    "sellTxid": "SELL_FAILED_FORCE_EXIT_1780870632123",
+    "sweepTxid": null
   }
 ]

@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-07T02:18:00.255Z",
+    "token": "3rZcNpM2Viub5G7kyX6ssQzaBeGoy7KUk2pYqhcqYKpZ",
+    "symbol": "Shatterproof",
+    "marketCap": 22477,
+    "liquidity": 10173.32,
+    "volume1h": 10089.69,
+    "volume24h": 291938.89,
+    "candidateScore": 5.5046,
+    "entryPrice": 0.000023176025973912735,
+    "exitPrice": 0.00002247,
+    "peakPrice": 0.000023176025973912735,
+    "profitSOL": -0.021324544,
+    "profitLamports": -21324544,
+    "pnlPct": -3.046363404612367,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780798611580",
+    "sellTxid": "DRY_RUN_SELL_1780798680174",
+    "sweepTxid": null
+  }
+]

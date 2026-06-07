@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1780798611580",
     "sellTxid": "DRY_RUN_SELL_1780798680174",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-07T02:39:30.150Z",
+    "token": "4EL7nmuUrAJJmV6pKUWskYQTH3hsmdJQnUCP238Vpump",
+    "symbol": "BabyT",
+    "marketCap": 68740,
+    "liquidity": 18219.61,
+    "volume1h": 89940.79,
+    "volume24h": 315685.37,
+    "candidateScore": 8.4109,
+    "entryPrice": 0.00007099095344729678,
+    "exitPrice": 0.00006874,
+    "peakPrice": 0.00007099095344729678,
+    "profitSOL": -0.022195327,
+    "profitLamports": -22195327,
+    "pnlPct": -3.1707609744498995,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780799931447",
+    "sellTxid": "DRY_RUN_SELL_1780799970113",
+    "sweepTxid": null
   }
 ]

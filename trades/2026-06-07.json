@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1780799931447",
     "sellTxid": "DRY_RUN_SELL_1780799970113",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-07T08:17:30.140Z",
+    "token": "CMPnisvuCD7Z82NHPfKTnKExVUiQL58SZ3f9o2LpJc5w",
+    "symbol": "elonbucks",
+    "marketCap": 24451,
+    "liquidity": 10789.11,
+    "volume1h": 19067.77,
+    "volume24h": 183583.61,
+    "candidateScore": 5.8876,
+    "entryPrice": 0.000026153085058888608,
+    "exitPrice": 0.00002445,
+    "peakPrice": 0.000026153085058888608,
+    "profitSOL": -0.045583898,
+    "profitLamports": -45583898,
+    "pnlPct": -6.511985316660689,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780820211652",
+    "sellTxid": "DRY_RUN_SELL_1780820250100",
+    "sweepTxid": null
   }
 ]

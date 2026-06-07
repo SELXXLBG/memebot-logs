@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1780820211652",
     "sellTxid": "DRY_RUN_SELL_1780820250100",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-07T16:48:00.279Z",
+    "token": "9tcb8WA9Fq9hUhdWhk2gcJjCiKB85N7AstbXCzCCpump",
+    "symbol": "SPACX26P",
+    "marketCap": 39211,
+    "liquidity": 13539.71,
+    "volume1h": 57924.53,
+    "volume24h": 57924.53,
+    "candidateScore": 9.9355,
+    "entryPrice": 0.00003196198467096303,
+    "exitPrice": 0.00003921,
+    "peakPrice": 0.00003921,
+    "profitSOL": 0.158738913,
+    "profitLamports": 158738913,
+    "pnlPct": 22.676987689133345,
+    "peakPnlPct": 22.676987689133345,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1780850811829",
+    "sellTxid": "DRY_RUN_SELL_1780850880155",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1780850880273"
   }
 ]

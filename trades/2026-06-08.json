@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1780905171590",
     "sellTxid": "DRY_RUN_SELL_1780905180149",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-08T23:57:00.222Z",
+    "token": "9yeE8npzsqRYGAaeezG669vi8GwMAEpzugYcdtMGpump",
+    "symbol": "SPURDO",
+    "marketCap": 59514,
+    "liquidity": 17118.29,
+    "volume1h": 11148.68,
+    "volume24h": 43953.6,
+    "candidateScore": 7.4732,
+    "entryPrice": 0.00006088302515811047,
+    "exitPrice": 0.00006178,
+    "peakPrice": 0.0000654,
+    "profitSOL": 0.01031293,
+    "profitLamports": 10312930,
+    "pnlPct": 1.473275744035583,
+    "peakPnlPct": 7.419103814501912,
+    "reason": "PROTECTGREEN",
+    "buyTxid": "DRY_RUN_BUY_1780962891552",
+    "sellTxid": "DRY_RUN_SELL_1780963020150",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1780963020210"
   }
 ]

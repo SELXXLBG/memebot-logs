@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-08T07:53:00.261Z",
+    "token": "AE1Lo6LWoCAyMk9QStEBq7tVWXmTTKDK8WXk1Nxkpump",
+    "symbol": "Wholesome ",
+    "marketCap": 69646,
+    "liquidity": 18690.42,
+    "volume1h": 75878.38,
+    "volume24h": 322670.18,
+    "candidateScore": 6.6968,
+    "entryPrice": 0.00007365168217075652,
+    "exitPrice": 0.00006965,
+    "peakPrice": 0.00007365168217075652,
+    "profitSOL": -0.038032771,
+    "profitLamports": -38032771,
+    "pnlPct": -5.433252918078484,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780905171590",
+    "sellTxid": "DRY_RUN_SELL_1780905180149",
+    "sweepTxid": null
+  }
+]

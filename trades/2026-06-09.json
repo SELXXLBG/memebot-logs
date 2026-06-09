@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1781008491537",
     "sellTxid": "DRY_RUN_SELL_1781009070153",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1781009070245"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-09T15:49:30.216Z",
+    "token": "5pMLECdhSeLgBCfxVgX7Uc4KvCMbBAPseBnR4cqCpump",
+    "symbol": "ANTH",
+    "marketCap": 31834,
+    "liquidity": 12039.43,
+    "volume1h": 5202.81,
+    "volume24h": 5202.81,
+    "candidateScore": 5.967,
+    "entryPrice": 0.00003219932159958567,
+    "exitPrice": 0.00003183,
+    "peakPrice": 0.00003462,
+    "profitSOL": -0.0080289,
+    "profitLamports": -8028900,
+    "pnlPct": -1.1469856544754704,
+    "peakPnlPct": 7.517793171286807,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1781020011711",
+    "sellTxid": "DRY_RUN_SELL_1781020170151",
+    "sweepTxid": null
   }
 ]

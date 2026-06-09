@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1781020011711",
     "sellTxid": "DRY_RUN_SELL_1781020170151",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-09T16:29:30.169Z",
+    "token": "GuCLvfLz7eScPcUrTEeMPrqB7NJV35AG4GnzbQdLpump",
+    "symbol": "Grumpy",
+    "marketCap": 53825,
+    "liquidity": 23318.13,
+    "volume1h": 18394.8,
+    "volume24h": 50744.87,
+    "candidateScore": 7.9233,
+    "entryPrice": 0.00005701392026330594,
+    "exitPrice": 0.00005382,
+    "peakPrice": 0.00005701392026330594,
+    "profitSOL": -0.039214006,
+    "profitLamports": -39214006,
+    "pnlPct": -5.602000789553736,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1781022531374",
+    "sellTxid": "DRY_RUN_SELL_1781022570121",
+    "sweepTxid": null
   }
 ]

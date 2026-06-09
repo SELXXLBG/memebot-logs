@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-09T00:02:00.338Z",
+    "token": "Cxbv3QShJNufWj1WCmQbaJb8rBp9kXCxRFaxBGDUpump",
+    "symbol": "PROPHUNT",
+    "marketCap": 34949,
+    "liquidity": 12847.02,
+    "volume1h": 17564.24,
+    "volume24h": 17564.24,
+    "candidateScore": 8.5489,
+    "entryPrice": 0.00002848973746768179,
+    "exitPrice": 0.00003494,
+    "peakPrice": 0.00003494,
+    "profitSOL": 0.158484569,
+    "profitLamports": 158484569,
+    "pnlPct": 22.640652760086912,
+    "peakPnlPct": 22.640652760086912,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1780963251661",
+    "sellTxid": "DRY_RUN_SELL_1780963320193",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1780963320316"
+  }
+]

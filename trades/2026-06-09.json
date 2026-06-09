@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1781022531374",
     "sellTxid": "DRY_RUN_SELL_1781022570121",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-09T17:06:00.586Z",
+    "token": "CGRCdJ9AWiB1EPDMR2jNnxZ3UDUhbzxKnrxuaEn7pump",
+    "symbol": "IPO",
+    "marketCap": 79466,
+    "liquidity": 19318.36,
+    "volume1h": 28766.75,
+    "volume24h": 153852.86,
+    "candidateScore": 7.9017,
+    "entryPrice": 0.00008019164352336907,
+    "exitPrice": 0.00007946,
+    "peakPrice": 0.00008446,
+    "profitSOL": -0.006386582,
+    "profitLamports": -6386582,
+    "pnlPct": -0.9123687846051585,
+    "peakPnlPct": 5.322694845862676,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1781023731580",
+    "sellTxid": "DRY_RUN_SELL_1781024760173",
+    "sweepTxid": null
   }
 ]

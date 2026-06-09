@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1780963251661",
     "sellTxid": "DRY_RUN_SELL_1780963320193",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1780963320316"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-09T09:46:00.420Z",
+    "token": "CyjXjPZuuAA79jLTq35u6Zxk2aA4c183FxPNP1N8pump",
+    "symbol": "Abel",
+    "marketCap": 73115,
+    "liquidity": 27252.1,
+    "volume1h": 65084.99,
+    "volume24h": 65084.99,
+    "candidateScore": 8.5192,
+    "entryPrice": 0.00008130634751405929,
+    "exitPrice": 0.00007311,
+    "peakPrice": 0.00008130634751405929,
+    "profitSOL": -0.070565749,
+    "profitLamports": -70565749,
+    "pnlPct": -10.080821196207344,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1780998291672",
+    "sellTxid": "DRY_RUN_SELL_1780998360243",
+    "sweepTxid": null
   }
 ]

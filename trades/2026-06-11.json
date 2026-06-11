@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1781162442640",
     "sellTxid": "DRY_RUN_SELL_1781162490117",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-11T07:51:30.154Z",
+    "token": "MiLL4FP4Y6JxW9qskY1ejKpBHw4RtbUQTrikTL2QBJg",
+    "symbol": "1M",
+    "marketCap": 37209,
+    "liquidity": 13070.84,
+    "volume1h": 27102.73,
+    "volume24h": 27102.73,
+    "candidateScore": 9.6868,
+    "entryPrice": 0.00002907267805627065,
+    "exitPrice": 0.0000372,
+    "peakPrice": 0.0000372,
+    "profitSOL": 0.195686319,
+    "profitLamports": 195686319,
+    "pnlPct": 27.955188469389675,
+    "peakPnlPct": 27.955188469389675,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1781164242512",
+    "sellTxid": "DRY_RUN_SELL_1781164290103",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1781164290148"
   }
 ]

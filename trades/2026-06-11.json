@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1781164242512",
     "sellTxid": "DRY_RUN_SELL_1781164290103",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1781164290148"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-11T18:04:00.262Z",
+    "token": "EBc6YWysUJsQJh9UayAiyS5j9voLdJUAVQBxzBNtpump",
+    "symbol": "AIDOC",
+    "marketCap": 29942,
+    "liquidity": 11920.06,
+    "volume1h": 18830.18,
+    "volume24h": 18830.18,
+    "candidateScore": 7.0794,
+    "entryPrice": 0.000030311920296875007,
+    "exitPrice": 0.00002994,
+    "peakPrice": 0.00003241,
+    "profitSOL": -0.00858884,
+    "profitLamports": -8588840,
+    "pnlPct": -1.2269770216878964,
+    "peakPnlPct": 6.921632422414678,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1781200842510",
+    "sellTxid": "DRY_RUN_SELL_1781201040202",
+    "sweepTxid": null
   }
 ]

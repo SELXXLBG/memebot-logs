@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-13T01:24:00.267Z",
+    "token": "B5P5hc6Jjbq8UCn7JvYYCH46uvwr9QiRxfKdUpbFpump",
+    "symbol": "MOON",
+    "marketCap": 13952,
+    "liquidity": 8140.13,
+    "volume1h": 15310.62,
+    "volume24h": 15310.62,
+    "candidateScore": 9.0504,
+    "entryPrice": 0.000039358727120415234,
+    "exitPrice": 0.00001395,
+    "peakPrice": 0.00004076,
+    "profitSOL": -0.451897465,
+    "profitLamports": -451897465,
+    "pnlPct": -64.55678061609827,
+    "peakPnlPct": 3.560259647873453,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1781313762685",
+    "sellTxid": "DRY_RUN_SELL_1781313840185",
+    "sweepTxid": null
+  }
+]

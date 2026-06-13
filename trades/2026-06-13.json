@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1781313762685",
     "sellTxid": "DRY_RUN_SELL_1781313840185",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-13T04:01:30.353Z",
+    "token": "FFosggieyf6ceEdapfQjeWetyFr9CjUzm9BLoxbopump",
+    "symbol": "SOCCER",
+    "marketCap": 56048,
+    "liquidity": 17134.05,
+    "volume1h": 85246.49,
+    "volume24h": 430186.24,
+    "candidateScore": 8.4127,
+    "entryPrice": 0.000056225777951765884,
+    "exitPrice": 0.00005604,
+    "peakPrice": 0.00006139,
+    "profitSOL": -0.0023129,
+    "profitLamports": -2312900,
+    "pnlPct": -0.33041419529180727,
+    "peakPnlPct": 9.1847942996259,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1781323122655",
+    "sellTxid": "DRY_RUN_SELL_1781323290198",
+    "sweepTxid": null
   }
 ]

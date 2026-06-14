@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-14T03:39:00.399Z",
+    "token": "8QZJYXVU2SUi3qesyGrHyTj21JSrs5xpLReTC1CLpump",
+    "symbol": "Worldcraft",
+    "marketCap": 49103,
+    "liquidity": 15945.17,
+    "volume1h": 80397.84,
+    "volume24h": 282765.93,
+    "candidateScore": 8.8199,
+    "entryPrice": 0.00005164379923856214,
+    "exitPrice": 0.0000491,
+    "peakPrice": 0.00005164379923856214,
+    "profitSOL": -0.034479638,
+    "profitLamports": -34479638,
+    "pnlPct": -4.925662472684035,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1781408322600",
+    "sellTxid": "DRY_RUN_SELL_1781408340156",
+    "sweepTxid": null
+  }
+]

@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1781408322600",
     "sellTxid": "DRY_RUN_SELL_1781408340156",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-06-14T06:18:00.427Z",
+    "token": "2oP7a1jrLgfuSHmBPMxteJZ1VzgBUkrMydQBxomEpump",
+    "symbol": "NORDICS",
+    "marketCap": 42732,
+    "liquidity": 14480.41,
+    "volume1h": 65320.66,
+    "volume24h": 65320.66,
+    "candidateScore": 9.9946,
+    "entryPrice": 0.00003892041848079026,
+    "exitPrice": 0.00004273,
+    "peakPrice": 0.00004542,
+    "profitSOL": 0.068516916,
+    "profitLamports": 68516916,
+    "pnlPct": 9.788130929501722,
+    "peakPnlPct": 16.69967018062178,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1781417562597",
+    "sellTxid": "DRY_RUN_SELL_1781417880172",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1781417880417"
   }
 ]

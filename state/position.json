@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "9m94wKBLG8SVZSnkpLPajFmfadkssFSnu2YArXzopump",
-  "symbol": "Reset",
-  "marketCap": 34839,
-  "liquidity": 14171.55,
-  "volume1h": 42905.92,
-  "volume24h": 42905.92,
-  "candidateScore": 9.1342,
-  "entryPrice": 0.000035218027204396024,
-  "entryTime": 1783018355794,
-  "peakPrice": 0.000035218027204396024,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1544820167825",
-  "txid": "DRY_RUN_BUY_1783018355794",
-  "isDryRun": true
-}
+{}

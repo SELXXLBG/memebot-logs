@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-02T16:22:31.514Z",
+    "token": "8NGpdSE1tZqUrvpUVqsn5Revncc6yUafk8mnAyK9fNCE",
+    "symbol": "Chud",
+    "marketCap": 47134,
+    "liquidity": 16585.79,
+    "volume1h": 10720.25,
+    "volume24h": 155269.47,
+    "candidateScore": 7.6249,
+    "entryPrice": 0.00004249097193060364,
+    "exitPrice": 0.00004713,
+    "peakPrice": 0.00004994,
+    "profitSOL": 0.076423755,
+    "profitLamports": 76423755,
+    "pnlPct": 10.917679353093709,
+    "peakPnlPct": 17.530848862582218,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1783008635751",
+    "sellTxid": "DRY_RUN_SELL_1783009351410",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1783009351502"
+  }
+]

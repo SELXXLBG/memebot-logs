@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-03T02:53:01.228Z",
+    "token": "CbdMt7xCe91AiAwnqtiHpUB5QrR3Z3ZL3LqnKGSypump",
+    "symbol": "AMEN",
+    "marketCap": 60219,
+    "liquidity": 18755.4,
+    "volume1h": 5576.08,
+    "volume24h": 140780.82,
+    "candidateScore": 6.8466,
+    "entryPrice": 0.00006346907758660042,
+    "exitPrice": 0.00006021,
+    "peakPrice": 0.00006346907758660042,
+    "profitSOL": -0.035944344,
+    "profitLamports": -35944344,
+    "pnlPct": -5.1349061787664505,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1783047035908",
+    "sellTxid": "DRY_RUN_SELL_1783047181156",
+    "sweepTxid": null
+  }
+]

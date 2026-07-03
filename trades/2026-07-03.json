@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1783048955815",
     "sellTxid": "DRY_RUN_SELL_1783048981399",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-03T06:24:31.408Z",
+    "token": "EKo4QVGgvAPXn2QKZ8xrRCrgh1b3Q3uLtnCimCJbpump",
+    "symbol": "CJ",
+    "marketCap": 43981,
+    "liquidity": 16136.62,
+    "volume1h": 11121.37,
+    "volume24h": 182622.36,
+    "candidateScore": 6.5698,
+    "entryPrice": 0.0000445151397480469,
+    "exitPrice": 0.00004398,
+    "peakPrice": 0.00004802,
+    "profitSOL": -0.008415066,
+    "profitLamports": -8415066,
+    "pnlPct": -1.2021522364655166,
+    "peakPnlPct": 7.873411769097895,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1783059635648",
+    "sellTxid": "DRY_RUN_SELL_1783059871343",
+    "sweepTxid": null
   }
 ]

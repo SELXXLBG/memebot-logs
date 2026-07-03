@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1783072115960",
     "sellTxid": "DRY_RUN_SELL_1783072141265",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-03T23:02:01.503Z",
+    "token": "BMnU2bqhxsUGVwTBgDhJZ6Xt4zaspdPr921BL32Mpump",
+    "symbol": "HAYES",
+    "marketCap": 39791,
+    "liquidity": 15194.5,
+    "volume1h": 7117.4,
+    "volume24h": 7117.4,
+    "candidateScore": 7.492,
+    "entryPrice": 0.000039580254264085,
+    "exitPrice": 0.00003979,
+    "peakPrice": 0.00004446,
+    "profitSOL": 0.003709476,
+    "profitLamports": 3709476,
+    "pnlPct": 0.5299251857139348,
+    "peakPnlPct": 12.32873771693495,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1783119396047",
+    "sellTxid": "DRY_RUN_SELL_1783119721420",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1783119721495"
   }
 ]

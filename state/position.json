@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "BMnU2bqhxsUGVwTBgDhJZ6Xt4zaspdPr921BL32Mpump",
-  "symbol": "HAYES",
-  "marketCap": 38857,
-  "liquidity": 15012.09,
-  "volume1h": 7117.4,
-  "volume24h": 7117.4,
-  "candidateScore": 7.492,
-  "entryPrice": 0.000039580254264085,
-  "entryTime": 1783119396047,
-  "peakPrice": 0.00004446,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1454892439513",
-  "txid": "DRY_RUN_BUY_1783119396047",
-  "isDryRun": true
-}
+{}

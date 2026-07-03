@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "CbdMt7xCe91AiAwnqtiHpUB5QrR3Z3ZL3LqnKGSypump",
-  "symbol": "AMEN",
-  "marketCap": 62326,
-  "liquidity": 19075.78,
-  "volume1h": 5576.08,
-  "volume24h": 140780.82,
-  "candidateScore": 6.8466,
-  "entryPrice": 0.00006346907758660042,
-  "entryTime": 1783047035908,
-  "peakPrice": 0.00006346907758660042,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "881460334197",
-  "txid": "DRY_RUN_BUY_1783047035908",
-  "isDryRun": true
-}
+{}

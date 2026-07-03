@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "EKo4QVGgvAPXn2QKZ8xrRCrgh1b3Q3uLtnCimCJbpump",
-  "symbol": "CJ",
-  "marketCap": 44181,
-  "liquidity": 16185.46,
-  "volume1h": 11121.37,
-  "volume24h": 182622.36,
-  "candidateScore": 6.5698,
-  "entryPrice": 0.0000445151397480469,
-  "entryTime": 1783059635648,
-  "peakPrice": 0.00004802,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1188431849568",
-  "txid": "DRY_RUN_BUY_1783059635648",
-  "isDryRun": true
-}
+{}

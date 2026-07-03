@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "9i31J7h8svFnW9TH7hfV8EaEgqLxWsNtsYgrLDf3pump",
-  "symbol": "BULLSEUS",
-  "marketCap": 37225,
-  "liquidity": 14595.62,
-  "volume1h": 12180.25,
-  "volume24h": 12180.25,
-  "candidateScore": 9.4105,
-  "entryPrice": 0.00003760300994306851,
-  "entryTime": 1783072115960,
-  "peakPrice": 0.00003760300994306851,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1554731818891",
-  "txid": "DRY_RUN_BUY_1783072115960",
-  "isDryRun": true
-}
+{}

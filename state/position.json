@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "4zFY9muRpkW4WevZEBWpSpLZg8Vy3fEUfARJ8a9Npump",
+  "symbol": "BOOM",
+  "marketCap": 41555,
+  "liquidity": 15459.92,
+  "volume1h": 50393.34,
+  "volume24h": 50393.34,
+  "candidateScore": 10.1786,
+  "entryPrice": 0.00004211175481313405,
+  "entryTime": 1783048955815,
+  "peakPrice": 0.00004211175481313405,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1371036985681",
+  "txid": "DRY_RUN_BUY_1783048955815",
+  "isDryRun": true
+}

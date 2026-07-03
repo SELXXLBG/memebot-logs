@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1783059635648",
     "sellTxid": "DRY_RUN_SELL_1783059871343",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-03T09:49:01.355Z",
+    "token": "9i31J7h8svFnW9TH7hfV8EaEgqLxWsNtsYgrLDf3pump",
+    "symbol": "BULLSEUS",
+    "marketCap": 35379,
+    "liquidity": 14227.94,
+    "volume1h": 12180.25,
+    "volume24h": 12180.25,
+    "candidateScore": 9.4105,
+    "entryPrice": 0.00003760300994306851,
+    "exitPrice": 0.00003537,
+    "peakPrice": 0.00003760300994306851,
+    "profitSOL": -0.041568666,
+    "profitLamports": -41568666,
+    "pnlPct": -5.9383808542170335,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1783072115960",
+    "sellTxid": "DRY_RUN_SELL_1783072141265",
+    "sweepTxid": null
   }
 ]

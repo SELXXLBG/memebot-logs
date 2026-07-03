@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1783047035908",
     "sellTxid": "DRY_RUN_SELL_1783047181156",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-03T03:23:01.476Z",
+    "token": "4zFY9muRpkW4WevZEBWpSpLZg8Vy3fEUfARJ8a9Npump",
+    "symbol": "BOOM",
+    "marketCap": 40830,
+    "liquidity": 15322.12,
+    "volume1h": 50393.34,
+    "volume24h": 50393.34,
+    "candidateScore": 10.1786,
+    "entryPrice": 0.00004211175481313405,
+    "exitPrice": 0.00004083,
+    "peakPrice": 0.00004211175481313405,
+    "profitSOL": -0.021305889,
+    "profitLamports": -21305889,
+    "pnlPct": -3.043698413475494,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1783048955815",
+    "sellTxid": "DRY_RUN_SELL_1783048981399",
+    "sweepTxid": null
   }
 ]

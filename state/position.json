@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "28ZkjSTDD9r1zNCTwHphhFiuKuQjRLqx338vd49Epump",
-  "symbol": "Trench",
-  "marketCap": 51042,
-  "liquidity": 17230.51,
-  "volume1h": 25383.52,
-  "volume24h": 25383.52,
-  "candidateScore": 8.9485,
-  "entryPrice": 0.00005156186262226005,
-  "entryTime": 1783181316217,
-  "peakPrice": 0.00005156186262226005,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1104885010428",
-  "txid": "DRY_RUN_BUY_1783181316217",
-  "isDryRun": true
-}
+{}

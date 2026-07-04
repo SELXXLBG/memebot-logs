@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1783165955691",
     "sellTxid": "DRY_RUN_SELL_1783166131191",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-04T13:15:31.364Z",
+    "token": "FXBibdtX1uLsyU83qnTTw8AjD7UHSDHobCFsKzMjpump",
+    "symbol": "LOBSTAR",
+    "marketCap": 33988,
+    "liquidity": 13987.51,
+    "volume1h": 19893.51,
+    "volume24h": 19893.51,
+    "candidateScore": 9.5798,
+    "entryPrice": 0.000042250399427617064,
+    "exitPrice": 0.00003398,
+    "peakPrice": 0.00004326,
+    "profitSOL": -0.137023074,
+    "profitLamports": -137023074,
+    "pnlPct": -19.57472483020148,
+    "peakPnlPct": 2.3895645628453193,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1783170635964",
+    "sellTxid": "DRY_RUN_SELL_1783170931317",
+    "sweepTxid": null
   }
 ]

@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1783165115763",
     "sellTxid": "DRY_RUN_SELL_1783165231163",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-04T11:55:31.246Z",
+    "token": "DP6tmrQK996peAtwZVQZax2dxR3FXVRVZoABrfMVpump",
+    "symbol": "SLABSY",
+    "marketCap": 32663,
+    "liquidity": 13753.24,
+    "volume1h": 36447.84,
+    "volume24h": 36447.84,
+    "candidateScore": 8.8574,
+    "entryPrice": 0.0000380645578952646,
+    "exitPrice": 0.00003266,
+    "peakPrice": 0.00003831,
+    "profitSOL": -0.099388795,
+    "profitLamports": -99388795,
+    "pnlPct": -14.198399230421504,
+    "peakPnlPct": 0.6448048218784961,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1783165955691",
+    "sellTxid": "DRY_RUN_SELL_1783166131191",
+    "sweepTxid": null
   }
 ]

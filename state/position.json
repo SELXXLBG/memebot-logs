@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "8irzQmh4imKpaorg3FShPAWNcQe45S1KKTNLALFApump",
-  "symbol": "CA",
-  "marketCap": 40811,
-  "liquidity": 15448.16,
-  "volume1h": 60440.83,
-  "volume24h": 60440.83,
-  "candidateScore": 9.81,
-  "entryPrice": 0.000041188517577742275,
-  "entryTime": 1783157196020,
-  "peakPrice": 0.000041188517577742275,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1408374429120",
-  "txid": "DRY_RUN_BUY_1783157196020",
-  "isDryRun": true
-}
+{}

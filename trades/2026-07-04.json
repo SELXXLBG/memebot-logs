@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-04T09:28:01.351Z",
+    "token": "8irzQmh4imKpaorg3FShPAWNcQe45S1KKTNLALFApump",
+    "symbol": "CA",
+    "marketCap": 37952,
+    "liquidity": 14900.15,
+    "volume1h": 60440.83,
+    "volume24h": 60440.83,
+    "candidateScore": 9.81,
+    "entryPrice": 0.000041188517577742275,
+    "exitPrice": 0.00003795,
+    "peakPrice": 0.000041188517577742275,
+    "profitSOL": -0.055038697,
+    "profitLamports": -55038697,
+    "pnlPct": -7.862670880615343,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1783157196020",
+    "sellTxid": "DRY_RUN_SELL_1783157281249",
+    "sweepTxid": null
+  }
+]

@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "FXBibdtX1uLsyU83qnTTw8AjD7UHSDHobCFsKzMjpump",
+  "symbol": "LOBSTAR",
+  "marketCap": 41909,
+  "liquidity": 15534.22,
+  "volume1h": 19893.51,
+  "volume24h": 19893.51,
+  "candidateScore": 9.5798,
+  "entryPrice": 0.000042250399427617064,
+  "entryTime": 1783170635964,
+  "peakPrice": 0.000042250399427617064,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1387949032384",
+  "txid": "DRY_RUN_BUY_1783170635964",
+  "isDryRun": true
+}

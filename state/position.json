@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "DP6tmrQK996peAtwZVQZax2dxR3FXVRVZoABrfMVpump",
-  "symbol": "SLABSY",
-  "marketCap": 38287,
-  "liquidity": 14868.04,
-  "volume1h": 25626.87,
-  "volume24h": 25626.87,
-  "candidateScore": 8.4739,
-  "entryPrice": 0.00003867973270664404,
-  "entryTime": 1783165115763,
-  "peakPrice": 0.00003867973270664404,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1457568293477",
-  "txid": "DRY_RUN_BUY_1783165115763",
-  "isDryRun": true
-}
+{}

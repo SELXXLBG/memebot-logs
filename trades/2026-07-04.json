@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1783170635964",
     "sellTxid": "DRY_RUN_SELL_1783170931317",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-04T16:10:01.807Z",
+    "token": "28ZkjSTDD9r1zNCTwHphhFiuKuQjRLqx338vd49Epump",
+    "symbol": "Trench",
+    "marketCap": 49127,
+    "liquidity": 16895.24,
+    "volume1h": 25383.52,
+    "volume24h": 25383.52,
+    "candidateScore": 8.9485,
+    "entryPrice": 0.00005156186262226005,
+    "exitPrice": 0.00004912,
+    "peakPrice": 0.00005156186262226005,
+    "profitSOL": -0.033150545,
+    "profitLamports": -33150545,
+    "pnlPct": -4.735792110826235,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1783181316217",
+    "sellTxid": "DRY_RUN_SELL_1783181401600",
+    "sweepTxid": null
   }
 ]

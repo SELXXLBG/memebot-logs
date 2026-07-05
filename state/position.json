@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "5XFYxNg16y2KmEZLARWCCktuiA5QGD8ihJXu5xHapump",
+  "symbol": "frog",
+  "marketCap": 75049,
+  "liquidity": 21875.1,
+  "volume1h": 55210.67,
+  "volume24h": 567663.05,
+  "candidateScore": 7.5179,
+  "entryPrice": 0.0000764512221575306,
+  "entryTime": 1783256915814,
+  "peakPrice": 0.0000764512221575306,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "715286683181",
+  "txid": "DRY_RUN_BUY_1783256915814",
+  "isDryRun": true
+}

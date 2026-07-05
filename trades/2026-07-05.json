@@ -174,5 +174,27 @@
     "buyTxid": "DRY_RUN_BUY_1783271436583",
     "sellTxid": "DRY_RUN_SELL_1783271521292",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-05T17:14:01.535Z",
+    "token": "AfjrmgECAw9asQN5UESnDZPYghe4GCc7qcTvcp6xpump",
+    "symbol": "Tsukune",
+    "marketCap": 34973,
+    "liquidity": 14216.73,
+    "volume1h": 64376.23,
+    "volume24h": 64376.23,
+    "candidateScore": 10.5275,
+    "entryPrice": 0.00004157197262276993,
+    "exitPrice": 0.00003497,
+    "peakPrice": 0.00004199,
+    "profitSOL": -0.111165782,
+    "profitLamports": -111165782,
+    "pnlPct": -15.880825965794742,
+    "peakPnlPct": 1.005550977874725,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1783271555699",
+    "sellTxid": "DRY_RUN_SELL_1783271641451",
+    "sweepTxid": null
   }
 ]

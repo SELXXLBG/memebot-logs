@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1783230275734",
     "sellTxid": "DRY_RUN_SELL_1783230331171",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-05T05:52:31.307Z",
+    "token": "5xRRRd1fhGyBY2u31isvkL3rLtYUFXvau3JgkwiKpump",
+    "symbol": "LFG",
+    "marketCap": 56193,
+    "liquidity": 17865.55,
+    "volume1h": 12293.26,
+    "volume24h": 12293.26,
+    "candidateScore": 8.9349,
+    "entryPrice": 0.00004158237217014582,
+    "exitPrice": 0.00005619,
+    "peakPrice": 0.00005619,
+    "profitSOL": 0.245905631,
+    "profitLamports": 245905631,
+    "pnlPct": 35.12937590497007,
+    "peakPnlPct": 35.12937590497007,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1783230635689",
+    "sellTxid": "DRY_RUN_SELL_1783230751229",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1783230751285"
   }
 ]

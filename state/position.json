@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "5xRRRd1fhGyBY2u31isvkL3rLtYUFXvau3JgkwiKpump",
+  "symbol": "LFG",
+  "marketCap": 40823,
+  "liquidity": 15217.55,
+  "volume1h": 12293.26,
+  "volume24h": 12293.26,
+  "candidateScore": 8.9349,
+  "entryPrice": 0.00004158237217014582,
+  "entryTime": 1783230635689,
+  "peakPrice": 0.00004158237217014582,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1262864792953",
+  "txid": "DRY_RUN_BUY_1783230635689",
+  "isDryRun": true
+}

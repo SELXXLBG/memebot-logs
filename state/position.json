@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "HSNd1kqcd9HCS499RvtG3MqrKdkcWZiPNfXk1gHdpump",
-  "symbol": "TAC",
-  "marketCap": 38920,
-  "liquidity": 15070,
-  "volume1h": 63106.81,
-  "volume24h": 63106.81,
-  "candidateScore": 10.7038,
-  "entryPrice": 0.00003952866696034439,
-  "entryTime": 1783288715741,
-  "peakPrice": 0.00005229,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1148282966463",
-  "txid": "DRY_RUN_BUY_1783288715741",
-  "isDryRun": true
-}
+{}

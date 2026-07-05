@@ -130,5 +130,27 @@
     "buyTxid": "DRY_RUN_BUY_1783233395742",
     "sellTxid": "DRY_RUN_SELL_1783233421217",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-05T13:14:01.509Z",
+    "token": "5XFYxNg16y2KmEZLARWCCktuiA5QGD8ihJXu5xHapump",
+    "symbol": "frog",
+    "marketCap": 78382,
+    "liquidity": 22360.88,
+    "volume1h": 55210.67,
+    "volume24h": 567663.05,
+    "candidateScore": 7.5179,
+    "entryPrice": 0.0000764512221575306,
+    "exitPrice": 0.00007838,
+    "peakPrice": 0.00008258,
+    "profitSOL": 0.017660208,
+    "profitLamports": 17660208,
+    "pnlPct": 2.5228868656868344,
+    "peakPnlPct": 8.01658583016609,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1783256915814",
+    "sellTxid": "DRY_RUN_SELL_1783257241401",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1783257241499"
   }
 ]

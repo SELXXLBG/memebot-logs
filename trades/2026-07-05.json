@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-05T05:45:31.225Z",
+    "token": "5xRRRd1fhGyBY2u31isvkL3rLtYUFXvau3JgkwiKpump",
+    "symbol": "LFG",
+    "marketCap": 41444,
+    "liquidity": 15311.45,
+    "volume1h": 6260.7,
+    "volume24h": 6260.7,
+    "candidateScore": 8.4637,
+    "entryPrice": 0.000044982851610554655,
+    "exitPrice": 0.00004144,
+    "peakPrice": 0.000044982851610554655,
+    "profitSOL": -0.055132035,
+    "profitLamports": -55132035,
+    "pnlPct": -7.8760049301173405,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1783230275734",
+    "sellTxid": "DRY_RUN_SELL_1783230331171",
+    "sweepTxid": null
+  }
+]

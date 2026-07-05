@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1783230635689",
     "sellTxid": "DRY_RUN_SELL_1783230751229",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1783230751285"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-05T06:14:31.307Z",
+    "token": "CGT5pGSnokiTU7CLsfFCnAbvgGMxtZGvQVnrLRKbpump",
+    "symbol": "BUL",
+    "marketCap": 41200,
+    "liquidity": 15320.79,
+    "volume1h": 16422.19,
+    "volume24h": 16422.19,
+    "candidateScore": 9.7458,
+    "entryPrice": 0.00003893305647675142,
+    "exitPrice": 0.0000412,
+    "peakPrice": 0.00004399,
+    "profitSOL": 0.040758692,
+    "profitLamports": 40758692,
+    "pnlPct": 5.822670317708728,
+    "peakPnlPct": 12.988817166893368,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1783231955722",
+    "sellTxid": "DRY_RUN_SELL_1783232071240",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1783232071296"
   }
 ]

@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "AfjrmgECAw9asQN5UESnDZPYghe4GCc7qcTvcp6xpump",
-  "symbol": "Tsukune",
-  "marketCap": 41213,
-  "liquidity": 15432.16,
-  "volume1h": 64376.23,
-  "volume24h": 64376.23,
-  "candidateScore": 10.5275,
-  "entryPrice": 0.00004157197262276993,
-  "entryTime": 1783271555699,
-  "peakPrice": 0.00004199,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1296074257617",
-  "txid": "DRY_RUN_BUY_1783271555699",
-  "isDryRun": true
-}
+{}

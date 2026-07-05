@@ -196,5 +196,27 @@
     "buyTxid": "DRY_RUN_BUY_1783271555699",
     "sellTxid": "DRY_RUN_SELL_1783271641451",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-05T18:13:31.366Z",
+    "token": "4tUQ6XKsVaaDMrTkHvYFh1z6sifjoQ5wUdPGDiHwpump",
+    "symbol": "Nut",
+    "marketCap": 33781,
+    "liquidity": 13928.07,
+    "volume1h": 34769.2,
+    "volume24h": 34769.2,
+    "candidateScore": 9.8227,
+    "entryPrice": 0.00003628459555701686,
+    "exitPrice": 0.00003378,
+    "peakPrice": 0.00003712,
+    "profitSOL": -0.048318491,
+    "profitLamports": -48318491,
+    "pnlPct": -6.902641516511311,
+    "peakPnlPct": 2.3023666935198337,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1783275155774",
+    "sellTxid": "DRY_RUN_SELL_1783275211312",
+    "sweepTxid": null
   }
 ]

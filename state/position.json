@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "4tUQ6XKsVaaDMrTkHvYFh1z6sifjoQ5wUdPGDiHwpump",
+  "symbol": "Nut",
+  "marketCap": 33630,
+  "liquidity": 13898.76,
+  "volume1h": 38995.58,
+  "volume24h": 38995.58,
+  "candidateScore": 9.1179,
+  "entryPrice": 0.00003407232434255964,
+  "entryTime": 1783275275669,
+  "peakPrice": 0.00003407232434255964,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1597688042710",
+  "txid": "DRY_RUN_BUY_1783275275669",
+  "isDryRun": true
+}

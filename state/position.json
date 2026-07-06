@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "CSWM2UWwcSb5GeYcs1Nb9jaPsm1aBrSY4jZqTC3PqAnk",
+  "symbol": "BOA",
+  "marketCap": 34769,
+  "liquidity": 14153.64,
+  "volume1h": 30241.2,
+  "volume24h": 30241.2,
+  "candidateScore": 7.9123,
+  "entryPrice": 0.000035211150309580895,
+  "entryTime": 1783360854802,
+  "peakPrice": 0.000035211150309580895,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1613606389484",
+  "txid": "DRY_RUN_BUY_1783360854802",
+  "isDryRun": true
+}

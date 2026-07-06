@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1783336595808",
     "sellTxid": "DRY_RUN_SELL_1783336771332",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1783336771388"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-06T11:23:31.337Z",
+    "token": "3JeuCbFZeSKs9wuVMCnFuj2SrvGX9LebbicsNWuLpump",
+    "symbol": "ANSEMJR",
+    "marketCap": 53277,
+    "liquidity": 17471.35,
+    "volume1h": 26097.76,
+    "volume24h": 26097.76,
+    "candidateScore": 10.0682,
+    "entryPrice": 0.00004230815083805885,
+    "exitPrice": 0.00005327,
+    "peakPrice": 0.00005327,
+    "profitSOL": 0.181366811,
+    "profitLamports": 181366811,
+    "pnlPct": 25.909544484464398,
+    "peakPnlPct": 25.909544484464398,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1783336835842",
+    "sellTxid": "DRY_RUN_SELL_1783337011269",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1783337011331"
   }
 ]

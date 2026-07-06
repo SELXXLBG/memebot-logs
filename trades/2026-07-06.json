@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-06T11:19:31.395Z",
+    "token": "3JeuCbFZeSKs9wuVMCnFuj2SrvGX9LebbicsNWuLpump",
+    "symbol": "ANSEMJR",
+    "marketCap": 42341,
+    "liquidity": 15540.77,
+    "volume1h": 14661.79,
+    "volume24h": 14661.79,
+    "candidateScore": 9.06,
+    "entryPrice": 0.000039639527456663196,
+    "exitPrice": 0.00004234,
+    "peakPrice": 0.00004574,
+    "profitSOL": 0.047688025,
+    "profitLamports": 47688025,
+    "pnlPct": 6.812575014394795,
+    "peakPnlPct": 15.389872016023102,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1783336595808",
+    "sellTxid": "DRY_RUN_SELL_1783336771332",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1783336771388"
+  }
+]

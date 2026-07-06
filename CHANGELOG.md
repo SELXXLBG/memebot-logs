@@ -8,7 +8,7 @@
 
 ### 🔴 Période 1 — v1 à v5 (Filtres initiaux)
 **Dates :** 2026-05-25 → 2026-06-10  
-**Dossier GitHub :** `trades/archives/2026-05-25_2026-06-10_v1-v5/`  
+**Dossier GitHub :** `trades/archives/2026-05-06_2026-06-14_v1-v5/`  
 **Statut :** Archivée ✅
 
 | Métrique | Valeur |
@@ -97,7 +97,7 @@
 ```
 trades/
 ├── archives/
-│   ├── 2026-05-25_2026-06-10_v1-v5/   ← Anciens trades (ancienne période)
+│   ├── 2026-05-06_2026-06-14_v1-v5/   ← Anciens trades (ancienne période)
 │   │   ├── 2026-05-25.json
 │   │   └── ...
 │   └── 2026-07-02_2026-07-06_v6/      ← Période v6 (avant les modifs du 06/07)

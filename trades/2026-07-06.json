@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1783337195755",
     "sellTxid": "DRY_RUN_SELL_1783337281348",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-06T18:03:31.582Z",
+    "token": "CSWM2UWwcSb5GeYcs1Nb9jaPsm1aBrSY4jZqTC3PqAnk",
+    "symbol": "BOA",
+    "marketCap": 32023,
+    "liquidity": 13592.4,
+    "volume1h": 30241.2,
+    "volume24h": 30241.2,
+    "candidateScore": 7.9123,
+    "entryPrice": 0.000035211150309580895,
+    "exitPrice": 0.00003202,
+    "peakPrice": 0.00003569,
+    "profitSOL": -0.06344028,
+    "profitLamports": -63440280,
+    "pnlPct": -9.062897069604075,
+    "peakPnlPct": 1.3599376510253038,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1783360854802",
+    "sellTxid": "DRY_RUN_SELL_1783361011529",
+    "sweepTxid": null
   }
 ]

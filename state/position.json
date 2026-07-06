@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "437WAhVSXsvSx7t6GPQqQJ6AtexnLrRDwT2FdcS2pUmP",
+  "symbol": "ANSEM2",
+  "marketCap": 84482,
+  "liquidity": 22288.22,
+  "volume1h": 5735.1,
+  "volume24h": 50214.96,
+  "candidateScore": 6.6431,
+  "entryPrice": 0.00008498737736231807,
+  "entryTime": 1783375614824,
+  "peakPrice": 0.00008498737736231807,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "673073369299",
+  "txid": "DRY_RUN_BUY_1783375614824",
+  "isDryRun": true
+}

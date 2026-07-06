@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "3JeuCbFZeSKs9wuVMCnFuj2SrvGX9LebbicsNWuLpump",
+  "symbol": "ANSEMJR",
+  "marketCap": 42066,
+  "liquidity": 15502.5,
+  "volume1h": 26097.76,
+  "volume24h": 26097.76,
+  "candidateScore": 10.0682,
+  "entryPrice": 0.00004230815083805885,
+  "entryTime": 1783336835842,
+  "peakPrice": 0.00004230815083805885,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1273810629798",
+  "txid": "DRY_RUN_BUY_1783336835842",
+  "isDryRun": true
+}

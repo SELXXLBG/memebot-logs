@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "BrXJz1NyZbeCALn4aWS7ckZqMyQBwENDGVmaRt4ypump",
+  "symbol": "ELON",
+  "marketCap": 58865,
+  "liquidity": 18662.03,
+  "volume1h": 91221.49,
+  "volume24h": 120288.67,
+  "candidateScore": 8.3958,
+  "entryPrice": 0.00005956944883611965,
+  "entryTime": 1783440885926,
+  "peakPrice": 0.00005956944883611965,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "939805423999",
+  "txid": "DRY_RUN_BUY_1783440885926",
+  "isDryRun": true
+}

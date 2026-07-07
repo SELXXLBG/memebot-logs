@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "FrA5NcH1Pwa7FoG5iCF87TyZdXsKP8tyRjNcAUm1pump",
+  "symbol": "BULLSHIT",
+  "marketCap": 76520,
+  "liquidity": 22043.97,
+  "volume1h": 94966.9,
+  "volume24h": 507547.77,
+  "candidateScore": 8.8397,
+  "entryPrice": 0.00007732008252534186,
+  "entryTime": 1783453126032,
+  "peakPrice": 0.00007732008252534186,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "779538900020",
+  "txid": "DRY_RUN_BUY_1783453126032",
+  "isDryRun": true
+}

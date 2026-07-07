@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1783383774842",
     "sellTxid": "DRY_RUN_SELL_1783384231327",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-07T16:18:01.539Z",
+    "token": "BrXJz1NyZbeCALn4aWS7ckZqMyQBwENDGVmaRt4ypump",
+    "symbol": "ELON",
+    "marketCap": 71725,
+    "liquidity": 20619.54,
+    "volume1h": 91221.49,
+    "volume24h": 120288.67,
+    "candidateScore": 8.3958,
+    "entryPrice": 0.00005956944883611965,
+    "exitPrice": 0.00007172,
+    "peakPrice": 0.00007172,
+    "profitSOL": 0.142781005,
+    "profitLamports": 142781005,
+    "pnlPct": 20.3972865307307,
+    "peakPnlPct": 20.3972865307307,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1783440885926",
+    "sellTxid": "DRY_RUN_SELL_1783441081443",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1783441081530"
   }
 ]

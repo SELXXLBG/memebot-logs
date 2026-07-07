@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "8jzyGvgvf1HHgxF1D6uGTuANMEJpe3bGskMr9LbGpump",
-  "symbol": "BULLIONAIRE",
-  "marketCap": 68220,
-  "liquidity": 20015.83,
-  "volume1h": 15561.59,
-  "volume24h": 107097.38,
-  "candidateScore": 6.7232,
-  "entryPrice": 0.00006945110547437405,
-  "entryTime": 1783383774842,
-  "peakPrice": 0.00007024,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "820658510401",
-  "txid": "DRY_RUN_BUY_1783383774842",
-  "isDryRun": true
-}
+{}

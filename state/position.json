@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "JBtFSwYFJyj1TG3FNFMUagQkezimhYTNKzdsQe3xpump",
+  "symbol": "ATM",
+  "marketCap": 42863,
+  "liquidity": 15788.77,
+  "volume1h": 26679.95,
+  "volume24h": 26679.95,
+  "candidateScore": 9.6726,
+  "entryPrice": 0.00004356476218957174,
+  "entryTime": 1783442205755,
+  "peakPrice": 0.00004356476218957174,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1493877585341",
+  "txid": "DRY_RUN_BUY_1783442205755",
+  "isDryRun": true
+}

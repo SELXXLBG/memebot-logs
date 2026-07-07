@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1783442205755",
     "sellTxid": "DRY_RUN_SELL_1783442251269",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-07T19:39:01.709Z",
+    "token": "FrA5NcH1Pwa7FoG5iCF87TyZdXsKP8tyRjNcAUm1pump",
+    "symbol": "BULLSHIT",
+    "marketCap": 71132,
+    "liquidity": 21255.34,
+    "volume1h": 94966.9,
+    "volume24h": 507547.77,
+    "candidateScore": 8.8397,
+    "entryPrice": 0.00007732008252534186,
+    "exitPrice": 0.00007113,
+    "peakPrice": 0.00007732008252534186,
+    "profitSOL": -0.056040522,
+    "profitLamports": -56040522,
+    "pnlPct": -8.005788823767801,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1783453126032",
+    "sellTxid": "DRY_RUN_SELL_1783453141518",
+    "sweepTxid": null
   }
 ]

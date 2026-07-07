@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1783440885926",
     "sellTxid": "DRY_RUN_SELL_1783441081443",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1783441081530"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-07T16:37:31.321Z",
+    "token": "JBtFSwYFJyj1TG3FNFMUagQkezimhYTNKzdsQe3xpump",
+    "symbol": "ATM",
+    "marketCap": 39169,
+    "liquidity": 15090.21,
+    "volume1h": 26679.95,
+    "volume24h": 26679.95,
+    "candidateScore": 9.6726,
+    "entryPrice": 0.00004356476218957174,
+    "exitPrice": 0.00003916,
+    "peakPrice": 0.00004356476218957174,
+    "profitSOL": -0.070775861,
+    "profitLamports": -70775861,
+    "pnlPct": -10.110837218402468,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1783442205755",
+    "sellTxid": "DRY_RUN_SELL_1783442251269",
+    "sweepTxid": null
   }
 ]

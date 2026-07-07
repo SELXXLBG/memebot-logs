@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-07T00:21:31.288Z",
+    "token": "8jzyGvgvf1HHgxF1D6uGTuANMEJpe3bGskMr9LbGpump",
+    "symbol": "BULLIONAIRE",
+    "marketCap": 67584,
+    "liquidity": 19913.04,
+    "volume1h": 15561.47,
+    "volume24h": 106364.35,
+    "candidateScore": 6.8937,
+    "entryPrice": 0.0000717881439301945,
+    "exitPrice": 0.00006758,
+    "peakPrice": 0.0000717881439301945,
+    "profitSOL": -0.041033249,
+    "profitLamports": -41033249,
+    "pnlPct": -5.86189264662759,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1783383654797",
+    "sellTxid": "DRY_RUN_SELL_1783383691232",
+    "sweepTxid": null
+  }
+]

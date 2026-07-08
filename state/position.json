@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "FxUA2TdyD31TCRgLKqg4rAj5QHByg3V17CZfUiH5pump",
+  "symbol": "POKER",
+  "marketCap": 34755,
+  "liquidity": 14063.08,
+  "volume1h": 11680.85,
+  "volume24h": 11680.85,
+  "candidateScore": 8.0608,
+  "entryPrice": 0.00003536340178558709,
+  "entryTime": 1783469445931,
+  "peakPrice": 0.00003536340178558709,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1315072691477",
+  "txid": "DRY_RUN_BUY_1783469445931",
+  "isDryRun": true
+}

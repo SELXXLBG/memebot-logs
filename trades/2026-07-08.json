@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-08T00:11:31.332Z",
+    "token": "FxUA2TdyD31TCRgLKqg4rAj5QHByg3V17CZfUiH5pump",
+    "symbol": "POKER",
+    "marketCap": 43215,
+    "liquidity": 15679.48,
+    "volume1h": 11680.85,
+    "volume24h": 11680.85,
+    "candidateScore": 8.0608,
+    "entryPrice": 0.00003536340178558709,
+    "exitPrice": 0.00004321,
+    "peakPrice": 0.00004321,
+    "profitSOL": 0.155319298,
+    "profitLamports": 155319298,
+    "pnlPct": 22.18847118268729,
+    "peakPnlPct": 22.18847118268729,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1783469445931",
+    "sellTxid": "DRY_RUN_SELL_1783469491277",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1783469491323"
+  }
+]

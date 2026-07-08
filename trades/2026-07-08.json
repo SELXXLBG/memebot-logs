@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1783471845703",
     "sellTxid": "DRY_RUN_SELL_1783471921430",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1783471921529"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-08T07:45:01.498Z",
+    "token": "G7zeUXZzTUa8iXeUcW5J8oK9zoK4WY75fzmwFMe5pump",
+    "symbol": "RIF",
+    "marketCap": 45027,
+    "liquidity": 15760.77,
+    "volume1h": 17696.9,
+    "volume24h": 17696.9,
+    "candidateScore": 8.586,
+    "entryPrice": 0.00004742541264689621,
+    "exitPrice": 0.00004502,
+    "peakPrice": 0.00004742541264689621,
+    "profitSOL": -0.035503937,
+    "profitLamports": -35503937,
+    "pnlPct": -5.071990969916488,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1783496685784",
+    "sellTxid": "DRY_RUN_SELL_1783496701403",
+    "sweepTxid": null
   }
 ]

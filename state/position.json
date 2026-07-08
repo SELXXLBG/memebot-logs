@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "G7zeUXZzTUa8iXeUcW5J8oK9zoK4WY75fzmwFMe5pump",
+  "symbol": "RIF",
+  "marketCap": 45287,
+  "liquidity": 15844.86,
+  "volume1h": 27279.82,
+  "volume24h": 27279.82,
+  "candidateScore": 8.685,
+  "entryPrice": 0.000046153764651820225,
+  "entryTime": 1783497645567,
+  "peakPrice": 0.000046153764651820225,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1092389688180",
+  "txid": "DRY_RUN_BUY_1783497645567",
+  "isDryRun": true
+}

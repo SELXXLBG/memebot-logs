@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1783529685802",
     "sellTxid": "DRY_RUN_SELL_1783530781326",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1783530781397"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-08T23:48:01.417Z",
+    "token": "2Rh23w2hSrqjBUV7A5oyrPtBDnX8MniUmGi7FZw2pump",
+    "symbol": "BULLSINO",
+    "marketCap": 45553,
+    "liquidity": 15903.44,
+    "volume1h": 26058.67,
+    "volume24h": 74995.86,
+    "candidateScore": 7.3491,
+    "entryPrice": 0.00004780863100979882,
+    "exitPrice": 0.00004555,
+    "peakPrice": 0.00004780863100979882,
+    "profitSOL": -0.033070216,
+    "profitLamports": -33070216,
+    "pnlPct": -4.724316430093746,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1783554405706",
+    "sellTxid": "DRY_RUN_SELL_1783554481317",
+    "sweepTxid": null
   }
 ]

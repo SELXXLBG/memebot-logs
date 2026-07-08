@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1783469445931",
     "sellTxid": "DRY_RUN_SELL_1783469491277",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1783469491323"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-08T00:52:01.590Z",
+    "token": "D41mAqyLwbEhVZpRM674oyiQWa4ghYT9zXw4CKQ3pump",
+    "symbol": "WhiteWhale",
+    "marketCap": 47940,
+    "liquidity": 16584.39,
+    "volume1h": 36812.34,
+    "volume24h": 36812.34,
+    "candidateScore": 9.458,
+    "entryPrice": 0.00003447736315078862,
+    "exitPrice": 0.00004813,
+    "peakPrice": 0.00004813,
+    "profitSOL": 0.277191899,
+    "profitLamports": 277191899,
+    "pnlPct": 39.59884283928802,
+    "peakPnlPct": 39.59884283928802,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1783471845703",
+    "sellTxid": "DRY_RUN_SELL_1783471921430",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1783471921529"
   }
 ]

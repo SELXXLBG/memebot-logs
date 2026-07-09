@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1783620406647",
     "sellTxid": "DRY_RUN_SELL_1783621051461",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1783621051515"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-09T19:47:31.427Z",
+    "token": "4DQhg48NVkrTRpMZtwf8MK5qw5HwddnWQ5md2HD7pump",
+    "symbol": "nightfcoin",
+    "marketCap": 41157,
+    "liquidity": 15085.32,
+    "volume1h": 23623.91,
+    "volume24h": 23623.91,
+    "candidateScore": 8.1908,
+    "entryPrice": 0.00003357381875795628,
+    "exitPrice": 0.00004115,
+    "peakPrice": 0.00004115,
+    "profitSOL": 0.157960192,
+    "profitLamports": 157960192,
+    "pnlPct": 22.565741766412323,
+    "peakPnlPct": 22.565741766412323,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1783626405591",
+    "sellTxid": "DRY_RUN_SELL_1783626451371",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1783626451418"
   }
 ]

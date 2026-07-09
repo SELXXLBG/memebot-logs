@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1783618606016",
     "sellTxid": "DRY_RUN_SELL_1783618652510",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-09T18:17:31.519Z",
+    "token": "3grmULXrnQyN2A5LFStKFeSQsWvZjzNDsDVVLknFpump",
+    "symbol": "CASHCAT",
+    "marketCap": 54599,
+    "liquidity": 17440.4,
+    "volume1h": 31371.99,
+    "volume24h": 52945.53,
+    "candidateScore": 7.695,
+    "entryPrice": 0.00005303555163387237,
+    "exitPrice": 0.00005459,
+    "peakPrice": 0.00005757,
+    "profitSOL": 0.020516687,
+    "profitLamports": 20516687,
+    "pnlPct": 2.930955403007141,
+    "peakPnlPct": 8.549827854023105,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1783620406647",
+    "sellTxid": "DRY_RUN_SELL_1783621051461",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1783621051515"
   }
 ]

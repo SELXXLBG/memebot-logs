@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "4DQhg48NVkrTRpMZtwf8MK5qw5HwddnWQ5md2HD7pump",
+  "symbol": "nightfcoin",
+  "marketCap": 33271,
+  "liquidity": 13562.39,
+  "volume1h": 23623.91,
+  "volume24h": 23623.91,
+  "candidateScore": 8.1908,
+  "entryPrice": 0.00003357381875795628,
+  "entryTime": 1783626405591,
+  "peakPrice": 0.00003357381875795628,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1557617405216",
+  "txid": "DRY_RUN_BUY_1783626405591",
+  "isDryRun": true
+}

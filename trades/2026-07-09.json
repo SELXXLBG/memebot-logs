@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1783617885677",
     "sellTxid": "DRY_RUN_SELL_1783617931427",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-09T17:37:32.585Z",
+    "token": "9fy6iaavbQ2b7vEgmbYQXP3YR6yBnDUdyxBeRtY4pump",
+    "symbol": "MEMEBULL",
+    "marketCap": 26548,
+    "liquidity": 12072.25,
+    "volume1h": 20691.5,
+    "volume24h": 20691.5,
+    "candidateScore": 7.5591,
+    "entryPrice": 0.00003289064765977613,
+    "exitPrice": 0.00002654,
+    "peakPrice": 0.00003289064765977613,
+    "profitSOL": -0.135158584,
+    "profitLamports": -135158584,
+    "pnlPct": -19.30836913115184,
+    "peakPnlPct": 0,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1783618606016",
+    "sellTxid": "DRY_RUN_SELL_1783618652510",
+    "sweepTxid": null
   }
 ]

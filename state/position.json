@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "9fy6iaavbQ2b7vEgmbYQXP3YR6yBnDUdyxBeRtY4pump",
-  "symbol": "MEMEBULL",
-  "marketCap": 31301,
-  "liquidity": 13106.92,
-  "volume1h": 15871.53,
-  "volume24h": 15871.53,
-  "candidateScore": 8.3152,
-  "entryPrice": 0.0000316642168478913,
-  "entryTime": 1783617885677,
-  "peakPrice": 0.0000316642168478913,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1724421022291",
-  "txid": "DRY_RUN_BUY_1783617885677",
-  "isDryRun": true
-}
+{}

@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "3grmULXrnQyN2A5LFStKFeSQsWvZjzNDsDVVLknFpump",
-  "symbol": "CASHCAT",
-  "marketCap": 52260,
-  "liquidity": 17033.52,
-  "volume1h": 31371.99,
-  "volume24h": 52945.53,
-  "candidateScore": 7.695,
-  "entryPrice": 0.00005303555163387237,
-  "entryTime": 1783620406647,
-  "peakPrice": 0.00005757,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1013999610103",
-  "txid": "DRY_RUN_BUY_1783620406647",
-  "isDryRun": true
-}
+{}

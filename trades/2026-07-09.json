@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-09T01:45:01.354Z",
+    "token": "GzZe4n6qGkrBC3KXsGeGryKJQXQpsL88JZqffjZxpump",
+    "symbol": "BOOM",
+    "marketCap": 32491,
+    "liquidity": 13351.56,
+    "volume1h": 36387.34,
+    "volume24h": 36387.34,
+    "candidateScore": 9.3608,
+    "entryPrice": 0.00003525993828367069,
+    "exitPrice": 0.00003249,
+    "peakPrice": 0.00003525993828367069,
+    "profitSOL": -0.054990363,
+    "profitLamports": -54990363,
+    "pnlPct": -7.855766114467312,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1783561485745",
+    "sellTxid": "DRY_RUN_SELL_1783561501248",
+    "sweepTxid": null
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-10T13:57:31.543Z",
+    "token": "USZCppow9iT4f8kPF9d9Ww2BMriiwgfKtAh1F4Kpump",
+    "symbol": "1000",
+    "marketCap": 62063,
+    "liquidity": 19161.62,
+    "volume1h": 47005.14,
+    "volume24h": 307944.63,
+    "candidateScore": 7.9229,
+    "entryPrice": 0.00006424071097721579,
+    "exitPrice": 0.00006206,
+    "peakPrice": 0.00006424071097721579,
+    "profitSOL": -0.023762155,
+    "profitLamports": -23762155,
+    "pnlPct": -3.3945934657996264,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1783691805691",
+    "sellTxid": "DRY_RUN_SELL_1783691851481",
+    "sweepTxid": null
+  }
+]

@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "USZCppow9iT4f8kPF9d9Ww2BMriiwgfKtAh1F4Kpump",
+  "symbol": "1000",
+  "marketCap": 63330,
+  "liquidity": 19358.51,
+  "volume1h": 47005.14,
+  "volume24h": 307944.63,
+  "candidateScore": 7.9229,
+  "entryPrice": 0.00006424071097721579,
+  "entryTime": 1783691805691,
+  "peakPrice": 0.00006424071097721579,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "850157967731",
+  "txid": "DRY_RUN_BUY_1783691805691",
+  "isDryRun": true
+}

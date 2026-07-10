@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1783699125666",
     "sellTxid": "DRY_RUN_SELL_1783699177394",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-10T20:56:06.940Z",
+    "token": "HVK9N6tuuRNrAP2PjuZgnphpaqNhfEdVoMm2kGEHpump",
+    "symbol": "FKB",
+    "marketCap": 27208,
+    "liquidity": 12217.15,
+    "volume1h": 17218.39,
+    "volume24h": 44044.65,
+    "candidateScore": 7.5198,
+    "entryPrice": 0.000025438484252252507,
+    "exitPrice": 0.0000272,
+    "peakPrice": 0.00003019,
+    "profitSOL": 0.048472267,
+    "profitLamports": 48472267,
+    "pnlPct": 6.924609698754029,
+    "peakPnlPct": 18.678454661962654,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1783716525615",
+    "sellTxid": "DRY_RUN_SELL_1783716966875",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1783716966935"
   }
 ]

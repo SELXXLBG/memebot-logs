@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "8hV3X9UAyRCHuNEQsJd6XQasjiVbXuDdbYektfMppump",
+  "symbol": "TripleC",
+  "marketCap": 42065,
+  "liquidity": 15284.24,
+  "volume1h": 50945.81,
+  "volume24h": 50945.81,
+  "candidateScore": 9.2247,
+  "entryPrice": 0.00004262506591254467,
+  "entryTime": 1783699125666,
+  "peakPrice": 0.00004262506591254467,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1263315538469",
+  "txid": "DRY_RUN_BUY_1783699125666",
+  "isDryRun": true
+}

@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1783691805691",
     "sellTxid": "DRY_RUN_SELL_1783691851481",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-10T15:59:37.459Z",
+    "token": "8hV3X9UAyRCHuNEQsJd6XQasjiVbXuDdbYektfMppump",
+    "symbol": "TripleC",
+    "marketCap": 38887,
+    "liquidity": 14700.07,
+    "volume1h": 50945.81,
+    "volume24h": 50945.81,
+    "candidateScore": 9.2247,
+    "entryPrice": 0.00004262506591254467,
+    "exitPrice": 0.00003888,
+    "peakPrice": 0.00004262506591254467,
+    "profitSOL": -0.061502454,
+    "profitLamports": -61502454,
+    "pnlPct": -8.786064800998899,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1783699125666",
+    "sellTxid": "DRY_RUN_SELL_1783699177394",
+    "sweepTxid": null
   }
 ]

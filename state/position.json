@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "HVK9N6tuuRNrAP2PjuZgnphpaqNhfEdVoMm2kGEHpump",
+  "symbol": "FKB",
+  "marketCap": 25294,
+  "liquidity": 11780.34,
+  "volume1h": 17218.39,
+  "volume24h": 44044.65,
+  "candidateScore": 7.5198,
+  "entryPrice": 0.000025438484252252507,
+  "entryTime": 1783716525615,
+  "peakPrice": 0.000025438484252252507,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "2027164013341",
+  "txid": "DRY_RUN_BUY_1783716525615",
+  "isDryRun": true
+}

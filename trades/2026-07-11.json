@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-11T02:19:31.331Z",
+    "token": "5bVoNpJsYRx6QRvfPkxvWpygMycWwJiZsNKsLR13pump",
+    "symbol": "DAWG",
+    "marketCap": 47298,
+    "liquidity": 16182.44,
+    "volume1h": 50786.74,
+    "volume24h": 50786.74,
+    "candidateScore": 9.7379,
+    "entryPrice": 0.00004777723916112163,
+    "exitPrice": 0.00004729,
+    "peakPrice": 0.00005188,
+    "profitSOL": -0.007138701,
+    "profitLamports": -7138701,
+    "pnlPct": -1.0198143921177352,
+    "peakPnlPct": 8.587270656310665,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1783736325682",
+    "sellTxid": "DRY_RUN_SELL_1783736371279",
+    "sweepTxid": null
+  }
+]

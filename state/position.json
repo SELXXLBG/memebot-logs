@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "5bVoNpJsYRx6QRvfPkxvWpygMycWwJiZsNKsLR13pump",
+  "symbol": "DAWG",
+  "marketCap": 47443,
+  "liquidity": 16195.48,
+  "volume1h": 50786.74,
+  "volume24h": 50786.74,
+  "candidateScore": 9.7379,
+  "entryPrice": 0.00004777723916112163,
+  "entryTime": 1783736325682,
+  "peakPrice": 0.00004777723916112163,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1074091549040",
+  "txid": "DRY_RUN_BUY_1783736325682",
+  "isDryRun": true
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-12T13:47:01.470Z",
+    "token": "Gs7kpzn5JZo3SSZ2o3f7E6vuKmFNF6qbSLXyjo7PSWyP",
+    "symbol": "Grass",
+    "marketCap": 41428,
+    "liquidity": 15102.12,
+    "volume1h": 66968.46,
+    "volume24h": 66968.46,
+    "candidateScore": 10.5878,
+    "entryPrice": 0.00004628191340297768,
+    "exitPrice": 0.00004142,
+    "peakPrice": 0.00004628191340297768,
+    "profitSOL": -0.073534976,
+    "profitLamports": -73534976,
+    "pnlPct": -10.504996542914908,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1783864005766",
+    "sellTxid": "DRY_RUN_SELL_1783864021360",
+    "sweepTxid": null
+  }
+]

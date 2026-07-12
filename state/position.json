@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "Gs7kpzn5JZo3SSZ2o3f7E6vuKmFNF6qbSLXyjo7PSWyP",
-  "symbol": "Grass",
-  "marketCap": 45859,
-  "liquidity": 15884.43,
-  "volume1h": 66968.46,
-  "volume24h": 66968.46,
-  "candidateScore": 10.5878,
-  "entryPrice": 0.00004628191340297768,
-  "entryTime": 1783864005766,
-  "peakPrice": 0.00004628191340297768,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1229914390300",
-  "txid": "DRY_RUN_BUY_1783864005766",
-  "isDryRun": true
-}
+{}

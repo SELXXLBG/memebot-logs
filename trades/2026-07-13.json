@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-13T00:37:01.380Z",
+    "token": "3RJ4289jmSUwLKxTtg1mumTtNK12WoRKbTWusbykpump",
+    "symbol": "CHILLGIRL",
+    "marketCap": 26509,
+    "liquidity": 12050.02,
+    "volume1h": 21588.97,
+    "volume24h": 21588.97,
+    "candidateScore": 8.7103,
+    "entryPrice": 0.00003450610959641598,
+    "exitPrice": 0.00002658,
+    "peakPrice": 0.00003450610959641598,
+    "profitSOL": -0.160791141,
+    "profitLamports": -160791141,
+    "pnlPct": -22.970162933810524,
+    "peakPnlPct": 0,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1783903005582",
+    "sellTxid": "DRY_RUN_SELL_1783903021296",
+    "sweepTxid": null
+  }
+]

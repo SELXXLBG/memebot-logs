@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1783903005582",
     "sellTxid": "DRY_RUN_SELL_1783903021296",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-13T08:21:39.267Z",
+    "token": "6FCkWr7U5hag4mmZp31u6X7YAFYHMkN6KToErPbBpump",
+    "symbol": "Tater",
+    "marketCap": 34048,
+    "liquidity": 13556.18,
+    "volume1h": 36519.59,
+    "volume24h": 36519.59,
+    "candidateScore": 9.5855,
+    "entryPrice": 0.00003584689833287665,
+    "exitPrice": 0.00003404,
+    "peakPrice": 0.00003584689833287665,
+    "profitSOL": -0.035284192,
+    "profitLamports": -35284192,
+    "pnlPct": -5.0405988158241,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1783930849012",
+    "sellTxid": "DRY_RUN_SELL_1783930899207",
+    "sweepTxid": null
   }
 ]

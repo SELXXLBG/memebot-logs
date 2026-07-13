@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "6FCkWr7U5hag4mmZp31u6X7YAFYHMkN6KToErPbBpump",
+  "symbol": "Tater",
+  "marketCap": 35616,
+  "liquidity": 13864.16,
+  "volume1h": 36519.59,
+  "volume24h": 36519.59,
+  "candidateScore": 9.5855,
+  "entryPrice": 0.00003584689833287665,
+  "entryTime": 1783930849012,
+  "peakPrice": 0.00003584689833287665,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1465685015134",
+  "txid": "DRY_RUN_BUY_1783930849012",
+  "isDryRun": true
+}

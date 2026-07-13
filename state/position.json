@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "3RJ4289jmSUwLKxTtg1mumTtNK12WoRKbTWusbykpump",
-  "symbol": "CHILLGIRL",
-  "marketCap": 33794,
-  "liquidity": 13599.04,
-  "volume1h": 21588.97,
-  "volume24h": 21588.97,
-  "candidateScore": 8.7103,
-  "entryPrice": 0.00003450610959641598,
-  "entryTime": 1783903005582,
-  "peakPrice": 0.00003450610959641598,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1760274703387",
-  "txid": "DRY_RUN_BUY_1783903005582",
-  "isDryRun": true
-}
+{}

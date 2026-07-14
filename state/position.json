@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "EocT8aPVWRgReBBvN4DzdE1HWZEejA7HR3eesuJrpump",
-  "symbol": "UBI",
-  "marketCap": 73261,
-  "liquidity": 27218.75,
-  "volume1h": 57144.95,
-  "volume24h": 78167.14,
-  "candidateScore": 8.2311,
-  "entryPrice": 0.00007381318913114521,
-  "entryTime": 1783988566071,
-  "peakPrice": 0.00007381318913114521,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "707063994077",
-  "txid": "DRY_RUN_BUY_1783988566071",
-  "isDryRun": true
-}
+{}

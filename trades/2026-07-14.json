@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1783988566071",
     "sellTxid": "DRY_RUN_SELL_1783988641496",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-14T05:08:31.337Z",
+    "token": "GQpHYdhc7dV5LH64LPEgKuDLHQf4sohMfTpnyN76pump",
+    "symbol": "Chonke",
+    "marketCap": 54367,
+    "liquidity": 17046.8,
+    "volume1h": 30433.13,
+    "volume24h": 30433.13,
+    "candidateScore": 9.514,
+    "entryPrice": 0.000041415844138835576,
+    "exitPrice": 0.00005436,
+    "peakPrice": 0.00005436,
+    "profitSOL": 0.21877881,
+    "profitLamports": 218778810,
+    "pnlPct": 31.254115738345433,
+    "peakPnlPct": 31.254115738345433,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1784005606013",
+    "sellTxid": "DRY_RUN_SELL_1784005711256",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1784005711330"
   }
 ]

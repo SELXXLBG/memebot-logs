@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-14T00:24:01.689Z",
+    "token": "EocT8aPVWRgReBBvN4DzdE1HWZEejA7HR3eesuJrpump",
+    "symbol": "UBI",
+    "marketCap": 70347,
+    "liquidity": 26672.74,
+    "volume1h": 57144.95,
+    "volume24h": 78167.14,
+    "candidateScore": 8.2311,
+    "entryPrice": 0.00007381318913114521,
+    "exitPrice": 0.00007034,
+    "peakPrice": 0.00007381318913114521,
+    "profitSOL": -0.032937642,
+    "profitLamports": -32937642,
+    "pnlPct": -4.705377415646331,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1783988566071",
+    "sellTxid": "DRY_RUN_SELL_1783988641496",
+    "sweepTxid": null
+  }
+]

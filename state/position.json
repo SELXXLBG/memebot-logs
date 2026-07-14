@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "3nHMt7NCbQNn5YCY9cL8TgpW7FuVuLvDSFkUrE2opump",
+  "symbol": "$PMT",
+  "marketCap": 50017,
+  "liquidity": 16561.74,
+  "volume1h": 2634.34,
+  "volume24h": 17799.39,
+  "candidateScore": 7.0129,
+  "entryPrice": 0.00005120126610011723,
+  "entryTime": 1784057925830,
+  "peakPrice": 0.00005120126610011723,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1041690107055",
+  "txid": "DRY_RUN_BUY_1784057925830",
+  "isDryRun": true
+}

@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "GQpHYdhc7dV5LH64LPEgKuDLHQf4sohMfTpnyN76pump",
-  "symbol": "Chonke",
-  "marketCap": 41147,
-  "liquidity": 14812.99,
-  "volume1h": 30433.13,
-  "volume24h": 30433.13,
-  "candidateScore": 9.514,
-  "entryPrice": 0.000041415844138835576,
-  "entryTime": 1784005606013,
-  "peakPrice": 0.00005436,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1174532088264",
-  "txid": "DRY_RUN_BUY_1784005606013",
-  "isDryRun": true
-}
+{}

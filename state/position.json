@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "BVr3RjxQgt7cebXCEDmKF12TiiA1Y4vjrcjZZx1Ppump",
-  "symbol": "elizubuth",
-  "marketCap": 40466,
-  "liquidity": 14994.98,
-  "volume1h": 54387.49,
-  "volume24h": 54387.49,
-  "candidateScore": 10.0357,
-  "entryPrice": 0.00004074434162379186,
-  "entryTime": 1784094165778,
-  "peakPrice": 0.00004074434162379186,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1250319822183",
-  "txid": "DRY_RUN_BUY_1784094165778",
-  "isDryRun": true
-}
+{}

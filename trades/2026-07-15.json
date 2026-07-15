@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-15T05:43:01.497Z",
+    "token": "BVr3RjxQgt7cebXCEDmKF12TiiA1Y4vjrcjZZx1Ppump",
+    "symbol": "elizubuth",
+    "marketCap": 39028,
+    "liquidity": 14726.14,
+    "volume1h": 54387.49,
+    "volume24h": 54387.49,
+    "candidateScore": 10.0357,
+    "entryPrice": 0.00004074434162379186,
+    "exitPrice": 0.00003902,
+    "peakPrice": 0.00004074434162379186,
+    "profitSOL": -0.029624706,
+    "profitLamports": -29624706,
+    "pnlPct": -4.232100839211894,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1784094165778",
+    "sellTxid": "DRY_RUN_SELL_1784094181357",
+    "sweepTxid": null
+  }
+]

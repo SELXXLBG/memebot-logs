@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1784140845772",
     "sellTxid": "DRY_RUN_SELL_1784140891225",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-15T20:24:01.458Z",
+    "token": "HnFe9TE3XVieo8DVbWCjNSZwn2Bm1M79JeAr5tUCpump",
+    "symbol": "ENGLAND",
+    "marketCap": 78548,
+    "liquidity": 20998.94,
+    "volume1h": 72986.37,
+    "volume24h": 127135.1,
+    "candidateScore": 8.5571,
+    "entryPrice": 0.00007203262950211126,
+    "exitPrice": 0.00007854,
+    "peakPrice": 0.00008391,
+    "profitSOL": 0.063237443,
+    "profitLamports": 63237443,
+    "pnlPct": 9.033920520280342,
+    "peakPnlPct": 16.48887536104817,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1784146965903",
+    "sellTxid": "DRY_RUN_SELL_1784147041364",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1784147041450"
   }
 ]

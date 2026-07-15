@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "4LjLUvg56sBrzstX6Cw9YYr3k31PdZGQg5u2mCM4pump",
+  "symbol": "BULLDOG",
+  "marketCap": 77880,
+  "liquidity": 20779.72,
+  "volume1h": 35535.97,
+  "volume24h": 53779.29,
+  "candidateScore": 7.3146,
+  "entryPrice": 0.00007916350483250906,
+  "entryTime": 1784140845772,
+  "peakPrice": 0.00007916350483250906,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "695735493174",
+  "txid": "DRY_RUN_BUY_1784140845772",
+  "isDryRun": true
+}

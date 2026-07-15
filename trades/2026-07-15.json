@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1784094165778",
     "sellTxid": "DRY_RUN_SELL_1784094181357",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-15T18:41:31.276Z",
+    "token": "4LjLUvg56sBrzstX6Cw9YYr3k31PdZGQg5u2mCM4pump",
+    "symbol": "BULLDOG",
+    "marketCap": 76557,
+    "liquidity": 20595.56,
+    "volume1h": 35535.97,
+    "volume24h": 53779.29,
+    "candidateScore": 7.3146,
+    "entryPrice": 0.00007916350483250906,
+    "exitPrice": 0.00007655,
+    "peakPrice": 0.00007916350483250906,
+    "profitSOL": -0.023109808,
+    "profitLamports": -23109808,
+    "pnlPct": -3.301401116636519,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1784140845772",
+    "sellTxid": "DRY_RUN_SELL_1784140891225",
+    "sweepTxid": null
   }
 ]

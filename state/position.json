@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "3YudidgEnPyMekuUCDEUf79MPqce8FHWF4ZSBV64pump",
-  "symbol": "CASHBULL",
-  "marketCap": 85832,
-  "liquidity": 21632.77,
-  "volume1h": 73906.66,
-  "volume24h": 109443,
-  "candidateScore": 6.8479,
-  "entryPrice": 0.00008658935922874016,
-  "entryTime": 1784228325660,
-  "peakPrice": 0.00008658935922874016,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "581991446072",
-  "txid": "DRY_RUN_BUY_1784228325660",
-  "isDryRun": true
-}
+{}

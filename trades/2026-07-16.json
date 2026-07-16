@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1784227605879",
     "sellTxid": "DRY_RUN_SELL_1784227891280",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1784227891325"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-16T19:00:01.620Z",
+    "token": "3YudidgEnPyMekuUCDEUf79MPqce8FHWF4ZSBV64pump",
+    "symbol": "CASHBULL",
+    "marketCap": 80133,
+    "liquidity": 20911.08,
+    "volume1h": 73906.66,
+    "volume24h": 109443,
+    "candidateScore": 6.8479,
+    "entryPrice": 0.00008658935922874016,
+    "exitPrice": 0.00008013,
+    "peakPrice": 0.00008658935922874016,
+    "profitSOL": -0.052218327,
+    "profitLamports": -52218327,
+    "pnlPct": -7.459760975568253,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1784228325660",
+    "sellTxid": "DRY_RUN_SELL_1784228401425",
+    "sweepTxid": null
   }
 ]

@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-16T18:43:01.393Z",
+    "token": "3YudidgEnPyMekuUCDEUf79MPqce8FHWF4ZSBV64pump",
+    "symbol": "CASHBULL",
+    "marketCap": 79679,
+    "liquidity": 20745.94,
+    "volume1h": 42975.17,
+    "volume24h": 74838.39,
+    "candidateScore": 7.0198,
+    "entryPrice": 0.00008283728192432459,
+    "exitPrice": 0.00007967,
+    "peakPrice": 0.00008283728192432459,
+    "profitSOL": -0.026764487,
+    "profitLamports": -26764487,
+    "pnlPct": -3.823498128799104,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1784227365728",
+    "sellTxid": "DRY_RUN_SELL_1784227381299",
+    "sweepTxid": null
+  }
+]

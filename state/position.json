@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "BT7mKnmCoVYbrFveDX6W7zaaH8mS3ZPNfduBMr9rpump",
+  "symbol": "CEICAT",
+  "marketCap": 39136,
+  "liquidity": 14405.8,
+  "volume1h": 20386.85,
+  "volume24h": 20386.85,
+  "candidateScore": 9.6736,
+  "entryPrice": 0.000039396248077952935,
+  "entryTime": 1784318673895,
+  "peakPrice": 0.000039396248077952935,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1370845523711",
+  "txid": "DRY_RUN_BUY_1784318673895",
+  "isDryRun": true
+}

@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "HzEfdBMfQaV74JSjoVsDEKJyQ1ALbkg2XDQwhsLMpump",
+  "symbol": "MEMETARDS",
+  "marketCap": 44453,
+  "liquidity": 15477.93,
+  "volume1h": 65686.22,
+  "volume24h": 65686.22,
+  "candidateScore": 10.5367,
+  "entryPrice": 0.000045105708516588284,
+  "entryTime": 1784251365652,
+  "peakPrice": 0.000045105708516588284,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1105487922004",
+  "txid": "DRY_RUN_BUY_1784251365652",
+  "isDryRun": true
+}

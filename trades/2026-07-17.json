@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1784251365652",
     "sellTxid": "DRY_RUN_SELL_1784251381609",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-17T20:05:01.481Z",
+    "token": "BT7mKnmCoVYbrFveDX6W7zaaH8mS3ZPNfduBMr9rpump",
+    "symbol": "CEICAT",
+    "marketCap": 37999,
+    "liquidity": 14195.53,
+    "volume1h": 20386.85,
+    "volume24h": 20386.85,
+    "candidateScore": 9.6736,
+    "entryPrice": 0.000039396248077952935,
+    "exitPrice": 0.00003799,
+    "peakPrice": 0.000039396248077952935,
+    "profitSOL": -0.024986483,
+    "profitLamports": -24986483,
+    "pnlPct": -3.5694974688209062,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1784318673895",
+    "sellTxid": "DRY_RUN_SELL_1784318701368",
+    "sweepTxid": null
   }
 ]

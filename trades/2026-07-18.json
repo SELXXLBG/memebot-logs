@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-18T02:29:31.267Z",
+    "token": "12kNKGQDKZgx38FUvGA49eVhs1zCbUShWaz825cXpump",
+    "symbol": "RIF",
+    "marketCap": 29445,
+    "liquidity": 12576.44,
+    "volume1h": 52265.93,
+    "volume24h": 52265.93,
+    "candidateScore": 9.9625,
+    "entryPrice": 0.00003703484798883266,
+    "exitPrice": 0.00002944,
+    "peakPrice": 0.00003743,
+    "profitSOL": -0.143551112,
+    "profitLamports": -143551112,
+    "pnlPct": -20.507301639587617,
+    "peakPnlPct": 1.0669734928748469,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1784341713936",
+    "sellTxid": "DRY_RUN_SELL_1784341771211",
+    "sweepTxid": null
+  }
+]

@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1784351433526",
     "sellTxid": "DRY_RUN_SELL_1784351611211",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-18T05:53:01.489Z",
+    "token": "3ME1VBnWV6qdCSrKNndCqteS6LHRoM4nFcV99AeHpump",
+    "symbol": "Pedro",
+    "marketCap": 77311,
+    "liquidity": 20744.52,
+    "volume1h": 57792.2,
+    "volume24h": 269995.97,
+    "candidateScore": 7.4981,
+    "entryPrice": 0.00007975759135464051,
+    "exitPrice": 0.00007731,
+    "peakPrice": 0.00007975759135464051,
+    "profitSOL": -0.021481516,
+    "profitLamports": -21481516,
+    "pnlPct": -3.068787952431188,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1784353953563",
+    "sellTxid": "DRY_RUN_SELL_1784353981411",
+    "sweepTxid": null
   }
 ]

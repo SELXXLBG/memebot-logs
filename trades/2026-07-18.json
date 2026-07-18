@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1784346873875",
     "sellTxid": "DRY_RUN_SELL_1784346901592",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-18T05:07:01.651Z",
+    "token": "3Pw7CimsCCgWivMQTrTtoTmY76DKsJv7JE4XrApvjcvZ",
+    "symbol": "URKL",
+    "marketCap": 43476,
+    "liquidity": 15297.35,
+    "volume1h": 6843.11,
+    "volume24h": 69815.16,
+    "candidateScore": 6.6197,
+    "entryPrice": 0.00004539485536288568,
+    "exitPrice": 0.00004347,
+    "peakPrice": 0.00004539485536288568,
+    "profitSOL": -0.029681751,
+    "profitLamports": -29681751,
+    "pnlPct": -4.2402500184182,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1784351193672",
+    "sellTxid": "DRY_RUN_SELL_1784351221549",
+    "sweepTxid": null
   }
 ]

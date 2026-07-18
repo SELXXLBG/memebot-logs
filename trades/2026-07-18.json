@@ -130,5 +130,27 @@
     "buyTxid": "DRY_RUN_BUY_1784353953563",
     "sellTxid": "DRY_RUN_SELL_1784353981411",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-18T18:27:31.419Z",
+    "token": "3C65gdJAknCK9anyp3thqPt8p1xnTbnynhGk8wM3pump",
+    "symbol": "ASMR",
+    "marketCap": 41619,
+    "liquidity": 15024.64,
+    "volume1h": 43413.68,
+    "volume24h": 43413.68,
+    "candidateScore": 9.6764,
+    "entryPrice": 0.000033261406426199694,
+    "exitPrice": 0.00004212,
+    "peakPrice": 0.00004212,
+    "profitSOL": 0.18643275,
+    "profitLamports": 186432750,
+    "pnlPct": 26.633250140687014,
+    "peakPnlPct": 26.633250140687014,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1784399193709",
+    "sellTxid": "DRY_RUN_SELL_1784399251361",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1784399251413"
   }
 ]

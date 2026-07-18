@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "3C65gdJAknCK9anyp3thqPt8p1xnTbnynhGk8wM3pump",
-  "symbol": "ASMR",
-  "marketCap": 32700,
-  "liquidity": 13314.22,
-  "volume1h": 43413.68,
-  "volume24h": 43413.68,
-  "candidateScore": 9.6764,
-  "entryPrice": 0.000033261406426199694,
-  "entryTime": 1784399193709,
-  "peakPrice": 0.00004212,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1335609012630",
-  "txid": "DRY_RUN_BUY_1784399193709",
-  "isDryRun": true
-}
+{}

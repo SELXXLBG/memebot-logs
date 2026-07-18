@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "3Pw7CimsCCgWivMQTrTtoTmY76DKsJv7JE4XrApvjcvZ",
-  "symbol": "URKL",
-  "marketCap": 44587,
-  "liquidity": 15487.11,
-  "volume1h": 6843.11,
-  "volume24h": 69815.16,
-  "candidateScore": 6.6197,
-  "entryPrice": 0.00004539485536288568,
-  "entryTime": 1784351193672,
-  "peakPrice": 0.00004539485536288568,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1158051259148",
-  "txid": "DRY_RUN_BUY_1784351193672",
-  "isDryRun": true
-}
+{}

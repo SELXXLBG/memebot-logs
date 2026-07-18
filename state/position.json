@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "3ME1VBnWV6qdCSrKNndCqteS6LHRoM4nFcV99AeHpump",
-  "symbol": "Pedro",
-  "marketCap": 40043,
-  "liquidity": 14610.35,
-  "volume1h": 46213.73,
-  "volume24h": 46213.73,
-  "candidateScore": 9.2284,
-  "entryPrice": 0.000040305295399829626,
-  "entryTime": 1784346753879,
-  "peakPrice": 0.000040305295399829626,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1292551287334",
-  "txid": "DRY_RUN_BUY_1784346753879",
-  "isDryRun": true
-}
+{}

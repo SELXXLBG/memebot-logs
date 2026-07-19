@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-19T03:55:31.287Z",
+    "token": "CzBAZbiiZ2WJ1jPapCmHpsYzBgu5VnAa3LaR1As4pump",
+    "symbol": "Mouse",
+    "marketCap": 79181,
+    "liquidity": 21350.26,
+    "volume1h": 35032.67,
+    "volume24h": 373919.77,
+    "candidateScore": 7.0774,
+    "entryPrice": 0.00008610378715978138,
+    "exitPrice": 0.00007918,
+    "peakPrice": 0.00008610378715978138,
+    "profitSOL": -0.056288477,
+    "profitLamports": -56288477,
+    "pnlPct": -8.041210948053916,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1784433274032",
+    "sellTxid": "DRY_RUN_SELL_1784433331226",
+    "sweepTxid": null
+  }
+]

@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1784433274032",
     "sellTxid": "DRY_RUN_SELL_1784433331226",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-19T09:05:31.252Z",
+    "token": "9xsf7j9dYvijL8NoXFwP7Zyi2eT4xsFwFDMM8b5cpump",
+    "symbol": "dih",
+    "marketCap": 35090,
+    "liquidity": 13814.81,
+    "volume1h": 62213.53,
+    "volume24h": 62213.53,
+    "candidateScore": 10.2308,
+    "entryPrice": 0.00003952399292467849,
+    "exitPrice": 0.00003509,
+    "peakPrice": 0.00003995,
+    "profitSOL": -0.07852939,
+    "profitLamports": -78529390,
+    "pnlPct": -11.218484258734742,
+    "peakPnlPct": 1.0778442252364628,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1784451873942",
+    "sellTxid": "DRY_RUN_SELL_1784451931193",
+    "sweepTxid": null
   }
 ]

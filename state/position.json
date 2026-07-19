@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "CzBAZbiiZ2WJ1jPapCmHpsYzBgu5VnAa3LaR1As4pump",
+  "symbol": "Mouse",
+  "marketCap": 85302,
+  "liquidity": 22151.81,
+  "volume1h": 35032.67,
+  "volume24h": 373919.77,
+  "candidateScore": 7.0774,
+  "entryPrice": 0.00008610378715978138,
+  "entryTime": 1784433274032,
+  "peakPrice": 0.00008610378715978138,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "705517931278",
+  "txid": "DRY_RUN_BUY_1784433274032",
+  "isDryRun": true
+}

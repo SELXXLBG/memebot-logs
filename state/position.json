@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "9xsf7j9dYvijL8NoXFwP7Zyi2eT4xsFwFDMM8b5cpump",
+  "symbol": "dih",
+  "marketCap": 39285,
+  "liquidity": 14613.95,
+  "volume1h": 62213.53,
+  "volume24h": 62213.53,
+  "candidateScore": 10.2308,
+  "entryPrice": 0.00003952399292467849,
+  "entryTime": 1784451873942,
+  "peakPrice": 0.00003952399292467849,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1307420900942",
+  "txid": "DRY_RUN_BUY_1784451873942",
+  "isDryRun": true
+}

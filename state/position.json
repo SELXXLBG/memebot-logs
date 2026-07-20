@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "3uZdHj8eG6bAXh79oZss5QwkkZxoWcErU55RfXSxpump",
-  "symbol": "eeepy",
-  "marketCap": 84789,
-  "liquidity": 22466.46,
-  "volume1h": 44824.97,
-  "volume24h": 432204.65,
-  "candidateScore": 6.2171,
-  "entryPrice": 0.00008574142469862894,
-  "entryTime": 1784572593853,
-  "peakPrice": 0.00009002,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "633191897029",
-  "txid": "DRY_RUN_BUY_1784572593853",
-  "isDryRun": true
-}
+{}

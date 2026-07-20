@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "BKaQMii3rcvyizsKbsV3LMAuV9VJhyLdYwPGjP6fpump",
+  "symbol": "FOXCAT",
+  "marketCap": 42373,
+  "liquidity": 15254.04,
+  "volume1h": 27142.45,
+  "volume24h": 27142.45,
+  "candidateScore": 10.0391,
+  "entryPrice": 0.00004283050789538232,
+  "entryTime": 1784567913883,
+  "peakPrice": 0.00004283050789538232,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1316603103383",
+  "txid": "DRY_RUN_BUY_1784567913883",
+  "isDryRun": true
+}

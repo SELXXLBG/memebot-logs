@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "4rABHLfm7BDkkjrkyPYtRadg2BZTEZVoEy3MzrFQpump",
+  "symbol": "WHALE",
+  "marketCap": 36021,
+  "liquidity": 13932.63,
+  "volume1h": 25373.14,
+  "volume24h": 25373.14,
+  "candidateScore": 9.2865,
+  "entryPrice": 0.0000363461103618914,
+  "entryTime": 1784557834088,
+  "peakPrice": 0.0000363461103618914,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1546759353219",
+  "txid": "DRY_RUN_BUY_1784557834088",
+  "isDryRun": true
+}

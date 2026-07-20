@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1784557834088",
     "sellTxid": "DRY_RUN_SELL_1784557861977",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-20T17:19:31.480Z",
+    "token": "BKaQMii3rcvyizsKbsV3LMAuV9VJhyLdYwPGjP6fpump",
+    "symbol": "FOXCAT",
+    "marketCap": 39362,
+    "liquidity": 14702.8,
+    "volume1h": 27142.45,
+    "volume24h": 27142.45,
+    "candidateScore": 10.0391,
+    "entryPrice": 0.00004283050789538232,
+    "exitPrice": 0.00003936,
+    "peakPrice": 0.00004283050789538232,
+    "profitSOL": -0.056720213,
+    "profitLamports": -56720213,
+    "pnlPct": -8.102887558231558,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1784567913883",
+    "sellTxid": "DRY_RUN_SELL_1784567971412",
+    "sweepTxid": null
   }
 ]

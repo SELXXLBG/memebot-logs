@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "8D9ncyi7Jd8ozajg4aewiDMaPR42czdZCSMf5nWDeBZW",
+  "symbol": "INVESTOORS",
+  "marketCap": 35101,
+  "liquidity": 13859.28,
+  "volume1h": 38682.1,
+  "volume24h": 38682.1,
+  "candidateScore": 10.0753,
+  "entryPrice": 0.000035379627090102855,
+  "entryTime": 1784568155517,
+  "peakPrice": 0.000035379627090102855,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1604833200766",
+  "txid": "DRY_RUN_BUY_1784568155517",
+  "isDryRun": true
+}

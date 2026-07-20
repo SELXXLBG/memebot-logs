@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1784567913883",
     "sellTxid": "DRY_RUN_SELL_1784567971412",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-20T17:23:31.608Z",
+    "token": "8D9ncyi7Jd8ozajg4aewiDMaPR42czdZCSMf5nWDeBZW",
+    "symbol": "INVESTOORS",
+    "marketCap": 42417,
+    "liquidity": 15252.79,
+    "volume1h": 38682.1,
+    "volume24h": 38682.1,
+    "candidateScore": 10.0753,
+    "entryPrice": 0.000035379627090102855,
+    "exitPrice": 0.00004246,
+    "peakPrice": 0.00004246,
+    "profitSOL": 0.140087995,
+    "profitLamports": 140087995,
+    "pnlPct": 20.0125707709277,
+    "peakPnlPct": 20.0125707709277,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1784568155517",
+    "sellTxid": "DRY_RUN_SELL_1784568211549",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1784568211597"
   }
 ]

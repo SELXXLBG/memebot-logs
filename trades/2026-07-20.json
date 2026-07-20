@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1784568155517",
     "sellTxid": "DRY_RUN_SELL_1784568211549",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1784568211597"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-20T18:39:31.364Z",
+    "token": "3uZdHj8eG6bAXh79oZss5QwkkZxoWcErU55RfXSxpump",
+    "symbol": "eeepy",
+    "marketCap": 83101,
+    "liquidity": 22242.17,
+    "volume1h": 44824.97,
+    "volume24h": 432204.65,
+    "candidateScore": 6.2171,
+    "entryPrice": 0.00008574142469862894,
+    "exitPrice": 0.0000831,
+    "peakPrice": 0.00009002,
+    "profitSOL": -0.021564808,
+    "profitLamports": -21564808,
+    "pnlPct": -3.080686736794078,
+    "peakPnlPct": 4.990091214847131,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1784572593853",
+    "sellTxid": "DRY_RUN_SELL_1784572771313",
+    "sweepTxid": null
   }
 ]

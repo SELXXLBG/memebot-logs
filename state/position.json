@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "5M9bFfdqwGxXNMEMBgPsr8dyr7n9KzJxgMHQ91eGpump",
+  "symbol": "SANCHEZ",
+  "marketCap": 47233,
+  "liquidity": 14800.48,
+  "volume1h": 30386.5,
+  "volume24h": 30386.5,
+  "candidateScore": 8.5904,
+  "entryPrice": 0.000048156230192585714,
+  "entryTime": 1784653353933,
+  "peakPrice": 0.000048156230192585714,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1125804534771",
+  "txid": "DRY_RUN_BUY_1784653353933",
+  "isDryRun": true
+}

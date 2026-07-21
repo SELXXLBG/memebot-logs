@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-21T17:08:31.440Z",
+    "token": "5M9bFfdqwGxXNMEMBgPsr8dyr7n9KzJxgMHQ91eGpump",
+    "symbol": "SANCHEZ",
+    "marketCap": 46530,
+    "liquidity": 14675.68,
+    "volume1h": 30386.5,
+    "volume24h": 30386.5,
+    "candidateScore": 8.5904,
+    "entryPrice": 0.000048156230192585714,
+    "exitPrice": 0.00004653,
+    "peakPrice": 0.00005042,
+    "profitSOL": -0.023638918,
+    "profitLamports": -23638918,
+    "pnlPct": -3.3769881614115573,
+    "peakPnlPct": 4.700886673149148,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1784653353933",
+    "sellTxid": "DRY_RUN_SELL_1784653711385",
+    "sweepTxid": null
+  }
+]

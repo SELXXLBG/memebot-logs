@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "CH7HjcS67VPXVcwRKrro6icR4QzDD8W75NjNzD1pump",
-  "symbol": "Crystal",
-  "marketCap": 43061,
-  "liquidity": 14439.88,
-  "volume1h": 16667.88,
-  "volume24h": 36556.57,
-  "candidateScore": 7.656,
-  "entryPrice": 0.00004581514829135912,
-  "entryTime": 1784662233918,
-  "peakPrice": 0.00004644,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1155025748976",
-  "txid": "DRY_RUN_BUY_1784662233918",
-  "isDryRun": true
-}
+{}

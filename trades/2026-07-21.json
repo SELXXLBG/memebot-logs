@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1784653353933",
     "sellTxid": "DRY_RUN_SELL_1784653711385",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-21T19:32:01.653Z",
+    "token": "CH7HjcS67VPXVcwRKrro6icR4QzDD8W75NjNzD1pump",
+    "symbol": "Crystal",
+    "marketCap": 41722,
+    "liquidity": 14192.37,
+    "volume1h": 16667.88,
+    "volume24h": 36556.57,
+    "candidateScore": 7.656,
+    "entryPrice": 0.00004581514829135912,
+    "exitPrice": 0.00004396,
+    "peakPrice": 0.00004644,
+    "profitSOL": -0.02834442,
+    "profitLamports": -28344420,
+    "pnlPct": -4.049202852212544,
+    "peakPnlPct": 1.3638539477536344,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1784662233918",
+    "sellTxid": "DRY_RUN_SELL_1784662321424",
+    "sweepTxid": null
   }
 ]

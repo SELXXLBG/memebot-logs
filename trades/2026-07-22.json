@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1784717433854",
     "sellTxid": "DRY_RUN_SELL_1784717461383",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-22T10:53:01.843Z",
+    "token": "CPYdtkP4BBFXgFMPDuWRPjPVThiMYX5uJSSdTBkppump",
+    "symbol": "Rebecca",
+    "marketCap": 30767,
+    "liquidity": 11643.25,
+    "volume1h": 15417.25,
+    "volume24h": 15417.25,
+    "candidateScore": 8.1422,
+    "entryPrice": 0.000034225356907790775,
+    "exitPrice": 0.00003095,
+    "peakPrice": 0.000034225356907790775,
+    "profitSOL": -0.066989801,
+    "profitLamports": -66989801,
+    "pnlPct": -9.569971517361154,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1784717553898",
+    "sellTxid": "DRY_RUN_SELL_1784717581649",
+    "sweepTxid": null
   }
 ]

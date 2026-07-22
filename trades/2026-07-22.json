@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-22T00:18:01.487Z",
+    "token": "7LxAGkCSxftYVZnqai7bPfY2diVKep2sF3NaXc1Ppump",
+    "symbol": "JIMOTHIUS",
+    "marketCap": 32773,
+    "liquidity": 12067.91,
+    "volume1h": 4506.73,
+    "volume24h": 4506.73,
+    "candidateScore": 7.9774,
+    "entryPrice": 0.000033887670764111344,
+    "exitPrice": 0.00003278,
+    "peakPrice": 0.000033887670764111344,
+    "profitSOL": -0.02288058,
+    "profitLamports": -22880580,
+    "pnlPct": -3.2686541716653457,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1784679393797",
+    "sellTxid": "DRY_RUN_SELL_1784679481374",
+    "sweepTxid": null
+  }
+]

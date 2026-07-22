@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1784679393797",
     "sellTxid": "DRY_RUN_SELL_1784679481374",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-22T01:07:31.392Z",
+    "token": "9tGLRvTTmm4MHCGUaULjpQbHFLg6JPLyqTz4k64Cpump",
+    "symbol": "ROKO",
+    "marketCap": 85254,
+    "liquidity": 21957.96,
+    "volume1h": 71648.58,
+    "volume24h": 488921.16,
+    "candidateScore": 6.9485,
+    "entryPrice": 0.00008990256164724279,
+    "exitPrice": 0.0000904,
+    "peakPrice": 0.0001014,
+    "profitSOL": 0.003873158,
+    "profitLamports": 3873158,
+    "pnlPct": 0.5533083191878894,
+    "peakPnlPct": 12.788777251832428,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1784682273706",
+    "sellTxid": "DRY_RUN_SELL_1784682451338",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1784682451386"
   }
 ]

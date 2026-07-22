@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "HJjyn79CiJYd7vqGdmVs8TDZfGydbkC9mRNvvohspump",
+  "symbol": "Cheeks",
+  "marketCap": 45153,
+  "liquidity": 14431.79,
+  "volume1h": 33540.49,
+  "volume24h": 33540.49,
+  "candidateScore": 9.8359,
+  "entryPrice": 0.00004588454822412446,
+  "entryTime": 1784690794172,
+  "peakPrice": 0.00004588454822412446,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1538547515571",
+  "txid": "DRY_RUN_BUY_1784690794172",
+  "isDryRun": true
+}

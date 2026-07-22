@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "9tGLRvTTmm4MHCGUaULjpQbHFLg6JPLyqTz4k64Cpump",
-  "symbol": "ROKO",
-  "marketCap": 83322,
-  "liquidity": 21684.98,
-  "volume1h": 71648.58,
-  "volume24h": 488921.16,
-  "candidateScore": 6.9485,
-  "entryPrice": 0.00008990256164724279,
-  "entryTime": 1784682273706,
-  "peakPrice": 0.0001014,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "560386756528",
-  "txid": "DRY_RUN_BUY_1784682273706",
-  "isDryRun": true
-}
+{}

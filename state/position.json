@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "91FxRstahfMMf1SyDK7ehbF6qLj6gqMSMEq88A6Cpump",
-  "symbol": "Piss",
-  "marketCap": 25952,
-  "liquidity": 11255.18,
-  "volume1h": 18564.82,
-  "volume24h": 431326.72,
-  "candidateScore": 5.624,
-  "entryPrice": 0.000027173842048807155,
-  "entryTime": 1784732073987,
-  "peakPrice": 0.000027173842048807155,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "2050678185616",
-  "txid": "DRY_RUN_BUY_1784732073987",
-  "isDryRun": true
-}
+{}

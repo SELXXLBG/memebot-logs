@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "CPYdtkP4BBFXgFMPDuWRPjPVThiMYX5uJSSdTBkppump",
-  "symbol": "Rebecca",
-  "marketCap": 33207,
-  "liquidity": 12147.64,
-  "volume1h": 14046.99,
-  "volume24h": 14046.99,
-  "candidateScore": 7.5598,
-  "entryPrice": 0.00003385758479919838,
-  "entryTime": 1784717433854,
-  "peakPrice": 0.00003385758479919838,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1662831741060",
-  "txid": "DRY_RUN_BUY_1784717433854",
-  "isDryRun": true
-}
+{}

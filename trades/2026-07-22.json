@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1784682273706",
     "sellTxid": "DRY_RUN_SELL_1784682451338",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1784682451386"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-22T03:27:01.411Z",
+    "token": "HJjyn79CiJYd7vqGdmVs8TDZfGydbkC9mRNvvohspump",
+    "symbol": "Cheeks",
+    "marketCap": 35654,
+    "liquidity": 12679.31,
+    "volume1h": 33540.49,
+    "volume24h": 33540.49,
+    "candidateScore": 9.8359,
+    "entryPrice": 0.00004588454822412446,
+    "exitPrice": 0.00003565,
+    "peakPrice": 0.00004588454822412446,
+    "profitSOL": -0.156134997,
+    "profitLamports": -156134997,
+    "pnlPct": -22.30499943931779,
+    "peakPnlPct": 0,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1784690794172",
+    "sellTxid": "DRY_RUN_SELL_1784690821329",
+    "sweepTxid": null
   }
 ]

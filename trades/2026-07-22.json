@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1784717553898",
     "sellTxid": "DRY_RUN_SELL_1784717581649",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-22T11:46:01.480Z",
+    "token": "3rj59CcavzZ3i1AKf5yW3b4s9UCobvQdfgSrtgxapump",
+    "symbol": "HF",
+    "marketCap": 34142,
+    "liquidity": 12293.51,
+    "volume1h": 46259.13,
+    "volume24h": 46259.13,
+    "candidateScore": 8.8481,
+    "entryPrice": 0.000032869876084684534,
+    "exitPrice": 0.00003414,
+    "peakPrice": 0.00003603,
+    "profitSOL": 0.027048679,
+    "profitLamports": 27048679,
+    "pnlPct": 3.864097059700423,
+    "peakPnlPct": 9.614042678998416,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1784720313634",
+    "sellTxid": "DRY_RUN_SELL_1784720761324",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1784720761461"
   }
 ]

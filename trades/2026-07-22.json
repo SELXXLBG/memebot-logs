@@ -130,5 +130,27 @@
     "buyTxid": "DRY_RUN_BUY_1784720313634",
     "sellTxid": "DRY_RUN_SELL_1784720761324",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1784720761461"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-22T14:55:01.663Z",
+    "token": "91FxRstahfMMf1SyDK7ehbF6qLj6gqMSMEq88A6Cpump",
+    "symbol": "Piss",
+    "marketCap": 25200,
+    "liquidity": 11068.85,
+    "volume1h": 18564.82,
+    "volume24h": 431326.72,
+    "candidateScore": 5.624,
+    "entryPrice": 0.000027173842048807155,
+    "exitPrice": 0.00002596,
+    "peakPrice": 0.000027173842048807155,
+    "profitSOL": -0.031268653,
+    "profitLamports": -31268653,
+    "pnlPct": -4.466950409982384,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1784732073987",
+    "sellTxid": "DRY_RUN_SELL_1784732101558",
+    "sweepTxid": null
   }
 ]

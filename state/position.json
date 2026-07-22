@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "7LxAGkCSxftYVZnqai7bPfY2diVKep2sF3NaXc1Ppump",
+  "symbol": "JIMOTHIUS",
+  "marketCap": 33301,
+  "liquidity": 12174.56,
+  "volume1h": 4506.73,
+  "volume24h": 4506.73,
+  "candidateScore": 7.9774,
+  "entryPrice": 0.000033887670764111344,
+  "entryTime": 1784679393797,
+  "peakPrice": 0.000033887670764111344,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1647363184852",
+  "txid": "DRY_RUN_BUY_1784679393797",
+  "isDryRun": true
+}

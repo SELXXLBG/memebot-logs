@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-23T12:22:01.736Z",
+    "token": "6ctwkKWsuB2VQmvAQXsRAJHQrhunQCDSatAVigWWpump",
+    "symbol": "ROP",
+    "marketCap": 46663,
+    "liquidity": 14632.58,
+    "volume1h": 17678.56,
+    "volume24h": 17678.56,
+    "candidateScore": 9.305,
+    "entryPrice": 0.000043289253773414275,
+    "exitPrice": 0.00004666,
+    "peakPrice": 0.0000492,
+    "profitSOL": 0.05450596,
+    "profitLamports": 54505960,
+    "pnlPct": 7.786565793508404,
+    "peakPnlPct": 13.654072804128036,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1784809113758",
+    "sellTxid": "DRY_RUN_SELL_1784809321641",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1784809321725"
+  }
+]

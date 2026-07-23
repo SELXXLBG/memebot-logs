@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1784809113758",
     "sellTxid": "DRY_RUN_SELL_1784809321641",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1784809321725"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-23T12:42:01.482Z",
+    "token": "6ctwkKWsuB2VQmvAQXsRAJHQrhunQCDSatAVigWWpump",
+    "symbol": "ROP",
+    "marketCap": 48527,
+    "liquidity": 14925.5,
+    "volume1h": 31005.29,
+    "volume24h": 31005.29,
+    "candidateScore": 8.4381,
+    "entryPrice": 0.000048998264507056876,
+    "exitPrice": 0.00004852,
+    "peakPrice": 0.00005313,
+    "profitSOL": -0.006832593,
+    "profitLamports": -6832593,
+    "pnlPct": -0.9760845855836228,
+    "peakPnlPct": 8.432411911952636,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1784810313558",
+    "sellTxid": "DRY_RUN_SELL_1784810521403",
+    "sweepTxid": null
   }
 ]

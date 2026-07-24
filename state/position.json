@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "5J556RgqipxLMNAjt2heqLx4ftoynXVbNHcgYWHJpump",
-  "symbol": "Anijak",
-  "marketCap": 54366,
-  "liquidity": 16678.55,
-  "volume1h": 21182.35,
-  "volume24h": 470637.79,
-  "candidateScore": 6.4351,
-  "entryPrice": 0.00005659426897162346,
-  "entryTime": 1784926953794,
-  "peakPrice": 0.00007473,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "891972755845",
-  "txid": "DRY_RUN_BUY_1784926953794",
-  "isDryRun": true
-}
+{}

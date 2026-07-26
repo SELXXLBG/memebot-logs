@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "QZTrsan8hPuVtioQJyMAbzuRWjmYM3WCScPGe7ipump",
+  "symbol": "spidercat",
+  "marketCap": 38157,
+  "liquidity": 12913.07,
+  "volume1h": 30490.8,
+  "volume24h": 30490.8,
+  "candidateScore": 9.7602,
+  "entryPrice": 0.000038759333485393725,
+  "entryTime": 1785078514027,
+  "peakPrice": 0.000038759333485393725,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1348745763217",
+  "txid": "DRY_RUN_BUY_1785078514027",
+  "isDryRun": true
+}

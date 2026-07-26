@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1785072274010",
     "sellTxid": "DRY_RUN_SELL_1785072331275",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-26T15:09:01.889Z",
+    "token": "QZTrsan8hPuVtioQJyMAbzuRWjmYM3WCScPGe7ipump",
+    "symbol": "spidercat",
+    "marketCap": 34406,
+    "liquidity": 12194.19,
+    "volume1h": 30490.8,
+    "volume24h": 30490.8,
+    "candidateScore": 9.7602,
+    "entryPrice": 0.000038759333485393725,
+    "exitPrice": 0.0000344,
+    "peakPrice": 0.000038759333485393725,
+    "profitSOL": -0.078730287,
+    "profitLamports": -78730287,
+    "pnlPct": -11.247183822282487,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1785078514027",
+    "sellTxid": "DRY_RUN_SELL_1785078541636",
+    "sweepTxid": null
   }
 ]

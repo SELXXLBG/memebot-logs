@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "Eg6GnjsmJDXe1x9pqamzH5bckrBCR2NdDZQ2EG7ppump",
+  "symbol": "Macca",
+  "marketCap": 44930,
+  "liquidity": 14198.76,
+  "volume1h": 68536.73,
+  "volume24h": 68536.73,
+  "candidateScore": 10.4802,
+  "entryPrice": 0.00004548873111396262,
+  "entryTime": 1785072274010,
+  "peakPrice": 0.00004548873111396262,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1086306316867",
+  "txid": "DRY_RUN_BUY_1785072274010",
+  "isDryRun": true
+}

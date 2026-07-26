@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-26T13:25:31.340Z",
+    "token": "Eg6GnjsmJDXe1x9pqamzH5bckrBCR2NdDZQ2EG7ppump",
+    "symbol": "Macca",
+    "marketCap": 42010,
+    "liquidity": 13688.74,
+    "volume1h": 68536.73,
+    "volume24h": 68536.73,
+    "candidateScore": 10.4802,
+    "entryPrice": 0.00004548873111396262,
+    "exitPrice": 0.00004201,
+    "peakPrice": 0.00004548873111396262,
+    "profitSOL": -0.053532199,
+    "profitLamports": -53532199,
+    "pnlPct": -7.647456916851294,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1785072274010",
+    "sellTxid": "DRY_RUN_SELL_1785072331275",
+    "sweepTxid": null
+  }
+]

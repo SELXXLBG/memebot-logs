@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1785249154089",
     "sellTxid": "DRY_RUN_SELL_1785249241492",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1785249241642"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-28T22:27:01.550Z",
+    "token": "9TPJShvKmyB9Jm1ozuYNh2qGQD6sdXm5c9uHFa8apump",
+    "symbol": "29CLUB",
+    "marketCap": 73947,
+    "liquidity": 18767.01,
+    "volume1h": 4408.98,
+    "volume24h": 16470.38,
+    "candidateScore": 6.0449,
+    "entryPrice": 0.00008724774025713863,
+    "exitPrice": 0.00007707,
+    "peakPrice": 0.00008724774025713863,
+    "profitSOL": -0.081657338,
+    "profitLamports": -81657338,
+    "pnlPct": -11.665333941191532,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1785277594014",
+    "sellTxid": "DRY_RUN_SELL_1785277621440",
+    "sweepTxid": null
   }
 ]

@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "9TPJShvKmyB9Jm1ozuYNh2qGQD6sdXm5c9uHFa8apump",
-  "symbol": "29CLUB",
-  "marketCap": 82891,
-  "liquidity": 19944.59,
-  "volume1h": 4408.98,
-  "volume24h": 16470.38,
-  "candidateScore": 6.0449,
-  "entryPrice": 0.00008724774025713863,
-  "entryTime": 1785277594014,
-  "peakPrice": 0.00008724774025713863,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "616798259681",
-  "txid": "DRY_RUN_BUY_1785277594014",
-  "isDryRun": true
-}
+{}

@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "E8nwnRa82KWgTPxq5211hLh4fSpoT923TT64Egjpump",
+  "symbol": "BIDEN",
+  "marketCap": 32394,
+  "liquidity": 11621.81,
+  "volume1h": 9514.61,
+  "volume24h": 9514.61,
+  "candidateScore": 8.0919,
+  "entryPrice": 0.000032946349814102204,
+  "entryTime": 1785249154089,
+  "peakPrice": 0.000032946349814102204,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1301527747346",
+  "txid": "DRY_RUN_BUY_1785249154089",
+  "isDryRun": true
+}

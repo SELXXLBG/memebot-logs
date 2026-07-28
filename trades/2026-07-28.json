@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1785197914072",
     "sellTxid": "DRY_RUN_SELL_1785197971242",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1785197971318"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-28T00:49:31.597Z",
+    "token": "EGS9ugXmxLNg1y3NHV6x8iriCaSBBBEhMqmUpqwQpump",
+    "symbol": "CATSEUS",
+    "marketCap": 44412,
+    "liquidity": 14272.91,
+    "volume1h": 13783.5,
+    "volume24h": 33816.85,
+    "candidateScore": 6.5147,
+    "entryPrice": 0.00003477517954283822,
+    "exitPrice": 0.00004647,
+    "peakPrice": 0.00004647,
+    "profitSOL": 0.235408542,
+    "profitLamports": 235408542,
+    "pnlPct": 33.629791739120634,
+    "peakPnlPct": 33.629791739120634,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1785199233833",
+    "sellTxid": "DRY_RUN_SELL_1785199771546",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1785199771591"
   }
 ]

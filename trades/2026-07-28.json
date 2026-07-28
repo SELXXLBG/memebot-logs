@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1785199233833",
     "sellTxid": "DRY_RUN_SELL_1785199771546",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1785199771591"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-28T14:34:01.655Z",
+    "token": "E8nwnRa82KWgTPxq5211hLh4fSpoT923TT64Egjpump",
+    "symbol": "BIDEN",
+    "marketCap": 34392,
+    "liquidity": 12022.44,
+    "volume1h": 9514.61,
+    "volume24h": 9514.61,
+    "candidateScore": 8.0919,
+    "entryPrice": 0.000032946349814102204,
+    "exitPrice": 0.00003439,
+    "peakPrice": 0.0000374,
+    "profitSOL": 0.030672749,
+    "profitLamports": 30672749,
+    "pnlPct": 4.381821336941743,
+    "peakPnlPct": 13.517886536831089,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1785249154089",
+    "sellTxid": "DRY_RUN_SELL_1785249241492",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1785249241642"
   }
 ]

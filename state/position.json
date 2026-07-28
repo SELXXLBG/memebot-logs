@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "Yf91rjD4RjtgmYn5L5J3BExkEbcTrKJ3gp75zuQpump",
+  "symbol": "JB",
+  "marketCap": 38083,
+  "liquidity": 12873.28,
+  "volume1h": 51379.51,
+  "volume24h": 51379.51,
+  "candidateScore": 10.711,
+  "entryPrice": 0.000038605270927503116,
+  "entryTime": 1785197914072,
+  "peakPrice": 0.000038605270927503116,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "868424973201",
+  "txid": "DRY_RUN_BUY_1785197914072",
+  "isDryRun": true
+}

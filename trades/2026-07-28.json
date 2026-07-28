@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-28T00:19:31.326Z",
+    "token": "Yf91rjD4RjtgmYn5L5J3BExkEbcTrKJ3gp75zuQpump",
+    "symbol": "JB",
+    "marketCap": 51400,
+    "liquidity": 15185.28,
+    "volume1h": 51379.51,
+    "volume24h": 51379.51,
+    "candidateScore": 10.711,
+    "entryPrice": 0.000038605270927503116,
+    "exitPrice": 0.00005139,
+    "peakPrice": 0.00005139,
+    "profitSOL": 0.231815763,
+    "profitLamports": 231815763,
+    "pnlPct": 33.11653762644314,
+    "peakPnlPct": 33.11653762644314,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1785197914072",
+    "sellTxid": "DRY_RUN_SELL_1785197971242",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1785197971318"
+  }
+]

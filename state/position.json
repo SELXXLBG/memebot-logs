@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "EGS9ugXmxLNg1y3NHV6x8iriCaSBBBEhMqmUpqwQpump",
+  "symbol": "CATSEUS",
+  "marketCap": 32739,
+  "liquidity": 12081.97,
+  "volume1h": 13783.5,
+  "volume24h": 33816.85,
+  "candidateScore": 6.5147,
+  "entryPrice": 0.00003477517954283822,
+  "entryTime": 1785199233833,
+  "peakPrice": 0.00003477517954283822,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1435605962338",
+  "txid": "DRY_RUN_BUY_1785199233833",
+  "isDryRun": true
+}

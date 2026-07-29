@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "CiN8FLVRXMcwoLQp5EJCoFwNSkPyD1pWVkrLZNjzpump",
+  "symbol": "Gutjang",
+  "marketCap": 36030,
+  "liquidity": 12449.01,
+  "volume1h": 51950.98,
+  "volume24h": 51950.98,
+  "candidateScore": 9.1857,
+  "entryPrice": 0.00003640352436763504,
+  "entryTime": 1785332433839,
+  "peakPrice": 0.00003640352436763504,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1362366511757",
+  "txid": "DRY_RUN_BUY_1785332433839",
+  "isDryRun": true
+}

@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "2kXrA6YuuBPcP8TeBrNFULv7RJwpmPHR3z6K3ebepump",
-  "symbol": "Jimothea",
-  "marketCap": 44829,
-  "liquidity": 14021.96,
-  "volume1h": 34109.12,
-  "volume24h": 34109.12,
-  "candidateScore": 8.7715,
-  "entryPrice": 0.00004562396235206556,
-  "entryTime": 1785325113892,
-  "peakPrice": 0.00004562396235206556,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1146635449204",
-  "txid": "DRY_RUN_BUY_1785325113892",
-  "isDryRun": true
-}
+{}

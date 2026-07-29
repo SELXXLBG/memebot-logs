@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1785349353987",
     "sellTxid": "DRY_RUN_SELL_1785349381522",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-29T18:25:01.701Z",
+    "token": "EjnGsyLknq4yrd67QPcyNFBh7zFvhoHF8WbtKBivpump",
+    "symbol": "PLANDEMIC",
+    "marketCap": 35910,
+    "liquidity": 12453.76,
+    "volume1h": 56346.9,
+    "volume24h": 56346.9,
+    "candidateScore": 10.0221,
+    "entryPrice": 0.000037411136476481434,
+    "exitPrice": 0.00003591,
+    "peakPrice": 0.000037411136476481434,
+    "profitSOL": -0.028087774,
+    "profitLamports": -28087774,
+    "pnlPct": -4.012539093606861,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1785349473678",
+    "sellTxid": "DRY_RUN_SELL_1785349501530",
+    "sweepTxid": null
   }
 ]

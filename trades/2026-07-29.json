@@ -130,5 +130,27 @@
     "buyTxid": "DRY_RUN_BUY_1785349473678",
     "sellTxid": "DRY_RUN_SELL_1785349501530",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-29T21:08:31.472Z",
+    "token": "77qZWtLAE55r755B3yaKzpBYCJ2EaHRPMiAoH7z8pump",
+    "symbol": "Dex",
+    "marketCap": 32991,
+    "liquidity": 13284.49,
+    "volume1h": 36728.06,
+    "volume24h": 947626.57,
+    "candidateScore": 5.8087,
+    "entryPrice": 0.00003577937246958945,
+    "exitPrice": 0.00003603,
+    "peakPrice": 0.00003921,
+    "profitSOL": 0.004903363,
+    "profitLamports": 4903363,
+    "pnlPct": 0.7004805090518809,
+    "peakPnlPct": 9.58828311851025,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1785359193914",
+    "sellTxid": "DRY_RUN_SELL_1785359311395",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1785359311463"
   }
 ]

@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "77qZWtLAE55r755B3yaKzpBYCJ2EaHRPMiAoH7z8pump",
+  "symbol": "Dex",
+  "marketCap": 32398,
+  "liquidity": 13155.92,
+  "volume1h": 36728.06,
+  "volume24h": 947626.57,
+  "candidateScore": 5.8087,
+  "entryPrice": 0.00003577937246958945,
+  "entryTime": 1785359193914,
+  "peakPrice": 0.00003577937246958945,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1310369361479",
+  "txid": "DRY_RUN_BUY_1785359193914",
+  "isDryRun": true
+}

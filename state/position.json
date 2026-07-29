@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "9z2uzqKQo6zaZKupmZEqCqmEqTdnx74D11rThBSJpump",
+  "symbol": "MOCHI",
+  "marketCap": 35381,
+  "liquidity": 12237.17,
+  "volume1h": 12409.56,
+  "volume24h": 12409.56,
+  "candidateScore": 8.1139,
+  "entryPrice": 0.0000357310929446758,
+  "entryTime": 1785290073708,
+  "peakPrice": 0.0000357310929446758,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1573949905082",
+  "txid": "DRY_RUN_BUY_1785290073708",
+  "isDryRun": true
+}

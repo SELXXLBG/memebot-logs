@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "EjnGsyLknq4yrd67QPcyNFBh7zFvhoHF8WbtKBivpump",
-  "symbol": "PLANDEMIC",
-  "marketCap": 37536,
-  "liquidity": 12764.38,
-  "volume1h": 54638.46,
-  "volume24h": 54638.46,
-  "candidateScore": 9.1553,
-  "entryPrice": 0.0000379746696659065,
-  "entryTime": 1785349353987,
-  "peakPrice": 0.0000379746696659065,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1400920602565",
-  "txid": "DRY_RUN_BUY_1785349353987",
-  "isDryRun": true
-}
+{}

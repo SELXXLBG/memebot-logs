@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1785290073708",
     "sellTxid": "DRY_RUN_SELL_1785290101353",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-29T11:39:01.522Z",
+    "token": "2kXrA6YuuBPcP8TeBrNFULv7RJwpmPHR3z6K3ebepump",
+    "symbol": "Jimothea",
+    "marketCap": 44093,
+    "liquidity": 13896.04,
+    "volume1h": 34109.12,
+    "volume24h": 34109.12,
+    "candidateScore": 8.7715,
+    "entryPrice": 0.00004562396235206556,
+    "exitPrice": 0.00004409,
+    "peakPrice": 0.00004562396235206556,
+    "profitSOL": -0.023535301,
+    "profitLamports": -23535301,
+    "pnlPct": -3.3621857308851553,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1785325113892",
+    "sellTxid": "DRY_RUN_SELL_1785325141421",
+    "sweepTxid": null
   }
 ]

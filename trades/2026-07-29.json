@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1785289593815",
     "sellTxid": "DRY_RUN_SELL_1785289771324",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-29T01:55:01.456Z",
+    "token": "9z2uzqKQo6zaZKupmZEqCqmEqTdnx74D11rThBSJpump",
+    "symbol": "MOCHI",
+    "marketCap": 31772,
+    "liquidity": 11530.47,
+    "volume1h": 12409.56,
+    "volume24h": 12409.56,
+    "candidateScore": 8.1139,
+    "entryPrice": 0.0000357310929446758,
+    "exitPrice": 0.00003177,
+    "peakPrice": 0.0000357310929446758,
+    "profitSOL": -0.077600903,
+    "profitLamports": -77600903,
+    "pnlPct": -11.085843220102314,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1785290073708",
+    "sellTxid": "DRY_RUN_SELL_1785290101353",
+    "sweepTxid": null
   }
 ]

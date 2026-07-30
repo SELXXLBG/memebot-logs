@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-30T12:29:02.098Z",
+    "token": "4BCy5qPSToL2XFHwyivSVieKKM9Lh959hZAiuPDEpump",
+    "symbol": "nudaeng",
+    "marketCap": 38549,
+    "liquidity": 12919.48,
+    "volume1h": 53587.88,
+    "volume24h": 53587.88,
+    "candidateScore": 9.6092,
+    "entryPrice": 0.000039868136452221835,
+    "exitPrice": 0.00003854,
+    "peakPrice": 0.000039868136452221835,
+    "profitSOL": -0.023319262,
+    "profitLamports": -23319262,
+    "pnlPct": -3.331323132731522,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1785414513730",
+    "sellTxid": "DRY_RUN_SELL_1785414541928",
+    "sweepTxid": null
+  }
+]

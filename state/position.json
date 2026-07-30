@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "4BCy5qPSToL2XFHwyivSVieKKM9Lh959hZAiuPDEpump",
+  "symbol": "nudaeng",
+  "marketCap": 39075,
+  "liquidity": 13065.23,
+  "volume1h": 62355.52,
+  "volume24h": 74591.49,
+  "candidateScore": 8.415,
+  "entryPrice": 0.0000393180195327463,
+  "entryTime": 1785415713676,
+  "peakPrice": 0.0000393180195327463,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1283163946830",
+  "txid": "DRY_RUN_BUY_1785415713676",
+  "isDryRun": true
+}

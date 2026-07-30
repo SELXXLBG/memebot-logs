@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1785414513730",
     "sellTxid": "DRY_RUN_SELL_1785414541928",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-30T12:54:31.421Z",
+    "token": "4BCy5qPSToL2XFHwyivSVieKKM9Lh959hZAiuPDEpump",
+    "symbol": "nudaeng",
+    "marketCap": 36755,
+    "liquidity": 12641.37,
+    "volume1h": 62355.52,
+    "volume24h": 74591.49,
+    "candidateScore": 8.415,
+    "entryPrice": 0.0000393180195327463,
+    "exitPrice": 0.00003675,
+    "peakPrice": 0.00004047,
+    "profitSOL": -0.045719843,
+    "profitLamports": -45719843,
+    "pnlPct": -6.53140611674886,
+    "peakPnlPct": 2.9299046110251283,
+    "reason": "STOPLOSS6P",
+    "buyTxid": "DRY_RUN_BUY_1785415713676",
+    "sellTxid": "DRY_RUN_SELL_1785416071346",
+    "sweepTxid": null
   }
 ]

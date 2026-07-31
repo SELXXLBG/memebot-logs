@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-07-31T00:50:01.741Z",
+    "token": "9Uh4Mfn57L6JSg4H3ZzmZsi6wbz6ugeaNZmA1Duepump",
+    "symbol": "PIKACHU",
+    "marketCap": 43110,
+    "liquidity": 13808.26,
+    "volume1h": 44480.76,
+    "volume24h": 44480.76,
+    "candidateScore": 10.2597,
+    "entryPrice": 0.00003857828804777698,
+    "exitPrice": 0.0000431,
+    "peakPrice": 0.00004565,
+    "profitSOL": 0.082046107,
+    "profitLamports": 82046107,
+    "pnlPct": 11.720872493416868,
+    "peakPnlPct": 18.330808104976338,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1785458913941",
+    "sellTxid": "DRY_RUN_SELL_1785459001549",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1785459001731"
+  }
+]

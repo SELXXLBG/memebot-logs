@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-01T21:40:31.284Z",
+    "token": "3mvnzMeGeJy53HmtjByhP8wab4CX3hcQJ8TaGYktpump",
+    "symbol": "KEK",
+    "marketCap": 51540,
+    "liquidity": 15670.66,
+    "volume1h": 42091.51,
+    "volume24h": 220597.73,
+    "candidateScore": 7.2472,
+    "entryPrice": 0.000058314622083256216,
+    "exitPrice": 0.00005532,
+    "peakPrice": 0.0000584,
+    "profitSOL": -0.035946996,
+    "profitLamports": -35946996,
+    "pnlPct": -5.135285073065848,
+    "peakPnlPct": 0.1464091058017877,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1785620301915",
+    "sellTxid": "DRY_RUN_SELL_1785620431203",
+    "sweepTxid": null
+  }
+]

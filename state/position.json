@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "5hc1WKYnozPbpC51CxEXsnJT1U4TdxiWrLHJDmJ2pump",
-  "symbol": "TRUCKER",
-  "marketCap": 70882,
-  "liquidity": 19429.75,
-  "volume1h": 16474.97,
-  "volume24h": 809533.57,
-  "candidateScore": 6.8526,
-  "entryPrice": 0.00007366499218146293,
-  "entryTime": 1785725302092,
-  "peakPrice": 0.0000894,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "628923698453",
-  "txid": "DRY_RUN_BUY_1785725302092",
-  "isDryRun": true
-}
+{}

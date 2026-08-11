@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "42HJkKEAYtG1qFoJQAM82ivm5w2HjdNWPLgmmxJZpump",
+  "symbol": "TOADWHALE",
+  "marketCap": 50219,
+  "liquidity": 14980.34,
+  "volume1h": 8550.97,
+  "volume24h": 8550.97,
+  "candidateScore": 10.0627,
+  "entryPrice": 0.000050777465977991014,
+  "entryTime": 1786465373650,
+  "peakPrice": 0.000050777465977991014,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1028894141222",
+  "txid": "DRY_RUN_BUY_1786465373650",
+  "isDryRun": true
+}

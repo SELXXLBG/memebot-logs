@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1786462733822",
     "sellTxid": "DRY_RUN_SELL_1786462741657",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-11T16:24:31.430Z",
+    "token": "42HJkKEAYtG1qFoJQAM82ivm5w2HjdNWPLgmmxJZpump",
+    "symbol": "TOADWHALE",
+    "marketCap": 62992,
+    "liquidity": 16940.45,
+    "volume1h": 8550.97,
+    "volume24h": 8550.97,
+    "candidateScore": 10.0627,
+    "entryPrice": 0.000050777465977991014,
+    "exitPrice": 0.00006299,
+    "peakPrice": 0.00006299,
+    "profitSOL": 0.168357629,
+    "profitLamports": 168357629,
+    "pnlPct": 24.051089960460793,
+    "peakPnlPct": 24.051089960460793,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1786465373650",
+    "sellTxid": "DRY_RUN_SELL_1786465471380",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786465471424"
   }
 ]

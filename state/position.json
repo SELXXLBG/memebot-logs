@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "DDqRBZQS8TtwdGtCfr8UinByTtWFeaUiRiY1tJwJpump",
-  "symbol": "bearwif",
-  "marketCap": 87595,
-  "liquidity": 20903.61,
-  "volume1h": 41945.61,
-  "volume24h": 83883.13,
-  "candidateScore": 9.4969,
-  "entryPrice": 0.00009239210277250973,
-  "entryTime": 1786478093541,
-  "peakPrice": 0.0001177,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "560726858167",
-  "txid": "DRY_RUN_BUY_1786478093541",
-  "isDryRun": true
-}
+{}

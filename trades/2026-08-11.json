@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1786477613634",
     "sellTxid": "DRY_RUN_SELL_1786477801449",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-11T19:59:01.587Z",
+    "token": "DDqRBZQS8TtwdGtCfr8UinByTtWFeaUiRiY1tJwJpump",
+    "symbol": "bearwif",
+    "marketCap": 112658,
+    "liquidity": 23916.77,
+    "volume1h": 41945.61,
+    "volume24h": 83883.13,
+    "candidateScore": 9.4969,
+    "entryPrice": 0.00009239210277250973,
+    "exitPrice": 0.0001177,
+    "peakPrice": 0.0001177,
+    "profitSOL": 0.191742881,
+    "profitLamports": 191742881,
+    "pnlPct": 27.391840285098866,
+    "peakPnlPct": 27.391840285098866,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1786478093541",
+    "sellTxid": "DRY_RUN_SELL_1786478341483",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786478341573"
   }
 ]

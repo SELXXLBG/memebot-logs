@@ -174,5 +174,27 @@
     "buyTxid": "DRY_RUN_BUY_1786501254826",
     "sellTxid": "DRY_RUN_SELL_1786501471553",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786501471604"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-12T03:33:01.365Z",
+    "token": "6aZeZ2ZG4b3byeJqw9Eg5NygrdgE2hKgXms6uyhkpump",
+    "symbol": "NURMIE",
+    "marketCap": 35254,
+    "liquidity": 12524.13,
+    "volume1h": 72801.36,
+    "volume24h": 72801.36,
+    "candidateScore": 11.2097,
+    "entryPrice": 0.0000376960699801991,
+    "exitPrice": 0.00003525,
+    "peakPrice": 0.0000376960699801991,
+    "profitSOL": -0.045422481,
+    "profitLamports": -45422481,
+    "pnlPct": -6.488925719535116,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1786505573942",
+    "sellTxid": "DRY_RUN_SELL_1786505581284",
+    "sweepTxid": null
   }
 ]

@@ -306,5 +306,27 @@
     "buyTxid": "DRY_RUN_BUY_1786569053894",
     "sellTxid": "DRY_RUN_SELL_1786569091235",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-12T21:43:32.134Z",
+    "token": "QKx37ou4j7bmK8sQAJt935Sh3xciGduweHaN7yCpump",
+    "symbol": "Habouba",
+    "marketCap": 32757,
+    "liquidity": 11886.09,
+    "volume1h": 16019.7,
+    "volume24h": 16019.7,
+    "candidateScore": 9.5898,
+    "entryPrice": 0.00003301913922350541,
+    "exitPrice": 0.00003275,
+    "peakPrice": 0.00003684,
+    "profitSOL": -0.005705705,
+    "profitLamports": -5705705,
+    "pnlPct": -0.8151006653553601,
+    "peakPnlPct": 11.571654701933074,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1786570973762",
+    "sellTxid": "DRY_RUN_SELL_1786571012074",
+    "sweepTxid": null
   }
 ]

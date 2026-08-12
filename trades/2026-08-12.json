@@ -328,5 +328,27 @@
     "buyTxid": "DRY_RUN_BUY_1786570973762",
     "sellTxid": "DRY_RUN_SELL_1786571012074",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-12T22:16:31.295Z",
+    "token": "BiApNmo4wJ52kXYsGwyCEbhchHhGuXVMr3d22BV5pump",
+    "symbol": "WEST",
+    "marketCap": 34229,
+    "liquidity": 12292.62,
+    "volume1h": 67824.31,
+    "volume24h": 67824.31,
+    "candidateScore": 11.0251,
+    "entryPrice": 0.00004193039528628882,
+    "exitPrice": 0.00003422,
+    "peakPrice": 0.00004403,
+    "profitSOL": -0.12871991,
+    "profitLamports": -128719910,
+    "pnlPct": -18.38855854719335,
+    "peakPnlPct": 5.007357310551618,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1786572894056",
+    "sellTxid": "DRY_RUN_SELL_1786572991237",
+    "sweepTxid": null
   }
 ]

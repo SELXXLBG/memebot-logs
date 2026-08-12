@@ -262,5 +262,27 @@
     "buyTxid": "DRY_RUN_BUY_1786548653860",
     "sellTxid": "DRY_RUN_SELL_1786548721527",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-12T16:32:31.892Z",
+    "token": "9h3GTRo3CwRND8SZpkxXdjyRqDGY5KUJJXeUex9cpump",
+    "symbol": "COHERENCE",
+    "marketCap": 43079,
+    "liquidity": 13873.78,
+    "volume1h": 30588.36,
+    "volume24h": 30588.36,
+    "candidateScore": 9.7559,
+    "entryPrice": 0.000040162348847163754,
+    "exitPrice": 0.00004307,
+    "peakPrice": 0.00004762,
+    "profitSOL": 0.050678206,
+    "profitLamports": 50678206,
+    "pnlPct": 7.2397437806767675,
+    "peakPnlPct": 18.568762452654468,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1786552133604",
+    "sellTxid": "DRY_RUN_SELL_1786552351832",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786552351887"
   }
 ]

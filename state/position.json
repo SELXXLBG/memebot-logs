@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "QKx37ou4j7bmK8sQAJt935Sh3xciGduweHaN7yCpump",
+  "symbol": "Habouba",
+  "marketCap": 32836,
+  "liquidity": 11900.8,
+  "volume1h": 16019.7,
+  "volume24h": 16019.7,
+  "candidateScore": 9.5898,
+  "entryPrice": 0.00003301913922350541,
+  "entryTime": 1786570973762,
+  "peakPrice": 0.00003301913922350541,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1950316270750",
+  "txid": "DRY_RUN_BUY_1786570973762",
+  "isDryRun": true
+}

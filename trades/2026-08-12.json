@@ -240,5 +240,27 @@
     "buyTxid": "DRY_RUN_BUY_1786528133995",
     "sellTxid": "DRY_RUN_SELL_1786528381785",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786528381877"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-12T15:32:01.650Z",
+    "token": "6ENHJ7cbB7UEP1tVccQd77FRR8N7Y4KHKtgUeGhupump",
+    "symbol": "APERS",
+    "marketCap": 67783,
+    "liquidity": 19290.46,
+    "volume1h": 34196.83,
+    "volume24h": 764989.47,
+    "candidateScore": 6.5004,
+    "entryPrice": 0.00007292012934680875,
+    "exitPrice": 0.00006972,
+    "peakPrice": 0.00007292012934680875,
+    "profitSOL": -0.030719783,
+    "profitLamports": -30719783,
+    "pnlPct": -4.3885404146623275,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1786548653860",
+    "sellTxid": "DRY_RUN_SELL_1786548721527",
+    "sweepTxid": null
   }
 ]

@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "6WMszYPHAxEFgstkEpyRRwzaVtA9eM5pWvSf8v7qpump",
+  "symbol": "TOADGUY",
+  "marketCap": 81075,
+  "liquidity": 20356.43,
+  "volume1h": 21143.17,
+  "volume24h": 204298.94,
+  "candidateScore": 7.1425,
+  "entryPrice": 0.00008447279054206577,
+  "entryTime": 1786494293694,
+  "peakPrice": 0.00008447279054206577,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "617660565452",
+  "txid": "DRY_RUN_BUY_1786494293694",
+  "isDryRun": true
+}

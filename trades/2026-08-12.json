@@ -284,5 +284,27 @@
     "buyTxid": "DRY_RUN_BUY_1786552133604",
     "sellTxid": "DRY_RUN_SELL_1786552351832",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786552351887"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-12T21:11:31.288Z",
+    "token": "BZAazVBQ3Qy2EGJqS6j9kVfKwp8MVJsSamg8umCypump",
+    "symbol": "CuteCat",
+    "marketCap": 25620,
+    "liquidity": 11089.79,
+    "volume1h": 26240.78,
+    "volume24h": 204575.79,
+    "candidateScore": 6.8934,
+    "entryPrice": 0.000029769371634798855,
+    "exitPrice": 0.00002837,
+    "peakPrice": 0.000029769371634798855,
+    "profitSOL": -0.032904966,
+    "profitLamports": -32904966,
+    "pnlPct": -4.700709346390975,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1786569053894",
+    "sellTxid": "DRY_RUN_SELL_1786569091235",
+    "sweepTxid": null
   }
 ]

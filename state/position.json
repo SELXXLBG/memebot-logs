@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "9h3GTRo3CwRND8SZpkxXdjyRqDGY5KUJJXeUex9cpump",
+  "symbol": "COHERENCE",
+  "marketCap": 39698,
+  "liquidity": 13260.77,
+  "volume1h": 30588.36,
+  "volume24h": 30588.36,
+  "candidateScore": 9.7559,
+  "entryPrice": 0.000040162348847163754,
+  "entryTime": 1786552133604,
+  "peakPrice": 0.000040162348847163754,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1135924953647",
+  "txid": "DRY_RUN_BUY_1786552133604",
+  "isDryRun": true
+}

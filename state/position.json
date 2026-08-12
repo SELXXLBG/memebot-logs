@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "Gjog4G67BbJZfVhD9M93SEncd47rvbFVcGcuaufpump",
+  "symbol": "BIP",
+  "marketCap": 37729,
+  "liquidity": 13389.45,
+  "volume1h": 67617.9,
+  "volume24h": 153207.94,
+  "candidateScore": 9.9737,
+  "entryPrice": 0.00003990580993639229,
+  "entryTime": 1786528133995,
+  "peakPrice": 0.00003990580993639229,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1326922408829",
+  "txid": "DRY_RUN_BUY_1786528133995",
+  "isDryRun": true
+}

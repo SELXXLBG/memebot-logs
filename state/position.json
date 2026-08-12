@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "6aZeZ2ZG4b3byeJqw9Eg5NygrdgE2hKgXms6uyhkpump",
+  "symbol": "NURMIE",
+  "marketCap": 37095,
+  "liquidity": 12880.15,
+  "volume1h": 72801.36,
+  "volume24h": 72801.36,
+  "candidateScore": 11.2097,
+  "entryPrice": 0.0000376960699801991,
+  "entryTime": 1786505573942,
+  "peakPrice": 0.0000376960699801991,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1458155717271",
+  "txid": "DRY_RUN_BUY_1786505573942",
+  "isDryRun": true
+}

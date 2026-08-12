@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "7xwJQh4jX5pgkLrKCcij4UXcdyXWxDwzeVr65NmKpump",
+  "symbol": "CALLOUT",
+  "marketCap": 46147,
+  "liquidity": 14415.58,
+  "volume1h": 8621.62,
+  "volume24h": 8621.62,
+  "candidateScore": 9.6468,
+  "entryPrice": 0.00004694096159157715,
+  "entryTime": 1786496693857,
+  "peakPrice": 0.00004694096159157715,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "950051942676",
+  "txid": "DRY_RUN_BUY_1786496693857",
+  "isDryRun": true
+}

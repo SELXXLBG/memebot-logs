@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "EGkqSQDT7MYJNhf17vR2JZn5pc4sbUDeN2gFCP6Ppump",
-  "symbol": "Peach64",
-  "marketCap": 143856,
-  "liquidity": 28651.23,
-  "volume1h": 43226.93,
-  "volume24h": 811006.66,
-  "candidateScore": 7.2828,
-  "entryPrice": 0.00014953260048198943,
-  "entryTime": 1786522013809,
-  "peakPrice": 0.0001627,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "354953745023",
-  "txid": "DRY_RUN_BUY_1786522013809",
-  "isDryRun": true
-}
+{}

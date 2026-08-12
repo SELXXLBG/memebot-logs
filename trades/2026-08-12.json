@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1786495373531",
     "sellTxid": "DRY_RUN_SELL_1786495381257",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-12T00:49:01.252Z",
+    "token": "6WMszYPHAxEFgstkEpyRRwzaVtA9eM5pWvSf8v7qpump",
+    "symbol": "TOADGUY",
+    "marketCap": 76250,
+    "liquidity": 19709.59,
+    "volume1h": 22576.56,
+    "volume24h": 210357.25,
+    "candidateScore": 7.8143,
+    "entryPrice": 0.00008600432886692429,
+    "exitPrice": 0.00007867,
+    "peakPrice": 0.00008600432886692429,
+    "profitSOL": -0.059695021,
+    "profitLamports": -59695021,
+    "pnlPct": -8.527860124660467,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS8P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1786495493616",
+    "sellTxid": "DRY_RUN_SELL_1786495741179",
+    "sweepTxid": null
   }
 ]

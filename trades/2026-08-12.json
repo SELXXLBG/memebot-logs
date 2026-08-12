@@ -218,5 +218,27 @@
     "buyTxid": "DRY_RUN_BUY_1786522013809",
     "sellTxid": "DRY_RUN_SELL_1786522231375",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786522231424"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-12T09:53:01.891Z",
+    "token": "Gjog4G67BbJZfVhD9M93SEncd47rvbFVcGcuaufpump",
+    "symbol": "BIP",
+    "marketCap": 47832,
+    "liquidity": 15246.34,
+    "volume1h": 67617.9,
+    "volume24h": 153207.94,
+    "candidateScore": 9.9737,
+    "entryPrice": 0.00003990580993639229,
+    "exitPrice": 0.00004967,
+    "peakPrice": 0.00004967,
+    "profitSOL": 0.17127664,
+    "profitLamports": 171276640,
+    "pnlPct": 24.468091436237724,
+    "peakPnlPct": 24.468091436237724,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1786528133995",
+    "sellTxid": "DRY_RUN_SELL_1786528381785",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786528381877"
   }
 ]

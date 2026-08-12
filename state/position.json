@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "BiApNmo4wJ52kXYsGwyCEbhchHhGuXVMr3d22BV5pump",
+  "symbol": "WEST",
+  "marketCap": 51741,
+  "liquidity": 15444.24,
+  "volume1h": 88076.26,
+  "volume24h": 88076.26,
+  "candidateScore": 11.291,
+  "entryPrice": 0.00005221867523650225,
+  "entryTime": 1786573013690,
+  "peakPrice": 0.00005221867523650225,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1141133458929",
+  "txid": "DRY_RUN_BUY_1786573013690",
+  "isDryRun": true
+}

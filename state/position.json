@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "BZAazVBQ3Qy2EGJqS6j9kVfKwp8MVJsSamg8umCypump",
-  "symbol": "CuteCat",
-  "marketCap": 26494,
-  "liquidity": 11299.37,
-  "volume1h": 26240.78,
-  "volume24h": 204575.79,
-  "candidateScore": 6.8934,
-  "entryPrice": 0.000029769371634798855,
-  "entryTime": 1786569053894,
-  "peakPrice": 0.000029769371634798855,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1825930518404",
-  "txid": "DRY_RUN_BUY_1786569053894",
-  "isDryRun": true
-}
+{}

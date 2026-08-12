@@ -196,5 +196,27 @@
     "buyTxid": "DRY_RUN_BUY_1786505573942",
     "sellTxid": "DRY_RUN_SELL_1786505581284",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-12T08:10:31.434Z",
+    "token": "EGkqSQDT7MYJNhf17vR2JZn5pc4sbUDeN2gFCP6Ppump",
+    "symbol": "Peach64",
+    "marketCap": 146549,
+    "liquidity": 28935.24,
+    "volume1h": 43226.93,
+    "volume24h": 811006.66,
+    "candidateScore": 7.2828,
+    "entryPrice": 0.00014953260048198943,
+    "exitPrice": 0.0001496,
+    "peakPrice": 0.0001627,
+    "profitSOL": 0.000315514,
+    "profitLamports": 315514,
+    "pnlPct": 0.04507346076596551,
+    "peakPnlPct": 8.805704893493461,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1786522013809",
+    "sellTxid": "DRY_RUN_SELL_1786522231375",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786522231424"
   }
 ]

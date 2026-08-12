@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "6ENHJ7cbB7UEP1tVccQd77FRR8N7Y4KHKtgUeGhupump",
-  "symbol": "APERS",
-  "marketCap": 69777,
-  "liquidity": 19593.98,
-  "volume1h": 34196.83,
-  "volume24h": 764989.47,
-  "candidateScore": 6.5004,
-  "entryPrice": 0.00007292012934680875,
-  "entryTime": 1786548653860,
-  "peakPrice": 0.00007292012934680875,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "751794491447",
-  "txid": "DRY_RUN_BUY_1786548653860",
-  "isDryRun": true
-}
+{}

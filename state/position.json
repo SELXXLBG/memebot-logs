@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "6HnoTFvt6eE6Y9KfbbRcv6dbrxBAQtaTCHP3TfcSpump",
-  "symbol": "TRENCHES",
-  "marketCap": 34569,
-  "liquidity": 13305.13,
-  "volume1h": 52194.47,
-  "volume24h": 662853.96,
-  "candidateScore": 8.93,
-  "entryPrice": 0.00003599789549051536,
-  "entryTime": 1786658453594,
-  "peakPrice": 0.00003599789549051536,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1484890000267",
-  "txid": "DRY_RUN_BUY_1786658453594",
-  "isDryRun": true
-}
+{}

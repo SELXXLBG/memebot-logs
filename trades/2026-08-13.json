@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1786603493751",
     "sellTxid": "DRY_RUN_SELL_1786605061344",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786605061413"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-13T09:19:31.461Z",
+    "token": "7eDjBGP5MHiUR3Qr2gHmbbNYWYfFSwEh4DgKkQ2Ppump",
+    "symbol": "BALOO",
+    "marketCap": 40370,
+    "liquidity": 13481.29,
+    "volume1h": 103758.83,
+    "volume24h": 103758.83,
+    "candidateScore": 9.5251,
+    "entryPrice": 0.00004282122511186151,
+    "exitPrice": 0.00004037,
+    "peakPrice": 0.00004282122511186151,
+    "profitSOL": -0.040070259,
+    "profitLamports": -40070259,
+    "pnlPct": -5.724322705523249,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1786612733956",
+    "sellTxid": "DRY_RUN_SELL_1786612771403",
+    "sweepTxid": null
   }
 ]

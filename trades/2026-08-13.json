@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-13T06:24:01.570Z",
+    "token": "9vYai4xnyLwsw2hVeFQvt7wxtEADRXiaQKF1QA4Lpump",
+    "symbol": "susdog",
+    "marketCap": 119680,
+    "liquidity": 26892.43,
+    "volume1h": 17103.16,
+    "volume24h": 1405856.54,
+    "candidateScore": 7.6564,
+    "entryPrice": 0.0001005225181946019,
+    "exitPrice": 0.0001239,
+    "peakPrice": 0.0001239,
+    "profitSOL": 0.162791756,
+    "profitLamports": 162791756,
+    "pnlPct": 23.255965156127058,
+    "peakPnlPct": 23.255965156127058,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1786601573730",
+    "sellTxid": "DRY_RUN_SELL_1786602241350",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786602241535"
+  }
+]

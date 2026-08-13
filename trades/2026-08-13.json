@@ -130,5 +130,27 @@
     "buyTxid": "DRY_RUN_BUY_1786628693527",
     "sellTxid": "DRY_RUN_SELL_1786629121694",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786629121801"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-13T15:43:31.520Z",
+    "token": "5rNUTV6P7ULZ8M2p83Crmdr6hJc5wFJX6Njcd8CbAYRA",
+    "symbol": "AYRA",
+    "marketCap": 42055,
+    "liquidity": 13704.94,
+    "volume1h": 67868.58,
+    "volume24h": 67868.58,
+    "candidateScore": 11.1215,
+    "entryPrice": 0.000048981435193043634,
+    "exitPrice": 0.00004205,
+    "peakPrice": 0.000048981435193043634,
+    "profitSOL": -0.099058034,
+    "profitLamports": -99058034,
+    "pnlPct": -14.151147604650099,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1786635773839",
+    "sellTxid": "DRY_RUN_SELL_1786635811469",
+    "sweepTxid": null
   }
 ]

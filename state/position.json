@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "5rNUTV6P7ULZ8M2p83Crmdr6hJc5wFJX6Njcd8CbAYRA",
+  "symbol": "AYRA",
+  "marketCap": 48377,
+  "liquidity": 14789.26,
+  "volume1h": 67868.58,
+  "volume24h": 67868.58,
+  "candidateScore": 11.1215,
+  "entryPrice": 0.000048981435193043634,
+  "entryTime": 1786635773839,
+  "peakPrice": 0.000048981435193043634,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1309666460566",
+  "txid": "DRY_RUN_BUY_1786635773839",
+  "isDryRun": true
+}

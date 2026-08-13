@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "9vYai4xnyLwsw2hVeFQvt7wxtEADRXiaQKF1QA4Lpump",
+  "symbol": "susdog",
+  "marketCap": 96417,
+  "liquidity": 23991.08,
+  "volume1h": 17103.16,
+  "volume24h": 1405856.54,
+  "candidateScore": 7.6564,
+  "entryPrice": 0.0001005225181946019,
+  "entryTime": 1786601573730,
+  "peakPrice": 0.0001005225181946019,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "503577321853",
+  "txid": "DRY_RUN_BUY_1786601573730",
+  "isDryRun": true
+}

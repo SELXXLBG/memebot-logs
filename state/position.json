@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "Cq3cMEzjPZ5NL7mrzHo2ns5CGBqDDMQN476utN49pump",
+  "symbol": "Capy",
+  "marketCap": 52301,
+  "liquidity": 16944.77,
+  "volume1h": 22247.61,
+  "volume24h": 599103.11,
+  "candidateScore": 7.4537,
+  "entryPrice": 0.00005629835864292933,
+  "entryTime": 1786628453614,
+  "peakPrice": 0.00005629835864292933,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "959900125602",
+  "txid": "DRY_RUN_BUY_1786628453614",
+  "isDryRun": true
+}

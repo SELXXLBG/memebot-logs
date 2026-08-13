@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1786601573730",
     "sellTxid": "DRY_RUN_SELL_1786602241350",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786602241535"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-13T07:11:01.423Z",
+    "token": "nx1KrSqcK98kgDuPvfoVr8WHFAdPKPQEd5BBy4ireta",
+    "symbol": "RETA",
+    "marketCap": 33142,
+    "liquidity": 15562.9,
+    "volume1h": 1745.47,
+    "volume24h": 651020.99,
+    "candidateScore": 5.7267,
+    "entryPrice": 0.000026318517740425254,
+    "exitPrice": 0.00003314,
+    "peakPrice": 0.00003314,
+    "profitSOL": 0.181432618,
+    "profitLamports": 181432618,
+    "pnlPct": 25.91894546210308,
+    "peakPnlPct": 25.91894546210308,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1786603493751",
+    "sellTxid": "DRY_RUN_SELL_1786605061344",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786605061413"
   }
 ]

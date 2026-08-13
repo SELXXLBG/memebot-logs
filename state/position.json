@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "7eDjBGP5MHiUR3Qr2gHmbbNYWYfFSwEh4DgKkQ2Ppump",
+  "symbol": "BALOO",
+  "marketCap": 42118,
+  "liquidity": 13795.23,
+  "volume1h": 103758.83,
+  "volume24h": 103758.83,
+  "candidateScore": 9.5251,
+  "entryPrice": 0.00004282122511186151,
+  "entryTime": 1786612733956,
+  "peakPrice": 0.00004282122511186151,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1210876557611",
+  "txid": "DRY_RUN_BUY_1786612733956",
+  "isDryRun": true
+}

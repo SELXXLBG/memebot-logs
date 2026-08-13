@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1786612733956",
     "sellTxid": "DRY_RUN_SELL_1786612771403",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-13T13:35:01.766Z",
+    "token": "Cq3cMEzjPZ5NL7mrzHo2ns5CGBqDDMQN476utN49pump",
+    "symbol": "Capy",
+    "marketCap": 47867,
+    "liquidity": 16143.76,
+    "volume1h": 24346.71,
+    "volume24h": 597415.25,
+    "candidateScore": 6.9858,
+    "entryPrice": 0.00005321080805795362,
+    "exitPrice": 0.00005089,
+    "peakPrice": 0.00005321080805795362,
+    "profitSOL": -0.030530746,
+    "profitLamports": -30530746,
+    "pnlPct": -4.361535076531725,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1786628093928",
+    "sellTxid": "DRY_RUN_SELL_1786628101558",
+    "sweepTxid": null
   }
 ]

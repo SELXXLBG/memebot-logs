@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "nx1KrSqcK98kgDuPvfoVr8WHFAdPKPQEd5BBy4ireta",
+  "symbol": "RETA",
+  "marketCap": 25942,
+  "liquidity": 13761.72,
+  "volume1h": 1745.47,
+  "volume24h": 651020.99,
+  "candidateScore": 5.7267,
+  "entryPrice": 0.000026318517740425254,
+  "entryTime": 1786603493751,
+  "peakPrice": 0.000026318517740425254,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1970613948602",
+  "txid": "DRY_RUN_BUY_1786603493751",
+  "isDryRun": true
+}

@@ -174,5 +174,27 @@
     "buyTxid": "DRY_RUN_BUY_1786657853929",
     "sellTxid": "DRY_RUN_SELL_1786657861422",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-13T21:59:01.646Z",
+    "token": "6HnoTFvt6eE6Y9KfbbRcv6dbrxBAQtaTCHP3TfcSpump",
+    "symbol": "TRENCHES",
+    "marketCap": 33126,
+    "liquidity": 12993.4,
+    "volume1h": 49032.35,
+    "volume24h": 652804.2,
+    "candidateScore": 8.3279,
+    "entryPrice": 0.00003124098945105184,
+    "exitPrice": 0.00003402,
+    "peakPrice": 0.00003642,
+    "profitSOL": 0.06226779,
+    "profitLamports": 62267790,
+    "pnlPct": 8.895398634227954,
+    "peakPnlPct": 16.577613705425684,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1786658213896",
+    "sellTxid": "DRY_RUN_SELL_1786658341552",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786658341635"
   }
 ]

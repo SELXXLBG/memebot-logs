@@ -174,5 +174,27 @@
     "buyTxid": "DRY_RUN_BUY_1786713173944",
     "sellTxid": "DRY_RUN_SELL_1786713211396",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-14T13:29:31.373Z",
+    "token": "Apx665vqxenPMpeqLrcsGwN4hQH6EVfKTF5yuyeApump",
+    "symbol": "Thomas ",
+    "marketCap": 70907,
+    "liquidity": 18121.03,
+    "volume1h": 20905.34,
+    "volume24h": 20905.34,
+    "candidateScore": 8.2953,
+    "entryPrice": 0.00004876898484626162,
+    "exitPrice": 0.0000709,
+    "peakPrice": 0.0000709,
+    "profitSOL": 0.317654973,
+    "profitLamports": 317654973,
+    "pnlPct": 45.37928198321895,
+    "peakPnlPct": 45.37928198321895,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1786713653912",
+    "sellTxid": "DRY_RUN_SELL_1786714171316",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786714171367"
   }
 ]

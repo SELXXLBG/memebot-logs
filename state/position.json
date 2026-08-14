@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "FjZ9zAkmQNDFQ3vNmnni2FMguaNwtAQrJJ4R4Wexpump",
-  "symbol": "SLV",
-  "marketCap": 47507,
-  "liquidity": 14690.89,
-  "volume1h": 5392.25,
-  "volume24h": 5392.25,
-  "candidateScore": 7.9105,
-  "entryPrice": 0.00004888364781347112,
-  "entryTime": 1786670933880,
-  "peakPrice": 0.00004952,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1091596738126",
-  "txid": "DRY_RUN_BUY_1786670933880",
-  "isDryRun": true
-}
+{}

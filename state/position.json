@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "Apx665vqxenPMpeqLrcsGwN4hQH6EVfKTF5yuyeApump",
-  "symbol": "Thomas ",
-  "marketCap": 55525,
-  "liquidity": 15873.43,
-  "volume1h": 19412.78,
-  "volume24h": 19412.78,
-  "candidateScore": 8.3335,
-  "entryPrice": 0.00005662457340537064,
-  "entryTime": 1786713173944,
-  "peakPrice": 0.00005662457340537064,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "922087140505",
-  "txid": "DRY_RUN_BUY_1786713173944",
-  "isDryRun": true
-}
+{}

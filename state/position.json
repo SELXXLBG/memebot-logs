@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "2GsS7pdaNMpDG34kqQFxUTndF92zPxjm69TQn7rgpump",
-  "symbol": "EMOJI",
-  "marketCap": 51206,
-  "liquidity": 16351.33,
-  "volume1h": 13401.22,
-  "volume24h": 296871.65,
-  "candidateScore": 6.5899,
-  "entryPrice": 0.00005548532000701378,
-  "entryTime": 1786705854095,
-  "peakPrice": 0.00005588,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "931876344059",
-  "txid": "DRY_RUN_BUY_1786705854095",
-  "isDryRun": true
-}
+{}

@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1786682334018",
     "sellTxid": "DRY_RUN_SELL_1786682461252",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-14T05:34:31.262Z",
+    "token": "2RudWgRcNszfocKUBNVkZXsZXpT7GN2VMv8GwYa5pump",
+    "symbol": "Spider",
+    "marketCap": 33498,
+    "liquidity": 12050.25,
+    "volume1h": 16189.9,
+    "volume24h": 16189.9,
+    "candidateScore": 9.25,
+    "entryPrice": 0.000031039279380811575,
+    "exitPrice": 0.00003349,
+    "peakPrice": 0.00003587,
+    "profitSOL": 0.055268822,
+    "profitLamports": 55268822,
+    "pnlPct": 7.895546121162386,
+    "peakPnlPct": 15.56324990642266,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1786685573562",
+    "sellTxid": "DRY_RUN_SELL_1786685671212",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786685671255"
   }
 ]

@@ -262,5 +262,27 @@
     "buyTxid": "DRY_RUN_BUY_1786733933636",
     "sellTxid": "DRY_RUN_SELL_1786733941235",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-14T19:07:31.456Z",
+    "token": "SJT56ND5Tsvxkj8D9awi94Dwnf8Sxm3xpwMauphpump",
+    "symbol": "NARRA",
+    "marketCap": 53160,
+    "liquidity": 15625.5,
+    "volume1h": 108108.04,
+    "volume24h": 108108.04,
+    "candidateScore": 9.4748,
+    "entryPrice": 0.000043991986885047335,
+    "exitPrice": 0.00005322,
+    "peakPrice": 0.00005322,
+    "profitSOL": 0.14683604,
+    "profitLamports": 146836040,
+    "pnlPct": 20.97657725500283,
+    "peakPnlPct": 20.97657725500283,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1786734053889",
+    "sellTxid": "DRY_RUN_SELL_1786734451396",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786734451449"
   }
 ]

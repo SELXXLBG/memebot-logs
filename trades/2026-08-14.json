@@ -130,5 +130,27 @@
     "buyTxid": "DRY_RUN_BUY_1786696733842",
     "sellTxid": "DRY_RUN_SELL_1786697191336",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-14T11:14:01.554Z",
+    "token": "2GsS7pdaNMpDG34kqQFxUTndF92zPxjm69TQn7rgpump",
+    "symbol": "EMOJI",
+    "marketCap": 41007,
+    "liquidity": 14497.04,
+    "volume1h": 13401.22,
+    "volume24h": 296871.65,
+    "candidateScore": 6.5899,
+    "entryPrice": 0.00005548532000701378,
+    "exitPrice": 0.00004397,
+    "peakPrice": 0.00005588,
+    "profitSOL": -0.145276697,
+    "profitLamports": -145276697,
+    "pnlPct": -20.753813811577825,
+    "peakPnlPct": 0.7113232706170347,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1786705854095",
+    "sellTxid": "DRY_RUN_SELL_1786706041424",
+    "sweepTxid": null
   }
 ]

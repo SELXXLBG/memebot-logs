@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "SJT56ND5Tsvxkj8D9awi94Dwnf8Sxm3xpwMauphpump",
-  "symbol": "NARRA",
-  "marketCap": 46920,
-  "liquidity": 14609.27,
-  "volume1h": 105867.4,
-  "volume24h": 105867.4,
-  "candidateScore": 9.538,
-  "entryPrice": 0.000047802803036537604,
-  "entryTime": 1786733573946,
-  "peakPrice": 0.000047802803036537604,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1272379791751",
-  "txid": "DRY_RUN_BUY_1786733573946",
-  "isDryRun": true
-}
+{}

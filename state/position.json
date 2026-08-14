@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "4kQ8NoZsjH7uAy1aXQLuNTwBSHXmQGfvGmaXhvixpump",
-  "symbol": "FuJiang",
-  "marketCap": 45071,
-  "liquidity": 14300.12,
-  "volume1h": 66304.76,
-  "volume24h": 66304.76,
-  "candidateScore": 11.2787,
-  "entryPrice": 0.0000454616499778289,
-  "entryTime": 1786676933760,
-  "peakPrice": 0.0000454616499778289,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1355343114776",
-  "txid": "DRY_RUN_BUY_1786676933760",
-  "isDryRun": true
-}
+{}

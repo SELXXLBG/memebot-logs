@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1786676933760",
     "sellTxid": "DRY_RUN_SELL_1786676971526",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-14T04:41:01.342Z",
+    "token": "F1Ueobn9vfZgSiGNBmrDAiTjvYJpUkiAjLNE2reYpump",
+    "symbol": "TISUKI",
+    "marketCap": 127906,
+    "liquidity": 25921.87,
+    "volume1h": 176771.9,
+    "volume24h": 209488.08,
+    "candidateScore": 8.7006,
+    "entryPrice": 0.00014215457161407646,
+    "exitPrice": 0.0001344,
+    "peakPrice": 0.0001474,
+    "profitSOL": -0.038185196,
+    "profitLamports": -38185196,
+    "pnlPct": -5.455027950229212,
+    "peakPnlPct": 3.6899470248230344,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1786682334018",
+    "sellTxid": "DRY_RUN_SELL_1786682461252",
+    "sweepTxid": null
   }
 ]

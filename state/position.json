@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "F1Ueobn9vfZgSiGNBmrDAiTjvYJpUkiAjLNE2reYpump",
-  "symbol": "TISUKI",
-  "marketCap": 132657,
-  "liquidity": 26412.68,
-  "volume1h": 176771.9,
-  "volume24h": 209488.08,
-  "candidateScore": 8.7006,
-  "entryPrice": 0.00014215457161407646,
-  "entryTime": 1786682334018,
-  "peakPrice": 0.0001474,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "362901347001",
-  "txid": "DRY_RUN_BUY_1786682334018",
-  "isDryRun": true
-}
+{}

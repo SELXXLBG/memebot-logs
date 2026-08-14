@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1786685693689",
     "sellTxid": "DRY_RUN_SELL_1786685731144",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-14T08:46:31.386Z",
+    "token": "4TR2t5xgCXdvhuge5yN43oj6BE7bLHdhXdXJ2JM8pump",
+    "symbol": "truckdog",
+    "marketCap": 63772,
+    "liquidity": 18097.13,
+    "volume1h": 80947.46,
+    "volume24h": 256083.76,
+    "candidateScore": 8.5558,
+    "entryPrice": 0.00007356206893269187,
+    "exitPrice": 0.00006792,
+    "peakPrice": 0.00007623,
+    "profitSOL": -0.053688652,
+    "profitLamports": -53688652,
+    "pnlPct": -7.669807299539484,
+    "peakPnlPct": 3.626775464606956,
+    "reason": "STOPLOSS6P",
+    "buyTxid": "DRY_RUN_BUY_1786696733842",
+    "sellTxid": "DRY_RUN_SELL_1786697191336",
+    "sweepTxid": null
   }
 ]

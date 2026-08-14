@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1786670933880",
     "sellTxid": "DRY_RUN_SELL_1786671781394",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-14T03:09:31.582Z",
+    "token": "4kQ8NoZsjH7uAy1aXQLuNTwBSHXmQGfvGmaXhvixpump",
+    "symbol": "FuJiang",
+    "marketCap": 38225,
+    "liquidity": 13071.93,
+    "volume1h": 66304.76,
+    "volume24h": 66304.76,
+    "candidateScore": 11.2787,
+    "entryPrice": 0.0000454616499778289,
+    "exitPrice": 0.00003822,
+    "peakPrice": 0.0000454616499778289,
+    "profitSOL": -0.111503982,
+    "profitLamports": -111503982,
+    "pnlPct": -15.929140234374605,
+    "peakPnlPct": 0,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1786676933760",
+    "sellTxid": "DRY_RUN_SELL_1786676971526",
+    "sweepTxid": null
   }
 ]

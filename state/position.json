@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "2RudWgRcNszfocKUBNVkZXsZXpT7GN2VMv8GwYa5pump",
-  "symbol": "Spider",
-  "marketCap": 33385,
-  "liquidity": 12029.07,
-  "volume1h": 22420.64,
-  "volume24h": 22420.64,
-  "candidateScore": 9.8774,
-  "entryPrice": 0.00003401377933901287,
-  "entryTime": 1786685693689,
-  "peakPrice": 0.00003401377933901287,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1553813693125",
-  "txid": "DRY_RUN_BUY_1786685693689",
-  "isDryRun": true
-}
+{}

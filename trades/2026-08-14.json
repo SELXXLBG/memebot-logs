@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-14T01:43:01.477Z",
+    "token": "FjZ9zAkmQNDFQ3vNmnni2FMguaNwtAQrJJ4R4Wexpump",
+    "symbol": "SLV",
+    "marketCap": 42740,
+    "liquidity": 13872.11,
+    "volume1h": 5392.25,
+    "volume24h": 5392.25,
+    "candidateScore": 7.9105,
+    "entryPrice": 0.00004888364781347112,
+    "exitPrice": 0.00004314,
+    "peakPrice": 0.00004952,
+    "profitSOL": -0.082247411,
+    "profitLamports": -82247411,
+    "pnlPct": -11.749630132733907,
+    "peakPnlPct": 1.3017690270518603,
+    "reason": "STOPLOSS6P",
+    "buyTxid": "DRY_RUN_BUY_1786670933880",
+    "sellTxid": "DRY_RUN_SELL_1786671781394",
+    "sweepTxid": null
+  }
+]

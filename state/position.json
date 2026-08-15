@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "DDtnq3g9P25qTgykeL6dX7jXap2AZY8kGEwoVspCpump",
+  "symbol": "fug",
+  "marketCap": 47775,
+  "liquidity": 14628.51,
+  "volume1h": 15512.21,
+  "volume24h": 15512.21,
+  "candidateScore": 9.7083,
+  "entryPrice": 0.000048281111658358104,
+  "entryTime": 1786798973579,
+  "peakPrice": 0.000048281111658358104,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1123928303892",
+  "txid": "DRY_RUN_BUY_1786798973579",
+  "isDryRun": true
+}

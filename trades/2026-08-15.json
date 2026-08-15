@@ -306,5 +306,27 @@
     "buyTxid": "DRY_RUN_BUY_1786817093820",
     "sellTxid": "DRY_RUN_SELL_1786817161335",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786817161442"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-15T21:26:31.269Z",
+    "token": "9oMa91M32dG8pCWuyvZuMNxtMj7xBjxAuMXex9ZTpump",
+    "symbol": "TripleP",
+    "marketCap": 56886,
+    "liquidity": 16154.84,
+    "volume1h": 53483.63,
+    "volume24h": 53483.63,
+    "candidateScore": 12.1131,
+    "entryPrice": 0.00004688849025234013,
+    "exitPrice": 0.00005688,
+    "peakPrice": 0.00005688,
+    "profitSOL": 0.149163617,
+    "profitLamports": 149163617,
+    "pnlPct": 21.30908820883011,
+    "peakPnlPct": 21.30908820883011,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1786829093965",
+    "sellTxid": "DRY_RUN_SELL_1786829191209",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786829191263"
   }
 ]

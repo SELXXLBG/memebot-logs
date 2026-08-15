@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "4BYp9bPWua2YoijAjWWPDPzUjzMAftjhy9xsCd3wpump",
+  "symbol": "COALKID",
+  "marketCap": 29260,
+  "liquidity": 11206.64,
+  "volume1h": 68699.32,
+  "volume24h": 68699.32,
+  "candidateScore": 10.3572,
+  "entryPrice": 0.000029695483796209545,
+  "entryTime": 1786797293912,
+  "peakPrice": 0.000029695483796209545,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1854066669392",
+  "txid": "DRY_RUN_BUY_1786797293912",
+  "isDryRun": true
+}

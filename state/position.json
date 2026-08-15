@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "5i6Ve42SMGGHLYkBbCimW7trK1MxFZNKZSUfWUCZpump",
+  "symbol": "KAT",
+  "marketCap": 39957,
+  "liquidity": 13628.42,
+  "volume1h": 11236.09,
+  "volume24h": 132609.12,
+  "candidateScore": 7.8208,
+  "entryPrice": 0.000042179825818854466,
+  "entryTime": 1786755053797,
+  "peakPrice": 0.000042179825818854466,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1250016120250",
+  "txid": "DRY_RUN_BUY_1786755053797",
+  "isDryRun": true
+}

@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "6WS1NsTCjB1VFvVL8CjqUkB4VtK4fQ3sMPrN5e7rpump",
+  "symbol": "FROG",
+  "marketCap": 52865,
+  "liquidity": 15593.6,
+  "volume1h": 85763.38,
+  "volume24h": 85763.38,
+  "candidateScore": 10.1548,
+  "entryPrice": 0.000053659035757958676,
+  "entryTime": 1786817093820,
+  "peakPrice": 0.000053659035757958676,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "921341861286",
+  "txid": "DRY_RUN_BUY_1786817093820",
+  "isDryRun": true
+}

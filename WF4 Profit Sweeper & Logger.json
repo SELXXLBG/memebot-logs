@@ -86,7 +86,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "Bearer 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"
+              "value": "Bearer <MASKED>"
             },
             {
               "name": "Accept",
@@ -174,7 +174,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "Bearer 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"
+              "value": "Bearer <MASKED>"
             },
             {
               "name": "Accept",

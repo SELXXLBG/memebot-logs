@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-15T00:52:31.553Z",
+    "token": "5i6Ve42SMGGHLYkBbCimW7trK1MxFZNKZSUfWUCZpump",
+    "symbol": "KAT",
+    "marketCap": 38482,
+    "liquidity": 13350.27,
+    "volume1h": 11236.09,
+    "volume24h": 132609.12,
+    "candidateScore": 7.8208,
+    "entryPrice": 0.000042179825818854466,
+    "exitPrice": 0.00004013,
+    "peakPrice": 0.000042179825818854466,
+    "profitSOL": -0.034018113,
+    "profitLamports": -34018113,
+    "pnlPct": -4.859730402059158,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1786755053797",
+    "sellTxid": "DRY_RUN_SELL_1786755151507",
+    "sweepTxid": null
+  }
+]

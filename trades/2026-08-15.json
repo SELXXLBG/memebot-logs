@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1786755893539",
     "sellTxid": "DRY_RUN_SELL_1786756861384",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786756861466"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-15T01:53:01.261Z",
+    "token": "GkBx7VC4FxXmAYYTvmqywg9XnMSBH2S9gs2C4VEJpump",
+    "symbol": "GOOSE",
+    "marketCap": 27745,
+    "liquidity": 11246.88,
+    "volume1h": 3202.46,
+    "volume24h": 115952.74,
+    "candidateScore": 6.2223,
+    "entryPrice": 0.00003291095121167818,
+    "exitPrice": 0.00002953,
+    "peakPrice": 0.00003291095121167818,
+    "profitSOL": -0.071911196,
+    "profitLamports": -71911196,
+    "pnlPct": -10.273027935085862,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS6P",
+    "buyTxid": "DRY_RUN_BUY_1786758413678",
+    "sellTxid": "DRY_RUN_SELL_1786758781167",
+    "sweepTxid": null
   }
 ]

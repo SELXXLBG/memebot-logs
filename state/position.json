@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "9oMa91M32dG8pCWuyvZuMNxtMj7xBjxAuMXex9ZTpump",
-  "symbol": "TripleP",
-  "marketCap": 46459,
-  "liquidity": 14463.81,
-  "volume1h": 53483.63,
-  "volume24h": 53483.63,
-  "candidateScore": 12.1131,
-  "entryPrice": 0.00004688849025234013,
-  "entryTime": 1786829093965,
-  "peakPrice": 0.00005688,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1119111872234",
-  "txid": "DRY_RUN_BUY_1786829093965",
-  "isDryRun": true
-}
+{}

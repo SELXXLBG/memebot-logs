@@ -218,5 +218,27 @@
     "buyTxid": "DRY_RUN_BUY_1786776773490",
     "sellTxid": "DRY_RUN_SELL_1786776961441",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-15T07:55:31.426Z",
+    "token": "8vNd1xWgVgyNfG5idYaTaZG3BViWYg2PGwtqcZr7pump",
+    "symbol": "GIFTR",
+    "marketCap": 24862,
+    "liquidity": 10546.23,
+    "volume1h": 2804.98,
+    "volume24h": 158955.68,
+    "candidateScore": 6.2972,
+    "entryPrice": 0.000027719398812470827,
+    "exitPrice": 0.00002587,
+    "peakPrice": 0.000027719398812470827,
+    "profitSOL": -0.046703004,
+    "profitLamports": -46703004,
+    "pnlPct": -6.671857586026684,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1786780373789",
+    "sellTxid": "DRY_RUN_SELL_1786780531378",
+    "sweepTxid": null
   }
 ]

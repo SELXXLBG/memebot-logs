@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "8vNd1xWgVgyNfG5idYaTaZG3BViWYg2PGwtqcZr7pump",
-  "symbol": "GIFTR",
-  "marketCap": 26245,
-  "liquidity": 10871.96,
-  "volume1h": 2804.98,
-  "volume24h": 158955.68,
-  "candidateScore": 6.2972,
-  "entryPrice": 0.000027719398812470827,
-  "entryTime": 1786780373789,
-  "peakPrice": 0.000027719398812470827,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1861005574502",
-  "txid": "DRY_RUN_BUY_1786780373789",
-  "isDryRun": true
-}
+{}

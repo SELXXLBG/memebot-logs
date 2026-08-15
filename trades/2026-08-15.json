@@ -284,5 +284,27 @@
     "buyTxid": "DRY_RUN_BUY_1786798973579",
     "sellTxid": "DRY_RUN_SELL_1786799011235",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-15T18:06:01.454Z",
+    "token": "6WS1NsTCjB1VFvVL8CjqUkB4VtK4fQ3sMPrN5e7rpump",
+    "symbol": "FROG",
+    "marketCap": 66499,
+    "liquidity": 17663.79,
+    "volume1h": 85763.38,
+    "volume24h": 85763.38,
+    "candidateScore": 10.1548,
+    "entryPrice": 0.000053659035757958676,
+    "exitPrice": 0.00006649,
+    "peakPrice": 0.00006649,
+    "profitSOL": 0.167384203,
+    "profitLamports": 167384203,
+    "pnlPct": 23.91202909407152,
+    "peakPnlPct": 23.91202909407152,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1786817093820",
+    "sellTxid": "DRY_RUN_SELL_1786817161335",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786817161442"
   }
 ]

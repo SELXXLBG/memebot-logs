@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1786755053797",
     "sellTxid": "DRY_RUN_SELL_1786755151507",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-15T00:59:01.277Z",
+    "token": "5i6Ve42SMGGHLYkBbCimW7trK1MxFZNKZSUfWUCZpump",
+    "symbol": "KAT",
+    "marketCap": 37383,
+    "liquidity": 13142.26,
+    "volume1h": 11082.03,
+    "volume24h": 133286.67,
+    "candidateScore": 7.8098,
+    "entryPrice": 0.00004150326540001864,
+    "exitPrice": 0.00003899,
+    "peakPrice": 0.00004150326540001864,
+    "profitSOL": -0.042389094,
+    "profitLamports": -42389094,
+    "pnlPct": -6.05558472519011,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS6P",
+    "buyTxid": "DRY_RUN_BUY_1786755173578",
+    "sellTxid": "DRY_RUN_SELL_1786755541213",
+    "sweepTxid": null
   }
 ]

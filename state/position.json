@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "2ESFEAkkPMoDaMXQCyatSdVDEfVh6dF2zHfQZUuhpump",
+  "symbol": "Marshal",
+  "marketCap": 126644,
+  "liquidity": 25410.32,
+  "volume1h": 60905.23,
+  "volume24h": 195747.41,
+  "candidateScore": 8.9037,
+  "entryPrice": 0.0001328583645732921,
+  "entryTime": 1786775333562,
+  "peakPrice": 0.0001328583645732921,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "385618891802",
+  "txid": "DRY_RUN_BUY_1786775333562",
+  "isDryRun": true
+}

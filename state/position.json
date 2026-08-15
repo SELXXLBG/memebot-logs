@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "GkBx7VC4FxXmAYYTvmqywg9XnMSBH2S9gs2C4VEJpump",
+  "symbol": "GOOSE",
+  "marketCap": 30184,
+  "liquidity": 11787.09,
+  "volume1h": 3687.97,
+  "volume24h": 117405.11,
+  "candidateScore": 7.4422,
+  "entryPrice": 0.000032712198647375074,
+  "entryTime": 1786759493659,
+  "peakPrice": 0.000032712198647375074,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1608269709811",
+  "txid": "DRY_RUN_BUY_1786759493659",
+  "isDryRun": true
+}

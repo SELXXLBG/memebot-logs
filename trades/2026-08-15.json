@@ -196,5 +196,27 @@
     "buyTxid": "DRY_RUN_BUY_1786776653601",
     "sellTxid": "DRY_RUN_SELL_1786776721405",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-15T06:56:01.684Z",
+    "token": "2ESFEAkkPMoDaMXQCyatSdVDEfVh6dF2zHfQZUuhpump",
+    "symbol": "Marshal",
+    "marketCap": 98019,
+    "liquidity": 22282.97,
+    "volume1h": 56425.87,
+    "volume24h": 219771.18,
+    "candidateScore": 8.9252,
+    "entryPrice": 0.00010974954318595873,
+    "exitPrice": 0.000101,
+    "peakPrice": 0.0001166,
+    "profitSOL": -0.055805975,
+    "profitLamports": -55805975,
+    "pnlPct": -7.972282099738289,
+    "peakPnlPct": 6.241900070995203,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1786776773490",
+    "sellTxid": "DRY_RUN_SELL_1786776961441",
+    "sweepTxid": null
   }
 ]

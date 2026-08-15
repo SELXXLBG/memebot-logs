@@ -240,5 +240,27 @@
     "buyTxid": "DRY_RUN_BUY_1786780373789",
     "sellTxid": "DRY_RUN_SELL_1786780531378",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-15T12:35:01.949Z",
+    "token": "4BYp9bPWua2YoijAjWWPDPzUjzMAftjhy9xsCd3wpump",
+    "symbol": "COALKID",
+    "marketCap": 28136,
+    "liquidity": 10963.36,
+    "volume1h": 68699.32,
+    "volume24h": 68699.32,
+    "candidateScore": 10.3572,
+    "entryPrice": 0.000029695483796209545,
+    "exitPrice": 0.00002814,
+    "peakPrice": 0.000029695483796209545,
+    "profitSOL": -0.03666681,
+    "profitLamports": -36666810,
+    "pnlPct": -5.238115690871793,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1786797293912",
+    "sellTxid": "DRY_RUN_SELL_1786797301418",
+    "sweepTxid": null
   }
 ]

@@ -262,5 +262,27 @@
     "buyTxid": "DRY_RUN_BUY_1786797293912",
     "sellTxid": "DRY_RUN_SELL_1786797301418",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-15T13:03:31.294Z",
+    "token": "DDtnq3g9P25qTgykeL6dX7jXap2AZY8kGEwoVspCpump",
+    "symbol": "fug",
+    "marketCap": 43143,
+    "liquidity": 13835.39,
+    "volume1h": 15512.21,
+    "volume24h": 15512.21,
+    "candidateScore": 9.7083,
+    "entryPrice": 0.000048281111658358104,
+    "exitPrice": 0.00004314,
+    "peakPrice": 0.000048281111658358104,
+    "profitSOL": -0.074538014,
+    "profitLamports": -74538014,
+    "pnlPct": -10.648287667312053,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1786798973579",
+    "sellTxid": "DRY_RUN_SELL_1786799011235",
+    "sweepTxid": null
   }
 ]

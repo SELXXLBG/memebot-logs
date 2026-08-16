@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1786854893837",
     "sellTxid": "DRY_RUN_SELL_1786854931298",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-16T04:42:31.445Z",
+    "token": "46zjAxhe4gA8wVTYNGZjMNVdcmP6VNn1z6sj7Urbpump",
+    "symbol": "GP",
+    "marketCap": 39169,
+    "liquidity": 14046.09,
+    "volume1h": 3274.65,
+    "volume24h": 592366.12,
+    "candidateScore": 6.8426,
+    "entryPrice": 0.00004221068469915792,
+    "exitPrice": 0.00003989,
+    "peakPrice": 0.00004221068469915792,
+    "profitSOL": -0.038485026,
+    "profitLamports": -38485026,
+    "pnlPct": -5.497860827650147,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1786855253537",
+    "sellTxid": "DRY_RUN_SELL_1786855351386",
+    "sweepTxid": null
   }
 ]

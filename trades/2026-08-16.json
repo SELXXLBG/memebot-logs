@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1786866293663",
     "sellTxid": "DRY_RUN_SELL_1786867111316",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-16T11:27:01.655Z",
+    "token": "EiSGJDWWQKoEKgjRSY8wjnjcHQW6GBz7kuzENCvopump",
+    "symbol": "Niepstein",
+    "marketCap": 34209,
+    "liquidity": 12153.48,
+    "volume1h": 6107.81,
+    "volume24h": 6107.81,
+    "candidateScore": 9.8513,
+    "entryPrice": 0.000037737008253080526,
+    "exitPrice": 0.00003425,
+    "peakPrice": 0.00003826,
+    "profitSOL": -0.064682017,
+    "profitLamports": -64682017,
+    "pnlPct": -9.240288020966467,
+    "peakPnlPct": 1.3858855567247699,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1786879493673",
+    "sellTxid": "DRY_RUN_SELL_1786879621497",
+    "sweepTxid": null
   }
 ]

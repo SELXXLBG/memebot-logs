@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "46zjAxhe4gA8wVTYNGZjMNVdcmP6VNn1z6sj7Urbpump",
-  "symbol": "GP",
-  "marketCap": 37837,
-  "liquidity": 13780.13,
-  "volume1h": 1932.71,
-  "volume24h": 590895.31,
-  "candidateScore": 6.8709,
-  "entryPrice": 0.00003888370668852602,
-  "entryTime": 1786854893837,
-  "peakPrice": 0.00003888370668852602,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1508078616415",
-  "txid": "DRY_RUN_BUY_1786854893837",
-  "isDryRun": true
-}
+{}

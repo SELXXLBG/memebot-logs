@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "EB2CioHVGAqG6nV8D5GqcTpZd9cJJ59FYzH66XvqbE9n",
-  "symbol": "SPRTS",
-  "marketCap": 67745,
-  "liquidity": 21404.3,
-  "volume1h": 1183.17,
-  "volume24h": 171282.72,
-  "candidateScore": 7.9546,
-  "entryPrice": 0.00006861104645016613,
-  "entryTime": 1786866293663,
-  "peakPrice": 0.0000704,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "770345143523",
-  "txid": "DRY_RUN_BUY_1786866293663",
-  "isDryRun": true
-}
+{}

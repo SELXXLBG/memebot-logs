@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1786855373652",
     "sellTxid": "DRY_RUN_SELL_1786856071346",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786856071393"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-16T05:05:31.442Z",
+    "token": "9RrSrcy2fq35uuGEvYi3gieY5zhxDXxup3YhhaUMdMqC",
+    "symbol": "CAESAR ",
+    "marketCap": 36100,
+    "liquidity": 12535.65,
+    "volume1h": 13035.74,
+    "volume24h": 13035.74,
+    "candidateScore": 10.3384,
+    "entryPrice": 0.00003250720158536532,
+    "exitPrice": 0.00003609,
+    "peakPrice": 0.00003812,
+    "profitSOL": 0.07715087,
+    "profitLamports": 77150870,
+    "pnlPct": 11.021552886446086,
+    "peakPnlPct": 17.266322971219857,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1786856573674",
+    "sellTxid": "DRY_RUN_SELL_1786856731393",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786856731437"
   }
 ]

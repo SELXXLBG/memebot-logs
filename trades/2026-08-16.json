@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1786856573674",
     "sellTxid": "DRY_RUN_SELL_1786856731393",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1786856731437"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-16T07:58:31.368Z",
+    "token": "EB2CioHVGAqG6nV8D5GqcTpZd9cJJ59FYzH66XvqbE9n",
+    "symbol": "SPRTS",
+    "marketCap": 63630,
+    "liquidity": 20743.02,
+    "volume1h": 1183.17,
+    "volume24h": 171282.72,
+    "candidateScore": 7.9546,
+    "entryPrice": 0.00006861104645016613,
+    "exitPrice": 0.00006362,
+    "peakPrice": 0.0000704,
+    "profitSOL": -0.050920846,
+    "profitLamports": -50920846,
+    "pnlPct": -7.274406540047805,
+    "peakPnlPct": 2.607384149334085,
+    "reason": "STOPLOSS6P",
+    "buyTxid": "DRY_RUN_BUY_1786866293663",
+    "sellTxid": "DRY_RUN_SELL_1786867111316",
+    "sweepTxid": null
   }
 ]

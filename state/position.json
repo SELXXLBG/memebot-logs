@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "EiSGJDWWQKoEKgjRSY8wjnjcHQW6GBz7kuzENCvopump",
+  "symbol": "Niepstein",
+  "marketCap": 37310,
+  "liquidity": 12750.56,
+  "volume1h": 6107.81,
+  "volume24h": 6107.81,
+  "candidateScore": 9.8513,
+  "entryPrice": 0.000037737008253080526,
+  "entryTime": 1786879493673,
+  "peakPrice": 0.000037737008253080526,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1367756579031",
+  "txid": "DRY_RUN_BUY_1786879493673",
+  "isDryRun": true
+}

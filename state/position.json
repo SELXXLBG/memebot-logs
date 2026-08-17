@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "HqqcMs574vWEQajX7F1SmXQBmjDnhqQLBYw6wkmEpump",
+  "symbol": "NIUER",
+  "marketCap": 31608,
+  "liquidity": 11658.42,
+  "volume1h": 7811.8,
+  "volume24h": 7811.8,
+  "candidateScore": 7.826,
+  "entryPrice": 0.000031864890346728004,
+  "entryTime": 1786965293568,
+  "peakPrice": 0.000031864890346728004,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1646562229004",
+  "txid": "DRY_RUN_BUY_1786965293568",
+  "isDryRun": true
+}

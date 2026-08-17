@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1786956893780",
     "sellTxid": "DRY_RUN_SELL_1786957771415",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-17T10:50:02.308Z",
+    "token": "Bhn6ihWs2JKwsZ7ahErSdwSNcKq3uog8BKoVBrexpump",
+    "symbol": "niggy",
+    "marketCap": 29937,
+    "liquidity": 11312.19,
+    "volume1h": 10728.09,
+    "volume24h": 10728.09,
+    "candidateScore": 9.3458,
+    "entryPrice": 0.000032754419678066806,
+    "exitPrice": 0.00002993,
+    "peakPrice": 0.00003297,
+    "profitSOL": -0.06036113,
+    "profitLamports": -60361130,
+    "pnlPct": -8.62301852949057,
+    "peakPnlPct": 0.6581717033977852,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1786963733836",
+    "sellTxid": "DRY_RUN_SELL_1786963802158",
+    "sweepTxid": null
   }
 ]

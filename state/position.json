@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "CzTrgCFaw2ZkzUkLirWz8NoLDQULkHWbVDmSbveYngKv",
-  "symbol": "HYPNOTOAD",
-  "marketCap": 38551,
-  "liquidity": 13041.36,
-  "volume1h": 39207.94,
-  "volume24h": 39207.94,
-  "candidateScore": 10.6858,
-  "entryPrice": 0.00003895028787098579,
-  "entryTime": 1787001293962,
-  "peakPrice": 0.00003895028787098579,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1737923034360",
-  "txid": "DRY_RUN_BUY_1787001293962",
-  "isDryRun": true
-}
+{}

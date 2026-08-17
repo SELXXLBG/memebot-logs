@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "E2rQLGJxb1pq4u4AoXSAmqTbspupMXfgfbJsXU5npump",
+  "symbol": "DELONTE",
+  "marketCap": 30525,
+  "liquidity": 11468.5,
+  "volume1h": 35051.96,
+  "volume24h": 35051.96,
+  "candidateScore": 10.3892,
+  "entryPrice": 0.000030759557468734885,
+  "entryTime": 1786997166733,
+  "peakPrice": 0.000030759557468734885,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "18494788648141",
+  "txid": "DRY_RUN_BUY_1786997166733",
+  "isDryRun": true
+}

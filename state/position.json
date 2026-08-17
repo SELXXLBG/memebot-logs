@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "i3PW1jsBZu2okS3uhqn17SbNDFcScb9TXGRky82pump",
-  "symbol": "CUPSEM",
-  "marketCap": 33725,
-  "liquidity": 12110.03,
-  "volume1h": 23690.97,
-  "volume24h": 23690.97,
-  "candidateScore": 9.7999,
-  "entryPrice": 0.00003436771576371751,
-  "entryTime": 1787002013821,
-  "peakPrice": 0.00003436771576371751,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1625633505273",
-  "txid": "DRY_RUN_BUY_1787002013821",
-  "isDryRun": true
-}
+{}

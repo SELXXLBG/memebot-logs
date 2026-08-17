@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1786963853596",
     "sellTxid": "DRY_RUN_SELL_1786963891368",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-17T11:22:31.390Z",
+    "token": "HqqcMs574vWEQajX7F1SmXQBmjDnhqQLBYw6wkmEpump",
+    "symbol": "NIUER",
+    "marketCap": 29576,
+    "liquidity": 11236.49,
+    "volume1h": 7811.8,
+    "volume24h": 7811.8,
+    "candidateScore": 7.826,
+    "entryPrice": 0.000031864890346728004,
+    "exitPrice": 0.00002957,
+    "peakPrice": 0.000031864890346728004,
+    "profitSOL": -0.050413582,
+    "profitLamports": -50413582,
+    "pnlPct": -7.20194019736726,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS6P",
+    "buyTxid": "DRY_RUN_BUY_1786965293568",
+    "sellTxid": "DRY_RUN_SELL_1786965751323",
+    "sweepTxid": null
   }
 ]

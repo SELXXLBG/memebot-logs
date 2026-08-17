@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1786965293568",
     "sellTxid": "DRY_RUN_SELL_1786965751323",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-17T20:06:31.458Z",
+    "token": "E2rQLGJxb1pq4u4AoXSAmqTbspupMXfgfbJsXU5npump",
+    "symbol": "DELONTE",
+    "marketCap": 2755,
+    "liquidity": 2511.44,
+    "volume1h": 35051.96,
+    "volume24h": 35051.96,
+    "candidateScore": 10.3892,
+    "entryPrice": 0.000030759557468734885,
+    "exitPrice": 0.000002755,
+    "peakPrice": 0.000030759557468734885,
+    "profitSOL": -0.63730404,
+    "profitLamports": -637304040,
+    "pnlPct": -91.04343421455175,
+    "peakPnlPct": 0,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1786997166733",
+    "sellTxid": "DRY_RUN_SELL_1786997191393",
+    "sweepTxid": null
   }
 ]

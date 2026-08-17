@@ -130,5 +130,27 @@
     "buyTxid": "DRY_RUN_BUY_1787001293962",
     "sellTxid": "DRY_RUN_SELL_1787001315298",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-17T21:27:01.433Z",
+    "token": "i3PW1jsBZu2okS3uhqn17SbNDFcScb9TXGRky82pump",
+    "symbol": "CUPSEM",
+    "marketCap": 32171,
+    "liquidity": 11797.88,
+    "volume1h": 23690.97,
+    "volume24h": 23690.97,
+    "candidateScore": 9.7999,
+    "entryPrice": 0.00003436771576371751,
+    "exitPrice": 0.00003217,
+    "peakPrice": 0.00003436771576371751,
+    "profitSOL": -0.044762971,
+    "profitLamports": -44762971,
+    "pnlPct": -6.39471002037812,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787002013821",
+    "sellTxid": "DRY_RUN_SELL_1787002021367",
+    "sweepTxid": null
   }
 ]

@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-17T08:46:31.424Z",
+    "token": "2HtutbHpCNCy4jBux1K4taVxshFCHgarydADjUjRpump",
+    "symbol": "RUN",
+    "marketCap": 37534,
+    "liquidity": 12789.36,
+    "volume1h": 5540.18,
+    "volume24h": 5540.18,
+    "candidateScore": 9.434,
+    "entryPrice": 0.00004285153989503015,
+    "exitPrice": 0.00003753,
+    "peakPrice": 0.00004374,
+    "profitSOL": -0.08692985,
+    "profitLamports": -86929850,
+    "pnlPct": -12.41854997058655,
+    "peakPnlPct": 2.0733446385969625,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1786956173744",
+    "sellTxid": "DRY_RUN_SELL_1786956391333",
+    "sweepTxid": null
+  }
+]

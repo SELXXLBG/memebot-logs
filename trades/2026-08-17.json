@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1786965293568",
     "sellTxid": "DRY_RUN_SELL_1786965751323",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-17T21:15:15.367Z",
+    "token": "CzTrgCFaw2ZkzUkLirWz8NoLDQULkHWbVDmSbveYngKv",
+    "symbol": "HYPNOTOAD",
+    "marketCap": 36030,
+    "liquidity": 12568.9,
+    "volume1h": 39207.94,
+    "volume24h": 39207.94,
+    "candidateScore": 10.6858,
+    "entryPrice": 0.00003895028787098579,
+    "exitPrice": 0.00003603,
+    "peakPrice": 0.00003895028787098579,
+    "profitSOL": -0.052482321,
+    "profitLamports": -52482321,
+    "pnlPct": -7.497474423446104,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787001293962",
+    "sellTxid": "DRY_RUN_SELL_1787001315298",
+    "sweepTxid": null
   }
 ]

@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "Bhn6ihWs2JKwsZ7ahErSdwSNcKq3uog8BKoVBrexpump",
+  "symbol": "niggy",
+  "marketCap": 32373,
+  "liquidity": 11814.53,
+  "volume1h": 10728.09,
+  "volume24h": 10728.09,
+  "candidateScore": 9.3458,
+  "entryPrice": 0.000032754419678066806,
+  "entryTime": 1786963733836,
+  "peakPrice": 0.000032754419678066806,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1606303074446",
+  "txid": "DRY_RUN_BUY_1786963733836",
+  "isDryRun": true
+}

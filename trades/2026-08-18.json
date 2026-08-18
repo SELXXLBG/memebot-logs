@@ -152,5 +152,27 @@
     "buyTxid": "DRY_RUN_BUY_1787053733721",
     "sellTxid": "DRY_RUN_SELL_1787053771339",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-18T11:51:31.241Z",
+    "token": "AihzbXwVExyB6zk3JJZqmWgq45uDcWiUYhgZFQStUYdk",
+    "symbol": "BIM",
+    "marketCap": 38640,
+    "liquidity": 14108.1,
+    "volume1h": 58106.19,
+    "volume24h": 671800.24,
+    "candidateScore": 8.8669,
+    "entryPrice": 0.000043696263853625976,
+    "exitPrice": 0.00003936,
+    "peakPrice": 0.0000444,
+    "profitSOL": -0.069465544,
+    "profitLamports": -69465544,
+    "pnlPct": -9.92364900612926,
+    "peakPnlPct": 1.6105178894273553,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787053853598",
+    "sellTxid": "DRY_RUN_SELL_1787053891184",
+    "sweepTxid": null
   }
 ]

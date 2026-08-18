@@ -218,5 +218,27 @@
     "buyTxid": "DRY_RUN_BUY_1787069573695",
     "sellTxid": "DRY_RUN_SELL_1787069731318",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-18T17:03:31.418Z",
+    "token": "4Xg9qDuEP1vMEwqMr2yWo92Yn9a7xZu5BNQBbXVfpump",
+    "symbol": "NEWBIE",
+    "marketCap": 35901,
+    "liquidity": 12600.28,
+    "volume1h": 5968.02,
+    "volume24h": 5968.02,
+    "candidateScore": 8.942,
+    "entryPrice": 0.00003853269071593466,
+    "exitPrice": 0.0000359,
+    "peakPrice": 0.00003906,
+    "profitSOL": -0.047826494,
+    "profitLamports": -47826494,
+    "pnlPct": -6.8323562850645905,
+    "peakPnlPct": 1.3684725210411548,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787072574028",
+    "sellTxid": "DRY_RUN_SELL_1787072611368",
+    "sweepTxid": null
   }
 ]

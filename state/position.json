@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "2qxpFzCodeq9gcAEM7Q3eMAqBDC4bFJGoxrEsZewpump",
+  "symbol": "TOLYOTA",
+  "marketCap": 75665,
+  "liquidity": 19526.79,
+  "volume1h": 24634.06,
+  "volume24h": 213110.7,
+  "candidateScore": 7.4304,
+  "entryPrice": 0.00007845171394987232,
+  "entryTime": 1787051933789,
+  "peakPrice": 0.00007845171394987232,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "659662973619",
+  "txid": "DRY_RUN_BUY_1787051933789",
+  "isDryRun": true
+}

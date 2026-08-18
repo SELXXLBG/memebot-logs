@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "CcWVFqrwzkEdHH1YpfZRjkdbKrxYQbU9BRqeC6ZGpump",
-  "symbol": "ANSEMIUS",
-  "marketCap": 35171,
-  "liquidity": 12824.81,
-  "volume1h": 29562.15,
-  "volume24h": 53205.78,
-  "candidateScore": 8.3299,
-  "entryPrice": 0.00003713984533757617,
-  "entryTime": 1787069573695,
-  "peakPrice": 0.00003713984533757617,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1459707883706",
-  "txid": "DRY_RUN_BUY_1787069573695",
-  "isDryRun": true
-}
+{}

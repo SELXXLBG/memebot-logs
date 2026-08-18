@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-18T09:03:01.608Z",
+    "token": "AAbdc5bUqySeYxb8HVeAZ7U4R85Nse9s8wGT2Pupump",
+    "symbol": "MOONBEAR",
+    "marketCap": 36061,
+    "liquidity": 12691.3,
+    "volume1h": 76404.44,
+    "volume24h": 76404.44,
+    "candidateScore": 10.2842,
+    "entryPrice": 0.00003964922680579698,
+    "exitPrice": 0.00003606,
+    "peakPrice": 0.00003964922680579698,
+    "profitSOL": -0.063367157,
+    "profitLamports": -63367157,
+    "pnlPct": -9.052450942806825,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787043773770",
+    "sellTxid": "DRY_RUN_SELL_1787043781493",
+    "sweepTxid": null
+  }
+]

@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "AAbdc5bUqySeYxb8HVeAZ7U4R85Nse9s8wGT2Pupump",
-  "symbol": "MOONBEAR",
-  "marketCap": 38968,
-  "liquidity": 13239.31,
-  "volume1h": 76404.44,
-  "volume24h": 76404.44,
-  "candidateScore": 10.2842,
-  "entryPrice": 0.00003964922680579698,
-  "entryTime": 1787043773770,
-  "peakPrice": 0.00003964922680579698,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1515052999416",
-  "txid": "DRY_RUN_BUY_1787043773770",
-  "isDryRun": true
-}
+{}

@@ -438,5 +438,27 @@
     "buyTxid": "DRY_RUN_BUY_1787079294329",
     "sellTxid": "DRY_RUN_SELL_1787079421392",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-18T19:05:31.550Z",
+    "token": "7TGno7LGF4mJHT1mvBMsthaEmavcKM5H8ojXCVcJpump",
+    "symbol": "CATSEYE",
+    "marketCap": 96488,
+    "liquidity": 21680.41,
+    "volume1h": 21421.11,
+    "volume24h": 21421.11,
+    "candidateScore": 8.6199,
+    "entryPrice": 0.0000492854704512912,
+    "exitPrice": 0.00009648,
+    "peakPrice": 0.00009648,
+    "profitSOL": 0.670302431,
+    "profitLamports": 670302431,
+    "pnlPct": 95.75749022290682,
+    "peakPnlPct": 95.75749022290682,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787079533537",
+    "sellTxid": "DRY_RUN_SELL_1787079931481",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787079931542"
   }
 ]

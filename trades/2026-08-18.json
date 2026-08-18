@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1787051933789",
     "sellTxid": "DRY_RUN_SELL_1787052061320",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-18T11:24:01.658Z",
+    "token": "2qxpFzCodeq9gcAEM7Q3eMAqBDC4bFJGoxrEsZewpump",
+    "symbol": "TOLYOTA",
+    "marketCap": 71649,
+    "liquidity": 18997.75,
+    "volume1h": 24508.42,
+    "volume24h": 214662.52,
+    "candidateScore": 7.0305,
+    "entryPrice": 0.00007712818208348814,
+    "exitPrice": 0.00007348,
+    "peakPrice": 0.00007712818208348814,
+    "profitSOL": -0.033110174,
+    "profitLamports": -33110174,
+    "pnlPct": -4.730024726291529,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787052173687",
+    "sellTxid": "DRY_RUN_SELL_1787052241506",
+    "sweepTxid": null
   }
 ]

@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "AihzbXwVExyB6zk3JJZqmWgq45uDcWiUYhgZFQStUYdk",
+  "symbol": "BIM",
+  "marketCap": 42587,
+  "liquidity": 14877.92,
+  "volume1h": 58106.19,
+  "volume24h": 671800.24,
+  "candidateScore": 8.8669,
+  "entryPrice": 0.000043696263853625976,
+  "entryTime": 1787053853598,
+  "peakPrice": 0.000043696263853625976,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1401846091739",
+  "txid": "DRY_RUN_BUY_1787053853598",
+  "isDryRun": true
+}

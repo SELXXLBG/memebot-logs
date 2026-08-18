@@ -174,5 +174,27 @@
     "buyTxid": "DRY_RUN_BUY_1787053853598",
     "sellTxid": "DRY_RUN_SELL_1787053891184",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-18T16:06:31.375Z",
+    "token": "CcWVFqrwzkEdHH1YpfZRjkdbKrxYQbU9BRqeC6ZGpump",
+    "symbol": "ANSEMIUS",
+    "marketCap": 36094,
+    "liquidity": 12714.17,
+    "volume1h": 34512.05,
+    "volume24h": 50341.93,
+    "candidateScore": 8.774,
+    "entryPrice": 0.00003782163630284736,
+    "exitPrice": 0.00003609,
+    "peakPrice": 0.00003782163630284736,
+    "profitSOL": -0.032048995,
+    "profitLamports": -32048995,
+    "pnlPct": -4.578427778697128,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787069093912",
+    "sellTxid": "DRY_RUN_SELL_1787069191314",
+    "sweepTxid": null
   }
 ]

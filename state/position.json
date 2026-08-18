@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "7TGno7LGF4mJHT1mvBMsthaEmavcKM5H8ojXCVcJpump",
-  "symbol": "CATSEYE",
-  "marketCap": 54130,
-  "liquidity": 15829.67,
-  "volume1h": 18860.09,
-  "volume24h": 18860.09,
-  "candidateScore": 10.951,
-  "entryPrice": 0.00005475958634327,
-  "entryTime": 1787079173712,
-  "peakPrice": 0.00005485,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "977711956255",
-  "txid": "DRY_RUN_BUY_1787079173712",
-  "isDryRun": true
-}
+{}

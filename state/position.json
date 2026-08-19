@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "42VxDQE8kxGWT8j7NEkBE3tvMqgN3gv1JdBv2eAxpump",
+  "symbol": "DOGSHIT",
+  "marketCap": 60763,
+  "liquidity": 17266.39,
+  "volume1h": 10260.08,
+  "volume24h": 10260.08,
+  "candidateScore": 9.6472,
+  "entryPrice": 0.00006112931703422474,
+  "entryTime": 1787162573984,
+  "peakPrice": 0.00006112931703422474,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "937297544870",
+  "txid": "DRY_RUN_BUY_1787162573984",
+  "isDryRun": true
+}

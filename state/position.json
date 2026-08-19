@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "4Xg9qDuEP1vMEwqMr2yWo92Yn9a7xZu5BNQBbXVfpump",
-  "symbol": "NEWBIE",
-  "marketCap": 95886,
-  "liquidity": 22320.49,
-  "volume1h": 90656.44,
-  "volume24h": 208067.66,
-  "candidateScore": 7.5784,
-  "entryPrice": 0.00010025409851376668,
-  "entryTime": 1787101133686,
-  "peakPrice": 0.0001042,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "522161026977",
-  "txid": "DRY_RUN_BUY_1787101133686",
-  "isDryRun": true
-}
+{}

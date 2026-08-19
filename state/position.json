@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "Gk1N8DwUt9v8Zq6ibj6QjTDduEsHk3mtyE1TkHsHpump",
-  "symbol": "TRUMP2",
-  "marketCap": 55800,
-  "liquidity": 16481.23,
-  "volume1h": 31285.76,
-  "volume24h": 31285.76,
-  "candidateScore": 10.4109,
-  "entryPrice": 0.00005677152392083845,
-  "entryTime": 1787160293919,
-  "peakPrice": 0.00005785,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1045834685151",
-  "txid": "DRY_RUN_BUY_1787160293919",
-  "isDryRun": true
-}
+{}

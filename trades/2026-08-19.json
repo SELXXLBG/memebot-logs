@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1787101133686",
     "sellTxid": "DRY_RUN_SELL_1787101441439",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-19T17:25:31.711Z",
+    "token": "Gk1N8DwUt9v8Zq6ibj6QjTDduEsHk3mtyE1TkHsHpump",
+    "symbol": "TRUMP2",
+    "marketCap": 53306,
+    "liquidity": 16076.79,
+    "volume1h": 31285.76,
+    "volume24h": 31285.76,
+    "candidateScore": 10.4109,
+    "entryPrice": 0.00005677152392083845,
+    "exitPrice": 0.0000533,
+    "peakPrice": 0.00005785,
+    "profitSOL": -0.042804325,
+    "profitLamports": -42804325,
+    "pnlPct": -6.114903531001039,
+    "peakPnlPct": 1.8996778748891077,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787160293919",
+    "sellTxid": "DRY_RUN_SELL_1787160331658",
+    "sweepTxid": null
   }
 ]

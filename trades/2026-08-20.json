@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1787196653698",
     "sellTxid": "DRY_RUN_SELL_1787196661299",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-20T05:29:01.499Z",
+    "token": "9jSTqaJP2u35CLCuThnW9BTamDqnX5HoYzFwhaJCpump",
+    "symbol": "goober",
+    "marketCap": 33445,
+    "liquidity": 12693.38,
+    "volume1h": 53692.48,
+    "volume24h": 53692.48,
+    "candidateScore": 10.984,
+    "entryPrice": 0.00003529570692070576,
+    "exitPrice": 0.00003344,
+    "peakPrice": 0.00003529570692070576,
+    "profitSOL": -0.036803197,
+    "profitLamports": -36803197,
+    "pnlPct": -5.257599528675632,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787203733844",
+    "sellTxid": "DRY_RUN_SELL_1787203741427",
+    "sweepTxid": null
   }
 ]

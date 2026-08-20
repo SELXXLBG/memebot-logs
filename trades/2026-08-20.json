@@ -174,5 +174,27 @@
     "buyTxid": "DRY_RUN_BUY_1787228934563",
     "sellTxid": "DRY_RUN_SELL_1787228971426",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-20T13:34:01.605Z",
+    "token": "3NYRJRjDTtL5CyKrPinbjdybd27tdbqp93TKKtch8K6A",
+    "symbol": "GOKU",
+    "marketCap": 51417,
+    "liquidity": 16188.29,
+    "volume1h": 9909.97,
+    "volume24h": 9909.97,
+    "candidateScore": 9.9039,
+    "entryPrice": 0.0000517121976011734,
+    "exitPrice": 0.00005141,
+    "peakPrice": 0.0000581,
+    "profitSOL": -0.004090686,
+    "profitLamports": -4090686,
+    "pnlPct": -0.5843835984385776,
+    "peakPnlPct": 12.352602858018269,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787232774129",
+    "sellTxid": "DRY_RUN_SELL_1787232841495",
+    "sweepTxid": null
   }
 ]

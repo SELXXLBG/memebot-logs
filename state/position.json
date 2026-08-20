@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "5vTzYtcUMJvWKMxweLuiyiAoLhXuhWHy8H57F1UPpump",
+  "symbol": "MOMENTUM",
+  "marketCap": 79329,
+  "liquidity": 21107.7,
+  "volume1h": 19632.68,
+  "volume24h": 114510.04,
+  "candidateScore": 8.1505,
+  "entryPrice": 0.00008299851179344872,
+  "entryTime": 1787250053775,
+  "peakPrice": 0.00008299851179344872,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "751090339122",
+  "txid": "DRY_RUN_BUY_1787250053775",
+  "isDryRun": true
+}

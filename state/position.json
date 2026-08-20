@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "3NYRJRjDTtL5CyKrPinbjdybd27tdbqp93TKKtch8K6A",
+  "symbol": "GOKU",
+  "marketCap": 51183,
+  "liquidity": 16142.17,
+  "volume1h": 9909.97,
+  "volume24h": 9909.97,
+  "candidateScore": 9.9039,
+  "entryPrice": 0.0000517121976011734,
+  "entryTime": 1787232774129,
+  "peakPrice": 0.0000517121976011734,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1170858800917",
+  "txid": "DRY_RUN_BUY_1787232774129",
+  "isDryRun": true
+}

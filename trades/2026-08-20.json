@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-20T03:03:31.360Z",
+    "token": "EpXtn6xGoZ4Y45vRjiDUHSCGbBoJD5FaEqZbF98YswH1",
+    "symbol": "MADE",
+    "marketCap": 118118,
+    "liquidity": 26762.94,
+    "volume1h": 198134.04,
+    "volume24h": 686653.72,
+    "candidateScore": 8.5902,
+    "entryPrice": 0.00012746843908658626,
+    "exitPrice": 0.0001205,
+    "peakPrice": 0.00012746843908658626,
+    "profitSOL": -0.03826757,
+    "profitLamports": -38267570,
+    "pnlPct": -5.466795652728407,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787194974129",
+    "sellTxid": "DRY_RUN_SELL_1787195011293",
+    "sweepTxid": null
+  }
+]

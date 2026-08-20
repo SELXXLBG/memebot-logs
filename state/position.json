@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "9jSTqaJP2u35CLCuThnW9BTamDqnX5HoYzFwhaJCpump",
+  "symbol": "goober",
+  "marketCap": 35013,
+  "liquidity": 13022.11,
+  "volume1h": 53692.48,
+  "volume24h": 53692.48,
+  "candidateScore": 10.984,
+  "entryPrice": 0.00003529570692070576,
+  "entryTime": 1787203733844,
+  "peakPrice": 0.00003529570692070576,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1857858949329",
+  "txid": "DRY_RUN_BUY_1787203733844",
+  "isDryRun": true
+}

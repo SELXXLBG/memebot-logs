@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "EpXtn6xGoZ4Y45vRjiDUHSCGbBoJD5FaEqZbF98YswH1",
+  "symbol": "MADE",
+  "marketCap": 119867,
+  "liquidity": 27055.97,
+  "volume1h": 117378.66,
+  "volume24h": 755196.55,
+  "candidateScore": 8.4318,
+  "entryPrice": 0.0001240683588316625,
+  "entryTime": 1787196653698,
+  "peakPrice": 0.0001240683588316625,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "493469859431",
+  "txid": "DRY_RUN_BUY_1787196653698",
+  "isDryRun": true
+}

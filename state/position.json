@@ -1,1 +1,16 @@
-{}
+{
+  "tokenAddress": "GZZaWHs22e4oAbkrcZT9USGUzSzdmHusc1dZcodUpump",
+  "symbol": "bul",
+  "marketCap": 40907,
+  "liquidity": 14327.09,
+  "volume1h": 38175.9,
+  "volume24h": 38175.9,
+  "candidateScore": 10.4587,
+  "entryPrice": 0.000041274823853141325,
+  "entryTime": 1787228333700,
+  "peakPrice": 0.000041274823853141325,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1550679929846",
+  "txid": "DRY_RUN_BUY_1787228333700",
+  "isDryRun": true
+}

@@ -240,5 +240,27 @@
     "buyTxid": "DRY_RUN_BUY_1787233733982",
     "sellTxid": "DRY_RUN_SELL_1787233921421",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787233921589"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-20T13:55:02.134Z",
+    "token": "8vatYqwQrD3i4ZeWT2V4mx2JmkQApWmw3qMiTAqmpump",
+    "symbol": "Coge",
+    "marketCap": 40918,
+    "liquidity": 14324.42,
+    "volume1h": 29332.61,
+    "volume24h": 29332.61,
+    "candidateScore": 10.3254,
+    "entryPrice": 0.00004281609708135134,
+    "exitPrice": 0.00004098,
+    "peakPrice": 0.00004281609708135134,
+    "profitSOL": -0.030018336,
+    "profitLamports": -30018336,
+    "pnlPct": -4.288333609349595,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787234093985",
+    "sellTxid": "DRY_RUN_SELL_1787234101966",
+    "sweepTxid": null
   }
 ]

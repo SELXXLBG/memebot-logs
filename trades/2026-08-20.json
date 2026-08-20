@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1787195813652",
     "sellTxid": "DRY_RUN_SELL_1787195881395",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-20T03:31:01.381Z",
+    "token": "EpXtn6xGoZ4Y45vRjiDUHSCGbBoJD5FaEqZbF98YswH1",
+    "symbol": "MADE",
+    "marketCap": 113164,
+    "liquidity": 26250.61,
+    "volume1h": 117378.66,
+    "volume24h": 755196.55,
+    "candidateScore": 8.4318,
+    "entryPrice": 0.0001240683588316625,
+    "exitPrice": 0.0001154,
+    "peakPrice": 0.0001240683588316625,
+    "profitSOL": -0.048907323,
+    "profitLamports": -48907323,
+    "pnlPct": -6.986760293511939,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787196653698",
+    "sellTxid": "DRY_RUN_SELL_1787196661299",
+    "sweepTxid": null
   }
 ]

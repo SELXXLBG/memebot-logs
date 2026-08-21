@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1787292293726",
     "sellTxid": "DRY_RUN_SELL_1787292301541",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-21T06:15:31.344Z",
+    "token": "CV1gdHJR2Ngtx9ZTgvPhk4nSRdYMLbXGj8QHmeYPpump",
+    "symbol": "FUGCAT",
+    "marketCap": 59390,
+    "liquidity": 17972.52,
+    "volume1h": 46254.66,
+    "volume24h": 46254.66,
+    "candidateScore": 10.7186,
+    "entryPrice": 0.00006282636214110054,
+    "exitPrice": 0.00005939,
+    "peakPrice": 0.00006282636214110054,
+    "profitSOL": -0.038287328,
+    "profitLamports": -38287328,
+    "pnlPct": -5.469618204827584,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787292893705",
+    "sellTxid": "DRY_RUN_SELL_1787292931295",
+    "sweepTxid": null
   }
 ]

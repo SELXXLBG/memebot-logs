@@ -1,16 +1,1 @@
-{
-  "tokenAddress": "CV1gdHJR2Ngtx9ZTgvPhk4nSRdYMLbXGj8QHmeYPpump",
-  "symbol": "FUGCAT",
-  "marketCap": 45624,
-  "liquidity": 15501.15,
-  "volume1h": 6171.44,
-  "volume24h": 6171.44,
-  "candidateScore": 9.1365,
-  "entryPrice": 0.0000462950752879549,
-  "entryTime": 1787292293726,
-  "peakPrice": 0.0000462950752879549,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1429346490532",
-  "txid": "DRY_RUN_BUY_1787292293726",
-  "isDryRun": true
-}
+{}

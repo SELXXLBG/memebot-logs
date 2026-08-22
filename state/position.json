@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "8rVbmjQybhaazSoVoR8aDTMJDjtaos9xqB7D2yCfpump",
-  "symbol": "MSGA",
-  "marketCap": 49000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 0.0000019780412961276955,
-  "entryTime": 1787399520669,
-  "peakPrice": 0.000002375,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "31253384924062",
-  "txid": "DRY_RUN_BUY_1787399520669",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

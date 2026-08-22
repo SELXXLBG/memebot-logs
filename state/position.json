@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "3XFiHA2gexzBjqtM5Z7FjJhP6f28D2m79UihBCfkpump",
+  "symbol": "BTCAT",
+  "marketCap": 60000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 6.4,
+  "entryPrice": 0.00007938431019204585,
+  "entryTime": 1787429232987,
+  "peakPrice": 0.00007938431019204585,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "868406123611",
+  "txid": "DRY_RUN_BUY_1787429232987",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

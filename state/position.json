@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "AUDQcpqLNzmdDKU81sDFzh7oUVX9FJwRRs4QD3FfA4E8",
-  "symbol": "ALIGN",
-  "marketCap": 122000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 0.0000014503680919743419,
-  "entryTime": 1787391528328,
-  "peakPrice": 0.0000014503680919743419,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "2320554287039",
-  "txid": "DRY_RUN_BUY_1787391528328",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

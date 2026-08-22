@@ -174,5 +174,27 @@
     "buyTxid": "DRY_RUN_BUY_1787399520669",
     "sellTxid": "DRY_RUN_SELL_1787399701539",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787399701777"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-22T14:10:31.407Z",
+    "token": "53FzfUaguG7UvDHtRbAPcG6fCm17wie8AtTdJy16pump",
+    "symbol": "BALLS",
+    "marketCap": 1707,
+    "liquidity": 1725.7,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.0000017650912001476487,
+    "exitPrice": 0.000001707,
+    "peakPrice": 0.0000017650912001476487,
+    "profitSOL": -0.7,
+    "profitLamports": -700000000,
+    "pnlPct": -3.291116070534459,
+    "peakPnlPct": 0,
+    "reason": "FORCE_EXIT_90M_SELL_FAILED",
+    "buyTxid": "DRY_RUN_BUY_1787402424135",
+    "sellTxid": "SELL_FAILED_FORCE_EXIT_1787407831358",
+    "sweepTxid": null
   }
 ]

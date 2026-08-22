@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "5DLJu2UgaLXWqRehryDZxisS6voRp2wmBaXvhfsPpump",
+  "symbol": "SPEEDY",
+  "marketCap": 64235,
+  "liquidity": 19115.25,
+  "volume1h": 58386.84,
+  "volume24h": 58386.84,
+  "candidateScore": 9.8499,
+  "entryPrice": 0.00006519757530264301,
+  "entryTime": 1787423573877,
+  "peakPrice": 0.00006519757530264301,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "991856227230",
+  "txid": "DRY_RUN_BUY_1787423573877",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

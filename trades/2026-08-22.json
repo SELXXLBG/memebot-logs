@@ -262,5 +262,27 @@
     "buyTxid": "DRY_RUN_BUY_1787423333762",
     "sellTxid": "DRY_RUN_SELL_1787423401511",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-22T18:36:02.052Z",
+    "token": "5DLJu2UgaLXWqRehryDZxisS6voRp2wmBaXvhfsPpump",
+    "symbol": "SPEEDY",
+    "marketCap": 58445,
+    "liquidity": 18162.96,
+    "volume1h": 58386.84,
+    "volume24h": 58386.84,
+    "candidateScore": 9.8499,
+    "entryPrice": 0.00006519757530264301,
+    "exitPrice": 0.00005845,
+    "peakPrice": 0.00006639,
+    "profitSOL": -0.072445988,
+    "profitLamports": -72445988,
+    "pnlPct": -10.34942675601232,
+    "peakPnlPct": 1.8289402509553954,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787423573877",
+    "sellTxid": "DRY_RUN_SELL_1787423761884",
+    "sweepTxid": null
   }
 ]

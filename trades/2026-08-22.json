@@ -306,5 +306,27 @@
     "buyTxid": "DRY_RUN_BUY_1787425724741",
     "sellTxid": "DRY_RUN_SELL_1787426971437",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787426971507"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-22T20:08:31.427Z",
+    "token": "3XFiHA2gexzBjqtM5Z7FjJhP6f28D2m79UihBCfkpump",
+    "symbol": "BTCAT",
+    "marketCap": 67122,
+    "liquidity": 31744.7,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 6.4,
+    "entryPrice": 0.00007938431019204585,
+    "exitPrice": 0.00007026,
+    "peakPrice": 0.00007938431019204585,
+    "profitSOL": -0.080456921,
+    "profitLamports": -80456921,
+    "pnlPct": -11.493845786368112,
+    "peakPnlPct": 0,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787429232987",
+    "sellTxid": "DRY_RUN_SELL_1787429311374",
+    "sweepTxid": null
   }
 ]

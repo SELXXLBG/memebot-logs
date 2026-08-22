@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "6LeCYgva3n6LZUxEDc74CabngyGXDzbGRxi4pqxppump",
-  "symbol": "BULL",
-  "marketCap": 85858,
-  "liquidity": 22749.85,
-  "volume1h": 156136.17,
-  "volume24h": 156136.17,
-  "candidateScore": 12.7842,
-  "entryPrice": 0.00008643788743521825,
-  "entryTime": 1787370293624,
-  "peakPrice": 0.00009004,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "754170443744",
-  "txid": "DRY_RUN_BUY_1787370293624",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

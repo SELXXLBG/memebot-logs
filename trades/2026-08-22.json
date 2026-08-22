@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-22T01:02:31.266Z",
+    "token": "24EX9CQqEpR9mNUDTjkooKqRTf2pkY2mgbDqwNDwpump",
+    "symbol": "PATE",
+    "marketCap": 135109,
+    "liquidity": 30072.35,
+    "volume1h": 42319.15,
+    "volume24h": 413433.31,
+    "candidateScore": 7.4717,
+    "entryPrice": 0.00015234019684627961,
+    "exitPrice": 0.0001446,
+    "peakPrice": 0.0001568,
+    "profitSOL": -0.035566042,
+    "profitLamports": -35566042,
+    "pnlPct": -5.080863098851018,
+    "peakPnlPct": 2.927528811204428,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787360453588",
+    "sellTxid": "DRY_RUN_SELL_1787360551208",
+    "sweepTxid": null
+  }
+]

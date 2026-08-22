@@ -152,5 +152,27 @@
     "buyTxid": "DRY_RUN_BUY_1787398253833",
     "sellTxid": "DRY_RUN_SELL_1787399131358",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-22T11:55:01.800Z",
+    "token": "8rVbmjQybhaazSoVoR8aDTMJDjtaos9xqB7D2yCfpump",
+    "symbol": "MSGA",
+    "marketCap": 2376,
+    "liquidity": 2353.1,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.0000019780412961276955,
+    "exitPrice": 0.000002375,
+    "peakPrice": 0.000002375,
+    "profitSOL": 0.140477902,
+    "profitLamports": 140477902,
+    "pnlPct": 20.068271812596087,
+    "peakPnlPct": 20.068271812596087,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787399520669",
+    "sellTxid": "DRY_RUN_SELL_1787399701539",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787399701777"
   }
 ]

@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "FrqoXJp5PpZ1V8WN5AuvCiwncPYLvKVZXiDY4GCJEKLU",
-  "symbol": "DGAI",
-  "marketCap": 110000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 0.000032874527397243645,
-  "entryTime": 1787395548708,
-  "peakPrice": 0.000032874527397243645,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "8221122845",
-  "txid": "DRY_RUN_BUY_1787395548708",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

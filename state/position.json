@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "HpPPdvcPCUSVuQiHNzf3cDgtbLhRJ5oHvck9mk4wpump",
+  "symbol": "FIRSTCAT",
+  "marketCap": 59749,
+  "liquidity": 18259.61,
+  "volume1h": 4943.15,
+  "volume24h": 4943.15,
+  "candidateScore": 8.9541,
+  "entryPrice": 0.00006057032790449213,
+  "entryTime": 1787420573642,
+  "peakPrice": 0.00006057032790449213,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1071690005931",
+  "txid": "DRY_RUN_BUY_1787420573642",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

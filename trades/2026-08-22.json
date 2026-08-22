@@ -196,5 +196,27 @@
     "buyTxid": "DRY_RUN_BUY_1787402424135",
     "sellTxid": "SELL_FAILED_FORCE_EXIT_1787407831358",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-22T17:41:31.315Z",
+    "token": "HpPPdvcPCUSVuQiHNzf3cDgtbLhRJ5oHvck9mk4wpump",
+    "symbol": "FIRSTCAT",
+    "marketCap": 59907,
+    "liquidity": 18279.02,
+    "volume1h": 2996.04,
+    "volume24h": 2996.04,
+    "candidateScore": 9.3542,
+    "entryPrice": 0.0000596728339329864,
+    "exitPrice": 0.0000599,
+    "peakPrice": 0.00006395,
+    "profitSOL": 0.002664801,
+    "profitLamports": 2664801,
+    "pnlPct": 0.380685903519698,
+    "peakPnlPct": 7.167693881971358,
+    "reason": "PROTECTGREEN",
+    "buyTxid": "DRY_RUN_BUY_1787420333967",
+    "sellTxid": "DRY_RUN_SELL_1787420491248",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787420491309"
   }
 ]

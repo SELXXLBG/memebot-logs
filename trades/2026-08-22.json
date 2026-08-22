@@ -130,5 +130,27 @@
     "buyTxid": "DRY_RUN_BUY_1787395548708",
     "sellTxid": "DRY_RUN_SELL_1787395561288",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-22T11:45:31.402Z",
+    "token": "5AbfQ5tGU4YT1v5r43v8z9UeKmUZcXvMxGrCfsMXpump",
+    "symbol": "NTP",
+    "marketCap": 52508,
+    "liquidity": 17489.72,
+    "volume1h": 1557.73,
+    "volume24h": 131968.07,
+    "candidateScore": 7.7434,
+    "entryPrice": 0.00005860059565459142,
+    "exitPrice": 0.00005434,
+    "peakPrice": 0.00005860059565459142,
+    "profitSOL": -0.050893971,
+    "profitLamports": -50893971,
+    "pnlPct": -7.27056714526348,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS6P",
+    "buyTxid": "DRY_RUN_BUY_1787398253833",
+    "sellTxid": "DRY_RUN_SELL_1787399131358",
+    "sweepTxid": null
   }
 ]

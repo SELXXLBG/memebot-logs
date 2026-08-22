@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "53FzfUaguG7UvDHtRbAPcG6fCm17wie8AtTdJy16pump",
+  "symbol": "BALLS",
+  "marketCap": 149000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.0000017650912001476487,
+  "entryTime": 1787402424135,
+  "peakPrice": 0.0000017650912001476487,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "36025979637528",
+  "txid": "DRY_RUN_BUY_1787402424135",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

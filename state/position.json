@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "5AbfQ5tGU4YT1v5r43v8z9UeKmUZcXvMxGrCfsMXpump",
+  "symbol": "NTP",
+  "marketCap": 55578,
+  "liquidity": 18001.73,
+  "volume1h": 1557.73,
+  "volume24h": 131968.07,
+  "candidateScore": 7.7434,
+  "entryPrice": 0.00005860059565459142,
+  "entryTime": 1787398253833,
+  "peakPrice": 0.00005860059565459142,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1112907123300",
+  "txid": "DRY_RUN_BUY_1787398253833",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

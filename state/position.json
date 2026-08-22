@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "24EX9CQqEpR9mNUDTjkooKqRTf2pkY2mgbDqwNDwpump",
-  "symbol": "PATE",
-  "marketCap": 128459,
-  "liquidity": 30001.72,
-  "volume1h": 34182.88,
-  "volume24h": 517680.73,
-  "candidateScore": 6.5592,
-  "entryPrice": 0.00013843507362784632,
-  "entryTime": 1787372573540,
-  "peakPrice": 0.00013843507362784632,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "480165385719",
-  "txid": "DRY_RUN_BUY_1787372573540",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

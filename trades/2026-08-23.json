@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1787475984082",
     "sellTxid": "DRY_RUN_SELL_1787476711294",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-23T10:10:01.807Z",
+    "token": "FgYonmnCtShBKBD5PvHTyvFwtEVLr7oUyFbGfH7EuCxb",
+    "symbol": "BASECAT",
+    "marketCap": 325955,
+    "liquidity": 48159.22,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.000002626221151571057,
+    "exitPrice": 0.000003259,
+    "peakPrice": 0.000003259,
+    "profitSOL": 0.168662564,
+    "profitLamports": 168662564,
+    "pnlPct": 24.094652045978773,
+    "peakPnlPct": 24.094652045978773,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787479781242",
+    "sellTxid": "DRY_RUN_SELL_1787479801531",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787479801791"
   }
 ]

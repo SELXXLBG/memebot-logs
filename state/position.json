@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "61nBtbHTfxCJikoUQJUizYv2tKSHg2KJ3r9YsdLxpump",
-  "symbol": "PUMPRPG",
-  "marketCap": 138000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 0.00014230049687046533,
-  "entryTime": 1787475984082,
-  "peakPrice": 0.0001429,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "459252534571",
-  "txid": "DRY_RUN_BUY_1787475984082",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

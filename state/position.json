@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "G2Zkzr1yNdZoBybizCxCktikxBkVTpMdYaokUBfRpump",
-  "symbol": "MULTITOOL",
-  "marketCap": 65100,
-  "liquidity": 20123.78,
-  "volume1h": 120484.46,
-  "volume24h": 318844.88,
-  "candidateScore": 9.2624,
-  "entryPrice": 0.00006823482136151791,
-  "entryTime": 1787504172078,
-  "peakPrice": 0.00007916,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "940474632251",
-  "txid": "DRY_RUN_BUY_1787504172078",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

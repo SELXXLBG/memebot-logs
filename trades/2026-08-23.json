@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1787479781242",
     "sellTxid": "DRY_RUN_SELL_1787479801531",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787479801791"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-23T12:29:01.445Z",
+    "token": "Gq3Y4bjHT8SCD4jVVk3p87WXbYNeW6PNNDZmNhB7pump",
+    "symbol": "LUIGI",
+    "marketCap": 102543,
+    "liquidity": 24911.93,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00011530090137943542,
+    "exitPrice": 0.0001025,
+    "peakPrice": 0.0001167,
+    "profitSOL": -0.077715186,
+    "profitLamports": -77715186,
+    "pnlPct": -11.102169390081224,
+    "peakPnlPct": 1.2134325090489917,
+    "reason": "STOPLOSS8P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1787487991523",
+    "sellTxid": "DRY_RUN_SELL_1787488141324",
+    "sweepTxid": null
   }
 ]

@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-23T04:13:31.396Z",
+    "token": "8eCkYMmEmQ4VmTLzcQCQyguRbYPC6NCp5ByRvfDwpump",
+    "symbol": "CateBank",
+    "marketCap": 52008,
+    "liquidity": 16896.46,
+    "volume1h": 7623.15,
+    "volume24h": 7623.15,
+    "candidateScore": 9.9687,
+    "entryPrice": 0.000041601120987635936,
+    "exitPrice": 0.00005202,
+    "peakPrice": 0.00005202,
+    "profitSOL": 0.175312951,
+    "profitLamports": 175312951,
+    "pnlPct": 25.044707366084218,
+    "peakPnlPct": 25.044707366084218,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787458332659",
+    "sellTxid": "DRY_RUN_SELL_1787458411333",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787458411390"
+  }
+]

@@ -196,5 +196,27 @@
     "buyTxid": "DRY_RUN_BUY_1787494999471",
     "sellTxid": "DRY_RUN_SELL_1787495041426",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-23T15:19:31.485Z",
+    "token": "9GxnKC4uhSiJRNymNUszgQCcQHYHqECr4atk7k6Vpump",
+    "symbol": "ANSEM",
+    "marketCap": 86672,
+    "liquidity": 22705.54,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00005937413749605436,
+    "exitPrice": 0.00008667,
+    "peakPrice": 0.00008667,
+    "profitSOL": 0.321808527,
+    "profitLamports": 321808527,
+    "pnlPct": 45.97264677025337,
+    "peakPnlPct": 45.97264677025337,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787498332550",
+    "sellTxid": "DRY_RUN_SELL_1787498371427",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787498371479"
   }
 ]

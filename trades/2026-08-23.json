@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1787475131683",
     "sellTxid": "DRY_RUN_SELL_1787475181207",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-23T09:18:31.345Z",
+    "token": "61nBtbHTfxCJikoUQJUizYv2tKSHg2KJ3r9YsdLxpump",
+    "symbol": "PUMPRPG",
+    "marketCap": 129830,
+    "liquidity": 30521.73,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00014230049687046533,
+    "exitPrice": 0.0001311,
+    "peakPrice": 0.0001429,
+    "profitSOL": -0.055097122,
+    "profitLamports": -55097122,
+    "pnlPct": -7.871017401057315,
+    "peakPnlPct": 0.42129377108246596,
+    "reason": "STOPLOSS6P",
+    "buyTxid": "DRY_RUN_BUY_1787475984082",
+    "sellTxid": "DRY_RUN_SELL_1787476711294",
+    "sweepTxid": null
   }
 ]

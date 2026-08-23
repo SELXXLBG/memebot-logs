@@ -328,5 +328,27 @@
     "buyTxid": "DRY_RUN_BUY_1787510891898",
     "sellTxid": "DRY_RUN_SELL_1787511091736",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-23T19:01:31.258Z",
+    "token": "AgLh3XRYxVpYzuBceQ3mnEk8bDtfBdpZdURnrj39pump",
+    "symbol": "CATOSHI",
+    "marketCap": 54112,
+    "liquidity": 17432.97,
+    "volume1h": 33527.9,
+    "volume24h": 33527.9,
+    "candidateScore": 10.3566,
+    "entryPrice": 0.00005745151037508664,
+    "exitPrice": 0.00005411,
+    "peakPrice": 0.00005745151037508664,
+    "profitSOL": -0.040713591,
+    "profitLamports": -40713591,
+    "pnlPct": -5.816227203202744,
+    "peakPnlPct": 0,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787511611883",
+    "sellTxid": "DRY_RUN_SELL_1787511691211",
+    "sweepTxid": null
   }
 ]

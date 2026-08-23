@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "F8hVFDi84PbZe3ygztWMyKqqJmTb954Yf686VRTwh53D",
-  "symbol": "Félicette",
-  "marketCap": 107647,
-  "liquidity": 27781.01,
-  "volume1h": 221898.88,
-  "volume24h": 475632.59,
-  "candidateScore": 9.7671,
-  "entryPrice": 0.0001116806368971976,
-  "entryTime": 1787475131683,
-  "peakPrice": 0.0001116806368971976,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "584012140098",
-  "txid": "DRY_RUN_BUY_1787475131683",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

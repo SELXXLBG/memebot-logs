@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "FgYonmnCtShBKBD5PvHTyvFwtEVLr7oUyFbGfH7EuCxb",
+  "symbol": "BASECAT",
+  "marketCap": 110000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.000002626221151571057,
+  "entryTime": 1787479781242,
+  "peakPrice": 0.000002626221151571057,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "22150718497318",
+  "txid": "DRY_RUN_BUY_1787479781242",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

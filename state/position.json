@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "8eCkYMmEmQ4VmTLzcQCQyguRbYPC6NCp5ByRvfDwpump",
+  "symbol": "CateBank",
+  "marketCap": 41265,
+  "liquidity": 14849.62,
+  "volume1h": 7623.15,
+  "volume24h": 7623.15,
+  "candidateScore": 9.9687,
+  "entryPrice": 0.000041601120987635936,
+  "entryTime": 1787458332659,
+  "peakPrice": 0.000041601120987635936,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1388886705987",
+  "txid": "DRY_RUN_BUY_1787458332659",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

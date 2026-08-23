@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "AgLh3XRYxVpYzuBceQ3mnEk8bDtfBdpZdURnrj39pump",
+  "symbol": "CATOSHI",
+  "marketCap": 56570,
+  "liquidity": 17859.47,
+  "volume1h": 33527.9,
+  "volume24h": 33527.9,
+  "candidateScore": 10.3566,
+  "entryPrice": 0.00005745151037508664,
+  "entryTime": 1787511611883,
+  "peakPrice": 0.00005745151037508664,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1154492617517",
+  "txid": "DRY_RUN_BUY_1787511611883",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

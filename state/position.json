@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "FpgyXFTkmBFECHxAVMXexUjd9XVQyLkPsFSaLZoEpump",
-  "symbol": "moneycat",
-  "marketCap": 51300,
-  "liquidity": 16779.32,
-  "volume1h": 107405.4,
-  "volume24h": 107405.4,
-  "candidateScore": 11.3488,
-  "entryPrice": 0.000052289192635883285,
-  "entryTime": 1787462171756,
-  "peakPrice": 0.000052289192635883285,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1284443592717",
-  "txid": "DRY_RUN_BUY_1787462171756",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

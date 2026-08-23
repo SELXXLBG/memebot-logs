@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "5hspQiDgwG3R2Js9L3zqFa78WRAY8rm9SfJSAS6zpump",
-  "symbol": "YOURSELF",
-  "marketCap": 42120,
-  "liquidity": 15980.64,
-  "volume1h": 28756.95,
-  "volume24h": 28756.95,
-  "candidateScore": 10.1304,
-  "entryPrice": 0.00004700806624348341,
-  "entryTime": 1787489891628,
-  "peakPrice": 0.00004700806624348341,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1883788194317",
-  "txid": "DRY_RUN_BUY_1787489891628",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

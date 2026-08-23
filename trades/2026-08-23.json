@@ -218,5 +218,27 @@
     "buyTxid": "DRY_RUN_BUY_1787498332550",
     "sellTxid": "DRY_RUN_SELL_1787498371427",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787498371479"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-23T17:00:02.049Z",
+    "token": "G2Zkzr1yNdZoBybizCxCktikxBkVTpMdYaokUBfRpump",
+    "symbol": "MULTITOOL",
+    "marketCap": 68570,
+    "liquidity": 20711.74,
+    "volume1h": 120484.46,
+    "volume24h": 318844.88,
+    "candidateScore": 9.2624,
+    "entryPrice": 0.00006823482136151791,
+    "exitPrice": 0.00007119,
+    "peakPrice": 0.00007916,
+    "profitSOL": 0.030316266,
+    "profitLamports": 30316266,
+    "pnlPct": 4.330895251890709,
+    "peakPnlPct": 16.011148590246773,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787504172078",
+    "sellTxid": "DRY_RUN_SELL_1787504401725",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787504402024"
   }
 ]

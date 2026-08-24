@@ -130,5 +130,27 @@
     "buyTxid": "DRY_RUN_BUY_1787548863401",
     "sellTxid": "DRY_RUN_SELL_1787548951450",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787548951502"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-24T07:45:01.551Z",
+    "token": "8GigNuJwZNixuECrF22cssjHMaBr76nyZFXb3c46pump",
+    "symbol": "GHOUSE",
+    "marketCap": 89222,
+    "liquidity": 22905.2,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00008437020370160996,
+    "exitPrice": 0.00008922,
+    "peakPrice": 0.00009931,
+    "profitSOL": 0.040237634,
+    "profitLamports": 40237634,
+    "pnlPct": 5.748233482453351,
+    "peakPnlPct": 17.707431821816204,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787557404689",
+    "sellTxid": "DRY_RUN_SELL_1787557501403",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787557501525"
   }
 ]

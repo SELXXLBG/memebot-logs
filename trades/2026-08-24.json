@@ -284,5 +284,27 @@
     "buyTxid": "DRY_RUN_BUY_1787569340513",
     "sellTxid": "DRY_RUN_SELL_1787569381339",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-24T11:19:01.750Z",
+    "token": "A5vaPggVmbpYNWZ7xvXR2psXdqbjSE4A5WymwdD5yheU",
+    "symbol": "DGAI",
+    "marketCap": 311212,
+    "liquidity": 47504.88,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.0003322195661992181,
+    "exitPrice": 0.0003112,
+    "peakPrice": 0.0003322195661992181,
+    "profitSOL": -0.044289073,
+    "profitLamports": -44289073,
+    "pnlPct": -6.327010308180824,
+    "peakPnlPct": 0,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787570316103",
+    "sellTxid": "DRY_RUN_SELL_1787570341648",
+    "sweepTxid": null
   }
 ]

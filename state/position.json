@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "8rqRAxiCZScvhvnAKo53U3F1zorevfK5d16Jcmh3pump",
-  "symbol": "WIFSOLANA",
-  "marketCap": 58000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 0.0000018850007698860508,
-  "entryTime": 1787564993436,
-  "peakPrice": 0.0000018850007698860508,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "33351925178452",
-  "txid": "DRY_RUN_BUY_1787564993436",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

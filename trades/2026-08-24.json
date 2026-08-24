@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1787536697460",
     "sellTxid": "DRY_RUN_SELL_1787536741253",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787536741339"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-24T02:24:31.359Z",
+    "token": "62KcgQLo3mXMPnEkdxrkYsmQkQXoCG81PT9X2hBqpump",
+    "symbol": "Tac",
+    "marketCap": 32311,
+    "liquidity": 13008.64,
+    "volume1h": 19012.39,
+    "volume24h": 19012.39,
+    "candidateScore": 9.5836,
+    "entryPrice": 0.00004110773035058433,
+    "exitPrice": 0.00003231,
+    "peakPrice": 0.00004110773035058433,
+    "profitSOL": -0.149811513,
+    "profitLamports": -149811513,
+    "pnlPct": -21.401644594711303,
+    "peakPnlPct": 0,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787538251814",
+    "sellTxid": "DRY_RUN_SELL_1787538271310",
+    "sweepTxid": null
   }
 ]

@@ -218,5 +218,27 @@
     "buyTxid": "DRY_RUN_BUY_1787564993436",
     "sellTxid": "DRY_RUN_SELL_1787566201542",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-24T10:14:02.195Z",
+    "token": "7k4JoPp1CEnm3ypLwnpqoEc9ysw95oeTdxdrTFBQpump",
+    "symbol": "PRO",
+    "marketCap": 160030,
+    "liquidity": 35012.26,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 6,
+    "entryPrice": 0.0001754186263640501,
+    "exitPrice": 0.00016,
+    "peakPrice": 0.0001754186263640501,
+    "profitSOL": -0.061527323,
+    "profitLamports": -61527323,
+    "pnlPct": -8.789617547256062,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS8P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1787566250727",
+    "sellTxid": "DRY_RUN_SELL_1787566441949",
+    "sweepTxid": null
   }
 ]

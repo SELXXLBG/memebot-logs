@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "DFzboGhkFF9jPM4nPToBiLNWkukwoZBKQKu5iJnppump",
+  "symbol": "Rick",
+  "marketCap": 39082,
+  "liquidity": 15076.62,
+  "volume1h": 11102.22,
+  "volume24h": 200187.74,
+  "candidateScore": 7.0901,
+  "entryPrice": 0.000040813056307579696,
+  "entryTime": 1787595971752,
+  "peakPrice": 0.000040813056307579696,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1597293732684",
+  "txid": "DRY_RUN_BUY_1787595971752",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

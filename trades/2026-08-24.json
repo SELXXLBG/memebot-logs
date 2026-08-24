@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-24T00:56:01.662Z",
+    "token": "93aU3gBzf24RUcrDJGKQkfhx4ZPdpE8o6c3G1bgkpump",
+    "symbol": "TOYDEATH",
+    "marketCap": 2175,
+    "liquidity": 2222.55,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.000013438505416952804,
+    "exitPrice": 0.000002175,
+    "peakPrice": 0.000013438505416952804,
+    "profitSOL": -0.586706152,
+    "profitLamports": -586706152,
+    "pnlPct": -83.81516446571345,
+    "peakPnlPct": 0,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787532928260",
+    "sellTxid": "DRY_RUN_SELL_1787532961470",
+    "sweepTxid": null
+  }
+]

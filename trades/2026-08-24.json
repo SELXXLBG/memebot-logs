@@ -196,5 +196,27 @@
     "buyTxid": "DRY_RUN_BUY_1787562647318",
     "sellTxid": "DRY_RUN_SELL_1787562721677",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787562721791"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-24T10:10:01.659Z",
+    "token": "8rqRAxiCZScvhvnAKo53U3F1zorevfK5d16Jcmh3pump",
+    "symbol": "WIFSOLANA",
+    "marketCap": 1870,
+    "liquidity": 1890.31,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.0000018850007698860508,
+    "exitPrice": 0.00000187,
+    "peakPrice": 0.0000018850007698860508,
+    "profitSOL": -0.005570576,
+    "profitLamports": -5570576,
+    "pnlPct": -0.7957964859058109,
+    "peakPnlPct": 0,
+    "reason": "STALE_NO_MOMENTUM",
+    "buyTxid": "DRY_RUN_BUY_1787564993436",
+    "sellTxid": "DRY_RUN_SELL_1787566201542",
+    "sweepTxid": null
   }
 ]

@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "93aU3gBzf24RUcrDJGKQkfhx4ZPdpE8o6c3G1bgkpump",
-  "symbol": "TOYDEATH",
-  "marketCap": 66000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 0.000013438505416952804,
-  "entryTime": 1787532928260,
-  "peakPrice": 0.000013438505416952804,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "24632954526798",
-  "txid": "DRY_RUN_BUY_1787532928260",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

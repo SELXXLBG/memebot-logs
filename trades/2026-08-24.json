@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1787543014918",
     "sellTxid": "DRY_RUN_SELL_1787543131237",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-24T04:27:01.398Z",
+    "token": "6uzoYV4z8avHgb2vSdZF5fWL1gEKdo6XF2PXmjScpump",
+    "symbol": "DOGWIFCAP",
+    "marketCap": 43168,
+    "liquidity": 15525.11,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.0000538901587572841,
+    "exitPrice": 0.00004316,
+    "peakPrice": 0.0000538901587572841,
+    "profitSOL": -0.13937816,
+    "profitLamports": -139378160,
+    "pnlPct": -19.911165609312203,
+    "peakPnlPct": 0,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787545614156",
+    "sellTxid": "DRY_RUN_SELL_1787545621319",
+    "sweepTxid": null
   }
 ]

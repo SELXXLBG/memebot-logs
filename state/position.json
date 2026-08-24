@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "CGmBrG4GRiMvFSGaEiB7cwEd9uDYiqrXzkoyR2Qa3KrC",
+  "symbol": "TILLY",
+  "marketCap": 182000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.4,
+  "entryPrice": 0.00019173822969456255,
+  "entryTime": 1787568659901,
+  "peakPrice": 0.00019173822969456255,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "383096440126",
+  "txid": "DRY_RUN_BUY_1787568659901",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

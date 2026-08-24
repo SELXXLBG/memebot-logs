@@ -394,5 +394,27 @@
     "buyTxid": "DRY_RUN_BUY_1787595070600",
     "sellTxid": "DRY_RUN_SELL_1787595211580",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787595211642"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-24T18:33:31.607Z",
+    "token": "DFzboGhkFF9jPM4nPToBiLNWkukwoZBKQKu5iJnppump",
+    "symbol": "Rick",
+    "marketCap": 50170,
+    "liquidity": 17331.78,
+    "volume1h": 11102.22,
+    "volume24h": 200187.74,
+    "candidateScore": 7.0901,
+    "entryPrice": 0.000040813056307579696,
+    "exitPrice": 0.00005143,
+    "peakPrice": 0.00005143,
+    "profitSOL": 0.182095173,
+    "profitLamports": 182095173,
+    "pnlPct": 26.01359626784077,
+    "peakPnlPct": 26.01359626784077,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787595971752",
+    "sellTxid": "DRY_RUN_SELL_1787596411544",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787596411600"
   }
 ]

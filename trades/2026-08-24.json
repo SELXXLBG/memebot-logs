@@ -328,5 +328,27 @@
     "buyTxid": "DRY_RUN_BUY_1787574212638",
     "sellTxid": "DRY_RUN_SELL_1787575477774",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-24T16:42:02.255Z",
+    "token": "3VZeyQzBSx9EDrNz6LooXdz5eHHxZEYxJSAJ4w1HA8Co",
+    "symbol": "SCOTTY",
+    "marketCap": 78767,
+    "liquidity": 21816.71,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00009498341422578004,
+    "exitPrice": 0.00007892,
+    "peakPrice": 0.00009498341422578004,
+    "profitSOL": -0.118382668,
+    "profitLamports": -118382668,
+    "pnlPct": -16.91180966352352,
+    "peakPnlPct": 0,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787589680220",
+    "sellTxid": "DRY_RUN_SELL_1787589721574",
+    "sweepTxid": null
   }
 ]

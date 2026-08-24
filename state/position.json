@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "9R1bF7gsdA135tNzTgKy5tGk6i5AAdxUkq52wfiCpump",
+  "symbol": "PAKSAK",
+  "marketCap": 61000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.00005752726832381723,
+  "entryTime": 1787536697460,
+  "peakPrice": 0.00005752726832381723,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "895206261728",
+  "txid": "DRY_RUN_BUY_1787536697460",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

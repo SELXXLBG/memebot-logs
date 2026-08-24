@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1787538251814",
     "sellTxid": "DRY_RUN_SELL_1787538271310",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-24T03:45:31.297Z",
+    "token": "6kHLia3bnChWVtd76JYeENcUfAmmZdx6Vmhe1UX5pump",
+    "symbol": "SOLSHIBE",
+    "marketCap": 58483,
+    "liquidity": 18342.44,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00006327765706819976,
+    "exitPrice": 0.00005848,
+    "peakPrice": 0.00006357,
+    "profitSOL": -0.053073393,
+    "profitLamports": -53073393,
+    "pnlPct": -7.58191325419794,
+    "peakPnlPct": 0.4620002467619171,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787543014918",
+    "sellTxid": "DRY_RUN_SELL_1787543131237",
+    "sweepTxid": null
   }
 ]

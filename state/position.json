@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "B2RpXZvSutbWxa5Qu3UWbpdCDBfT81AEWvvJB7s9zea6",
-  "symbol": "TMX",
-  "marketCap": 157000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 0.0002372972645390134,
-  "entryTime": 1787562647318,
-  "peakPrice": 0.0002959,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "280562256753",
-  "txid": "DRY_RUN_BUY_1787562647318",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

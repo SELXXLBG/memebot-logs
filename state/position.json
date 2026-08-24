@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "3VZeyQzBSx9EDrNz6LooXdz5eHHxZEYxJSAJ4w1HA8Co",
-  "symbol": "SCOTTY",
-  "marketCap": 72000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 0.00009498341422578004,
-  "entryTime": 1787589680220,
-  "peakPrice": 0.00009498341422578004,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "724306672723",
-  "txid": "DRY_RUN_BUY_1787589680220",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

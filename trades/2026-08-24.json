@@ -416,5 +416,27 @@
     "buyTxid": "DRY_RUN_BUY_1787595971752",
     "sellTxid": "DRY_RUN_SELL_1787596411544",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787596411600"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-24T19:44:31.292Z",
+    "token": "GMusPmwETYkPPekJu14eH3HVFjupaaHriuTGz4UPpump",
+    "symbol": "ELLIEBEAN",
+    "marketCap": 54334,
+    "liquidity": 17935.58,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00006097307265273628,
+    "exitPrice": 0.00005438,
+    "peakPrice": 0.00006097307265273628,
+    "profitSOL": -0.075691624,
+    "profitLamports": -75691624,
+    "pnlPct": -10.813089066851225,
+    "peakPnlPct": 0,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787600557169",
+    "sellTxid": "DRY_RUN_SELL_1787600671236",
+    "sweepTxid": null
   }
 ]

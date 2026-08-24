@@ -262,5 +262,27 @@
     "buyTxid": "DRY_RUN_BUY_1787568659901",
     "sellTxid": "DRY_RUN_SELL_1787568691331",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-24T11:03:01.408Z",
+    "token": "GXdbB581sDfMuhwJsQUksbvhj9yPTosaxhaKuHiTpump",
+    "symbol": "RIDARK",
+    "marketCap": 104674,
+    "liquidity": 26187.73,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 8.5,
+    "entryPrice": 0.00011659999230595344,
+    "exitPrice": 0.0001075,
+    "peakPrice": 0.00011659999230595344,
+    "profitSOL": -0.054631176,
+    "profitLamports": -54631176,
+    "pnlPct": -7.804453607574391,
+    "peakPnlPct": 0,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787569340513",
+    "sellTxid": "DRY_RUN_SELL_1787569381339",
+    "sweepTxid": null
   }
 ]

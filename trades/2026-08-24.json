@@ -240,5 +240,27 @@
     "buyTxid": "DRY_RUN_BUY_1787566250727",
     "sellTxid": "DRY_RUN_SELL_1787566441949",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-24T10:51:31.385Z",
+    "token": "CGmBrG4GRiMvFSGaEiB7cwEd9uDYiqrXzkoyR2Qa3KrC",
+    "symbol": "TILLY",
+    "marketCap": 176303,
+    "liquidity": 32889.85,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.4,
+    "entryPrice": 0.00019173822969456255,
+    "exitPrice": 0.0001763,
+    "peakPrice": 0.00019173822969456255,
+    "profitSOL": -0.056362056,
+    "profitLamports": -56362056,
+    "pnlPct": -8.05172224608286,
+    "peakPnlPct": 0,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787568659901",
+    "sellTxid": "DRY_RUN_SELL_1787568691331",
+    "sweepTxid": null
   }
 ]

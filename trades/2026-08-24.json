@@ -460,5 +460,27 @@
     "buyTxid": "DRY_RUN_BUY_1787605026306",
     "sellTxid": "DRY_RUN_SELL_1787605081544",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-24T23:32:31.357Z",
+    "token": "6Hebn672FvMSq61mo4HYq86QgLHgBUm6y8A9bXGppump",
+    "symbol": "BATON",
+    "marketCap": 156174,
+    "liquidity": 32469.22,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00011869236698339157,
+    "exitPrice": 0.0001561,
+    "peakPrice": 0.0001561,
+    "profitSOL": 0.220615223,
+    "profitLamports": 220615223,
+    "pnlPct": 31.516460550359415,
+    "peakPnlPct": 31.516460550359415,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787614299360",
+    "sellTxid": "DRY_RUN_SELL_1787614351287",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787614351348"
   }
 ]

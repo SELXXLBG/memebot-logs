@@ -438,5 +438,27 @@
     "buyTxid": "DRY_RUN_BUY_1787600557169",
     "sellTxid": "DRY_RUN_SELL_1787600671236",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-24T20:58:01.782Z",
+    "token": "5dkPngQmeqTUN57RqhxdA6xCaz7AKdzQoHLdk9xhpump",
+    "symbol": "FCKSTR",
+    "marketCap": 161892,
+    "liquidity": 32089.68,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00020608247658852934,
+    "exitPrice": 0.0001618,
+    "peakPrice": 0.00020608247658852934,
+    "profitSOL": -0.150414214,
+    "profitLamports": -150414214,
+    "pnlPct": -21.487744771694054,
+    "peakPnlPct": 0,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787605026306",
+    "sellTxid": "DRY_RUN_SELL_1787605081544",
+    "sweepTxid": null
   }
 ]

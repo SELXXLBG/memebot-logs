@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "6uzoYV4z8avHgb2vSdZF5fWL1gEKdo6XF2PXmjScpump",
+  "symbol": "DOGWIFCAP",
+  "marketCap": 43000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.0000538901587572841,
+  "entryTime": 1787545614156,
+  "peakPrice": 0.0000538901587572841,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1497266404351",
+  "txid": "DRY_RUN_BUY_1787545614156",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

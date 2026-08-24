@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "6q2imvPqhjZyJWcYFrrorvV3j435ho3bjbLHtsq1pump",
-  "symbol": "SUCKOR",
-  "marketCap": 30000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 0.00000834183362766148,
-  "entryTime": 1787593305532,
-  "peakPrice": 0.00001157,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "7825452407489",
-  "txid": "DRY_RUN_BUY_1787593305532",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

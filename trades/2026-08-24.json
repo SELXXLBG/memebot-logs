@@ -152,5 +152,27 @@
     "buyTxid": "DRY_RUN_BUY_1787557404689",
     "sellTxid": "DRY_RUN_SELL_1787557501403",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787557501525"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-24T08:07:31.402Z",
+    "token": "49FLowZLqvHiCxbaFVqS74xJnqxLvFPyq346hs2QbLsi",
+    "symbol": "TMX",
+    "marketCap": 265307,
+    "liquidity": 43567.03,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00021134133336105472,
+    "exitPrice": 0.0002653,
+    "peakPrice": 0.0002653,
+    "profitSOL": 0.178720679,
+    "profitLamports": 178720679,
+    "pnlPct": 25.53152560401542,
+    "peakPnlPct": 25.53152560401542,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787558761465",
+    "sellTxid": "DRY_RUN_SELL_1787558851345",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787558851396"
   }
 ]

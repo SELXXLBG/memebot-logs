@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "GMusPmwETYkPPekJu14eH3HVFjupaaHriuTGz4UPpump",
-  "symbol": "ELLIEBEAN",
-  "marketCap": 76000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 0.00006097307265273628,
-  "entryTime": 1787600557169,
-  "peakPrice": 0.00006097307265273628,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1107753457402",
-  "txid": "DRY_RUN_BUY_1787600557169",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

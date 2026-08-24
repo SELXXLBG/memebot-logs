@@ -306,5 +306,27 @@
     "buyTxid": "DRY_RUN_BUY_1787570316103",
     "sellTxid": "DRY_RUN_SELL_1787570341648",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-24T12:44:37.829Z",
+    "token": "6gQ7cAZd7zwV8U1LxPSUxyYkYMtiMMj6xC5Q9TXVWnFm",
+    "symbol": "WINPOOP",
+    "marketCap": 22962,
+    "liquidity": 5842.19,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 6,
+    "entryPrice": 0.00002327395119907398,
+    "exitPrice": 0.00002297,
+    "peakPrice": 0.00002327395119907398,
+    "profitSOL": -0.009141802,
+    "profitLamports": -9141802,
+    "pnlPct": -1.3059716267088965,
+    "peakPnlPct": 0,
+    "reason": "STALE_NO_MOMENTUM",
+    "buyTxid": "DRY_RUN_BUY_1787574212638",
+    "sellTxid": "DRY_RUN_SELL_1787575477774",
+    "sweepTxid": null
   }
 ]

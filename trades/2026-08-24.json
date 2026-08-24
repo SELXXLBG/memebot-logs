@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1787545614156",
     "sellTxid": "DRY_RUN_SELL_1787545621319",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-24T05:22:31.509Z",
+    "token": "2g1VuVfZbbL5C39LSAQCUQoS8NqD25aLFxC6XmTypump",
+    "symbol": "ORCHID",
+    "marketCap": 115292,
+    "liquidity": 26142.92,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00009059505052676543,
+    "exitPrice": 0.0001152,
+    "peakPrice": 0.0001152,
+    "profitSOL": 0.190114852,
+    "profitLamports": 190114852,
+    "pnlPct": 27.15926458473057,
+    "peakPnlPct": 27.15926458473057,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787548863401",
+    "sellTxid": "DRY_RUN_SELL_1787548951450",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787548951502"
   }
 ]

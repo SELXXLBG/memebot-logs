@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "GXdbB581sDfMuhwJsQUksbvhj9yPTosaxhaKuHiTpump",
-  "symbol": "RIDARK",
-  "marketCap": 144000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 8.5,
-  "entryPrice": 0.00011659999230595344,
-  "entryTime": 1787569340513,
-  "peakPrice": 0.00011659999230595344,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "580932030496",
-  "txid": "DRY_RUN_BUY_1787569340513",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

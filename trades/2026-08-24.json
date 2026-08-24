@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1787532928260",
     "sellTxid": "DRY_RUN_SELL_1787532961470",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-24T01:59:01.350Z",
+    "token": "9R1bF7gsdA135tNzTgKy5tGk6i5AAdxUkq52wfiCpump",
+    "symbol": "PAKSAK",
+    "marketCap": 64736,
+    "liquidity": 19624.15,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00005752726832381723,
+    "exitPrice": 0.00006473,
+    "peakPrice": 0.00006899,
+    "profitSOL": 0.087643865,
+    "profitLamports": 87643865,
+    "pnlPct": 12.520552228621495,
+    "peakPnlPct": 19.925736107718173,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787536697460",
+    "sellTxid": "DRY_RUN_SELL_1787536741253",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787536741339"
   }
 ]

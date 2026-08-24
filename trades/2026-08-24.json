@@ -350,5 +350,27 @@
     "buyTxid": "DRY_RUN_BUY_1787589680220",
     "sellTxid": "DRY_RUN_SELL_1787589721574",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-24T17:43:01.555Z",
+    "token": "6q2imvPqhjZyJWcYFrrorvV3j435ho3bjbLHtsq1pump",
+    "symbol": "SUCKOR",
+    "marketCap": 11572,
+    "liquidity": 7256.19,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00000834183362766148,
+    "exitPrice": 0.00001157,
+    "peakPrice": 0.00001157,
+    "profitSOL": 0.270889658,
+    "profitLamports": 270889658,
+    "pnlPct": 38.69852260819413,
+    "peakPnlPct": 38.69852260819413,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787593305532",
+    "sellTxid": "DRY_RUN_SELL_1787593381458",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787593381540"
   }
 ]

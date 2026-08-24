@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "5dkPngQmeqTUN57RqhxdA6xCaz7AKdzQoHLdk9xhpump",
-  "symbol": "FCKSTR",
-  "marketCap": 141000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 0.00020608247658852934,
-  "entryTime": 1787605026306,
-  "peakPrice": 0.00020608247658852934,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "380338859046",
-  "txid": "DRY_RUN_BUY_1787605026306",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

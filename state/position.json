@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "7k4JoPp1CEnm3ypLwnpqoEc9ysw95oeTdxdrTFBQpump",
+  "symbol": "PRO",
+  "marketCap": 188000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 6,
+  "entryPrice": 0.0001754186263640501,
+  "entryTime": 1787566250727,
+  "peakPrice": 0.0001754186263640501,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "374367797705",
+  "txid": "DRY_RUN_BUY_1787566250727",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "6gQ7cAZd7zwV8U1LxPSUxyYkYMtiMMj6xC5Q9TXVWnFm",
-  "symbol": "WINPOOP",
-  "marketCap": 23000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 6,
-  "entryPrice": 0.00002327395119907398,
-  "entryTime": 1787574212638,
-  "peakPrice": 0.00002327395119907398,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "2815055652605",
-  "txid": "DRY_RUN_BUY_1787574212638",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

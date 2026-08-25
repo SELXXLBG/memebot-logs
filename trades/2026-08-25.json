@@ -262,5 +262,27 @@
     "buyTxid": "DRY_RUN_BUY_1787689900104",
     "sellTxid": "DRY_RUN_SELL_1787689981417",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-25T20:57:01.988Z",
+    "token": "ANsvYRPb1ePR9jhdMLZe35E59NMJg4qfieNU3p4vpump",
+    "symbol": "BATCAT",
+    "marketCap": 33770,
+    "liquidity": 13466.83,
+    "volume1h": 28207.04,
+    "volume24h": 28207.04,
+    "candidateScore": 9.7434,
+    "entryPrice": 0.00003699398760691576,
+    "exitPrice": 0.00003377,
+    "peakPrice": 0.00003699398760691576,
+    "profitSOL": -0.061004274,
+    "profitLamports": -61004274,
+    "pnlPct": -8.714896164135226,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS8P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1787691131598",
+    "sellTxid": "DRY_RUN_SELL_1787691421881",
+    "sweepTxid": null
   }
 ]

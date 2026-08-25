@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "AA33znW3bciXvrj8AUwPryVgDiasmEGxaqCwjHEWGdkd",
-  "symbol": "B",
-  "marketCap": 45000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 0.00006205781639772857,
-  "entryTime": 1787666860135,
-  "peakPrice": 0.00006941,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "876022701912",
-  "txid": "DRY_RUN_BUY_1787666860135",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

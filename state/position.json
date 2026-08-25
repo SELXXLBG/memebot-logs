@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "DTFa5QRfiDqPWGTvpKvrrfvQZfKodqhsu9XNaKWKpump",
+  "symbol": "PÉPITO",
+  "marketCap": 51653,
+  "liquidity": 17133.16,
+  "volume1h": 26067.47,
+  "volume24h": 26067.47,
+  "candidateScore": 10.0914,
+  "entryPrice": 0.00005199431553082367,
+  "entryTime": 1787699051931,
+  "peakPrice": 0.00005199431553082367,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1256277927833",
+  "txid": "DRY_RUN_BUY_1787699051931",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

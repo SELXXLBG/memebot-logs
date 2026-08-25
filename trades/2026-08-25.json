@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1787629572855",
     "sellTxid": "DRY_RUN_SELL_1787629651460",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787629651517"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-25T03:50:01.855Z",
+    "token": "8ZvSQjMszHN3nSmYxbyqFHBhUS2iFsDvymidTnE6pump",
+    "symbol": "IVY",
+    "marketCap": 64323,
+    "liquidity": 19812.83,
+    "volume1h": 66093.77,
+    "volume24h": 66093.77,
+    "candidateScore": 11.2758,
+    "entryPrice": 0.00005216865938800474,
+    "exitPrice": 0.0000644,
+    "peakPrice": 0.0000644,
+    "profitSOL": 0.164120345,
+    "profitLamports": 164120345,
+    "pnlPct": 23.445763712317348,
+    "peakPnlPct": 23.445763712317348,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787629691976",
+    "sellTxid": "DRY_RUN_SELL_1787629801594",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787629801837"
   }
 ]

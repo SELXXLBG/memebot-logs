@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "ANsvYRPb1ePR9jhdMLZe35E59NMJg4qfieNU3p4vpump",
-  "symbol": "BATCAT",
-  "marketCap": 36547,
-  "liquidity": 14077.14,
-  "volume1h": 28207.04,
-  "volume24h": 28207.04,
-  "candidateScore": 9.7434,
-  "entryPrice": 0.00003699398760691576,
-  "entryTime": 1787691131598,
-  "peakPrice": 0.00003699398760691576,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1811543900918",
-  "txid": "DRY_RUN_BUY_1787691131598",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

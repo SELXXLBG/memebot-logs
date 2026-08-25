@@ -350,5 +350,27 @@
     "buyTxid": "DRY_RUN_BUY_1787695432807",
     "sellTxid": "DRY_RUN_SELL_1787695711278",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-25T22:15:31.394Z",
+    "token": "7ahYKWDuxmQjH7S2RFWoPnNT6socVFJ2efn1ALLpkV8o",
+    "symbol": "MARVIN",
+    "marketCap": 128627,
+    "liquidity": 29769.3,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.3,
+    "entryPrice": 0.00015182558424233736,
+    "exitPrice": 0.0001336,
+    "peakPrice": 0.00015182558424233736,
+    "profitSOL": -0.084030034,
+    "profitLamports": -84030034,
+    "pnlPct": -12.004290537256544,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS8P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1787695999246",
+    "sellTxid": "DRY_RUN_SELL_1787696131345",
+    "sweepTxid": null
   }
 ]

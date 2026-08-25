@@ -306,5 +306,27 @@
     "buyTxid": "DRY_RUN_BUY_1787691875020",
     "sellTxid": "DRY_RUN_SELL_1787691901491",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-25T21:32:01.746Z",
+    "token": "9pa87pMwv1LNrvJRndqPpyu7UmBWqQjsGWiEj4tdpump",
+    "symbol": "VALENTINA",
+    "marketCap": 29761,
+    "liquidity": 12646.47,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00001965435667403391,
+    "exitPrice": 0.00002976,
+    "peakPrice": 0.00002976,
+    "profitSOL": 0.359917673,
+    "profitLamports": 359917673,
+    "pnlPct": 51.41681049940965,
+    "peakPnlPct": 51.41681049940965,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787693489059",
+    "sellTxid": "DRY_RUN_SELL_1787693521582",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787693521732"
   }
 ]

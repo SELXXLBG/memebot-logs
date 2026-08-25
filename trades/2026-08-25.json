@@ -218,5 +218,27 @@
     "buyTxid": "DRY_RUN_BUY_1787684052012",
     "sellTxid": "DRY_RUN_SELL_1787684251484",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-25T19:57:01.400Z",
+    "token": "BTKfTUMRYsS5W5RXfbtMcgJf9fqoz1rhRcJtESyPpump",
+    "symbol": "BARK",
+    "marketCap": 74885,
+    "liquidity": 23074.52,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.3,
+    "entryPrice": 0.00006960752409142816,
+    "exitPrice": 0.00007663,
+    "peakPrice": 0.00008123,
+    "profitSOL": 0.070620715,
+    "profitLamports": 70620715,
+    "pnlPct": 10.088673602796092,
+    "peakPnlPct": 16.697154596830575,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787687652274",
+    "sellTxid": "DRY_RUN_SELL_1787687821302",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787687821388"
   }
 ]

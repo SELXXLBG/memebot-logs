@@ -20,5 +20,27 @@
     "buyTxid": "DRY_RUN_BUY_1787616326190",
     "sellTxid": "DRY_RUN_SELL_1787616391400",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-25T01:19:31.413Z",
+    "token": "DynSUE2peihwAX46BmqjTfWLSreEQpVVxMLv66L3Hj11",
+    "symbol": "FUBUKI",
+    "marketCap": 179065,
+    "liquidity": 50165.53,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00019023874872295984,
+    "exitPrice": 0.000179,
+    "peakPrice": 0.00019023874872295984,
+    "profitSOL": -0.041353953,
+    "profitLamports": -41353953,
+    "pnlPct": -5.9077074457247285,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS4P_LATE",
+    "buyTxid": "DRY_RUN_BUY_1787619866716",
+    "sellTxid": "DRY_RUN_SELL_1787620771358",
+    "sweepTxid": null
   }
 ]

@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "2UijZDy9nyeYji4Gp8qoZQoQgEYwJYPumWHdCTDLpump",
-  "symbol": "HL",
-  "marketCap": 67000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 0.0000020171443813529447,
-  "entryTime": 1787680433278,
-  "peakPrice": 0.000002022,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "32655119203201",
-  "txid": "DRY_RUN_BUY_1787680433278",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

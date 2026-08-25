@@ -174,5 +174,27 @@
     "buyTxid": "DRY_RUN_BUY_1787678693121",
     "sellTxid": "DRY_RUN_SELL_1787678821579",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-25T18:14:01.727Z",
+    "token": "2UijZDy9nyeYji4Gp8qoZQoQgEYwJYPumWHdCTDLpump",
+    "symbol": "HL",
+    "marketCap": 1971,
+    "liquidity": 2007.31,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.0000020171443813529447,
+    "exitPrice": 0.000001971,
+    "peakPrice": 0.000002022,
+    "profitSOL": -0.016013265,
+    "profitLamports": -16013265,
+    "pnlPct": -2.287609245005794,
+    "peakPnlPct": 0.2407174564171929,
+    "reason": "STALE_NO_MOMENTUM",
+    "buyTxid": "DRY_RUN_BUY_1787680433278",
+    "sellTxid": "DRY_RUN_SELL_1787681641613",
+    "sweepTxid": null
   }
 ]

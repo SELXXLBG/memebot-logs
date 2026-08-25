@@ -394,5 +394,27 @@
     "buyTxid": "DRY_RUN_BUY_1787698380240",
     "sellTxid": "DRY_RUN_SELL_1787698411288",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-25T23:07:31.423Z",
+    "token": "DTFa5QRfiDqPWGTvpKvrrfvQZfKodqhsu9XNaKWKpump",
+    "symbol": "PÉPITO",
+    "marketCap": 30868,
+    "liquidity": 12854.56,
+    "volume1h": 26067.47,
+    "volume24h": 26067.47,
+    "candidateScore": 10.0914,
+    "entryPrice": 0.00005199431553082367,
+    "exitPrice": 0.00003086,
+    "peakPrice": 0.00005284,
+    "profitSOL": -0.284531506,
+    "profitLamports": -284531506,
+    "pnlPct": -40.647357917991364,
+    "peakPnlPct": 1.6264940898683224,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787699051931",
+    "sellTxid": "DRY_RUN_SELL_1787699251349",
+    "sweepTxid": null
   }
 ]

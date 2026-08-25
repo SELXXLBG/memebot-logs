@@ -372,5 +372,27 @@
     "buyTxid": "DRY_RUN_BUY_1787695999246",
     "sellTxid": "DRY_RUN_SELL_1787696131345",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-25T22:53:31.339Z",
+    "token": "3Cminyi3K9EjquogmmJ1aveZUvUKRisxHTsua4d7pump",
+    "symbol": "OPOSSUM",
+    "marketCap": 43098,
+    "liquidity": 16178.57,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00007097345361759578,
+    "exitPrice": 0.00004309,
+    "peakPrice": 0.00007097345361759578,
+    "profitSOL": -0.275010114,
+    "profitLamports": -275010114,
+    "pnlPct": -39.28715906630602,
+    "peakPnlPct": 0,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787698380240",
+    "sellTxid": "DRY_RUN_SELL_1787698411288",
+    "sweepTxid": null
   }
 ]

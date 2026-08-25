@@ -240,5 +240,27 @@
     "buyTxid": "DRY_RUN_BUY_1787687652274",
     "sellTxid": "DRY_RUN_SELL_1787687821302",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787687821388"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-25T20:33:01.518Z",
+    "token": "E75R4Pb2AFCFtHer5tMxdJAKtGLM3DsCwMiMr84Gpump",
+    "symbol": "FOMOTARD",
+    "marketCap": 26921,
+    "liquidity": 11899.58,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.000028918708214493692,
+    "exitPrice": 0.00002692,
+    "peakPrice": 0.00003278,
+    "profitSOL": -0.0483803,
+    "profitLamports": -48380300,
+    "pnlPct": -6.911471285885326,
+    "peakPnlPct": 13.352227758123297,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787689900104",
+    "sellTxid": "DRY_RUN_SELL_1787689981417",
+    "sweepTxid": null
   }
 ]

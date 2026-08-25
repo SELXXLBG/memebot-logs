@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "EKMzgQs4QaDv7ynZLV6yhRk84ajv8chJw2AAjAR5pump",
-  "symbol": "PUHU",
-  "marketCap": 18000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 6,
-  "entryPrice": 0.00001797589632898416,
-  "entryTime": 1787658817198,
-  "peakPrice": 0.00001797589632898416,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "3797703749026",
-  "txid": "DRY_RUN_BUY_1787658817198",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

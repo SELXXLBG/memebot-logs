@@ -328,5 +328,27 @@
     "buyTxid": "DRY_RUN_BUY_1787693489059",
     "sellTxid": "DRY_RUN_SELL_1787693521582",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787693521732"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-25T22:08:31.325Z",
+    "token": "3c5QoQQxY1mBGFtLQCnDCLDWCJXvHhmk9KyZ6QyuCAbd",
+    "symbol": "PCAT",
+    "marketCap": 35118.75,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.1,
+    "entryPrice": 0.00003923072253305986,
+    "exitPrice": 0.00003511,
+    "peakPrice": 0.00003923072253305986,
+    "profitSOL": -0.073526706,
+    "profitLamports": -73526706,
+    "pnlPct": -10.503815038296358,
+    "peakPnlPct": 0,
+    "reason": "STOPLOSS8P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1787695432807",
+    "sellTxid": "DRY_RUN_SELL_1787695711278",
+    "sweepTxid": null
   }
 ]

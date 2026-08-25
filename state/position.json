@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "DU2PhxxifcuD7iL9PuQvDGa6M9ggpXosVK3BEninpump",
+  "symbol": "PUMPCAT",
+  "marketCap": 72093,
+  "liquidity": 20646.51,
+  "volume1h": 13917.46,
+  "volume24h": 13917.46,
+  "candidateScore": 9.6533,
+  "entryPrice": 0.0000733087165212273,
+  "entryTime": 1787684052012,
+  "peakPrice": 0.0000733087165212273,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1002203786592",
+  "txid": "DRY_RUN_BUY_1787684052012",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

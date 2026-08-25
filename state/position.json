@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "mZsNNMEz9RnvrXuhbZ4aXeUDVFamc1de5omXHDdpump",
+  "symbol": "KOI",
+  "marketCap": 51000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.3,
+  "entryPrice": 0.00010475945184473542,
+  "entryTime": 1787678693121,
+  "peakPrice": 0.00010475945184473542,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "618618739821",
+  "txid": "DRY_RUN_BUY_1787678693121",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

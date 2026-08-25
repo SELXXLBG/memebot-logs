@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "8ZvSQjMszHN3nSmYxbyqFHBhUS2iFsDvymidTnE6pump",
-  "symbol": "IVY",
-  "marketCap": 45348,
-  "liquidity": 16294.5,
-  "volume1h": 50440.94,
-  "volume24h": 50440.94,
-  "candidateScore": 10.8441,
-  "entryPrice": 0.000046101078400895325,
-  "entryTime": 1787629572855,
-  "peakPrice": 0.00005248,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1356370799055",
-  "txid": "DRY_RUN_BUY_1787629572855",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

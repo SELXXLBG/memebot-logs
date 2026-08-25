@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-25T00:06:31.451Z",
+    "token": "DHBXofvsf3ez3MDHsBSDAafQJCdVp7eKn1zvXNBGpump",
+    "symbol": "TDS",
+    "marketCap": 12166,
+    "liquidity": 7569.58,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.000012746506441744364,
+    "exitPrice": 0.00001216,
+    "peakPrice": 0.0000134,
+    "profitSOL": -0.03220918,
+    "profitLamports": -32209180,
+    "pnlPct": -4.601311303806158,
+    "peakPnlPct": 5.12684445139782,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1787616326190",
+    "sellTxid": "DRY_RUN_SELL_1787616391400",
+    "sweepTxid": null
+  }
+]

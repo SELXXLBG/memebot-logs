@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1787629691976",
     "sellTxid": "DRY_RUN_SELL_1787629801594",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787629801837"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-25T12:14:01.725Z",
+    "token": "EKMzgQs4QaDv7ynZLV6yhRk84ajv8chJw2AAjAR5pump",
+    "symbol": "PUHU",
+    "marketCap": 17788.18,
+    "liquidity": 0,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 6,
+    "entryPrice": 0.00001797589632898416,
+    "exitPrice": 0.00001778,
+    "peakPrice": 0.00001797589632898416,
+    "profitSOL": -0.007628406,
+    "profitLamports": -7628406,
+    "pnlPct": -1.0897722450050968,
+    "peakPnlPct": 0,
+    "reason": "STALE_NO_MOMENTUM",
+    "buyTxid": "DRY_RUN_BUY_1787658817198",
+    "sellTxid": "DRY_RUN_SELL_1787660041617",
+    "sweepTxid": null
   }
 ]

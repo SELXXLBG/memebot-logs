@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "E6J7gD5km4Hke7qktjAkWef1fVv4G8reakbUgrbrpump",
+  "symbol": "SOLBAR",
+  "marketCap": 54000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.000008355322938331767,
+  "entryTime": 1787676765464,
+  "peakPrice": 0.000008355322938331767,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "8755219208791",
+  "txid": "DRY_RUN_BUY_1787676765464",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

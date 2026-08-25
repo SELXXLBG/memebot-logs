@@ -152,5 +152,27 @@
     "buyTxid": "DRY_RUN_BUY_1787676765464",
     "sellTxid": "DRY_RUN_SELL_1787676841714",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-25T17:27:01.701Z",
+    "token": "mZsNNMEz9RnvrXuhbZ4aXeUDVFamc1de5omXHDdpump",
+    "symbol": "KOI",
+    "marketCap": 99484,
+    "liquidity": 25482.64,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.3,
+    "entryPrice": 0.00010475945184473542,
+    "exitPrice": 0.000103,
+    "peakPrice": 0.0001112,
+    "profitSOL": -0.011756613,
+    "profitLamports": -11756613,
+    "pnlPct": -1.679516085425033,
+    "peakPnlPct": 6.147939915541139,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1787678693121",
+    "sellTxid": "DRY_RUN_SELL_1787678821579",
+    "sweepTxid": null
   }
 ]

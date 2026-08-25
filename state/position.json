@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "3c5QoQQxY1mBGFtLQCnDCLDWCJXvHhmk9KyZ6QyuCAbd",
-  "symbol": "PCAT",
-  "marketCap": 34000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.1,
-  "entryPrice": 0.00003923072253305986,
-  "entryTime": 1787695432807,
-  "peakPrice": 0.00003923072253305986,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1716282735514",
-  "txid": "DRY_RUN_BUY_1787695432807",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

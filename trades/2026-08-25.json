@@ -196,5 +196,27 @@
     "buyTxid": "DRY_RUN_BUY_1787680433278",
     "sellTxid": "DRY_RUN_SELL_1787681641613",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-25T18:57:31.536Z",
+    "token": "DU2PhxxifcuD7iL9PuQvDGa6M9ggpXosVK3BEninpump",
+    "symbol": "PUMPCAT",
+    "marketCap": 71905,
+    "liquidity": 20617.16,
+    "volume1h": 13917.46,
+    "volume24h": 13917.46,
+    "candidateScore": 9.6533,
+    "entryPrice": 0.0000733087165212273,
+    "exitPrice": 0.0000719,
+    "peakPrice": 0.00007801,
+    "profitSOL": -0.013451355,
+    "profitLamports": -13451355,
+    "pnlPct": -1.9216221318230216,
+    "peakPnlPct": 6.412993845570035,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1787684052012",
+    "sellTxid": "DRY_RUN_SELL_1787684251484",
+    "sweepTxid": null
   }
 ]

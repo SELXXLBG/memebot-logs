@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "E75R4Pb2AFCFtHer5tMxdJAKtGLM3DsCwMiMr84Gpump",
-  "symbol": "FOMOTARD",
-  "marketCap": 34000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 0.000028918708214493692,
-  "entryTime": 1787689900104,
-  "peakPrice": 0.00003278,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "2380416390753",
-  "txid": "DRY_RUN_BUY_1787689900104",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

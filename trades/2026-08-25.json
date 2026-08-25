@@ -284,5 +284,27 @@
     "buyTxid": "DRY_RUN_BUY_1787691131598",
     "sellTxid": "DRY_RUN_SELL_1787691421881",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-25T21:05:01.997Z",
+    "token": "8EK9b8DbiqqLmKMDRiu9u7oMWefaWLqfeRzAFdXpump",
+    "symbol": "OCB",
+    "marketCap": 54182,
+    "liquidity": 17696.44,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.000060445195063018026,
+    "exitPrice": 0.00005418,
+    "peakPrice": 0.000060445195063018026,
+    "profitSOL": -0.072555586,
+    "profitLamports": -72555586,
+    "pnlPct": -10.36508370348736,
+    "peakPnlPct": 0,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787691875020",
+    "sellTxid": "DRY_RUN_SELL_1787691901491",
+    "sweepTxid": null
   }
 ]

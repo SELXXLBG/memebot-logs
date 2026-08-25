@@ -130,5 +130,27 @@
     "buyTxid": "DRY_RUN_BUY_1787666860135",
     "sellTxid": "DRY_RUN_SELL_1787666971577",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-25T16:54:01.830Z",
+    "token": "E6J7gD5km4Hke7qktjAkWef1fVv4G8reakbUgrbrpump",
+    "symbol": "SOLBAR",
+    "marketCap": 2429,
+    "liquidity": 2398.96,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.000008355322938331767,
+    "exitPrice": 0.000002429,
+    "peakPrice": 0.000008821,
+    "profitSOL": -0.496500984,
+    "profitLamports": -496500984,
+    "pnlPct": -70.92871193695625,
+    "peakPnlPct": 5.573417869126808,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787676765464",
+    "sellTxid": "DRY_RUN_SELL_1787676841714",
+    "sweepTxid": null
   }
 ]

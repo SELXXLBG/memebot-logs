@@ -366,5 +366,25 @@
     "buyTxid": "DRY_RUN_BUY_1787778455158",
     "sellTxid": "DRY_RUN_SELL_1787778508975",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T21:14:26.115952Z",
+    "token": "5HrJau8RQVWyYqKhsd5J9THGCfVkxcQhsZDBFksEpump",
+    "symbol": "Aniimo",
+    "marketCap": 28284.0,
+    "liquidity": 12272.69,
+    "candidateScore": 11.1049,
+    "entryPrice": 3.0471599999999998e-05,
+    "exitPrice": 2.832e-05,
+    "peakPrice": 3.0471599999999998e-05,
+    "solAmountLamports": 437225514,
+    "profitSOL": -0.03087249819249397,
+    "profitLamports": -30872498,
+    "pnlPct": -7.061001063285152,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787778834947",
+    "sellTxid": "DRY_RUN_SELL_1787778866115",
+    "source": "PYTHON_SCANNER"
   }
 ]

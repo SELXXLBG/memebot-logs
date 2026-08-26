@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "7KkXNCoJA1uNVahThhuFsBqVqtwm7BsCvWRyrtvUpump",
-  "symbol": "CRYPTO",
-  "marketCap": 105000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 0.00036327936318215925,
-  "entryTime": 1787756133397,
-  "peakPrice": 0.0005289,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "118759111385",
-  "txid": "DRY_RUN_BUY_1787756133397",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

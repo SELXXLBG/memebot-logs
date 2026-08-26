@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "FxDnU7ydze81HewfW98rD4AH4VvnHvVPx83CrtrhiCEE",
-  "symbol": "GTA6",
-  "marketCap": 197000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 0.0000029699129508613545,
-  "entryTime": 1787764294698,
-  "peakPrice": 0.000003389,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "22603770995580",
-  "txid": "DRY_RUN_BUY_1787764294698",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

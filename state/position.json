@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "DmkoAAigTuiPZ45PKGfoTxPQ2fVTo8K3LqdQ29zHpump",
+  "symbol": "GREEN",
+  "marketCap": 67000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.000011632672882477772,
+  "entryTime": 1787736989842,
+  "peakPrice": 0.000011632672882477772,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "2456185264449",
+  "txid": "DRY_RUN_BUY_1787736989842",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

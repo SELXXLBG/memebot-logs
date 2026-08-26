@@ -286,5 +286,25 @@
     "buyTxid": "DRY_RUN_BUY_1787776099271",
     "sellTxid": "DRY_RUN_SELL_1787776152301",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T20:31:48.691193Z",
+    "token": "HSN4vv8Y3rzArmr79DEWtcC3o2jy3jREDTJGtdL7pump",
+    "symbol": "BATSEM",
+    "marketCap": 66289.0,
+    "liquidity": 19607.85,
+    "candidateScore": 10.7365,
+    "entryPrice": 5.392829999999999e-05,
+    "exitPrice": 6.637e-05,
+    "peakPrice": 6.637e-05,
+    "solAmountLamports": 361653157,
+    "profitSOL": 0.08343634202166407,
+    "profitLamports": 83436342,
+    "pnlPct": 23.070818104779896,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787776300184",
+    "sellTxid": "DRY_RUN_SELL_1787776308691",
+    "source": "PYTHON_SCANNER"
   }
 ]

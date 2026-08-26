@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "GXfpsVmvcsymr1q7mBKBXe3ELtvJQAC8F96ASV32pump",
+  "symbol": "Trumptacio",
+  "marketCap": 52002.0,
+  "liquidity": 17468.18,
+  "volume1h": 43007.54,
+  "volume24h": 43007.54,
+  "candidateScore": 10.5049,
+  "entryPrice": 5.225999999999999e-05,
+  "entryTime": 1787782866531,
+  "peakPrice": 5.225999999999999e-05,
+  "solAmountLamports": 272849256,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787782866531",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

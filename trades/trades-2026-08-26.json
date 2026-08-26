@@ -34,5 +34,23 @@
     "buyTxid": "DRY_RUN_BUY_1787762087969",
     "sellTxid": "DRY_RUN_SELL_1787762103325",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T16:52:08.739575Z",
+    "token": "8cLYtC93aeMyZKAXugWXrj67SVKcKWUCXBjXuYWcpump",
+    "symbol": "ELITE",
+    "marketCap": 29670.0,
+    "liquidity": 12678.61,
+    "candidateScore": 3.2,
+    "entryPrice": 4.250875664648231e-05,
+    "exitPrice": 2.966e-05,
+    "peakPrice": 4.250875664648231e-05,
+    "profitSOL": -0.21158298576775478,
+    "pnlPct": -30.22614082396497,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787763123379",
+    "sellTxid": "DRY_RUN_SELL_1787763128739",
+    "source": "WF1_SCANNER"
   }
 ]

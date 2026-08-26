@@ -386,5 +386,25 @@
     "buyTxid": "DRY_RUN_BUY_1787778834947",
     "sellTxid": "DRY_RUN_SELL_1787778866115",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T21:30:19.188513Z",
+    "token": "7mKUPnaZSUeoWh44p2rXSRroEyn55669JgKszkzwpump",
+    "symbol": "UPTEMBER",
+    "marketCap": 39952.0,
+    "liquidity": 14873.06,
+    "candidateScore": 9.7092,
+    "entryPrice": 4.213361953806083e-05,
+    "exitPrice": 4e-05,
+    "peakPrice": 4.213361953806083e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.03544755216896134,
+    "profitLamports": -35447552,
+    "pnlPct": -5.063936024137334,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787779811976",
+    "sellTxid": "DRY_RUN_SELL_1787779819188",
+    "source": "WF1_SCANNER"
   }
 ]

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "J3zGJjGGEMNCnQPPLqfXCPJjQFQW1xg7qsCTth2Gpump",
+  "symbol": "PISTACAT",
+  "marketCap": 58229,
+  "liquidity": 18750.54,
+  "volume1h": 9411.13,
+  "volume24h": 12972.95,
+  "candidateScore": 9.601,
+  "entryPrice": 0.00006205466762275587,
+  "entryTime": 1787769491653,
+  "peakPrice": 0.00006205466762275587,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1107787679859",
+  "txid": "DRY_RUN_BUY_1787769491653",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

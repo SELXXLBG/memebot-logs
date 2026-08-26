@@ -146,5 +146,25 @@
     "buyTxid": "DRY_RUN_BUY_1787771482392",
     "sellTxid": "DRY_RUN_SELL_1787771564474",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T19:17:56.472568Z",
+    "token": "9h1qR5wdEFxuXKUVVUk1oQj8SDDBVm2aMCJUsx54pump",
+    "symbol": "Bob",
+    "marketCap": 44356.0,
+    "liquidity": 15678.85,
+    "candidateScore": 9.8104,
+    "entryPrice": 4.710434999999999e-05,
+    "exitPrice": 4.435e-05,
+    "peakPrice": 5.049e-05,
+    "solAmountLamports": 539453152,
+    "profitSOL": -0.0315436427678377,
+    "profitLamports": -31543642,
+    "pnlPct": -5.847336817088002,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1787771820950",
+    "sellTxid": "DRY_RUN_SELL_1787771876472",
+    "source": "PYTHON_SCANNER"
   }
 ]

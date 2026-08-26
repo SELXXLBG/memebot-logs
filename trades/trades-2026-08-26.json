@@ -446,5 +446,25 @@
     "buyTxid": "DRY_RUN_BUY_1787782866531",
     "sellTxid": "DRY_RUN_SELL_1787782956113",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T22:24:06.384427Z",
+    "token": "X7wMkUn1U8B23eqWADcqusgtZ8kmhuwpRQjAvcWpump",
+    "symbol": "Jizzle",
+    "marketCap": 45851.0,
+    "liquidity": 16318.5,
+    "candidateScore": 11.0658,
+    "entryPrice": 5.0611799999999995e-05,
+    "exitPrice": 4.585e-05,
+    "peakPrice": 5.0611799999999995e-05,
+    "solAmountLamports": 370011993,
+    "profitSOL": -0.03481249645867954,
+    "profitLamports": -34812496,
+    "pnlPct": -9.408477864845732,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787783039902",
+    "sellTxid": "DRY_RUN_SELL_1787783046384",
+    "source": "PYTHON_SCANNER"
   }
 ]

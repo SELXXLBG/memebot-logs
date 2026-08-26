@@ -1,0 +1,20 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T16:22:04.195479Z",
+    "token": "9hnu9GsJZbACcK6qB8t8Fss2kHC9BdyDPygTPeK1pump",
+    "symbol": "PNUTS",
+    "marketCap": 88433.0,
+    "liquidity": 23873.91,
+    "candidateScore": 9.4391,
+    "entryPrice": 8.835041616723085e-05,
+    "exitPrice": 9.009e-05,
+    "peakPrice": 9.951e-05,
+    "profitSOL": 0.013782715868972355,
+    "pnlPct": 1.9689594098531937,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787761211794",
+    "sellTxid": "DRY_RUN_SELL_1787761324195",
+    "source": "WF1_SCANNER"
+  }
+]

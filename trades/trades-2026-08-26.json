@@ -206,5 +206,25 @@
     "buyTxid": "DRY_RUN_BUY_1787772251863",
     "sellTxid": "DRY_RUN_SELL_1787772356702",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T20:00:40.015085Z",
+    "token": "7mUCNAEgc2KDUWgkZUNs8HPE5sd3qkHrSHsdDrugpump",
+    "symbol": "NIGGAPISTA",
+    "marketCap": 33898.0,
+    "liquidity": 13500.68,
+    "candidateScore": 9.3929,
+    "entryPrice": 4.4491349999999995e-05,
+    "exitPrice": 3.389e-05,
+    "peakPrice": 4.4491349999999995e-05,
+    "solAmountLamports": 385238653,
+    "profitSOL": -0.09179424301536249,
+    "profitLamports": -91794243,
+    "pnlPct": -23.827890140443017,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787774430795",
+    "sellTxid": "DRY_RUN_SELL_1787774440015",
+    "source": "PYTHON_SCANNER"
   }
 ]

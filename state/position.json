@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "161FPsYkSaSAbV9YdRjKQiagwmPf9atrvgtGppspump",
+  "symbol": "CYBERBANK",
+  "marketCap": 43075,
+  "liquidity": 15464.31,
+  "volume1h": 21900.93,
+  "volume24h": 21900.93,
+  "candidateScore": 10.1127,
+  "entryPrice": 0.00004380876801262918,
+  "entryTime": 1787713331845,
+  "peakPrice": 0.00004380876801262918,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1238212416901",
+  "txid": "DRY_RUN_BUY_1787713331845",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

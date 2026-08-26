@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "8cLYtC93aeMyZKAXugWXrj67SVKcKWUCXBjXuYWcpump",
+  "symbol": "ELITE",
+  "marketCap": 74000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.00004250875664648231,
+  "entryTime": 1787763123379,
+  "peakPrice": 0.00004250875664648231,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "2080027710185",
+  "txid": "DRY_RUN_BUY_1787763123379",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

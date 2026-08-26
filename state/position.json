@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "GJU5fTrvnNxSafRsaMJPfjjThpTaNem4iFJpZv2nSinY",
+  "symbol": "POKE6900",
+  "marketCap": 113000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.0000972993938046809,
+  "entryTime": 1787762087969,
+  "peakPrice": 0.0000972993938046809,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "807599479298350",
+  "txid": "DRY_RUN_BUY_1787762087969",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

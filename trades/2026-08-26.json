@@ -350,5 +350,27 @@
     "buyTxid": "DRY_RUN_BUY_1787764930598",
     "sellTxid": "DRY_RUN_SELL_1787765011429",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T17:28:31.337Z",
+    "token": "RaKxXAC9yBN9ujdFpyBCY8wWYPsPcLTDeXRRhnypump",
+    "symbol": "SOLANA",
+    "marketCap": 41997,
+    "liquidity": 15342.58,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.4,
+    "entryPrice": 0.00004755407675586946,
+    "exitPrice": 0.00004199,
+    "peakPrice": 0.00004779,
+    "profitSOL": -0.081903677,
+    "profitLamports": -81903677,
+    "pnlPct": -11.700525245046842,
+    "peakPnlPct": 0.49611570705432934,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787765269800",
+    "sellTxid": "DRY_RUN_SELL_1787765311287",
+    "sweepTxid": null
   }
 ]

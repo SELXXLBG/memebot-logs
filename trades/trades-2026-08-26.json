@@ -426,5 +426,25 @@
     "buyTxid": "DRY_RUN_BUY_1787780180234",
     "sellTxid": "DRY_RUN_SELL_1787780322478",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T22:22:36.113084Z",
+    "token": "GXfpsVmvcsymr1q7mBKBXe3ELtvJQAC8F96ASV32pump",
+    "symbol": "Trumptacio",
+    "marketCap": 70877.0,
+    "liquidity": 20746.79,
+    "candidateScore": 10.5049,
+    "entryPrice": 5.225999999999999e-05,
+    "exitPrice": 7.087e-05,
+    "peakPrice": 7.087e-05,
+    "solAmountLamports": 272849256,
+    "profitSOL": 0.09716273735476474,
+    "profitLamports": 97162737,
+    "pnlPct": 35.61040949100654,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787782866531",
+    "sellTxid": "DRY_RUN_SELL_1787782956113",
+    "source": "PYTHON_SCANNER"
   }
 ]

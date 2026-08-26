@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "APBYFyBhSwWoFkikTaivRKpVZgMmQVXuWLF1PDhopump",
+  "symbol": "PISTJUMP",
+  "marketCap": 44571.0,
+  "liquidity": 15749.93,
+  "volume1h": 7350.36,
+  "volume24h": 7350.36,
+  "candidateScore": 9.6518,
+  "entryPrice": 4.479285e-05,
+  "entryTime": 1787775101353,
+  "peakPrice": 4.479285e-05,
+  "solAmountLamports": 352769063,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787775101353",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

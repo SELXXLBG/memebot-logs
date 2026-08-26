@@ -16,5 +16,23 @@
     "buyTxid": "DRY_RUN_BUY_1787761211794",
     "sellTxid": "DRY_RUN_SELL_1787761324195",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T16:35:03.325174Z",
+    "token": "GJU5fTrvnNxSafRsaMJPfjjThpTaNem4iFJpZv2nSinY",
+    "symbol": "POKE6900",
+    "marketCap": 88487.0,
+    "liquidity": 58264.66,
+    "candidateScore": 3.2,
+    "entryPrice": 9.72993938046809e-05,
+    "exitPrice": 8.848e-05,
+    "peakPrice": 9.72993938046809e-05,
+    "profitSOL": -0.06344927159227198,
+    "pnlPct": -9.064181656038855,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787762087969",
+    "sellTxid": "DRY_RUN_SELL_1787762103325",
+    "source": "WF1_SCANNER"
   }
 ]

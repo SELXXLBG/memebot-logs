@@ -416,5 +416,27 @@
     "buyTxid": "DRY_RUN_BUY_1787769006989",
     "sellTxid": "DRY_RUN_SELL_1787769091495",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787769091560"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T18:58:31.529Z",
+    "token": "J3zGJjGGEMNCnQPPLqfXCPJjQFQW1xg7qsCTth2Gpump",
+    "symbol": "PISTACAT",
+    "marketCap": 58303,
+    "liquidity": 18785.83,
+    "volume1h": 9411.13,
+    "volume24h": 12972.95,
+    "candidateScore": 9.601,
+    "entryPrice": 0.00006205466762275587,
+    "exitPrice": 0.00006139,
+    "peakPrice": 0.0000633,
+    "profitSOL": -0.007497701,
+    "profitLamports": -7497701,
+    "pnlPct": -1.0711001254515364,
+    "peakPnlPct": 2.0068311135187784,
+    "reason": "STALE_NO_MOMENTUM",
+    "buyTxid": "DRY_RUN_BUY_1787769491653",
+    "sellTxid": "DRY_RUN_SELL_1787770711478",
+    "sweepTxid": null
   }
 ]

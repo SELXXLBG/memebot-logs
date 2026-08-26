@@ -174,5 +174,27 @@
     "buyTxid": "DRY_RUN_BUY_1787732171758",
     "sellTxid": "DRY_RUN_SELL_1787732341375",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787732341455"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T08:30:31.870Z",
+    "token": "2nUCpToc7jXoNRdJLhKZZRZU9rbMqNQgNb7KSXnmpump",
+    "symbol": "ber",
+    "marketCap": 95783,
+    "liquidity": 25731.16,
+    "volume1h": 8918,
+    "volume24h": 863595.02,
+    "candidateScore": 7.2149,
+    "entryPrice": 0.00010513330013677059,
+    "exitPrice": 0.00009779,
+    "peakPrice": 0.0001069,
+    "profitSOL": -0.048893264,
+    "profitLamports": -48893264,
+    "pnlPct": -6.984751859988708,
+    "peakPnlPct": 1.680437940149372,
+    "reason": "STOPLOSS6P",
+    "buyTxid": "DRY_RUN_BUY_1787732411971",
+    "sellTxid": "DRY_RUN_SELL_1787733031753",
+    "sweepTxid": null
   }
 ]

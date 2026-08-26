@@ -126,5 +126,25 @@
     "buyTxid": "DRY_RUN_BUY_1787768257654",
     "sellTxid": "DRY_RUN_SELL_1787768367512",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T19:12:44.474582Z",
+    "token": "2j6sw4Wyi9xJqMxrpepArsQt6Dyif8RkDn9hmQjXpump",
+    "symbol": "Foxdog",
+    "marketCap": 44005.0,
+    "liquidity": 15641.27,
+    "candidateScore": 10.1212,
+    "entryPrice": 5.241074999999999e-05,
+    "exitPrice": 4.406e-05,
+    "peakPrice": 5.241074999999999e-05,
+    "solAmountLamports": 641696420,
+    "profitSOL": -0.10224326840037579,
+    "profitLamports": -102243268,
+    "pnlPct": -15.933277047170652,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787771482392",
+    "sellTxid": "DRY_RUN_SELL_1787771564474",
+    "source": "PYTHON_SCANNER"
   }
 ]

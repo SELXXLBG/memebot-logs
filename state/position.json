@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "ECLDS9hrEws6pGLpW8JhYJMpHvawaxJG71ae8oE6pump",
-  "symbol": "PEPSTACIO",
-  "marketCap": 87912,
-  "liquidity": 23056.26,
-  "volume1h": 142979.01,
-  "volume24h": 142979.01,
-  "candidateScore": 12.6497,
-  "entryPrice": 0.00008956802270731908,
-  "entryTime": 1787705891739,
-  "peakPrice": 0.0001077,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "755348607956",
-  "txid": "DRY_RUN_BUY_1787705891739",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

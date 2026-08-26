@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "9hnu9GsJZbACcK6qB8t8Fss2kHC9BdyDPygTPeK1pump",
-  "symbol": "PNUTS",
-  "marketCap": 85830,
-  "liquidity": 23494.05,
-  "volume1h": 60992.45,
-  "volume24h": 452110.1,
-  "candidateScore": 9.4391,
-  "entryPrice": 0.00008835041616723085,
-  "entryTime": 1787761211794,
-  "peakPrice": 0.00009951,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "675541879547",
-  "txid": "DRY_RUN_BUY_1787761211794",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

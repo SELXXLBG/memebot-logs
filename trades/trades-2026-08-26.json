@@ -88,5 +88,23 @@
     "buyTxid": "DRY_RUN_BUY_1787765269800",
     "sellTxid": "DRY_RUN_SELL_1787765311301",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T17:36:43.334656Z",
+    "token": "He1VdiuNqRVD99SjQp7d1sk5RWuQ7WcxDijUhjowpump",
+    "symbol": "HQS",
+    "marketCap": 7444.0,
+    "liquidity": 5499.33,
+    "candidateScore": 3.2,
+    "entryPrice": 8.234154266175385e-06,
+    "exitPrice": 7.444e-06,
+    "peakPrice": 8.234154266175385e-06,
+    "profitSOL": -0.06717240999416906,
+    "pnlPct": -9.596058570595579,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787765769360",
+    "sellTxid": "DRY_RUN_SELL_1787765803334",
+    "source": "WF1_SCANNER"
   }
 ]

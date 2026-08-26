@@ -130,5 +130,27 @@
     "buyTxid": "DRY_RUN_BUY_1787713331845",
     "sellTxid": "DRY_RUN_SELL_1787713381441",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787713381521"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T07:28:02.323Z",
+    "token": "jaZBKhFYAV9WZ7n8ywDZucakDoXkFF6fQ5oLhpqpump",
+    "symbol": "TWD",
+    "marketCap": 2011,
+    "liquidity": 2046.3,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.0000019977493003452668,
+    "exitPrice": 0.00000201,
+    "peakPrice": 0.000002041,
+    "profitSOL": 0.004292575,
+    "profitLamports": 4292575,
+    "pnlPct": 0.6132250754694679,
+    "peakPnlPct": 2.1649713328523412,
+    "reason": "STALE_NO_MOMENTUM",
+    "buyTxid": "DRY_RUN_BUY_1787728073060",
+    "sellTxid": "DRY_RUN_SELL_1787729281940",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787729282290"
   }
 ]

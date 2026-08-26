@@ -346,5 +346,25 @@
     "buyTxid": "DRY_RUN_BUY_1787777673742",
     "sellTxid": "DRY_RUN_SELL_1787777877443",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T21:08:28.975612Z",
+    "token": "CGGVGr1qPB9ED624crHR23KGwi8s5ig4x3MS4bnSpump",
+    "symbol": "CYBEROWL",
+    "marketCap": 30378.0,
+    "liquidity": 12720.77,
+    "candidateScore": 11.104,
+    "entryPrice": 3.57579e-05,
+    "exitPrice": 3.037e-05,
+    "peakPrice": 3.57579e-05,
+    "solAmountLamports": 514793092,
+    "profitSOL": -0.07756757808447363,
+    "profitLamports": -77567578,
+    "pnlPct": -15.067719301189387,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787778455158",
+    "sellTxid": "DRY_RUN_SELL_1787778508975",
+    "source": "PYTHON_SCANNER"
   }
 ]

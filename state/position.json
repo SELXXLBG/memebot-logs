@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "DB2s8Ws67p13EvgKVd1ugtF743z8cuSApmy9fXVopump",
-  "symbol": "TB",
-  "marketCap": 94000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 0.00007774688995834916,
-  "entryTime": 1787735106388,
-  "peakPrice": 0.0001017,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "656477892200",
-  "txid": "DRY_RUN_BUY_1787735106388",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

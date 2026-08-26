@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "255EN8988ujwR2Daw1NyYzqaQqYXeAnPbQkr6XJ7pump",
-  "symbol": "HotChicken",
-  "marketCap": 30257,
-  "liquidity": 12675.49,
-  "volume1h": 46378.74,
-  "volume24h": 46378.74,
-  "candidateScore": 10.6076,
-  "entryPrice": 3.0401249999999996e-05,
-  "entryTime": 1787776099271,
-  "peakPrice": 3.061e-05,
-  "solAmountLamports": 427643253,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787776099271",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

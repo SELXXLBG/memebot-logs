@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1787707811987",
     "sellTxid": "DRY_RUN_SELL_1787708611463",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787708611524"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T03:03:01.528Z",
+    "token": "161FPsYkSaSAbV9YdRjKQiagwmPf9atrvgtGppspump",
+    "symbol": "CYBERBANK",
+    "marketCap": 53838,
+    "liquidity": 17512.52,
+    "volume1h": 21900.93,
+    "volume24h": 21900.93,
+    "candidateScore": 10.1127,
+    "entryPrice": 0.00004380876801262918,
+    "exitPrice": 0.00005383,
+    "peakPrice": 0.00005383,
+    "profitSOL": 0.160124621,
+    "profitLamports": 160124621,
+    "pnlPct": 22.874945911471194,
+    "peakPnlPct": 22.874945911471194,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787713331845",
+    "sellTxid": "DRY_RUN_SELL_1787713381441",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787713381521"
   }
 ]

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "jaZBKhFYAV9WZ7n8ywDZucakDoXkFF6fQ5oLhpqpump",
+  "symbol": "TWD",
+  "marketCap": 63000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.0000019977493003452668,
+  "entryTime": 1787728073060,
+  "peakPrice": 0.0000019977493003452668,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "32540141376291",
+  "txid": "DRY_RUN_BUY_1787728073060",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

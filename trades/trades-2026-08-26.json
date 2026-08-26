@@ -226,5 +226,25 @@
     "buyTxid": "DRY_RUN_BUY_1787774430795",
     "sellTxid": "DRY_RUN_SELL_1787774440015",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T20:10:43.767321Z",
+    "token": "EAVoAQAdZ2jgTrp5zNBbiDf9grvqJVx8HhLLh8vzcisv",
+    "symbol": "GTA6",
+    "marketCap": 200746.0,
+    "liquidity": 59692.68,
+    "candidateScore": 3.2,
+    "entryPrice": 1.850196742843838e-06,
+    "exitPrice": 2.007e-06,
+    "peakPrice": 2.187e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.059324653139645925,
+    "profitLamports": 59324653,
+    "pnlPct": 8.474950448520847,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787774714698",
+    "sellTxid": "DRY_RUN_SELL_1787775043767",
+    "source": "WF1_SCANNER"
   }
 ]

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "HnmgbHDVr4HgpLxDDbviD5sBFw9BagwzCNEwmMx5pump",
+  "symbol": "JSON",
+  "marketCap": 40000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.00003814798791797219,
+  "entryTime": 1787706819961,
+  "peakPrice": 0.00003814798791797219,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "2110279520156",
+  "txid": "DRY_RUN_BUY_1787706819961",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

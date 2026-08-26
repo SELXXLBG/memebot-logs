@@ -406,5 +406,25 @@
     "buyTxid": "DRY_RUN_BUY_1787779811976",
     "sellTxid": "DRY_RUN_SELL_1787779819188",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T21:38:42.478726Z",
+    "token": "72Acer1iqeWXq92ys9nMhWj7DeFTGFXbRMsnCxtmpump",
+    "symbol": "POPSTACIO",
+    "marketCap": 42305.0,
+    "liquidity": 15428.37,
+    "candidateScore": 10.6633,
+    "entryPrice": 5.2481099999999995e-05,
+    "exitPrice": 4.23e-05,
+    "peakPrice": 6.254e-05,
+    "solAmountLamports": 338520782,
+    "profitSOL": -0.06567152619934032,
+    "profitLamports": -65671526,
+    "pnlPct": -19.39955526846807,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787780180234",
+    "sellTxid": "DRY_RUN_SELL_1787780322478",
+    "source": "PYTHON_SCANNER"
   }
 ]

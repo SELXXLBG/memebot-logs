@@ -438,5 +438,27 @@
     "buyTxid": "DRY_RUN_BUY_1787769491653",
     "sellTxid": "DRY_RUN_SELL_1787770711478",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T19:22:31.056Z",
+    "token": "55zP8YPAHNEiomqv1U8WxkQdR3mRqE2bAMpT2Moupump",
+    "symbol": "CATANA",
+    "marketCap": 59345,
+    "liquidity": 18395.68,
+    "volume1h": 17367.38,
+    "volume24h": 17367.38,
+    "candidateScore": 11.0555,
+    "entryPrice": 0.00006782745,
+    "exitPrice": 0.00005934,
+    "peakPrice": 0.00006782745,
+    "profitSOL": -0.50790951,
+    "profitLamports": -507909510,
+    "pnlPct": -12.513296607789332,
+    "peakPnlPct": 0,
+    "reason": "INSTANT_DUMP_SELL_FAILED",
+    "buyTxid": "DRY_RUN_BUY_1787772123424",
+    "sellTxid": "SELL_FAILED_FORCE_EXIT_1787772150945",
+    "sweepTxid": null
   }
 ]

@@ -394,5 +394,27 @@
     "buyTxid": "DRY_RUN_BUY_1787768411787",
     "sellTxid": "DRY_RUN_SELL_1787768881526",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T18:31:31.570Z",
+    "token": "2CnsxHKGVZYJKpwmm8iprKWk3uM4WCFDWcL2jjhbpump",
+    "symbol": "BUTTGOBLIN",
+    "marketCap": 115280,
+    "liquidity": 27245.31,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00008440258562362775,
+    "exitPrice": 0.0001206,
+    "peakPrice": 0.0001206,
+    "profitSOL": 0.300206325,
+    "profitLamports": 300206325,
+    "pnlPct": 42.88661787896591,
+    "peakPnlPct": 42.88661787896591,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787769006989",
+    "sellTxid": "DRY_RUN_SELL_1787769091495",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787769091560"
   }
 ]

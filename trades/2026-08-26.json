@@ -218,5 +218,27 @@
     "buyTxid": "DRY_RUN_BUY_1787735106388",
     "sellTxid": "DRY_RUN_SELL_1787735131564",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787735131622"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T09:37:01.518Z",
+    "token": "DmkoAAigTuiPZ45PKGfoTxPQ2fVTo8K3LqdQ29zHpump",
+    "symbol": "GREEN",
+    "marketCap": 49653,
+    "liquidity": 16806.77,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.000011632672882477772,
+    "exitPrice": 0.00004965,
+    "peakPrice": 0.00004965,
+    "profitSOL": 2.287705435,
+    "profitLamports": 2287705435,
+    "pnlPct": 326.81506220971374,
+    "peakPnlPct": 326.81506220971374,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787736989842",
+    "sellTxid": "DRY_RUN_SELL_1787737021422",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787737021503"
   }
 ]

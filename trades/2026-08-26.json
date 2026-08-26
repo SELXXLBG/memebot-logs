@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1787707211873",
     "sellTxid": "DRY_RUN_SELL_1787707231286",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787707231339"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T01:43:31.532Z",
+    "token": "ECLDS9hrEws6pGLpW8JhYJMpHvawaxJG71ae8oE6pump",
+    "symbol": "PEPSTACIO",
+    "marketCap": 99816,
+    "liquidity": 24750.85,
+    "volume1h": 161265.17,
+    "volume24h": 161265.17,
+    "candidateScore": 10.2247,
+    "entryPrice": 0.00009650701170824058,
+    "exitPrice": 0.00009981,
+    "peakPrice": 0.0001051,
+    "profitSOL": 0.023957759,
+    "profitLamports": 23957759,
+    "pnlPct": 3.422537112375822,
+    "peakPnlPct": 8.90400411292154,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787707811987",
+    "sellTxid": "DRY_RUN_SELL_1787708611463",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787708611524"
   }
 ]

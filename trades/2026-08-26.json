@@ -240,5 +240,27 @@
     "buyTxid": "DRY_RUN_BUY_1787736989842",
     "sellTxid": "DRY_RUN_SELL_1787737021422",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787737021503"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T10:26:01.636Z",
+    "token": "GnjhUCXfDRSgi9fpHLuiM2L2QpXHF6LgJ9w63EEYBk5v",
+    "symbol": "PISTACIO",
+    "marketCap": 10793908,
+    "liquidity": 0.09,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.008362233080983559,
+    "exitPrice": 0.01079,
+    "peakPrice": 0.01079,
+    "profitSOL": 0.203227633,
+    "profitLamports": 203227633,
+    "pnlPct": 29.032519131012897,
+    "peakPnlPct": 29.032519131012897,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787739634625",
+    "sellTxid": "DRY_RUN_SELL_1787739961529",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787739961626"
   }
 ]

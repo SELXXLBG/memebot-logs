@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "He1VdiuNqRVD99SjQp7d1sk5RWuQ7WcxDijUhjowpump",
+  "symbol": "HQS",
+  "marketCap": 35000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.000008234154266175385,
+  "entryTime": 1787765769360,
+  "peakPrice": 0.000008234154266175385,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "7177059647946",
+  "txid": "DRY_RUN_BUY_1787765769360",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

@@ -306,5 +306,25 @@
     "buyTxid": "DRY_RUN_BUY_1787776300184",
     "sellTxid": "DRY_RUN_SELL_1787776308691",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T20:48:15.819191Z",
+    "token": "E3JZTGew86aYNjbDWrE6TNUkaMsDSKRAVKx61xyTpump",
+    "symbol": "Cigada",
+    "marketCap": 35919.0,
+    "liquidity": 13945.01,
+    "candidateScore": 9.6626,
+    "entryPrice": 3.904425e-05,
+    "exitPrice": 3.591e-05,
+    "peakPrice": 3.904425e-05,
+    "solAmountLamports": 445089499,
+    "profitSOL": -0.03572924981887856,
+    "profitLamports": -35729249,
+    "pnlPct": -8.027430415490112,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787777273664",
+    "sellTxid": "DRY_RUN_SELL_1787777295819",
+    "source": "PYTHON_SCANNER"
   }
 ]

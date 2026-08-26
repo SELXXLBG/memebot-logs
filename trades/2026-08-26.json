@@ -196,5 +196,27 @@
     "buyTxid": "DRY_RUN_BUY_1787732411971",
     "sellTxid": "DRY_RUN_SELL_1787733031753",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T09:05:31.628Z",
+    "token": "DB2s8Ws67p13EvgKVd1ugtF743z8cuSApmy9fXVopump",
+    "symbol": "TB",
+    "marketCap": 101727,
+    "liquidity": 25045.73,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00007774688995834916,
+    "exitPrice": 0.0001017,
+    "peakPrice": 0.0001017,
+    "profitSOL": 0.215663636,
+    "profitLamports": 215663636,
+    "pnlPct": 30.80909095461322,
+    "peakPnlPct": 30.80909095461322,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787735106388",
+    "sellTxid": "DRY_RUN_SELL_1787735131564",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787735131622"
   }
 ]

@@ -504,5 +504,27 @@
     "buyTxid": "DRY_RUN_BUY_1787778455158",
     "sellTxid": "SELL_FAILED_FORCE_EXIT_1787778511624",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T22:31:31.639Z",
+    "token": "GRaDw88ScWtEH53nYXW1QYko5pNX8qrhgQLNz1vtpump",
+    "symbol": "ATLAS",
+    "marketCap": 94731,
+    "liquidity": 24395.17,
+    "volume1h": 155487.88,
+    "volume24h": 155487.88,
+    "candidateScore": 12.2055,
+    "entryPrice": 0.00009515339999999999,
+    "exitPrice": 0.00009473,
+    "peakPrice": 0.0001048,
+    "profitSOL": -0.335199497,
+    "profitLamports": -335199497,
+    "pnlPct": -0.44496570800412105,
+    "peakPnlPct": 10.137945675088869,
+    "reason": "TRAILINGSTOP_SELL_FAILED",
+    "buyTxid": "DRY_RUN_BUY_1787783445572",
+    "sellTxid": "SELL_FAILED_FORCE_EXIT_1787783491493",
+    "sweepTxid": null
   }
 ]

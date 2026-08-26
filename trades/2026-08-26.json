@@ -460,5 +460,27 @@
     "buyTxid": "DRY_RUN_BUY_1787772123424",
     "sellTxid": "SELL_FAILED_FORCE_EXIT_1787772150945",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-26T20:58:01.638Z",
+    "token": "CCYb1SzotzmfFwF74wLPpLL9rt32XUS9eu3tm6vmpump",
+    "symbol": "BULLSTACIO",
+    "marketCap": 57296,
+    "liquidity": 18117.74,
+    "volume1h": 24970.14,
+    "volume24h": 24970.14,
+    "candidateScore": 9.7406,
+    "entryPrice": 0.000045556649999999994,
+    "exitPrice": 0.00005729,
+    "peakPrice": 0.00005729,
+    "profitSOL": -0.40936025,
+    "profitLamports": -409360250,
+    "pnlPct": 25.755515385788925,
+    "peakPnlPct": 25.755515385788925,
+    "reason": "TAKEPROFIT20P_SELL_FAILED",
+    "buyTxid": "DRY_RUN_BUY_1787777673742",
+    "sellTxid": "SELL_FAILED_FORCE_EXIT_1787777881532",
+    "sweepTxid": null
   }
 ]

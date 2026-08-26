@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "55zP8YPAHNEiomqv1U8WxkQdR3mRqE2bAMpT2Moupump",
+  "symbol": "CATANA",
+  "marketCap": 67490,
+  "liquidity": 19740.83,
+  "volume1h": 22598.21,
+  "volume24h": 22598.21,
+  "candidateScore": 11.1884,
+  "entryPrice": 0.00006816663687560118,
+  "entryTime": 1787772251863,
+  "peakPrice": 0.00006816663687560118,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1189527001957",
+  "txid": "DRY_RUN_BUY_1787772251863",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

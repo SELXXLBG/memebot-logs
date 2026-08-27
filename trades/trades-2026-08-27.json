@@ -118,5 +118,25 @@
     "buyTxid": "DRY_RUN_BUY_1787832664751",
     "sellTxid": "DRY_RUN_SELL_1787832682925",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T12:15:39.679900Z",
+    "token": "7JQ7AEy6tv2Jsxsmhj6xAMmfc2eZRMveFEyi51qspump",
+    "symbol": "Cheshire",
+    "marketCap": 60609.0,
+    "liquidity": 19371.88,
+    "candidateScore": 11.5168,
+    "entryPrice": 6.248084999999999e-05,
+    "exitPrice": 6.06e-05,
+    "peakPrice": 6.616e-05,
+    "solAmountLamports": 484820751,
+    "profitSOL": -0.01459447349897359,
+    "profitLamports": -14594473,
+    "pnlPct": -3.010282350512177,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1787832878857",
+    "sellTxid": "DRY_RUN_SELL_1787832939679",
+    "source": "PYTHON_SCANNER"
   }
 ]

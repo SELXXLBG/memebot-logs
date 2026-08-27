@@ -1078,5 +1078,25 @@
     "buyTxid": "DRY_RUN_BUY_1787863000325",
     "sellTxid": "DRY_RUN_SELL_1787863045880",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T21:04:58.146830Z",
+    "token": "CyuJnun3xicBDQAS4U8C3LL7AqZZrpsxTd6q72Jwpump",
+    "symbol": "Dunkin",
+    "marketCap": 40379.0,
+    "liquidity": 15719.51,
+    "candidateScore": 11.0244,
+    "entryPrice": 4.0923599999999996e-05,
+    "exitPrice": 4.037e-05,
+    "peakPrice": 4.289e-05,
+    "solAmountLamports": 139000281,
+    "profitSOL": -0.0018803466841040182,
+    "profitLamports": -1880346,
+    "pnlPct": -1.3527646639102968,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1787864619417",
+    "sellTxid": "DRY_RUN_SELL_1787864698146",
+    "source": "PYTHON_SCANNER"
   }
 ]

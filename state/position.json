@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "7dgWTn3ANZUeRzqBaTJgd6qgUQo5WBj6qhx4q7C6pump",
+  "symbol": "fate",
+  "marketCap": 41072.0,
+  "liquidity": 15779.88,
+  "volume1h": 112590.55,
+  "volume24h": 112590.55,
+  "candidateScore": 10.9424,
+  "entryPrice": 4.1325599999999996e-05,
+  "entryTime": 1787844400427,
+  "peakPrice": 4.1325599999999996e-05,
+  "solAmountLamports": 164286489,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787844400427",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

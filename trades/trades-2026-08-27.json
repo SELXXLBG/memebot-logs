@@ -678,5 +678,25 @@
     "buyTxid": "DRY_RUN_BUY_1787850665673",
     "sellTxid": "DRY_RUN_SELL_1787850674554",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T17:18:26.062647Z",
+    "token": "BUxoHeyXvxYmQFtSH5yW5hCcQHWTADTqRsrVTZoKFqdt",
+    "symbol": "huhcat",
+    "marketCap": 44022.0,
+    "liquidity": 16498.08,
+    "candidateScore": 9.5779,
+    "entryPrice": 4.791839999999999e-05,
+    "exitPrice": 4.402e-05,
+    "peakPrice": 4.791839999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0569484790811044,
+    "profitLamports": -56948479,
+    "pnlPct": -8.135497011586343,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787851103947",
+    "sellTxid": "DRY_RUN_SELL_1787851106062",
+    "source": "PYTHON_SCANNER"
   }
 ]

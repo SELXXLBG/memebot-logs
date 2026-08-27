@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "58NA4VwHA2LFJu4dAM42B96BPGkNa8irKrw55Kf7pump",
-  "symbol": "TROLLFONE",
-  "marketCap": 80000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 4.955557108598381e-05,
-  "entryTime": 1787857027031,
-  "peakPrice": 4.955557108598381e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1424502708253",
-  "txid": "DRY_RUN_BUY_1787857027031",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "3rk3u5ngcMMBc1aoQbff8Y3GSUKvhGb5kWRPSGrLbMs7",
+  "symbol": "LEEKCORP",
+  "marketCap": 75000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.00007945926123340299,
+  "entryTime": 1787789320225,
+  "peakPrice": 0.00007945926123340299,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "931750541360",
+  "txid": "DRY_RUN_BUY_1787789320225",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

@@ -698,5 +698,25 @@
     "buyTxid": "DRY_RUN_BUY_1787851103947",
     "sellTxid": "DRY_RUN_SELL_1787851106062",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T17:26:46.404334Z",
+    "token": "9uEeSZSdxMm1PaoqQ1VNDwcuDMM9RHqkp2p89Je5pump",
+    "symbol": "AFD",
+    "marketCap": 118005.0,
+    "liquidity": 28432.9,
+    "candidateScore": 8.3962,
+    "entryPrice": 0.000129042,
+    "exitPrice": 0.000118,
+    "peakPrice": 0.000129042,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.05989832767626048,
+    "profitLamports": -59898327,
+    "pnlPct": -8.556903953751497,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787851564481",
+    "sellTxid": "DRY_RUN_SELL_1787851606404",
+    "source": "PYTHON_SCANNER"
   }
 ]

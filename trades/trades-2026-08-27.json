@@ -518,5 +518,25 @@
     "buyTxid": "DRY_RUN_BUY_1787845868059",
     "sellTxid": "DRY_RUN_SELL_1787845997538",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T16:00:25.785056Z",
+    "token": "ABReuPgr9LPcBsm3W276Gs9vqpPmfefyEfSydzMMpump",
+    "symbol": "CHILLPIST",
+    "marketCap": 42954.0,
+    "liquidity": 16150.99,
+    "candidateScore": 11.6218,
+    "entryPrice": 4.166729999999999e-05,
+    "exitPrice": 4.295e-05,
+    "peakPrice": 4.576e-05,
+    "solAmountLamports": 271012195,
+    "profitSOL": 0.008342929408109044,
+    "profitLamports": 8342929,
+    "pnlPct": 3.0784332078152588,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787846264838",
+    "sellTxid": "DRY_RUN_SELL_1787846425785",
+    "source": "PYTHON_SCANNER"
   }
 ]

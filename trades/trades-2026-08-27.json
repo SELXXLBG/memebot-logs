@@ -898,5 +898,25 @@
     "buyTxid": "DRY_RUN_BUY_1787860439511",
     "sellTxid": "DRY_RUN_SELL_1787860666274",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T19:59:42.677187Z",
+    "token": "GpunGt2wLGLcC8ZB3Y8Ez6tAs1rgcFPo24dKu2qMpump",
+    "symbol": "ICPT",
+    "marketCap": 52308.0,
+    "liquidity": 18389.13,
+    "candidateScore": 3.2,
+    "entryPrice": 8.505514675227384e-05,
+    "exitPrice": 5.23e-05,
+    "peakPrice": 8.505514675227384e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.2695733721249352,
+    "profitLamports": -269573372,
+    "pnlPct": -38.510481732133606,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787860727676",
+    "sellTxid": "DRY_RUN_SELL_1787860782677",
+    "source": "WF1_SCANNER"
   }
 ]

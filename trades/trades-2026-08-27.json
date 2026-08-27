@@ -218,5 +218,25 @@
     "buyTxid": "DRY_RUN_BUY_1787836852055",
     "sellTxid": "DRY_RUN_SELL_1787836962572",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T13:37:12.169540Z",
+    "token": "7VG9iv46yQt24h44SJ4nqyAd9mgXWBrTdy7Qz96Gpump",
+    "symbol": "semonfone",
+    "marketCap": 59267.0,
+    "liquidity": 19052.91,
+    "candidateScore": 9.547,
+    "entryPrice": 4.665209999999999e-05,
+    "exitPrice": 5.926e-05,
+    "peakPrice": 5.926e-05,
+    "solAmountLamports": 114507078,
+    "profitSOL": 0.030945955031310503,
+    "profitLamports": 30945955,
+    "pnlPct": 27.025364345870834,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787837734525",
+    "sellTxid": "DRY_RUN_SELL_1787837832169",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -758,5 +758,25 @@
     "buyTxid": "DRY_RUN_BUY_1787853633793",
     "sellTxid": "DRY_RUN_SELL_1787854881772",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T18:22:56.888644Z",
+    "token": "Cn3Qi39McnRz8sFaY3UahfSEE1UYZKcczV93Q4t1pump",
+    "symbol": "GALAXY",
+    "marketCap": 39119.0,
+    "liquidity": 15304.92,
+    "candidateScore": 9.9089,
+    "entryPrice": 4.6722449999999995e-05,
+    "exitPrice": 3.911e-05,
+    "peakPrice": 4.6722449999999995e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.11405041901698208,
+    "profitLamports": -114050419,
+    "pnlPct": -16.292917002426012,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787854959482",
+    "sellTxid": "DRY_RUN_SELL_1787854976888",
+    "source": "PYTHON_SCANNER"
   }
 ]

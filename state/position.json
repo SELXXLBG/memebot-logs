@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "CTuw8xEE15hKi2yB9n8CoLDq8ZhBLVbh8ydcuN11pump",
+  "symbol": "MICRODUCK",
+  "marketCap": 117000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.00014312823875025081,
+  "entryTime": 1787830115710,
+  "peakPrice": 0.00014312823875025081,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "396187892361",
+  "txid": "DRY_RUN_BUY_1787830115710",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

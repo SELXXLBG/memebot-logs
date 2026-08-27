@@ -1418,5 +1418,25 @@
     "buyTxid": "DRY_RUN_BUY_1787873717014",
     "sellTxid": "DRY_RUN_SELL_1787873737681",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T23:46:14.679993Z",
+    "token": "FVPF1B3PMxNmiprunppWVjfmYv4C3U7iDudf6yx5pump",
+    "symbol": "bullrun",
+    "marketCap": 53734.0,
+    "liquidity": 18687.01,
+    "candidateScore": 11.1876,
+    "entryPrice": 5.634029999999999e-05,
+    "exitPrice": 5.373e-05,
+    "peakPrice": 6.362e-05,
+    "solAmountLamports": 43706070,
+    "profitSOL": -0.002024944036879456,
+    "profitLamports": -2024944,
+    "pnlPct": -4.633095670417075,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787874317659",
+    "sellTxid": "DRY_RUN_SELL_1787874374680",
+    "source": "PYTHON_SCANNER"
   }
 ]

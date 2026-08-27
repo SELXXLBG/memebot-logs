@@ -438,5 +438,25 @@
     "buyTxid": "DRY_RUN_BUY_1787843233690",
     "sellTxid": "DRY_RUN_SELL_1787843332968",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T15:26:06.345538Z",
+    "token": "2Rimnyk7NETze8MWGyyPaHhDKXDzyJqCFtMVv9C7ECGL",
+    "symbol": "DIAM",
+    "marketCap": 149838.0,
+    "liquidity": 33912.85,
+    "candidateScore": 3.2,
+    "entryPrice": 0.0001222467161825013,
+    "exitPrice": 0.0001498,
+    "peakPrice": 0.0001498,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.15777355232557097,
+    "profitLamports": 157773552,
+    "pnlPct": 22.539078903652996,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787843989502",
+    "sellTxid": "DRY_RUN_SELL_1787844366345",
+    "source": "WF1_SCANNER"
   }
 ]

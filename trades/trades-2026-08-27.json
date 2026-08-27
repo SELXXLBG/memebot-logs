@@ -378,5 +378,25 @@
     "buyTxid": "DRY_RUN_BUY_1787840270138",
     "sellTxid": "DRY_RUN_SELL_1787840280305",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T14:21:15.330368Z",
+    "token": "54hnNKFzSwcCv4cJ8TCjekX3BHFVzc7ooY53FjHJpump",
+    "symbol": "Bare",
+    "marketCap": 54535.0,
+    "liquidity": 18285.99,
+    "candidateScore": 10.7266,
+    "entryPrice": 4.2702449999999996e-05,
+    "exitPrice": 5.453e-05,
+    "peakPrice": 5.453e-05,
+    "solAmountLamports": 50599343,
+    "profitSOL": 0.0140147991344677,
+    "profitLamports": 14014799,
+    "pnlPct": 27.697591121820892,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787840453790",
+    "sellTxid": "DRY_RUN_SELL_1787840475330",
+    "source": "PYTHON_SCANNER"
   }
 ]

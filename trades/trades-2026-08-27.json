@@ -498,5 +498,25 @@
     "buyTxid": "DRY_RUN_BUY_1787845317156",
     "sellTxid": "DRY_RUN_SELL_1787845365772",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T15:53:17.538399Z",
+    "token": "Ci37D4JUFp6wNaww2Nqyv1WgkHrwDM7V2uotnAympump",
+    "symbol": "catefone",
+    "marketCap": 43110.0,
+    "liquidity": 16147.58,
+    "candidateScore": 9.0314,
+    "entryPrice": 4.50441e-05,
+    "exitPrice": 4.311e-05,
+    "peakPrice": 4.701e-05,
+    "solAmountLamports": 283170967,
+    "profitSOL": -0.012158772564546737,
+    "profitLamports": -12158772,
+    "pnlPct": -4.293792083757915,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1787845868059",
+    "sellTxid": "DRY_RUN_SELL_1787845997538",
+    "source": "PYTHON_SCANNER"
   }
 ]

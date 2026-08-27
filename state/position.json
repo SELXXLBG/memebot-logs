@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "DVMgsGac9bvEfa1uiSCw4pheAX5HeXZyCFgbvDzppump",
+  "symbol": "pepeonfone",
+  "marketCap": 47682.0,
+  "liquidity": 17229.37,
+  "volume1h": 12658.58,
+  "volume24h": 12658.58,
+  "candidateScore": 9.4567,
+  "entryPrice": 4.791839999999999e-05,
+  "entryTime": 1787865415780,
+  "peakPrice": 4.791839999999999e-05,
+  "solAmountLamports": 137119935,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787865415780",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

@@ -1138,5 +1138,25 @@
     "buyTxid": "DRY_RUN_BUY_1787866117711",
     "sellTxid": "DRY_RUN_SELL_1787866147768",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T21:31:00.386293Z",
+    "token": "8uPrSiW1VD3ruXtnKLZgBHCLRjJc2nTNSKVd6F5bpump",
+    "symbol": "ELEPHANT",
+    "marketCap": 17965.0,
+    "liquidity": 9915.04,
+    "candidateScore": 3.2,
+    "entryPrice": 2.258279225417576e-05,
+    "exitPrice": 1.796e-05,
+    "peakPrice": 2.258279225417576e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.14329293479306907,
+    "profitLamports": -143292934,
+    "pnlPct": -20.470419256152724,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787866199041",
+    "sellTxid": "DRY_RUN_SELL_1787866260386",
+    "source": "WF1_SCANNER"
   }
 ]

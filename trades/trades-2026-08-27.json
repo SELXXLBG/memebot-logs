@@ -738,5 +738,25 @@
     "buyTxid": "DRY_RUN_BUY_1787852790293",
     "sellTxid": "DRY_RUN_SELL_1787852801175",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T18:21:21.772242Z",
+    "token": "F5JUT4CHHz1NUYHTuBvycgp6sQhkBkA8mDeXiQVupump",
+    "symbol": "BLAPE",
+    "marketCap": 2209.0,
+    "liquidity": 2210.79,
+    "candidateScore": 3.2,
+    "entryPrice": 2.309945288104625e-06,
+    "exitPrice": 2.209e-06,
+    "peakPrice": 2.309945288104625e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.030590205766829026,
+    "profitLamports": -30590205,
+    "pnlPct": -4.37002939526129,
+    "reason": "STOPLOSS4P_LATE",
+    "buyTxid": "DRY_RUN_BUY_1787853633793",
+    "sellTxid": "DRY_RUN_SELL_1787854881772",
+    "source": "WF1_SCANNER"
   }
 ]

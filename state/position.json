@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "Bq6L8fLp9tegPTiPj5TRPm4h8DpaaEJ8TdXssUtwpump",
+  "symbol": "FROGDOM",
+  "marketCap": 33436.0,
+  "liquidity": 14065.51,
+  "volume1h": 26858.96,
+  "volume24h": 26858.96,
+  "candidateScore": 9.5362,
+  "entryPrice": 3.3597149999999994e-05,
+  "entryTime": 1787867337558,
+  "peakPrice": 3.3597149999999994e-05,
+  "solAmountLamports": 200620994,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787867337558",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

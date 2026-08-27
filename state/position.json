@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "4hopKZtZEMRdrL9uPDJzViSuW7sxQz3Fo1ZKkR87pump",
-  "symbol": "APE",
-  "marketCap": 53203.0,
-  "liquidity": 18404.11,
-  "volume1h": 36910.69,
-  "volume24h": 36910.69,
-  "candidateScore": 10.5847,
-  "entryPrice": 5.346599999999999e-05,
-  "entryTime": 1787869355588,
-  "peakPrice": 5.592e-05,
-  "solAmountLamports": 20205182,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787869355588",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "2wYkK2YDhVAcv34G587BtbErausycYKa9wi1GabWpump",
+  "symbol": "SHIFT",
+  "marketCap": 37000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.00005034054378248568,
+  "entryTime": 1787870552946,
+  "peakPrice": 0.00005034054378248568,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1422873167004",
+  "txid": "DRY_RUN_BUY_1787870552946",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

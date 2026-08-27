@@ -818,5 +818,25 @@
     "buyTxid": "DRY_RUN_BUY_1787857027031",
     "sellTxid": "DRY_RUN_SELL_1787857039379",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T19:21:02.110418Z",
+    "token": "7udUa9j6a3Gp3sZVVJJ5SgJHBZMAHM96Uiee2paBpump",
+    "symbol": "SW3",
+    "marketCap": 58190.0,
+    "liquidity": 19295.71,
+    "candidateScore": 10.859,
+    "entryPrice": 4.507424999999999e-05,
+    "exitPrice": 5.818e-05,
+    "peakPrice": 5.818e-05,
+    "solAmountLamports": 266852498,
+    "profitSOL": 0.0775898018417057,
+    "profitLamports": 77589801,
+    "pnlPct": 29.07591363139711,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787858451443",
+    "sellTxid": "DRY_RUN_SELL_1787858462110",
+    "source": "PYTHON_SCANNER"
   }
 ]

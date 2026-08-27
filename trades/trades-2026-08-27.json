@@ -778,5 +778,25 @@
     "buyTxid": "DRY_RUN_BUY_1787854959482",
     "sellTxid": "DRY_RUN_SELL_1787854976888",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T18:56:37.245609Z",
+    "token": "4axaQC4Xesojc3ZmrApiUbvdJeS4RntkjMSDhn61pump",
+    "symbol": "catwifaura",
+    "marketCap": 93634.0,
+    "liquidity": 25062.35,
+    "candidateScore": 11.3163,
+    "entryPrice": 8.48823e-05,
+    "exitPrice": 9.363e-05,
+    "peakPrice": 9.863e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.07213977472335219,
+    "profitLamports": 72139774,
+    "pnlPct": 10.305682103336029,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787856367513",
+    "sellTxid": "DRY_RUN_SELL_1787856997245",
+    "source": "PYTHON_SCANNER"
   }
 ]

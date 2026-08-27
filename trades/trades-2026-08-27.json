@@ -1038,5 +1038,25 @@
     "buyTxid": "DRY_RUN_BUY_1787862666343",
     "sellTxid": "DRY_RUN_SELL_1787862845337",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T20:36:16.839629Z",
+    "token": "Es1VPDav9aJY7FkTwD2GPA6VdtibvSBQmL1Jt7aYpump",
+    "symbol": "ROSCOE",
+    "marketCap": 90163.0,
+    "liquidity": 28023.29,
+    "candidateScore": 3.4,
+    "entryPrice": 9.139758576492881e-05,
+    "exitPrice": 9.016e-05,
+    "peakPrice": 9.882e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.00947847832303012,
+    "profitLamports": -9478478,
+    "pnlPct": -1.3540683318614457,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787862868692",
+    "sellTxid": "DRY_RUN_SELL_1787862976839",
+    "source": "WF1_SCANNER"
   }
 ]

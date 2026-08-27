@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "J1AunjAhHxTbByndpKm2LtTbtbD97Lqph8KqRWXNpump",
-  "symbol": "trumpfone",
-  "marketCap": 48671.0,
-  "liquidity": 17265.58,
-  "volume1h": 12020.2,
-  "volume24h": 12020.2,
-  "candidateScore": 9.3501,
-  "entryPrice": 4.8913349999999995e-05,
-  "entryTime": 1787847090225,
-  "peakPrice": 4.8913349999999995e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787847090225",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

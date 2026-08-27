@@ -1358,5 +1358,25 @@
     "buyTxid": "DRY_RUN_BUY_1787871882344",
     "sellTxid": "DRY_RUN_SELL_1787871903057",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T23:12:04.402029Z",
+    "token": "FMNRUmT6RUVRx2xufF9xwBC5a5WdRNKYCzaxyYCRpump",
+    "symbol": "LA",
+    "marketCap": 76842.0,
+    "liquidity": 23454.58,
+    "candidateScore": 8.4487,
+    "entryPrice": 6.387779999999999e-05,
+    "exitPrice": 7.916e-05,
+    "peakPrice": 7.916e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.16746882328445886,
+    "profitLamports": 167468823,
+    "pnlPct": 23.924117612065555,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787872246999",
+    "sellTxid": "DRY_RUN_SELL_1787872324402",
+    "source": "PYTHON_SCANNER"
   }
 ]

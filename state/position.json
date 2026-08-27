@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "2cTRfVPaEvsegdA46f6NrxcAtdYfNNAonZDftrAXpump",
+  "symbol": "CHEEMS",
+  "marketCap": 54156.0,
+  "liquidity": 18390.32,
+  "volume1h": 8453.36,
+  "volume24h": 8453.36,
+  "candidateScore": 9.4176,
+  "entryPrice": 5.4420749999999996e-05,
+  "entryTime": 1787848040575,
+  "peakPrice": 5.4420749999999996e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787848040575",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

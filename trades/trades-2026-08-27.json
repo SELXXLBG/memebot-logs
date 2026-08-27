@@ -958,5 +958,25 @@
     "buyTxid": "DRY_RUN_BUY_1787861323771",
     "sellTxid": "DRY_RUN_SELL_1787861353106",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T20:19:39.583893Z",
+    "token": "CoTgBjrxcCAzov1so5EYaowWKhpw8kXwdopXX55Lpump",
+    "symbol": "XCASH",
+    "marketCap": 53753.0,
+    "liquidity": 18457.27,
+    "candidateScore": 10.7846,
+    "entryPrice": 5.73654e-05,
+    "exitPrice": 5.375e-05,
+    "peakPrice": 5.73654e-05,
+    "solAmountLamports": 71810128,
+    "profitSOL": -0.004525765300533073,
+    "profitLamports": -4525765,
+    "pnlPct": -6.302405282626809,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787861964423",
+    "sellTxid": "DRY_RUN_SELL_1787861979583",
+    "source": "PYTHON_SCANNER"
   }
 ]

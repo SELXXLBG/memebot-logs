@@ -38,5 +38,25 @@
     "buyTxid": "DRY_RUN_BUY_1787828977371",
     "sellTxid": "DRY_RUN_SELL_1787829011988",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T11:12:39.000042Z",
+    "token": "63n3utZFV3XykM5THqq7SXvay7Dex1oZMWkwV6j3pump",
+    "symbol": "TRUMPBULL",
+    "marketCap": 87114.0,
+    "liquidity": 23974.32,
+    "candidateScore": 12.3,
+    "entryPrice": 0.00010291199999999998,
+    "exitPrice": 8.87e-05,
+    "peakPrice": 0.0001084,
+    "solAmountLamports": 276086256,
+    "profitSOL": -0.038127117054104424,
+    "profitLamports": -38127117,
+    "pnlPct": -13.809856965174111,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787829068654",
+    "sellTxid": "DRY_RUN_SELL_1787829159000",
+    "source": "PYTHON_SCANNER"
   }
 ]

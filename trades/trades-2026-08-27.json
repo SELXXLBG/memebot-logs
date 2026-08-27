@@ -1198,5 +1198,25 @@
     "buyTxid": "DRY_RUN_BUY_1787867337558",
     "sellTxid": "DRY_RUN_SELL_1787867364719",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T21:58:22.471128Z",
+    "token": "HcvcFnxWXRhYUQJDSc6sVGbeL1rRhUBNZMigkjgjpump",
+    "symbol": "ANGEL",
+    "marketCap": 5807.0,
+    "liquidity": 4757.59,
+    "candidateScore": 10.5141,
+    "entryPrice": 5.140575e-05,
+    "exitPrice": 5.807e-06,
+    "peakPrice": 5.140575e-05,
+    "solAmountLamports": 165944357,
+    "profitSOL": -0.14719861588934602,
+    "profitLamports": -147198615,
+    "pnlPct": -88.70359833287132,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787867887060",
+    "sellTxid": "DRY_RUN_SELL_1787867902471",
+    "source": "PYTHON_SCANNER"
   }
 ]

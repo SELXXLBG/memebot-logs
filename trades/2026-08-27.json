@@ -86,5 +86,27 @@
     "buyTxid": "DRY_RUN_BUY_1787795651667",
     "sellTxid": "DRY_RUN_SELL_1787796001666",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787796001841"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T05:27:02.161Z",
+    "token": "G4Kosxa3NdAur9R6eKfngX7uc3TasBbBPw4Ghbykpump",
+    "symbol": "doechii",
+    "marketCap": 97061,
+    "liquidity": 25481.66,
+    "volume1h": 129295.06,
+    "volume24h": 135854.51,
+    "candidateScore": 10.8259,
+    "entryPrice": 0.00009445792236835371,
+    "exitPrice": 0.0001022,
+    "peakPrice": 0.0001079,
+    "profitSOL": 0.05737427,
+    "profitLamports": 57374270,
+    "pnlPct": 8.196324286548275,
+    "peakPnlPct": 14.230757245778452,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787808012134",
+    "sellTxid": "DRY_RUN_SELL_1787808422050",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787808422149"
   }
 ]

@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "HiF7hj94B5Jp2HhMdbkCxoK5yW5wCoNEK45GmSBipump",
-  "symbol": "ansemfone",
-  "marketCap": 113784.0,
-  "liquidity": 27475.08,
-  "volume1h": 175288.41,
-  "volume24h": 175288.41,
-  "candidateScore": 12.205,
-  "entryPrice": 0.00011426849999999999,
-  "entryTime": 1787838252888,
-  "peakPrice": 0.0001332,
-  "solAmountLamports": 132234055,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787838252888",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

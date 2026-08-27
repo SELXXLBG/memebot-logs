@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "B7ZydstJhcx9XrFcLUkjbqRQtr49JqcKv94VuSsSpump",
-  "symbol": "HUHCAT",
-  "marketCap": 82000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 2.1128955978350807e-05,
-  "entryTime": 1787850665673,
-  "peakPrice": 2.1128955978350807e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "3244204417897",
-  "txid": "DRY_RUN_BUY_1787850665673",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

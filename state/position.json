@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "63n3utZFV3XykM5THqq7SXvay7Dex1oZMWkwV6j3pump",
+  "symbol": "TRUMPBULL",
+  "marketCap": 100607.0,
+  "liquidity": 25877.86,
+  "volume1h": 137978.5,
+  "volume24h": 137978.5,
+  "candidateScore": 12.3,
+  "entryPrice": 0.00010291199999999998,
+  "entryTime": 1787829068654,
+  "peakPrice": 0.00010291199999999998,
+  "solAmountLamports": 276086256,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787829068654",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

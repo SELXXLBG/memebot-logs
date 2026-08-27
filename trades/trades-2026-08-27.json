@@ -578,5 +578,25 @@
     "buyTxid": "DRY_RUN_BUY_1787847090225",
     "sellTxid": "DRY_RUN_SELL_1787847102457",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T16:15:03.867813Z",
+    "token": "D9qM7jTCu5qwwqjdTBdHftxyBzvfi1wKZjbjJuYipump",
+    "symbol": "Kenni",
+    "marketCap": 31492.0,
+    "liquidity": 13558.67,
+    "candidateScore": 11.4228,
+    "entryPrice": 3.360719999999999e-05,
+    "exitPrice": 3.149e-05,
+    "peakPrice": 3.360719999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.044098883572567665,
+    "profitLamports": -44098883,
+    "pnlPct": -6.29984051036681,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787847242814",
+    "sellTxid": "DRY_RUN_SELL_1787847303867",
+    "source": "PYTHON_SCANNER"
   }
 ]

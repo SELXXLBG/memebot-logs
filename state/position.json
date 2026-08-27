@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "7VG9iv46yQt24h44SJ4nqyAd9mgXWBrTdy7Qz96Gpump",
+  "symbol": "semonfone",
+  "marketCap": 46424.0,
+  "liquidity": 16629.23,
+  "volume1h": 13520.42,
+  "volume24h": 13520.42,
+  "candidateScore": 9.547,
+  "entryPrice": 4.665209999999999e-05,
+  "entryTime": 1787837734525,
+  "peakPrice": 4.665209999999999e-05,
+  "solAmountLamports": 114507078,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787837734525",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

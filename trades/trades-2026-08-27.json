@@ -538,5 +538,25 @@
     "buyTxid": "DRY_RUN_BUY_1787846264838",
     "sellTxid": "DRY_RUN_SELL_1787846425785",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T16:09:26.540150Z",
+    "token": "4ENzygdGamVmeKd8qUPDsFEugfqN65ZiZYskxfwEpump",
+    "symbol": "SOLHOLD",
+    "marketCap": 2217.0,
+    "liquidity": 2271.93,
+    "candidateScore": 3.2,
+    "entryPrice": 2.052708932810449e-05,
+    "exitPrice": 2.216e-06,
+    "peakPrice": 2.052708932810449e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.6244315657614355,
+    "profitLamports": -624431565,
+    "pnlPct": -89.2045093944908,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787846939801",
+    "sellTxid": "DRY_RUN_SELL_1787846966540",
+    "source": "WF1_SCANNER"
   }
 ]

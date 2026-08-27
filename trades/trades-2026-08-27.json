@@ -1,0 +1,22 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T11:07:26.899546Z",
+    "token": "Eyboq24E6qwgzVAHgXTyRLXAmDJSAnhhW2XvQM4Ypump",
+    "symbol": "HEAVEN",
+    "marketCap": 33854.0,
+    "liquidity": 14268.18,
+    "candidateScore": 10.1361,
+    "entryPrice": 3.7195049999999996e-05,
+    "exitPrice": 3.526e-05,
+    "peakPrice": 3.7195049999999996e-05,
+    "solAmountLamports": 335199497,
+    "profitSOL": -0.01743855127684596,
+    "profitLamports": -17438551,
+    "pnlPct": -5.202439571932281,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787828764689",
+    "sellTxid": "DRY_RUN_SELL_1787828846899",
+    "source": "PYTHON_SCANNER"
+  }
+]

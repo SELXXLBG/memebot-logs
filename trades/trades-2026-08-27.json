@@ -278,5 +278,25 @@
     "buyTxid": "DRY_RUN_BUY_1787837979111",
     "sellTxid": "DRY_RUN_SELL_1787838185918",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T13:46:04.680011Z",
+    "token": "HiF7hj94B5Jp2HhMdbkCxoK5yW5wCoNEK45GmSBipump",
+    "symbol": "ansemfone",
+    "marketCap": 141853.0,
+    "liquidity": 30941.81,
+    "candidateScore": 12.205,
+    "entryPrice": 0.00011426849999999999,
+    "exitPrice": 0.0001418,
+    "peakPrice": 0.0001418,
+    "solAmountLamports": 132234055,
+    "profitSOL": 0.031860065418137996,
+    "profitLamports": 31860065,
+    "pnlPct": 24.093691612299114,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787838252888",
+    "sellTxid": "DRY_RUN_SELL_1787838364680",
+    "source": "PYTHON_SCANNER"
   }
 ]

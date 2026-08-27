@@ -64,5 +64,27 @@
     "buyTxid": "DRY_RUN_BUY_1787794509696",
     "sellTxid": "DRY_RUN_SELL_1787794561308",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T02:00:01.858Z",
+    "token": "4tQCcKuj5EdAuGzvADpNrV7n4DZ4rBCdzTK3m6GKpump",
+    "symbol": "AUREX",
+    "marketCap": 70882,
+    "liquidity": 21361.16,
+    "volume1h": 15304.97,
+    "volume24h": 72764.91,
+    "candidateScore": 7.7182,
+    "entryPrice": 0.00005927302303657145,
+    "exitPrice": 0.00007466,
+    "peakPrice": 0.00007466,
+    "profitSOL": 0.181716459,
+    "profitLamports": 181716459,
+    "pnlPct": 25.959494176524085,
+    "peakPnlPct": 25.959494176524085,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787795651667",
+    "sellTxid": "DRY_RUN_SELL_1787796001666",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787796001841"
   }
 ]

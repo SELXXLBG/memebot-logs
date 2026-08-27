@@ -1298,5 +1298,25 @@
     "buyTxid": "DRY_RUN_BUY_1787870178995",
     "sellTxid": "DRY_RUN_SELL_1787870190963",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T22:44:05.048309Z",
+    "token": "2wYkK2YDhVAcv34G587BtbErausycYKa9wi1GabWpump",
+    "symbol": "SHIFT",
+    "marketCap": 26747.0,
+    "liquidity": 12604.78,
+    "candidateScore": 3.2,
+    "entryPrice": 5.034054378248568e-05,
+    "exitPrice": 2.674e-05,
+    "peakPrice": 5.565e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.32817247106273195,
+    "profitLamports": -328172471,
+    "pnlPct": -46.88178158039028,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787870552946",
+    "sellTxid": "DRY_RUN_SELL_1787870645048",
+    "source": "WF1_SCANNER"
   }
 ]

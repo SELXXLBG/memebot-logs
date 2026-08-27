@@ -298,5 +298,25 @@
     "buyTxid": "DRY_RUN_BUY_1787838252888",
     "sellTxid": "DRY_RUN_SELL_1787838364680",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T14:06:49.917828Z",
+    "token": "7ZS6KHv2juWZ3JQFS5veHKdMxeg223FpV2e84cMtpump",
+    "symbol": "MEMELESS",
+    "marketCap": 6778.0,
+    "liquidity": 5440.66,
+    "candidateScore": 3.2,
+    "entryPrice": 8.018645191108139e-06,
+    "exitPrice": 6.777e-06,
+    "peakPrice": 8.018645191108139e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.10839133208431496,
+    "profitLamports": -108391332,
+    "pnlPct": -15.484476012044995,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787839581818",
+    "sellTxid": "DRY_RUN_SELL_1787839609917",
+    "source": "WF1_SCANNER"
   }
 ]

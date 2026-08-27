@@ -178,5 +178,25 @@
     "buyTxid": "DRY_RUN_BUY_1787834896094",
     "sellTxid": "DRY_RUN_SELL_1787834920189",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T13:15:01.759762Z",
+    "token": "6Mixa5wEWq8N8Z2EFebkdT9g7Uodqewfa5aGvhbypump",
+    "symbol": "HORMUZ",
+    "marketCap": 25917.0,
+    "liquidity": 11983.45,
+    "candidateScore": 3.3,
+    "entryPrice": 5.941945803948809e-05,
+    "exitPrice": 2.591e-05,
+    "peakPrice": 5.941945803948809e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.3947632880133846,
+    "profitLamports": -394763288,
+    "pnlPct": -56.39475543048352,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787836091728",
+    "sellTxid": "DRY_RUN_SELL_1787836501759",
+    "source": "WF1_SCANNER"
   }
 ]

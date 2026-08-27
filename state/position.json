@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "6Ke5gCgfNzxpJWs4W9YErSqyKDAHKts7voH6M1egpump",
-  "symbol": "buni",
-  "marketCap": 47265.0,
-  "liquidity": 17006.08,
-  "volume1h": 29610.88,
-  "volume24h": 29610.88,
-  "candidateScore": 9.8487,
-  "entryPrice": 4.7496299999999995e-05,
-  "entryTime": 1787845317156,
-  "peakPrice": 5.5e-05,
-  "solAmountLamports": 164661768,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787845317156",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

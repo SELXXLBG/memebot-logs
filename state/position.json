@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "F5JUT4CHHz1NUYHTuBvycgp6sQhkBkA8mDeXiQVupump",
-  "symbol": "BLAPE",
-  "marketCap": 40000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 2.309945288104625e-06,
-  "entryTime": 1787853633793,
-  "peakPrice": 2.309945288104625e-06,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "31493485023352",
-  "txid": "DRY_RUN_BUY_1787853633793",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

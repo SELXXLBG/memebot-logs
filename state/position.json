@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "GPY8nXs5ahAHzR9kPLZoqBkTb3egmUoRey767UXDWcTP",
-  "symbol": "SIMBA",
-  "marketCap": 37132.0,
-  "liquidity": 15003.23,
-  "volume1h": 58117.77,
-  "volume24h": 58117.77,
-  "candidateScore": 11.2881,
-  "entryPrice": 3.7315649999999996e-05,
-  "entryTime": 1787862421319,
-  "peakPrice": 3.7315649999999996e-05,
-  "solAmountLamports": 67284363,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787862421319",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

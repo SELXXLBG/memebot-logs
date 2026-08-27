@@ -318,5 +318,25 @@
     "buyTxid": "DRY_RUN_BUY_1787839581818",
     "sellTxid": "DRY_RUN_SELL_1787839609917",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T14:11:39.246275Z",
+    "token": "4XNifKYkF4xikUXzpuZfVnGAQRJu1bErZJLwU1NFpump",
+    "symbol": "CHUMP",
+    "marketCap": 61246.0,
+    "liquidity": 19613.77,
+    "candidateScore": 11.1201,
+    "entryPrice": 4.9677149999999996e-05,
+    "exitPrice": 6.124e-05,
+    "peakPrice": 6.124e-05,
+    "solAmountLamports": 55702788,
+    "profitSOL": 0.012965377084349656,
+    "profitLamports": 12965377,
+    "pnlPct": 23.275993087365134,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787839781470",
+    "sellTxid": "DRY_RUN_SELL_1787839899246",
+    "source": "PYTHON_SCANNER"
   }
 ]

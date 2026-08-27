@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "6e5a3xFpZBuv41EJTGwKh9ki2zQ7xAcqg6y1cMRmpump",
-  "symbol": "100x",
-  "marketCap": 48474.0,
-  "liquidity": 17413.26,
-  "volume1h": 35520.42,
-  "volume24h": 35520.42,
-  "candidateScore": 10.1395,
-  "entryPrice": 4.8712349999999994e-05,
-  "entryTime": 1787861323771,
-  "peakPrice": 4.8712349999999994e-05,
-  "solAmountLamports": 99659261,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787861323771",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

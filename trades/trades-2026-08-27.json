@@ -418,5 +418,25 @@
     "buyTxid": "DRY_RUN_BUY_1787841881547",
     "sellTxid": "DRY_RUN_SELL_1787841901861",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T15:08:52.968436Z",
+    "token": "4Jc8tjZjpxSN9XKujtGYhBmjHQjJPY92NziciNeXpump",
+    "symbol": "ZAYTOUNA",
+    "marketCap": 57966.0,
+    "liquidity": 19089.13,
+    "candidateScore": 9.9672,
+    "entryPrice": 5.7425699999999995e-05,
+    "exitPrice": 5.796e-05,
+    "peakPrice": 6.697e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.006512937587177941,
+    "profitLamports": 6512937,
+    "pnlPct": 0.9304196553111344,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787843233690",
+    "sellTxid": "DRY_RUN_SELL_1787843332968",
+    "source": "PYTHON_SCANNER"
   }
 ]

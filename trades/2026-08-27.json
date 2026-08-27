@@ -108,5 +108,27 @@
     "buyTxid": "DRY_RUN_BUY_1787808012134",
     "sellTxid": "DRY_RUN_SELL_1787808422050",
     "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787808422149"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T08:05:01.871Z",
+    "token": "HsrJz1Crk8cNWiFu9eRMYvgnVu8zzti3Rz7rWRNkpump",
+    "symbol": "TAILING",
+    "marketCap": 84770,
+    "liquidity": 24697.1,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00008372979332588389,
+    "exitPrice": 0.00008721,
+    "peakPrice": 0.00009342,
+    "profitSOL": 0.029095314,
+    "profitLamports": 29095314,
+    "pnlPct": 4.156473503488574,
+    "peakPnlPct": 11.573188335006332,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787817232287",
+    "sellTxid": "DRY_RUN_SELL_1787817901669",
+    "sweepTxid": "DRY_RUN_SWEEP_TO_B12z9u_1787817901840"
   }
 ]

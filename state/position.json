@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "G4Kosxa3NdAur9R6eKfngX7uc3TasBbBPw4Ghbykpump",
-  "symbol": "doechii",
-  "marketCap": 88694,
-  "liquidity": 24247.4,
-  "volume1h": 129295.06,
-  "volume24h": 135854.51,
-  "candidateScore": 10.8259,
-  "entryPrice": 0.00009445792236835371,
-  "entryTime": 1787808012134,
-  "peakPrice": 0.0001079,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "738930187497",
-  "txid": "DRY_RUN_BUY_1787808012134",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

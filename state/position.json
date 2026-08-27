@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "Es1VPDav9aJY7FkTwD2GPA6VdtibvSBQmL1Jt7aYpump",
+  "symbol": "ROSCOE",
+  "marketCap": 147000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.4,
+  "entryPrice": 0.00009139758576492881,
+  "entryTime": 1787862868692,
+  "peakPrice": 0.00009139758576492881,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "849576170246",
+  "txid": "DRY_RUN_BUY_1787862868692",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

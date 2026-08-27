@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "DYvfD7T9Y4zissEams5c2dTFbaZNJKtVQBsp7ZLMpump",
-  "symbol": "BULLFONE",
-  "marketCap": 127431.0,
-  "liquidity": 29129.59,
-  "volume1h": 171617.97,
-  "volume24h": 171617.97,
-  "candidateScore": 12.3,
-  "entryPrice": 0.00012803699999999998,
-  "entryTime": 1787836852055,
-  "peakPrice": 0.0001507,
-  "solAmountLamports": 106471625,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787836852055",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

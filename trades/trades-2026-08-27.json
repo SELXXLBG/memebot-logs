@@ -978,5 +978,25 @@
     "buyTxid": "DRY_RUN_BUY_1787861964423",
     "sellTxid": "DRY_RUN_SELL_1787861979583",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T20:27:13.055084Z",
+    "token": "GPY8nXs5ahAHzR9kPLZoqBkTb3egmUoRey767UXDWcTP",
+    "symbol": "SIMBA",
+    "marketCap": 32844.0,
+    "liquidity": 13996.73,
+    "candidateScore": 11.2881,
+    "entryPrice": 3.7315649999999996e-05,
+    "exitPrice": 3.284e-05,
+    "peakPrice": 3.7315649999999996e-05,
+    "solAmountLamports": 67284363,
+    "profitSOL": -0.008070106222481718,
+    "profitLamports": -8070106,
+    "pnlPct": -11.994029314778112,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787862421319",
+    "sellTxid": "DRY_RUN_SELL_1787862433055",
+    "source": "PYTHON_SCANNER"
   }
 ]

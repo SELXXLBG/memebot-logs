@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "3A6gaYSnY2zDrnJjwMKF3qDND7t57UxiYoiD5L6ypump",
-  "symbol": "Gem",
-  "marketCap": 33275.0,
-  "liquidity": 14072.71,
-  "volume1h": 51277.34,
-  "volume24h": 51277.34,
-  "candidateScore": 10.7235,
-  "entryPrice": 3.3436349999999994e-05,
-  "entryTime": 1787863000325,
-  "peakPrice": 3.3436349999999994e-05,
-  "solAmountLamports": 171058595,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787863000325",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "9uEeSZSdxMm1PaoqQ1VNDwcuDMM9RHqkp2p89Je5pump",
-  "symbol": "AFD",
-  "marketCap": 128440.0,
-  "liquidity": 29745.2,
-  "volume1h": 49681.53,
-  "volume24h": 96216.04,
-  "candidateScore": 8.3962,
-  "entryPrice": 0.000129042,
-  "entryTime": 1787851564481,
-  "peakPrice": 0.000129042,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787851564481",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

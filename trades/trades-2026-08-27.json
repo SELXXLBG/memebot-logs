@@ -1098,5 +1098,25 @@
     "buyTxid": "DRY_RUN_BUY_1787864619417",
     "sellTxid": "DRY_RUN_SELL_1787864698146",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T21:17:26.001485Z",
+    "token": "DVMgsGac9bvEfa1uiSCw4pheAX5HeXZyCFgbvDzppump",
+    "symbol": "pepeonfone",
+    "marketCap": 43141.0,
+    "liquidity": 16299.27,
+    "candidateScore": 9.4567,
+    "entryPrice": 4.791839999999999e-05,
+    "exitPrice": 4.314e-05,
+    "peakPrice": 4.791839999999999e-05,
+    "solAmountLamports": 137119935,
+    "profitSOL": -0.01367353453796453,
+    "profitLamports": -13673534,
+    "pnlPct": -9.971952318942193,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787865415780",
+    "sellTxid": "DRY_RUN_SELL_1787865446001",
+    "source": "PYTHON_SCANNER"
   }
 ]

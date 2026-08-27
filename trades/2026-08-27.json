@@ -1,0 +1,24 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T00:09:31.369Z",
+    "token": "3rk3u5ngcMMBc1aoQbff8Y3GSUKvhGb5kWRPSGrLbMs7",
+    "symbol": "LEEKCORP",
+    "marketCap": 74360,
+    "liquidity": 21355.28,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00007945926123340299,
+    "exitPrice": 0.00007436,
+    "peakPrice": 0.00007945926123340299,
+    "profitSOL": -0.044922176,
+    "profitLamports": -44922176,
+    "pnlPct": -6.417453616167489,
+    "peakPnlPct": 0,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787789320225",
+    "sellTxid": "DRY_RUN_SELL_1787789371305",
+    "sweepTxid": null
+  }
+]

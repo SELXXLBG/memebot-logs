@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "7ZS6KHv2juWZ3JQFS5veHKdMxeg223FpV2e84cMtpump",
-  "symbol": "MEMELESS",
-  "marketCap": 32000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 8.018645191108139e-06,
-  "entryTime": 1787839581817,
-  "peakPrice": 8.018645191108139e-06,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "10657499056173",
-  "txid": "DRY_RUN_BUY_1787839581818",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

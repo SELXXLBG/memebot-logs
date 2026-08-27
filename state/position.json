@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "DqDCrRAtKB8nmfP8zBNddeiLv5vNqPEt5znw2WkFpump",
-  "symbol": "GINNAN",
-  "marketCap": 41325,
-  "liquidity": 15438.47,
-  "volume1h": 96613.56,
-  "volume24h": 96613.56,
-  "candidateScore": 11.093,
-  "entryPrice": 0.000042114306947166994,
-  "entryTime": 1787791331782,
-  "peakPrice": 0.000042114306947166994,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1756771819732",
-  "txid": "DRY_RUN_BUY_1787791331782",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

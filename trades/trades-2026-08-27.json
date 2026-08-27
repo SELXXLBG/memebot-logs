@@ -838,5 +838,25 @@
     "buyTxid": "DRY_RUN_BUY_1787858451443",
     "sellTxid": "DRY_RUN_SELL_1787858462110",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T19:31:37.571775Z",
+    "token": "7EBUh6UyJ8LDyF6DF7reXKCD66BZUaifTHGqogdHtzuq",
+    "symbol": "KIDNEY",
+    "marketCap": 28409.0,
+    "liquidity": 18793.1,
+    "candidateScore": 9.5913,
+    "entryPrice": 3.2702699999999994e-05,
+    "exitPrice": 2.84e-05,
+    "peakPrice": 3.355e-05,
+    "solAmountLamports": 344442299,
+    "profitSOL": -0.045318333957358216,
+    "profitLamports": -45318333,
+    "pnlPct": -13.157017616282435,
+    "reason": "STOPLOSS8P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1787858819082",
+    "sellTxid": "DRY_RUN_SELL_1787859097571",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -98,5 +98,25 @@
     "buyTxid": "DRY_RUN_BUY_1787830742317",
     "sellTxid": "DRY_RUN_SELL_1787830748801",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T12:11:22.925549Z",
+    "token": "3jmUW5LwVrD2rzge9fYrnjRK5a6UYqutv7PHEvoEpump",
+    "symbol": "jeff",
+    "marketCap": 59459.0,
+    "liquidity": 19235.06,
+    "candidateScore": 11.4595,
+    "entryPrice": 4.7566649999999996e-05,
+    "exitPrice": 5.945e-05,
+    "peakPrice": 5.945e-05,
+    "solAmountLamports": 387910833,
+    "profitSOL": 0.09690991897328387,
+    "profitLamports": 96909918,
+    "pnlPct": 24.98252452085654,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787832664751",
+    "sellTxid": "DRY_RUN_SELL_1787832682925",
+    "source": "PYTHON_SCANNER"
   }
 ]

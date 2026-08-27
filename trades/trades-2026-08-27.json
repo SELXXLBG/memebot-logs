@@ -258,5 +258,25 @@
     "buyTxid": "DRY_RUN_BUY_1787837857324",
     "sellTxid": "DRY_RUN_SELL_1787837949922",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T13:43:05.918789Z",
+    "token": "CdLhTDUGZC3UtNAwnMkQ2mdeSp1ELaWfVoULCEFBpump",
+    "symbol": "HARALD",
+    "marketCap": 30985.0,
+    "liquidity": 13266.7,
+    "candidateScore": 9.8309,
+    "entryPrice": 3.422025e-05,
+    "exitPrice": 3.098e-05,
+    "peakPrice": 3.562e-05,
+    "solAmountLamports": 146064635,
+    "profitSOL": -0.013830580827397519,
+    "profitLamports": -13830580,
+    "pnlPct": -9.468808673227109,
+    "reason": "STOPLOSS8P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1787837979111",
+    "sellTxid": "DRY_RUN_SELL_1787838185918",
+    "source": "PYTHON_SCANNER"
   }
 ]

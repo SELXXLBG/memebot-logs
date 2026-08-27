@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "DXRwwqNDs9moVb2TigAbeVLzSECoWkxv2x8gpZezpump",
-  "symbol": "34K",
-  "marketCap": 34000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 5.048566206031125e-06,
-  "entryTime": 1787862538841,
-  "peakPrice": 5.115e-06,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "14410499564496",
-  "txid": "DRY_RUN_BUY_1787862538841",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

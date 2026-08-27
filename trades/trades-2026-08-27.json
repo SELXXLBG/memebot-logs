@@ -58,5 +58,25 @@
     "buyTxid": "DRY_RUN_BUY_1787829068654",
     "sellTxid": "DRY_RUN_SELL_1787829159000",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T11:29:05.770467Z",
+    "token": "CTuw8xEE15hKi2yB9n8CoLDq8ZhBLVbh8ydcuN11pump",
+    "symbol": "MICRODUCK",
+    "marketCap": 188030.0,
+    "liquidity": 36351.95,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00014312823875025081,
+    "exitPrice": 0.000188,
+    "peakPrice": 0.000188,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.21945517634457284,
+    "profitLamports": 219455176,
+    "pnlPct": 31.350739477796125,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787830115710",
+    "sellTxid": "DRY_RUN_SELL_1787830145770",
+    "source": "WF1_SCANNER"
   }
 ]

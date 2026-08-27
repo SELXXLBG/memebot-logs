@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "CoTgBjrxcCAzov1so5EYaowWKhpw8kXwdopXX55Lpump",
+  "symbol": "XCASH",
+  "marketCap": 57085.0,
+  "liquidity": 19074.57,
+  "volume1h": 58764.36,
+  "volume24h": 58764.36,
+  "candidateScore": 10.7846,
+  "entryPrice": 5.73654e-05,
+  "entryTime": 1787861964423,
+  "peakPrice": 5.73654e-05,
+  "solAmountLamports": 71810128,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787861964423",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

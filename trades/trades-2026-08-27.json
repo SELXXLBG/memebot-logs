@@ -918,5 +918,25 @@
     "buyTxid": "DRY_RUN_BUY_1787860727676",
     "sellTxid": "DRY_RUN_SELL_1787860782677",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T20:00:12.630778Z",
+    "token": "4bRvLqKZTUJpcfwcLS2JukGJNVC1VArB92kZiFudpump",
+    "symbol": "$LOCKEDIN",
+    "marketCap": 56756.0,
+    "liquidity": 19195.05,
+    "candidateScore": 12.6674,
+    "entryPrice": 6.290294999999999e-05,
+    "exitPrice": 5.675e-05,
+    "peakPrice": 6.290294999999999e-05,
+    "solAmountLamports": 110464520,
+    "profitSOL": -0.010805259027342898,
+    "profitLamports": -10805259,
+    "pnlPct": -9.781655709310916,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787860806146",
+    "sellTxid": "DRY_RUN_SELL_1787860812630",
+    "source": "PYTHON_SCANNER"
   }
 ]

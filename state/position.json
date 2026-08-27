@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "HsrJz1Crk8cNWiFu9eRMYvgnVu8zzti3Rz7rWRNkpump",
-  "symbol": "TAILING",
-  "marketCap": 78000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 0.00008372979332588389,
-  "entryTime": 1787817232287,
-  "peakPrice": 0.00009342,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "842156417094",
-  "txid": "DRY_RUN_BUY_1787817232287",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

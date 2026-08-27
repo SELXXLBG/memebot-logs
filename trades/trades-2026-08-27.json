@@ -1178,5 +1178,25 @@
     "buyTxid": "DRY_RUN_BUY_1787866941523",
     "sellTxid": "DRY_RUN_SELL_1787866966213",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T21:49:24.719264Z",
+    "token": "Bq6L8fLp9tegPTiPj5TRPm4h8DpaaEJ8TdXssUtwpump",
+    "symbol": "FROGDOM",
+    "marketCap": 27793.0,
+    "liquidity": 12666.44,
+    "candidateScore": 9.5362,
+    "entryPrice": 3.3597149999999994e-05,
+    "exitPrice": 2.779e-05,
+    "peakPrice": 3.3597149999999994e-05,
+    "solAmountLamports": 200620994,
+    "profitSOL": -0.034676637908486255,
+    "profitLamports": -34676637,
+    "pnlPct": -17.28465063256852,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787867337558",
+    "sellTxid": "DRY_RUN_SELL_1787867364719",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "GpunGt2wLGLcC8ZB3Y8Ez6tAs1rgcFPo24dKu2qMpump",
+  "symbol": "ICPT",
+  "marketCap": 56000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.00008505514675227384,
+  "entryTime": 1787860727676,
+  "peakPrice": 0.00008505514675227384,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "844481664719",
+  "txid": "DRY_RUN_BUY_1787860727676",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

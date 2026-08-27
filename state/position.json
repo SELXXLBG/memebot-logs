@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "GGmhN33tKC7xBQ4C8V5uyAiH7sHo5UrgMrZPnhKGpump",
+  "symbol": "FLOCKHOUSE",
+  "marketCap": 99000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.00015522331410467807,
+  "entryTime": 1787841881547,
+  "peakPrice": 0.00015522331410467807,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "659209666068",
+  "txid": "DRY_RUN_BUY_1787841881547",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

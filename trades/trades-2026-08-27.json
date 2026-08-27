@@ -1338,5 +1338,25 @@
     "buyTxid": "DRY_RUN_BUY_1787871577105",
     "sellTxid": "DRY_RUN_SELL_1787871625757",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T23:05:03.057451Z",
+    "token": "3gp4MUbG8nTFntv6AyN6WabDVWFVcfoXatdz2MnVpump",
+    "symbol": "MESH",
+    "marketCap": 99676.0,
+    "liquidity": 28684.54,
+    "candidateScore": 3.2,
+    "entryPrice": 0.0001278992097678415,
+    "exitPrice": 0.0001052,
+    "peakPrice": 0.0001278992097678415,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.12423412831346699,
+    "profitLamports": -124234128,
+    "pnlPct": -17.74773261620957,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787871882344",
+    "sellTxid": "DRY_RUN_SELL_1787871903057",
+    "source": "WF1_SCANNER"
   }
 ]

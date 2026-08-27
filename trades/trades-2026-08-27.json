@@ -1238,5 +1238,25 @@
     "buyTxid": "DRY_RUN_BUY_1787867978925",
     "sellTxid": "DRY_RUN_SELL_1787868102413",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T22:07:48.883101Z",
+    "token": "sCnoh91TaEFGvi8koyQqepnsu6NsHgAar2autw8pump",
+    "symbol": "dick",
+    "marketCap": 56598.0,
+    "liquidity": 18992.15,
+    "candidateScore": 9.8984,
+    "entryPrice": 6.862139999999999e-05,
+    "exitPrice": 5.659e-05,
+    "peakPrice": 6.862139999999999e-05,
+    "solAmountLamports": 24500934,
+    "profitSOL": -0.004295752306534111,
+    "profitLamports": -4295752,
+    "pnlPct": -17.53301448236264,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787868377549",
+    "sellTxid": "DRY_RUN_SELL_1787868468883",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -338,5 +338,25 @@
     "buyTxid": "DRY_RUN_BUY_1787839781470",
     "sellTxid": "DRY_RUN_SELL_1787839899246",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T14:13:29.095759Z",
+    "token": "6G3jeSMJzfDinWSnKLsCho5BCa8i9CHKWg8jizwKpump",
+    "symbol": "PANDA",
+    "marketCap": 38265.0,
+    "liquidity": 15038.1,
+    "candidateScore": 9.5001,
+    "entryPrice": 4.464209999999999e-05,
+    "exitPrice": 3.83e-05,
+    "peakPrice": 4.796e-05,
+    "solAmountLamports": 68668165,
+    "profitSOL": -0.009755373722259913,
+    "profitLamports": -9755373,
+    "pnlPct": -14.206544943002209,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787839933498",
+    "sellTxid": "DRY_RUN_SELL_1787840009095",
+    "source": "PYTHON_SCANNER"
   }
 ]

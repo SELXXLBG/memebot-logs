@@ -478,5 +478,25 @@
     "buyTxid": "DRY_RUN_BUY_1787844400427",
     "sellTxid": "DRY_RUN_SELL_1787844502670",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T15:42:45.772433Z",
+    "token": "6Ke5gCgfNzxpJWs4W9YErSqyKDAHKts7voH6M1egpump",
+    "symbol": "buni",
+    "marketCap": 81688.0,
+    "liquidity": 23025.84,
+    "candidateScore": 9.8487,
+    "entryPrice": 4.7496299999999995e-05,
+    "exitPrice": 8.168e-05,
+    "peakPrice": 8.168e-05,
+    "solAmountLamports": 164661768,
+    "profitSOL": 0.11850919921723592,
+    "profitLamports": 118509199,
+    "pnlPct": 71.97129039525187,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787845317156",
+    "sellTxid": "DRY_RUN_SELL_1787845365772",
+    "source": "PYTHON_SCANNER"
   }
 ]

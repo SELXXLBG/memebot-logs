@@ -458,5 +458,25 @@
     "buyTxid": "DRY_RUN_BUY_1787843989502",
     "sellTxid": "DRY_RUN_SELL_1787844366345",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T15:28:22.670475Z",
+    "token": "7dgWTn3ANZUeRzqBaTJgd6qgUQo5WBj6qhx4q7C6pump",
+    "symbol": "fate",
+    "marketCap": 41368.0,
+    "liquidity": 15846.89,
+    "candidateScore": 10.9424,
+    "entryPrice": 4.1325599999999996e-05,
+    "exitPrice": 4.142e-05,
+    "peakPrice": 4.495e-05,
+    "solAmountLamports": 164286489,
+    "profitSOL": 0.0003752793561763316,
+    "profitLamports": 375279,
+    "pnlPct": 0.22842983525950913,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787844400427",
+    "sellTxid": "DRY_RUN_SELL_1787844502670",
+    "source": "PYTHON_SCANNER"
   }
 ]

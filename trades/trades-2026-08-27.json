@@ -1118,5 +1118,25 @@
     "buyTxid": "DRY_RUN_BUY_1787865415780",
     "sellTxid": "DRY_RUN_SELL_1787865446001",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T21:29:07.768434Z",
+    "token": "8fmZ7i4mVQ6iUTR8U3hg3bFt1hzznkqHbBc9qCt8pump",
+    "symbol": "wheat",
+    "marketCap": 45427.0,
+    "liquidity": 16797.83,
+    "candidateScore": 11.2872,
+    "entryPrice": 5.324489999999999e-05,
+    "exitPrice": 4.542e-05,
+    "peakPrice": 5.324489999999999e-05,
+    "solAmountLamports": 123446401,
+    "profitSOL": -0.018141751476383625,
+    "profitLamports": -18141751,
+    "pnlPct": -14.696055396854888,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787866117711",
+    "sellTxid": "DRY_RUN_SELL_1787866147768",
+    "source": "PYTHON_SCANNER"
   }
 ]

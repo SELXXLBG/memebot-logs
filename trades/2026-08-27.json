@@ -42,5 +42,27 @@
     "buyTxid": "DRY_RUN_BUY_1787791331782",
     "sellTxid": "DRY_RUN_SELL_1787791351198",
     "sweepTxid": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T01:36:01.404Z",
+    "token": "9damvz9dtiVVLavKQ9s3jEP7oMwC7PuYbcsFjrjXpump",
+    "symbol": "M6",
+    "marketCap": 31176,
+    "liquidity": 14510.67,
+    "volume1h": 0,
+    "volume24h": 0,
+    "candidateScore": 3.2,
+    "entryPrice": 0.0000706891347829289,
+    "exitPrice": 0.00003117,
+    "peakPrice": 0.0000706891347829289,
+    "profitSOL": -0.391338704,
+    "profitLamports": -391338704,
+    "pnlPct": -55.905529052355284,
+    "peakPnlPct": 0,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787794509696",
+    "sellTxid": "DRY_RUN_SELL_1787794561308",
+    "sweepTxid": null
   }
 ]

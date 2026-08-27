@@ -358,5 +358,25 @@
     "buyTxid": "DRY_RUN_BUY_1787839933498",
     "sellTxid": "DRY_RUN_SELL_1787840009095",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T14:18:00.305692Z",
+    "token": "3NvpE1D99LY6podpBrdFyK1u9fTjVP4fjp18v4D5pump",
+    "symbol": "apeonpud",
+    "marketCap": 41268.0,
+    "liquidity": 15668.11,
+    "candidateScore": 9.5838,
+    "entryPrice": 4.8039e-05,
+    "exitPrice": 4.126e-05,
+    "peakPrice": 4.8039e-05,
+    "solAmountLamports": 58912792,
+    "profitSOL": -0.0083134498421699,
+    "profitLamports": -8313449,
+    "pnlPct": -14.111451112637644,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787840270138",
+    "sellTxid": "DRY_RUN_SELL_1787840280305",
+    "source": "PYTHON_SCANNER"
   }
 ]

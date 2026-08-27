@@ -1158,5 +1158,25 @@
     "buyTxid": "DRY_RUN_BUY_1787866199041",
     "sellTxid": "DRY_RUN_SELL_1787866260386",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T21:42:46.213635Z",
+    "token": "AxdYN6dFrbjxWfDxXQCnp2E4YxdMpmwN2fuczpiMpump",
+    "symbol": "YAHU",
+    "marketCap": 64600.0,
+    "liquidity": 20370.11,
+    "candidateScore": 10.2116,
+    "entryPrice": 5.0209799999999995e-05,
+    "exitPrice": 6.46e-05,
+    "peakPrice": 6.46e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.2006209943078842,
+    "profitLamports": 200620994,
+    "pnlPct": 28.660142043983456,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787866941523",
+    "sellTxid": "DRY_RUN_SELL_1787866966213",
+    "source": "PYTHON_SCANNER"
   }
 ]

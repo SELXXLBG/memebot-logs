@@ -598,5 +598,25 @@
     "buyTxid": "DRY_RUN_BUY_1787847242814",
     "sellTxid": "DRY_RUN_SELL_1787847303867",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T16:27:53.767652Z",
+    "token": "2cTRfVPaEvsegdA46f6NrxcAtdYfNNAonZDftrAXpump",
+    "symbol": "CHEEMS",
+    "marketCap": 48019.0,
+    "liquidity": 17209.54,
+    "candidateScore": 9.4176,
+    "entryPrice": 5.4420749999999996e-05,
+    "exitPrice": 4.801e-05,
+    "peakPrice": 5.699e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0824598154196698,
+    "profitLamports": -82459815,
+    "pnlPct": -11.7799736313814,
+    "reason": "STOPLOSS8P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1787848040575",
+    "sellTxid": "DRY_RUN_SELL_1787848073767",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1018,5 +1018,25 @@
     "buyTxid": "DRY_RUN_BUY_1787862538841",
     "sellTxid": "DRY_RUN_SELL_1787862634816",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T20:34:05.337071Z",
+    "token": "2UfNdCVS4nuDg3WTXCmYJ3vv5rK96ry3g74MbadZpump",
+    "symbol": "GTU",
+    "marketCap": 88146.0,
+    "liquidity": 24269.11,
+    "candidateScore": 10.6527,
+    "entryPrice": 7.00686e-05,
+    "exitPrice": 8.814e-05,
+    "peakPrice": 8.814e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.18053707366780566,
+    "profitLamports": 180537073,
+    "pnlPct": 25.79101052397224,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787862666343",
+    "sellTxid": "DRY_RUN_SELL_1787862845337",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -138,5 +138,25 @@
     "buyTxid": "DRY_RUN_BUY_1787832878857",
     "sellTxid": "DRY_RUN_SELL_1787832939679",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T12:41:52.268821Z",
+    "token": "BmgtabFisoenYgmgeqoiJstRMt7ZhseGMDfuoNkZpump",
+    "symbol": "Poopins",
+    "marketCap": 50363.0,
+    "liquidity": 17396.01,
+    "candidateScore": 9.3902,
+    "entryPrice": 4.131554999999999e-05,
+    "exitPrice": 5.036e-05,
+    "peakPrice": 5.036e-05,
+    "solAmountLamports": 470226278,
+    "profitSOL": 0.10293795096657565,
+    "profitLamports": 102937950,
+    "pnlPct": 21.891152362730278,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787834437588",
+    "sellTxid": "DRY_RUN_SELL_1787834512268",
+    "source": "PYTHON_SCANNER"
   }
 ]

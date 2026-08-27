@@ -618,5 +618,25 @@
     "buyTxid": "DRY_RUN_BUY_1787848040575",
     "sellTxid": "DRY_RUN_SELL_1787848073767",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T16:34:22.461636Z",
+    "token": "9t1jE4TTTeU98Rrtnc2EzyiE8V14i3CpdRJtfshfpump",
+    "symbol": "ROCKON",
+    "marketCap": 31336.0,
+    "liquidity": 13597.83,
+    "candidateScore": 10.903,
+    "entryPrice": 3.319515e-05,
+    "exitPrice": 3.133e-05,
+    "peakPrice": 3.319515e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.039331197479149815,
+    "profitLamports": -39331197,
+    "pnlPct": -5.618742497021403,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787848379764",
+    "sellTxid": "DRY_RUN_SELL_1787848462461",
+    "source": "PYTHON_SCANNER"
   }
 ]

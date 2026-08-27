@@ -878,5 +878,25 @@
     "buyTxid": "DRY_RUN_BUY_1787859124049",
     "sellTxid": "DRY_RUN_SELL_1787859196736",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T19:57:46.274835Z",
+    "token": "85bq8HiHFs9czQNXRsDLCVuyshXtVjERW8jDn958pump",
+    "symbol": "Grokstreet",
+    "marketCap": 32456.0,
+    "liquidity": 14720.86,
+    "candidateScore": 7.6453,
+    "entryPrice": 3.530564999999999e-05,
+    "exitPrice": 3.471e-05,
+    "peakPrice": 3.686e-05,
+    "solAmountLamports": 386559631,
+    "profitSOL": -0.0065217392741713604,
+    "profitLamports": -6521739,
+    "pnlPct": -1.6871237323204502,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1787860439511",
+    "sellTxid": "DRY_RUN_SELL_1787860666274",
+    "source": "PYTHON_SCANNER"
   }
 ]

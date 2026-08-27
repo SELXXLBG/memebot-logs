@@ -1058,5 +1058,25 @@
     "buyTxid": "DRY_RUN_BUY_1787862868692",
     "sellTxid": "DRY_RUN_SELL_1787862976839",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T20:37:25.880745Z",
+    "token": "3A6gaYSnY2zDrnJjwMKF3qDND7t57UxiYoiD5L6ypump",
+    "symbol": "Gem",
+    "marketCap": 27177.0,
+    "liquidity": 12534.38,
+    "candidateScore": 10.7235,
+    "entryPrice": 3.3436349999999994e-05,
+    "exitPrice": 2.717e-05,
+    "peakPrice": 3.3436349999999994e-05,
+    "solAmountLamports": 171058595,
+    "profitSOL": -0.0320583145821314,
+    "profitLamports": -32058314,
+    "pnlPct": -18.741130536078238,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787863000325",
+    "sellTxid": "DRY_RUN_SELL_1787863045880",
+    "source": "PYTHON_SCANNER"
   }
 ]

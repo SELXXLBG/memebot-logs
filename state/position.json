@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "9damvz9dtiVVLavKQ9s3jEP7oMwC7PuYbcsFjrjXpump",
+  "symbol": "M6",
+  "marketCap": 117000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.0000706891347829289,
+  "entryTime": 1787794509696,
+  "peakPrice": 0.0000706891347829289,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1193376318922",
+  "txid": "DRY_RUN_BUY_1787794509696",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

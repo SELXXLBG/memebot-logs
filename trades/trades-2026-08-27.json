@@ -18,5 +18,25 @@
     "buyTxid": "DRY_RUN_BUY_1787828764689",
     "sellTxid": "DRY_RUN_SELL_1787828846899",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T11:10:11.988433Z",
+    "token": "Furb6HmT2ycpAZ3fkFNW9zjhQEkNqTF2eSekc8V6pump",
+    "symbol": "Larry",
+    "marketCap": 39439.0,
+    "liquidity": 15329.43,
+    "candidateScore": 9.7839,
+    "entryPrice": 4.588829999999999e-05,
+    "exitPrice": 3.987e-05,
+    "peakPrice": 4.793e-05,
+    "solAmountLamports": 317760946,
+    "profitSOL": -0.041674690527036234,
+    "profitLamports": -41674690,
+    "pnlPct": -13.115107772569456,
+    "reason": "STOPLOSS8P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1787828977371",
+    "sellTxid": "DRY_RUN_SELL_1787829011988",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "8uPrSiW1VD3ruXtnKLZgBHCLRjJc2nTNSKVd6F5bpump",
+  "symbol": "ELEPHANT",
+  "marketCap": 24000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.00002258279225417576,
+  "entryTime": 1787866199041,
+  "peakPrice": 0.00002258279225417576,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "3257760130006",
+  "txid": "DRY_RUN_BUY_1787866199041",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

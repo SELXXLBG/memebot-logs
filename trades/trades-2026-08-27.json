@@ -798,5 +798,25 @@
     "buyTxid": "DRY_RUN_BUY_1787856367513",
     "sellTxid": "DRY_RUN_SELL_1787856997245",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T18:57:19.379411Z",
+    "token": "58NA4VwHA2LFJu4dAM42B96BPGkNa8irKrw55Kf7pump",
+    "symbol": "TROLLFONE",
+    "marketCap": 63347.0,
+    "liquidity": 20475.18,
+    "candidateScore": 3.2,
+    "entryPrice": 4.955557108598381e-05,
+    "exitPrice": 6.334e-05,
+    "peakPrice": 6.334e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.1947127240864441,
+    "profitLamports": 194712724,
+    "pnlPct": 27.816103440920585,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787857027031",
+    "sellTxid": "DRY_RUN_SELL_1787857039379",
+    "source": "WF1_SCANNER"
   }
 ]

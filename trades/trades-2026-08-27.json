@@ -398,5 +398,25 @@
     "buyTxid": "DRY_RUN_BUY_1787840453790",
     "sellTxid": "DRY_RUN_SELL_1787840475330",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-27T14:45:01.861329Z",
+    "token": "GGmhN33tKC7xBQ4C8V5uyAiH7sHo5UrgMrZPnhKGpump",
+    "symbol": "FLOCKHOUSE",
+    "marketCap": 108844.0,
+    "liquidity": 27952.25,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00015522331410467807,
+    "exitPrice": 0.0001088,
+    "peakPrice": 0.00015522331410467807,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.20935205552537087,
+    "profitLamports": -209352055,
+    "pnlPct": -29.907436503624414,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787841881547",
+    "sellTxid": "DRY_RUN_SELL_1787841901861",
+    "source": "WF1_SCANNER"
   }
 ]

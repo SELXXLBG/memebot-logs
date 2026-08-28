@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "Fh4c4e4otmgdryUaGah16Hfe6coxyBym91WPBWTKpump",
-  "symbol": "rawdog",
-  "marketCap": 43990.0,
-  "liquidity": 16263.35,
-  "volume1h": 60026.22,
-  "volume24h": 60026.22,
-  "candidateScore": 11.007,
-  "entryPrice": 4.41999e-05,
-  "entryTime": 1787921390305,
-  "peakPrice": 5.162e-05,
-  "solAmountLamports": 169107929,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787921390305",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

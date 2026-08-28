@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "4o1ov5siUZH1BEJWvKxj9LHqBAXLEz1tddN6bRnLpump",
+  "symbol": "LAAMA",
+  "marketCap": 133157.0,
+  "liquidity": 30580.18,
+  "volume1h": 129143.54,
+  "volume24h": 165863.71,
+  "candidateScore": 10.4652,
+  "entryPrice": 0.00013758449999999998,
+  "entryTime": 1787894428377,
+  "peakPrice": 0.00013758449999999998,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787894428377",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

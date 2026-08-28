@@ -58,5 +58,25 @@
     "buyTxid": "DRY_RUN_BUY_1787875882190",
     "sellTxid": "DRY_RUN_SELL_1787875928967",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T00:22:50.231404Z",
+    "token": "6C3Mn5MjoydWec6QG5r421nws4AmqxWLGHDqyCGjpump",
+    "symbol": "Frigga",
+    "marketCap": 57861.0,
+    "liquidity": 19196.53,
+    "candidateScore": 10.4892,
+    "entryPrice": 4.7858099999999995e-05,
+    "exitPrice": 5.786e-05,
+    "peakPrice": 5.786e-05,
+    "solAmountLamports": 21926007,
+    "profitSOL": 0.004582332550044822,
+    "profitLamports": 4582332,
+    "pnlPct": 20.899074555822324,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787876519060",
+    "sellTxid": "DRY_RUN_SELL_1787876570231",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "GsUAiBuN6GgTYFiB52GWLB1ghatsRV4f8auDC9dGpump",
+  "symbol": "POTATO",
+  "marketCap": 45000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.00006856652574651381,
+  "entryTime": 1787935163028,
+  "peakPrice": 0.00006856652574651381,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "782450975598",
+  "txid": "DRY_RUN_BUY_1787935163028",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

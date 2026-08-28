@@ -778,5 +778,25 @@
     "buyTxid": "DRY_RUN_BUY_1787926308034",
     "sellTxid": "DRY_RUN_SELL_1787926361057",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T14:16:03.606637Z",
+    "token": "7E8UAqKaNNN7xpgna5qFYmAqMfhNsUJUgLcwfX2ypump",
+    "symbol": "FOREST",
+    "marketCap": 36023.0,
+    "liquidity": 14414.21,
+    "candidateScore": 10.6761,
+    "entryPrice": 3.9868349999999996e-05,
+    "exitPrice": 3.602e-05,
+    "peakPrice": 3.9868349999999996e-05,
+    "solAmountLamports": 37935133,
+    "profitSOL": -0.003661743440111014,
+    "profitLamports": -3661743,
+    "pnlPct": -9.65264426543862,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787926552514",
+    "sellTxid": "DRY_RUN_SELL_1787926563606",
+    "source": "PYTHON_SCANNER"
   }
 ]

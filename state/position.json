@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "F9bpzK7vP8YAAMSy9CVK19GW2QEGgZRXyuKb5Jggpump",
+  "symbol": "GIGAAPE",
+  "marketCap": 63870.0,
+  "liquidity": 19777.6,
+  "volume1h": 6484.84,
+  "volume24h": 6484.84,
+  "candidateScore": 9.4738,
+  "entryPrice": 6.417929999999999e-05,
+  "entryTime": 1787941073330,
+  "peakPrice": 6.417929999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787941073330",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

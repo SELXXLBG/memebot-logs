@@ -1618,5 +1618,25 @@
     "buyTxid": "DRY_RUN_BUY_1787955144893",
     "sellTxid": "DRY_RUN_SELL_1787955167429",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T22:23:10.445440Z",
+    "token": "ApS2Ctdod9jNYLSP1SmjGkzDGNVYu5AEb38z79Jppump",
+    "symbol": "GREEN",
+    "marketCap": 63340.0,
+    "liquidity": 19736.31,
+    "candidateScore": 9.3009,
+    "entryPrice": 4.8782699999999996e-05,
+    "exitPrice": 6.34e-05,
+    "peakPrice": 6.34e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.20974874289450973,
+    "profitLamports": 209748742,
+    "pnlPct": 29.964106127787105,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787955723707",
+    "sellTxid": "DRY_RUN_SELL_1787955790445",
+    "source": "PYTHON_SCANNER"
   }
 ]

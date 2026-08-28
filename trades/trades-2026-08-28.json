@@ -1218,5 +1218,25 @@
     "buyTxid": "DRY_RUN_BUY_1787943848276",
     "sellTxid": "DRY_RUN_SELL_1787943871020",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T19:12:31.172266Z",
+    "token": "EJFSVnJACD2kVJfMkGBL5rptJSWpbG6jqG4tWFgSifRs",
+    "symbol": "SPOT",
+    "marketCap": 58123.0,
+    "liquidity": 18919.64,
+    "candidateScore": 10.0091,
+    "entryPrice": 5.90739e-05,
+    "exitPrice": 5.812e-05,
+    "peakPrice": 6.346e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.011303299765209314,
+    "profitLamports": -11303299,
+    "pnlPct": -1.6147571093156163,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1787944183568",
+    "sellTxid": "DRY_RUN_SELL_1787944351172",
+    "source": "PYTHON_SCANNER"
   }
 ]

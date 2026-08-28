@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "HhEeVVssq9HkGAWgMTfP8WJxfFBPiFX8zpXjv8QUpump",
-  "symbol": "MEMELORD",
-  "marketCap": 169000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.3,
-  "entryPrice": 3.9092929058663014e-05,
-  "entryTime": 1787928886619,
-  "peakPrice": 3.9092929058663014e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "2137556219807",
-  "txid": "DRY_RUN_BUY_1787928886619",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

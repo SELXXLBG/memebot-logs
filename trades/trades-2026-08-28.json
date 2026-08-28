@@ -918,5 +918,25 @@
     "buyTxid": "DRY_RUN_BUY_1787933553808",
     "sellTxid": "DRY_RUN_SELL_1787933619628",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T16:22:20.707141Z",
+    "token": "3LLxJ9wR2zM8NjzrffUmif8pEHkawogFr8JEdYk8pump",
+    "symbol": "SAXGUY",
+    "marketCap": 101035.0,
+    "liquidity": 25605.61,
+    "candidateScore": 10.8823,
+    "entryPrice": 5.0983649999999994e-05,
+    "exitPrice": 0.000101,
+    "peakPrice": 0.000101,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.686719075625225,
+    "profitLamports": 686719075,
+    "pnlPct": 98.10272508931787,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787933972868",
+    "sellTxid": "DRY_RUN_SELL_1787934140707",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1238,5 +1238,25 @@
     "buyTxid": "DRY_RUN_BUY_1787944183568",
     "sellTxid": "DRY_RUN_SELL_1787944351172",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T19:13:33.631542Z",
+    "token": "DBvFEzAXpEtBR48QcCBfJDapwzjDqwL6be79rE8Ppump",
+    "symbol": "MOLLIES",
+    "marketCap": 46442.0,
+    "liquidity": 16581.15,
+    "candidateScore": 9.9332,
+    "entryPrice": 4.548629999999999e-05,
+    "exitPrice": 4.649e-05,
+    "peakPrice": 5.17e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.01544618929216058,
+    "profitLamports": 15446189,
+    "pnlPct": 2.2065984703086543,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787944366235",
+    "sellTxid": "DRY_RUN_SELL_1787944413631",
+    "source": "PYTHON_SCANNER"
   }
 ]

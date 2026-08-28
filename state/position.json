@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "FZEh7c6j66yttCrJqL4YbbhG3UByPawMRSfLcCnWpump",
+  "symbol": "Steve",
+  "marketCap": 45066.0,
+  "liquidity": 16299.93,
+  "volume1h": 37562.77,
+  "volume24h": 37562.77,
+  "candidateScore": 10.5757,
+  "entryPrice": 4.528529999999999e-05,
+  "entryTime": 1787948365308,
+  "peakPrice": 4.528529999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787948365308",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

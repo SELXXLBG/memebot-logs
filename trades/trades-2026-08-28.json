@@ -18,5 +18,25 @@
     "buyTxid": "DRY_RUN_BUY_1787875081581",
     "sellTxid": "DRY_RUN_SELL_1787875248066",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T00:10:30.519260Z",
+    "token": "5snhobKxQEwm62zbS8nNiGepcau4SKvdcQDL94FQpump",
+    "symbol": "BANANA",
+    "marketCap": 29430.0,
+    "liquidity": 13126.58,
+    "candidateScore": 10.066,
+    "entryPrice": 4.5305399999999995e-05,
+    "exitPrice": 2.944e-05,
+    "peakPrice": 4.5305399999999995e-05,
+    "solAmountLamports": 34337060,
+    "profitSOL": -0.012024420747283987,
+    "profitLamports": -12024420,
+    "pnlPct": -35.01878363285612,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787875820956",
+    "sellTxid": "DRY_RUN_SELL_1787875830519",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -38,5 +38,25 @@
     "buyTxid": "DRY_RUN_BUY_1787875820956",
     "sellTxid": "DRY_RUN_SELL_1787875830519",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T00:12:08.967570Z",
+    "token": "baLL6cE38iCd12P2hBKUEM32p1d2kpCYi4gFbJ5kKt6",
+    "symbol": "BALLIN",
+    "marketCap": 47735.0,
+    "liquidity": 17329.08,
+    "candidateScore": 11.0071,
+    "entryPrice": 4.857165e-05,
+    "exitPrice": 4.773e-05,
+    "peakPrice": 5.297e-05,
+    "solAmountLamports": 22312640,
+    "profitSOL": -0.0003866336320878533,
+    "profitLamports": -386633,
+    "pnlPct": -1.7328009239957858,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787875882190",
+    "sellTxid": "DRY_RUN_SELL_1787875928967",
+    "source": "PYTHON_SCANNER"
   }
 ]

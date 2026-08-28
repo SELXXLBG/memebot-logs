@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "Crav2kJW2ViSois3jgEptoKHSgcaQ6SRvZMhkfEPpump",
-  "symbol": "MOMO",
-  "marketCap": 128000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 6.697848502677602e-05,
-  "entryTime": 1787902447862,
-  "peakPrice": 7.604e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1163013266090",
-  "txid": "DRY_RUN_BUY_1787902447862",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

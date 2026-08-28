@@ -638,5 +638,25 @@
     "buyTxid": "DRY_RUN_BUY_1787919005420",
     "sellTxid": "DRY_RUN_SELL_1787919014647",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T12:50:55.926655Z",
+    "token": "Fh4c4e4otmgdryUaGah16Hfe6coxyBym91WPBWTKpump",
+    "symbol": "rawdog",
+    "marketCap": 57762.0,
+    "liquidity": 18965.21,
+    "candidateScore": 11.007,
+    "entryPrice": 4.41999e-05,
+    "exitPrice": 5.776e-05,
+    "peakPrice": 5.776e-05,
+    "solAmountLamports": 169107929,
+    "profitSOL": 0.051880670047509174,
+    "profitLamports": 51880670,
+    "pnlPct": 30.679028685585273,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787921390305",
+    "sellTxid": "DRY_RUN_SELL_1787921455926",
+    "source": "PYTHON_SCANNER"
   }
 ]

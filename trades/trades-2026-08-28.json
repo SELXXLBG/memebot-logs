@@ -418,5 +418,25 @@
     "buyTxid": "DRY_RUN_BUY_1787902182550",
     "sellTxid": "DRY_RUN_SELL_1787902434300",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T07:36:03.860390Z",
+    "token": "Crav2kJW2ViSois3jgEptoKHSgcaQ6SRvZMhkfEPpump",
+    "symbol": "MOMO",
+    "marketCap": 52997.0,
+    "liquidity": 18527.71,
+    "candidateScore": 3.2,
+    "entryPrice": 6.697848502677602e-05,
+    "exitPrice": 5.299e-05,
+    "peakPrice": 7.604e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.14619529711412085,
+    "profitLamports": -146195297,
+    "pnlPct": -20.885042444874408,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787902447862",
+    "sellTxid": "DRY_RUN_SELL_1787902563860",
+    "source": "WF1_SCANNER"
   }
 ]

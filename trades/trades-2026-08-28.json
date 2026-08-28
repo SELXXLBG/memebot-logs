@@ -558,5 +558,25 @@
     "buyTxid": "DRY_RUN_BUY_1787911425629",
     "sellTxid": "DRY_RUN_SELL_1787911436693",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T10:10:37.275552Z",
+    "token": "94WDg1ADhs1Te5Z3CdVrgShgmeppFKE3QLWNYUP2pump",
+    "symbol": "pinkape",
+    "marketCap": 149555.0,
+    "liquidity": 31935.63,
+    "candidateScore": 11.853,
+    "entryPrice": 0.0001094445,
+    "exitPrice": 0.0001495,
+    "peakPrice": 0.0001495,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.2561924080241584,
+    "profitLamports": 256192408,
+    "pnlPct": 36.59891543202263,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787911766739",
+    "sellTxid": "DRY_RUN_SELL_1787911837275",
+    "source": "PYTHON_SCANNER"
   }
 ]

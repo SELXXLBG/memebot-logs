@@ -1578,5 +1578,25 @@
     "buyTxid": "DRY_RUN_BUY_1787953924482",
     "sellTxid": "DRY_RUN_SELL_1787954037006",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T22:06:26.270339Z",
+    "token": "3N3CuhPeTYFmmmjAvyPrHeUgmtPc7NdpFstUNQEgpump",
+    "symbol": "Pencil",
+    "marketCap": 20270.0,
+    "liquidity": 10428.09,
+    "candidateScore": 11.0314,
+    "entryPrice": 4.3556699999999996e-05,
+    "exitPrice": 2.027e-05,
+    "peakPrice": 4.3556699999999996e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.3742407023488923,
+    "profitLamports": -374240702,
+    "pnlPct": -53.46295747841319,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787954779875",
+    "sellTxid": "DRY_RUN_SELL_1787954786270",
+    "source": "PYTHON_SCANNER"
   }
 ]

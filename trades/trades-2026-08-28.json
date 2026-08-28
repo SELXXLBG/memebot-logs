@@ -498,5 +498,25 @@
     "buyTxid": "DRY_RUN_BUY_1787902884018",
     "sellTxid": "DRY_RUN_SELL_1787903009703",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T08:02:56.700219Z",
+    "token": "69bUWWqKHn6hExzWW3m2y9DdXAKT6pbMi1PqQMGRpump",
+    "symbol": "APEMASK",
+    "marketCap": 57354.0,
+    "liquidity": 19265.14,
+    "candidateScore": 3.2,
+    "entryPrice": 7.420423980653473e-05,
+    "exitPrice": 5.735e-05,
+    "peakPrice": 7.420423980653473e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.15899317741592625,
+    "profitLamports": -158993177,
+    "pnlPct": -22.713311059418036,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787904165226",
+    "sellTxid": "DRY_RUN_SELL_1787904176700",
+    "source": "WF1_SCANNER"
   }
 ]

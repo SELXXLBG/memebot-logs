@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "95RfzL9BSPXMh68VgSWcpR1PEnRhdfNgTevJkw4Lpump",
+  "symbol": "CHILLAPE",
+  "marketCap": 56000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.0000021994680271345114,
+  "entryTime": 1787905984383,
+  "peakPrice": 0.0000021994680271345114,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "32360276502108",
+  "txid": "DRY_RUN_BUY_1787905984383",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

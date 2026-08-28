@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "94WDg1ADhs1Te5Z3CdVrgShgmeppFKE3QLWNYUP2pump",
-  "symbol": "pinkape",
-  "marketCap": 108992.0,
-  "liquidity": 27106.44,
-  "volume1h": 211100.14,
-  "volume24h": 211100.14,
-  "candidateScore": 11.853,
-  "entryPrice": 0.0001094445,
-  "entryTime": 1787911766739,
-  "peakPrice": 0.000127,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787911766739",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

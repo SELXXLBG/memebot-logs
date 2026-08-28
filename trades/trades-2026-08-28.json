@@ -478,5 +478,25 @@
     "buyTxid": "DRY_RUN_BUY_1787902822989",
     "sellTxid": "DRY_RUN_SELL_1787902851161",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T07:43:29.703339Z",
+    "token": "BSCK4oKBcPhAVW16gG2vEKyrXijKKKUScWvjWy1Ypump",
+    "symbol": "MYC",
+    "marketCap": 34332.0,
+    "liquidity": 14198.11,
+    "candidateScore": 11.0016,
+    "entryPrice": 3.84312e-05,
+    "exitPrice": 3.433e-05,
+    "peakPrice": 3.84312e-05,
+    "solAmountLamports": 88189021,
+    "profitSOL": -0.009411124631164265,
+    "profitLamports": -9411124,
+    "pnlPct": -10.671537708944816,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787902884018",
+    "sellTxid": "DRY_RUN_SELL_1787903009703",
+    "source": "PYTHON_SCANNER"
   }
 ]

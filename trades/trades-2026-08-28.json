@@ -978,5 +978,25 @@
     "buyTxid": "DRY_RUN_BUY_1787935810465",
     "sellTxid": "DRY_RUN_SELL_1787935833606",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T17:03:56.400900Z",
+    "token": "DjSCaGH9j2aBybiafbrsFadNBGd1Xk7qV8CqFC9pump",
+    "symbol": "BINDERZ",
+    "marketCap": 3126.0,
+    "liquidity": 3001.08,
+    "candidateScore": 3.2,
+    "entryPrice": 3.5227842071134266e-06,
+    "exitPrice": 3.127e-06,
+    "peakPrice": 3.568e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.07864488106309893,
+    "profitLamports": -78644881,
+    "pnlPct": -11.234983009014133,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787936566363",
+    "sellTxid": "DRY_RUN_SELL_1787936636400",
+    "source": "WF1_SCANNER"
   }
 ]

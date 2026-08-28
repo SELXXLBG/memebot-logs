@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "EJFSVnJACD2kVJfMkGBL5rptJSWpbG6jqG4tWFgSifRs",
+  "symbol": "SPOT",
+  "marketCap": 58788.0,
+  "liquidity": 19027.67,
+  "volume1h": 149620.04,
+  "volume24h": 149620.04,
+  "candidateScore": 10.0091,
+  "entryPrice": 5.90739e-05,
+  "entryTime": 1787944183568,
+  "peakPrice": 5.90739e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787944183568",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

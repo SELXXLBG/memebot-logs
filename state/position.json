@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "F2iLfRxjxMnKsw959PA2SDMsqydbeAYtPBGn55rspump",
-  "symbol": "MOON",
-  "marketCap": 34487.0,
-  "liquidity": 14128.5,
-  "volume1h": 88144.2,
-  "volume24h": 88144.2,
-  "candidateScore": 11.2396,
-  "entryPrice": 3.46524e-05,
-  "entryTime": 1787960694579,
-  "peakPrice": 3.631e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787960694579",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

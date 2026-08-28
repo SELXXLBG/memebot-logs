@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "5jeynhHofBDVkmthFA38Hk3xj3TvcnJeXeH9PD1bpump",
+  "symbol": "CATWIFFONE",
+  "marketCap": 43872.0,
+  "liquidity": 16389.45,
+  "volume1h": 98357.29,
+  "volume24h": 98357.29,
+  "candidateScore": 10.039,
+  "entryPrice": 4.4089349999999995e-05,
+  "entryTime": 1787902182550,
+  "peakPrice": 4.4089349999999995e-05,
+  "solAmountLamports": 238064177,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787902182550",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

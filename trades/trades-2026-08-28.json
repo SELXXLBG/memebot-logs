@@ -1458,5 +1458,25 @@
     "buyTxid": "DRY_RUN_BUY_1787948517570",
     "sellTxid": "DRY_RUN_SELL_1787948622991",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T20:37:28.318478Z",
+    "token": "AB32RiXnXisBBfbgcwE7BjPYDjtnaeuQbQ4QV34upump",
+    "symbol": "Trump cake",
+    "marketCap": 73246.0,
+    "liquidity": 21631.44,
+    "candidateScore": 12.6662,
+    "entryPrice": 7.141529999999999e-05,
+    "exitPrice": 7.324e-05,
+    "peakPrice": 8.072e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.01788538310418086,
+    "profitLamports": 17885383,
+    "pnlPct": 2.555054729168694,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787949402087",
+    "sellTxid": "DRY_RUN_SELL_1787949448318",
+    "source": "PYTHON_SCANNER"
   }
 ]

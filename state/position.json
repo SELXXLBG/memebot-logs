@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "9FYjpfKDxM8ZbRKTppv8PfZiEWk39aWCN4765UvUpump",
+  "symbol": "Cyberleek",
+  "marketCap": 64794.0,
+  "liquidity": 20178.81,
+  "volume1h": 133931.21,
+  "volume24h": 133931.21,
+  "candidateScore": 11.4949,
+  "entryPrice": 6.522449999999999e-05,
+  "entryTime": 1787946170347,
+  "peakPrice": 6.522449999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787946170347",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

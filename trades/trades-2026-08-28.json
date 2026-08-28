@@ -838,5 +838,25 @@
     "buyTxid": "DRY_RUN_BUY_1787928886619",
     "sellTxid": "DRY_RUN_SELL_1787928896252",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T15:16:18.100351Z",
+    "token": "2vf7k3ZDvRqpq2y2dXJTpVsLrK2Hr5F5ZQPbLsVLpump",
+    "symbol": "MERT",
+    "marketCap": 76095.0,
+    "liquidity": 22076.45,
+    "candidateScore": 11.4431,
+    "entryPrice": 6.19884e-05,
+    "exitPrice": 7.609e-05,
+    "peakPrice": 7.609e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.1592414064566918,
+    "profitLamports": 159241406,
+    "pnlPct": 22.748772350955974,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787930003898",
+    "sellTxid": "DRY_RUN_SELL_1787930178100",
+    "source": "PYTHON_SCANNER"
   }
 ]

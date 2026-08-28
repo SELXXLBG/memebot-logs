@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "CtmYW2REsRd9fUN6yYtjF4vGkydaiXTw3EiDTscZpump",
+  "symbol": "JOE",
+  "marketCap": 62000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.00007112926288709479,
+  "entryTime": 1787930427401,
+  "peakPrice": 0.00007112926288709479,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1074349534677",
+  "txid": "DRY_RUN_BUY_1787930427401",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "3N3CuhPeTYFmmmjAvyPrHeUgmtPc7NdpFstUNQEgpump",
+  "symbol": "Pencil",
+  "marketCap": 43348.0,
+  "liquidity": 16079.52,
+  "volume1h": 87040.25,
+  "volume24h": 87040.25,
+  "candidateScore": 11.0314,
+  "entryPrice": 4.3556699999999996e-05,
+  "entryTime": 1787954779875,
+  "peakPrice": 4.3556699999999996e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787954779875",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

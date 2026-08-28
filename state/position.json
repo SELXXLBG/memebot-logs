@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "Br2U7C4P149ovBGjfLHLbh55xyJSBvaJyuouWnTqpump",
-  "symbol": "APECOIN",
-  "marketCap": 61000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 2.238806587216282e-06,
-  "entryTime": 1787897938956,
-  "peakPrice": 2.238806587216282e-06,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "32079529814016",
-  "txid": "DRY_RUN_BUY_1787897938956",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

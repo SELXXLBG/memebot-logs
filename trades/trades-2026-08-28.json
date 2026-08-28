@@ -1078,5 +1078,25 @@
     "buyTxid": "DRY_RUN_BUY_1787938866430",
     "sellTxid": "DRY_RUN_SELL_1787938871442",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T17:56:22.171340Z",
+    "token": "3PApPbCFZfK1BAyEVRpjiTpTpyGZrJkRgJ9t9tESpump",
+    "symbol": "DOGSHIT",
+    "marketCap": 192589.0,
+    "liquidity": 36687.93,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00022315368795348581,
+    "exitPrice": 0.0001925,
+    "peakPrice": 0.00022315368795348581,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.09615606967657507,
+    "profitLamports": -96156069,
+    "pnlPct": -13.736581382367868,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787939778219",
+    "sellTxid": "DRY_RUN_SELL_1787939782171",
+    "source": "WF1_SCANNER"
   }
 ]

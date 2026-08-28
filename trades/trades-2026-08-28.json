@@ -438,5 +438,25 @@
     "buyTxid": "DRY_RUN_BUY_1787902447862",
     "sellTxid": "DRY_RUN_SELL_1787902563860",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T07:37:57.026317Z",
+    "token": "ALryq6MuYTt6nXEsXFTUFXbdburCPpe7uhi941Pmpump",
+    "symbol": "apewifape",
+    "marketCap": 74708.0,
+    "liquidity": 22185.98,
+    "candidateScore": 12.1119,
+    "entryPrice": 0.00011326349999999998,
+    "exitPrice": 7.47e-05,
+    "peakPrice": 0.00011326349999999998,
+    "solAmountLamports": 146570182,
+    "profitSOL": -0.049903624853169806,
+    "profitLamports": -49903624,
+    "pnlPct": -34.047596975195,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787902670807",
+    "sellTxid": "DRY_RUN_SELL_1787902677026",
+    "source": "PYTHON_SCANNER"
   }
 ]

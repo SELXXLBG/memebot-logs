@@ -658,5 +658,25 @@
     "buyTxid": "DRY_RUN_BUY_1787921390305",
     "sellTxid": "DRY_RUN_SELL_1787921455926",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T13:08:43.732878Z",
+    "token": "FAP71JACFwdtueZR7xkNx84JuFPkwuHab8asAYW1uwN",
+    "symbol": "FAP",
+    "marketCap": 10018.0,
+    "liquidity": 6775.72,
+    "candidateScore": 9.9077,
+    "entryPrice": 4.795859999999999e-05,
+    "exitPrice": 1.001e-05,
+    "peakPrice": 4.795859999999999e-05,
+    "solAmountLamports": 220988599,
+    "profitSOL": -0.1748634853396763,
+    "profitLamports": -174863485,
+    "pnlPct": -79.12783108764643,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787922518562",
+    "sellTxid": "DRY_RUN_SELL_1787922523732",
+    "source": "PYTHON_SCANNER"
   }
 ]

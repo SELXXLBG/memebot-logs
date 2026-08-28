@@ -1698,5 +1698,25 @@
     "buyTxid": "DRY_RUN_BUY_1787956822065",
     "sellTxid": "DRY_RUN_SELL_1787956834801",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T23:07:10.455996Z",
+    "token": "C31F1oRrCNU8Tgn5hL6atxy2i2yw4EJnGdBtMZYwpump",
+    "symbol": "Pussy",
+    "marketCap": 34181.0,
+    "liquidity": 14046.41,
+    "candidateScore": 10.8243,
+    "entryPrice": 3.687345e-05,
+    "exitPrice": 3.418e-05,
+    "peakPrice": 3.687345e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.05113204758437304,
+    "profitLamports": -51132047,
+    "pnlPct": -7.304578226339006,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787958406802",
+    "sellTxid": "DRY_RUN_SELL_1787958430456",
+    "source": "PYTHON_SCANNER"
   }
 ]

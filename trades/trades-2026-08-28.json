@@ -1418,5 +1418,25 @@
     "buyTxid": "DRY_RUN_BUY_1787947877643",
     "sellTxid": "DRY_RUN_SELL_1787948148332",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T20:20:41.283113Z",
+    "token": "FZEh7c6j66yttCrJqL4YbbhG3UByPawMRSfLcCnWpump",
+    "symbol": "Steve",
+    "marketCap": 44882.0,
+    "liquidity": 16297.95,
+    "candidateScore": 10.5757,
+    "entryPrice": 4.528529999999999e-05,
+    "exitPrice": 4.488e-05,
+    "peakPrice": 5.43e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0062649469032996586,
+    "profitLamports": -6264946,
+    "pnlPct": -0.8949924147570941,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787948365308",
+    "sellTxid": "DRY_RUN_SELL_1787948441283",
+    "source": "PYTHON_SCANNER"
   }
 ]

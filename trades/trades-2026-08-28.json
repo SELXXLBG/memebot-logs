@@ -1678,5 +1678,25 @@
     "buyTxid": "DRY_RUN_BUY_1787956730643",
     "sellTxid": "DRY_RUN_SELL_1787956767198",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T22:40:34.801481Z",
+    "token": "ANpL9wPqn8MYJXj9WtCDZfdGYCNYfi6m7TJqGRPrpump",
+    "symbol": "RAYQUAZA",
+    "marketCap": 38895.0,
+    "liquidity": 15078.86,
+    "candidateScore": 10.4757,
+    "entryPrice": 4.541595e-05,
+    "exitPrice": 3.889e-05,
+    "peakPrice": 4.541595e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.10058503675470835,
+    "profitLamports": -100585036,
+    "pnlPct": -14.369290964958337,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787956822065",
+    "sellTxid": "DRY_RUN_SELL_1787956834801",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -258,5 +258,25 @@
     "buyTxid": "DRY_RUN_BUY_1787887396722",
     "sellTxid": "DRY_RUN_SELL_1787887475983",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T05:18:40.427432Z",
+    "token": "A9tDwWj2GdxHoGrKh3hV8qMaozeCYiVoj2cekxq5pump",
+    "symbol": "PILL",
+    "marketCap": 2151.0,
+    "liquidity": 2226.19,
+    "candidateScore": 3.2,
+    "entryPrice": 2.1836192020213958e-06,
+    "exitPrice": 2.151e-06,
+    "peakPrice": 2.1836192020213958e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.010456695651805974,
+    "profitLamports": -10456695,
+    "pnlPct": -1.4938136645437108,
+    "reason": "FORCE_EXIT_90M",
+    "buyTxid": "DRY_RUN_BUY_1787888919847",
+    "sellTxid": "DRY_RUN_SELL_1787894320427",
+    "source": "WF1_SCANNER"
   }
 ]

@@ -1498,5 +1498,25 @@
     "buyTxid": "DRY_RUN_BUY_1787950498802",
     "sellTxid": "DRY_RUN_SELL_1787950504969",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T20:57:22.558434Z",
+    "token": "BfA7tKRbfdgm34HPBwb2CgoymbMqFi1fS1VqRcnwpump",
+    "symbol": "gambull",
+    "marketCap": 66615.0,
+    "liquidity": 20302.61,
+    "candidateScore": 10.0174,
+    "entryPrice": 4.754654999999999e-05,
+    "exitPrice": 6.661e-05,
+    "peakPrice": 6.661e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.28066000582586975,
+    "profitLamports": 280660005,
+    "pnlPct": 40.09428654655282,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787950620630",
+    "sellTxid": "DRY_RUN_SELL_1787950642558",
+    "source": "PYTHON_SCANNER"
   }
 ]

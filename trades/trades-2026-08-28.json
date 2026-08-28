@@ -858,5 +858,25 @@
     "buyTxid": "DRY_RUN_BUY_1787930003898",
     "sellTxid": "DRY_RUN_SELL_1787930178100",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T15:17:47.573654Z",
+    "token": "Cfu9XPD2JRbd4GJeonokv2LRoo31dNSQPxcHr36vpump",
+    "symbol": "Ello",
+    "marketCap": 47147.0,
+    "liquidity": 16921.58,
+    "candidateScore": 11.3445,
+    "entryPrice": 4.978769999999999e-05,
+    "exitPrice": 4.714e-05,
+    "peakPrice": 4.978769999999999e-05,
+    "solAmountLamports": 159241406,
+    "profitSOL": -0.008468426351612924,
+    "profitLamports": -8468426,
+    "pnlPct": -5.317980143690092,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787930249019",
+    "sellTxid": "DRY_RUN_SELL_1787930267573",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "EZV4HZx5a1XgaXSV3yZZ3rK3PFyH9qUe5wQa8xiApump",
+  "symbol": "fomoonfone",
+  "marketCap": 48975.0,
+  "liquidity": 17064.98,
+  "volume1h": 6544.32,
+  "volume24h": 6544.32,
+  "candidateScore": 9.361,
+  "entryPrice": 4.921484999999999e-05,
+  "entryTime": 1787948517570,
+  "peakPrice": 4.921484999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787948517570",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

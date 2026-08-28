@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "FM9ZpRrcvgeaP2KaF5UqgNedw2WCVNKyn92S1J4pump",
-  "symbol": "Popup\u0455",
-  "marketCap": 50514.0,
-  "liquidity": 17765.79,
-  "volume1h": 71180.1,
-  "volume24h": 71180.1,
-  "candidateScore": 11.6543,
-  "entryPrice": 5.077259999999999e-05,
-  "entryTime": 1787883801470,
-  "peakPrice": 5.077259999999999e-05,
-  "solAmountLamports": 27200442,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787883801470",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

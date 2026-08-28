@@ -158,5 +158,25 @@
     "buyTxid": "DRY_RUN_BUY_1787882887212",
     "sellTxid": "DRY_RUN_SELL_1787882909992",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T02:11:13.517830Z",
+    "token": "2FZCtjs3PqarpwjzXWeR4vMHmW4ESXGmWxRfWnbmpump",
+    "symbol": "Walnut",
+    "marketCap": 55481.0,
+    "liquidity": 18649.25,
+    "candidateScore": 10.1789,
+    "entryPrice": 5.324489999999999e-05,
+    "exitPrice": 5.548e-05,
+    "peakPrice": 5.971e-05,
+    "solAmountLamports": 26104629,
+    "profitSOL": 0.001095813050224533,
+    "profitLamports": 1095813,
+    "pnlPct": 4.197772932243293,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787883009130",
+    "sellTxid": "DRY_RUN_SELL_1787883073517",
+    "source": "PYTHON_SCANNER"
   }
 ]

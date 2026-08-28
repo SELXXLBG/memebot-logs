@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "FyGxBDvHzTkp29kvqbd8JM6imcytMpDp9DB32CThpump",
-  "symbol": "RERE",
-  "marketCap": 71932.0,
-  "liquidity": 21584.16,
-  "volume1h": 93884.93,
-  "volume24h": 93884.93,
-  "candidateScore": 12.0948,
-  "entryPrice": 7.228964999999999e-05,
-  "entryTime": 1787897011548,
-  "peakPrice": 7.228964999999999e-05,
-  "solAmountLamports": 348988787,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787897011548",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

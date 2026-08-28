@@ -278,5 +278,25 @@
     "buyTxid": "DRY_RUN_BUY_1787888919847",
     "sellTxid": "DRY_RUN_SELL_1787894320427",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T05:21:52.939754Z",
+    "token": "4o1ov5siUZH1BEJWvKxj9LHqBAXLEz1tddN6bRnLpump",
+    "symbol": "LAAMA",
+    "marketCap": 96572.0,
+    "liquidity": 25776.01,
+    "candidateScore": 10.4652,
+    "entryPrice": 0.00013758449999999998,
+    "exitPrice": 9.93e-05,
+    "peakPrice": 0.0001548,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1947832059570663,
+    "profitLamports": -194783205,
+    "pnlPct": -27.826172279580902,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787894428377",
+    "sellTxid": "DRY_RUN_SELL_1787894512939",
+    "source": "PYTHON_SCANNER"
   }
 ]

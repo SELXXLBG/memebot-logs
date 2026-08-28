@@ -318,5 +318,25 @@
     "buyTxid": "DRY_RUN_BUY_1787895613583",
     "sellTxid": "DRY_RUN_SELL_1787895621281",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T05:44:02.059934Z",
+    "token": "8Q2iTj5v8THkWQBkutoAHExevn6hGXaGMjLi4DwPpump",
+    "symbol": "MINIAPE",
+    "marketCap": 73643.0,
+    "liquidity": 22118.17,
+    "candidateScore": 3.2,
+    "entryPrice": 4.914065871537589e-05,
+    "exitPrice": 7.364e-05,
+    "peakPrice": 7.364e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.34898878744315376,
+    "profitLamports": 348988787,
+    "pnlPct": 49.85554106330768,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787895814169",
+    "sellTxid": "DRY_RUN_SELL_1787895842059",
+    "source": "WF1_SCANNER"
   }
 ]

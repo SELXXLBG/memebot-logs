@@ -1018,5 +1018,25 @@
     "buyTxid": "DRY_RUN_BUY_1787936941800",
     "sellTxid": "DRY_RUN_SELL_1787937246148",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T17:27:15.661123Z",
+    "token": "4eHuQcGJY9QP5zUPMwUV4r2ECr1DRgJoHbMBnPKRpump",
+    "symbol": "DAEJON",
+    "marketCap": 60888.0,
+    "liquidity": 20222.16,
+    "candidateScore": 3.2,
+    "entryPrice": 7.12411986687158e-05,
+    "exitPrice": 6.468e-05,
+    "peakPrice": 7.12411986687158e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0644688628760807,
+    "profitLamports": -64468862,
+    "pnlPct": -9.209837553725816,
+    "reason": "STOPLOSS8P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1787937845378",
+    "sellTxid": "DRY_RUN_SELL_1787938035661",
+    "source": "WF1_SCANNER"
   }
 ]

@@ -378,5 +378,25 @@
     "buyTxid": "DRY_RUN_BUY_1787897938956",
     "sellTxid": "DRY_RUN_SELL_1787901916315",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T07:27:27.378673Z",
+    "token": "HbtZJR6EM1SMAcg3wMJi2iyaqa64H8MhB41sVuUopump",
+    "symbol": "Rex",
+    "marketCap": 50525.0,
+    "liquidity": 17822.88,
+    "candidateScore": 11.247,
+    "entryPrice": 5.4068999999999993e-05,
+    "exitPrice": 5.052e-05,
+    "peakPrice": 5.4068999999999993e-05,
+    "solAmountLamports": 254788044,
+    "profitSOL": -0.01672386706164344,
+    "profitLamports": -16723867,
+    "pnlPct": -6.5638350995949555,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787902029919",
+    "sellTxid": "DRY_RUN_SELL_1787902047378",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "ALryq6MuYTt6nXEsXFTUFXbdburCPpe7uhi941Pmpump",
+  "symbol": "apewifape",
+  "marketCap": 112728.0,
+  "liquidity": 27654.97,
+  "volume1h": 186732.65,
+  "volume24h": 186732.65,
+  "candidateScore": 12.1119,
+  "entryPrice": 0.00011326349999999998,
+  "entryTime": 1787902670807,
+  "peakPrice": 0.00011326349999999998,
+  "solAmountLamports": 146570182,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787902670807",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

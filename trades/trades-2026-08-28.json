@@ -218,5 +218,25 @@
     "buyTxid": "DRY_RUN_BUY_1787884410468",
     "sellTxid": "DRY_RUN_SELL_1787884433635",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T03:18:52.267904Z",
+    "token": "3g9F5NWq5z575KAp2Xny4HQ1frazsvMSzjKHhWGKpump",
+    "symbol": "LOBSTER",
+    "marketCap": 4650.0,
+    "liquidity": 4079.82,
+    "candidateScore": 3.2,
+    "entryPrice": 8.71772620680735e-06,
+    "exitPrice": 4.65e-06,
+    "peakPrice": 9.541e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.3266228231097357,
+    "profitLamports": -326622823,
+    "pnlPct": -46.66040330139082,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787887074192",
+    "sellTxid": "DRY_RUN_SELL_1787887132267",
+    "source": "WF1_SCANNER"
   }
 ]

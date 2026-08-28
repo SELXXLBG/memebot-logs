@@ -818,5 +818,25 @@
     "buyTxid": "DRY_RUN_BUY_1787927280349",
     "sellTxid": "DRY_RUN_SELL_1787927288472",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T14:54:56.252739Z",
+    "token": "HhEeVVssq9HkGAWgMTfP8WJxfFBPiFX8zpXjv8QUpump",
+    "symbol": "MEMELORD",
+    "marketCap": 31738.0,
+    "liquidity": 14551.04,
+    "candidateScore": 3.3,
+    "entryPrice": 3.9092929058663014e-05,
+    "exitPrice": 3.173e-05,
+    "peakPrice": 3.9092929058663014e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1318409867249885,
+    "profitLamports": -131840986,
+    "pnlPct": -18.834426674998358,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787928886619",
+    "sellTxid": "DRY_RUN_SELL_1787928896252",
+    "source": "WF1_SCANNER"
   }
 ]

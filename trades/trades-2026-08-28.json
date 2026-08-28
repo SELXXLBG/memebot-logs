@@ -358,5 +358,25 @@
     "buyTxid": "DRY_RUN_BUY_1787897011548",
     "sellTxid": "DRY_RUN_SELL_1787897035879",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T07:25:16.315300Z",
+    "token": "Br2U7C4P149ovBGjfLHLbh55xyJSBvaJyuouWnTqpump",
+    "symbol": "APECOIN",
+    "marketCap": 2060.0,
+    "liquidity": 2179.22,
+    "candidateScore": 3.2,
+    "entryPrice": 2.238806587216282e-06,
+    "exitPrice": 2.135e-06,
+    "peakPrice": 2.238806587216282e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.032456850657094194,
+    "profitLamports": -32456850,
+    "pnlPct": -4.6366929510134565,
+    "reason": "STOPLOSS4P_LATE",
+    "buyTxid": "DRY_RUN_BUY_1787897938956",
+    "sellTxid": "DRY_RUN_SELL_1787901916315",
+    "source": "WF1_SCANNER"
   }
 ]

@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "A9tDwWj2GdxHoGrKh3hV8qMaozeCYiVoj2cekxq5pump",
-  "symbol": "PILL",
-  "marketCap": 73000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 2.1836192020213958e-06,
-  "entryTime": 1787888919847,
-  "peakPrice": 2.1836192020213958e-06,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "32833778734652",
-  "txid": "DRY_RUN_BUY_1787888919847",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

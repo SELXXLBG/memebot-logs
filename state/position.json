@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "3LLxJ9wR2zM8NjzrffUmif8pEHkawogFr8JEdYk8pump",
-  "symbol": "SAXGUY",
-  "marketCap": 50740.0,
-  "liquidity": 17506.85,
-  "volume1h": 56974.46,
-  "volume24h": 56974.46,
-  "candidateScore": 10.8823,
-  "entryPrice": 5.0983649999999994e-05,
-  "entryTime": 1787933972868,
-  "peakPrice": 6.104e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787933972868",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

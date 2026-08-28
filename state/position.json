@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "HhMA9RYiaoddRKUhkwpwBoFeS86UacjCE5wDHiBTpump",
+  "symbol": "VALHALLA",
+  "marketCap": 66848.0,
+  "liquidity": 20354.26,
+  "volume1h": 70925.69,
+  "volume24h": 70925.69,
+  "candidateScore": 10.9637,
+  "entryPrice": 6.724454999999999e-05,
+  "entryTime": 1787942201299,
+  "peakPrice": 6.724454999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787942201299",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

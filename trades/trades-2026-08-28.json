@@ -1178,5 +1178,25 @@
     "buyTxid": "DRY_RUN_BUY_1787942201299",
     "sellTxid": "DRY_RUN_SELL_1787942532348",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T18:46:03.858446Z",
+    "token": "BkjCLjbL8ZMBz1aN6cLFs1oXjmq5A5KE5yyWd9XDpump",
+    "symbol": "Cancer",
+    "marketCap": 58877.0,
+    "liquidity": 19041.5,
+    "candidateScore": 10.6228,
+    "entryPrice": 4.7616899999999995e-05,
+    "exitPrice": 5.903e-05,
+    "peakPrice": 5.903e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.1677801368841736,
+    "profitLamports": 167780136,
+    "pnlPct": 23.96859098345337,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787942597284",
+    "sellTxid": "DRY_RUN_SELL_1787942763858",
+    "source": "PYTHON_SCANNER"
   }
 ]

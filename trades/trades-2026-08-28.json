@@ -1478,5 +1478,25 @@
     "buyTxid": "DRY_RUN_BUY_1787949402087",
     "sellTxid": "DRY_RUN_SELL_1787949448318",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T20:55:04.969541Z",
+    "token": "5XEqNg3rpvDmWWEv7muVs7JKjuiZzrJXXgnSsMHupump",
+    "symbol": "fartape",
+    "marketCap": 84643.0,
+    "liquidity": 23196.01,
+    "candidateScore": 10.858,
+    "entryPrice": 6.547574999999999e-05,
+    "exitPrice": 8.464e-05,
+    "peakPrice": 8.464e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.20488463286025757,
+    "profitLamports": 204884632,
+    "pnlPct": 29.269233265751083,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787950498802",
+    "sellTxid": "DRY_RUN_SELL_1787950504969",
+    "source": "PYTHON_SCANNER"
   }
 ]

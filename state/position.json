@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "3eXf3HS1y2W62E3A33SkgXURwQUokbxSDyCM4oTT4SkQ",
+  "symbol": "bitcat",
+  "marketCap": 49756.0,
+  "liquidity": 17487.1,
+  "volume1h": 58565.85,
+  "volume24h": 58565.85,
+  "candidateScore": 11.1899,
+  "entryPrice": 4.9998749999999996e-05,
+  "entryTime": 1787919005420,
+  "peakPrice": 4.9998749999999996e-05,
+  "solAmountLamports": 199273746,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787919005420",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

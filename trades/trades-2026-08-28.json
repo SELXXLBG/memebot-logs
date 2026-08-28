@@ -1538,5 +1538,25 @@
     "buyTxid": "DRY_RUN_BUY_1787953005804",
     "sellTxid": "DRY_RUN_SELL_1787953028442",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T21:46:43.065914Z",
+    "token": "572JCnPJQzF7YJsHMRLkDaeqwPhgWwAyTFwksyowpump",
+    "symbol": "crog",
+    "marketCap": 37028.0,
+    "liquidity": 14643.24,
+    "candidateScore": 10.3153,
+    "entryPrice": 4.294365e-05,
+    "exitPrice": 3.702e-05,
+    "peakPrice": 4.294365e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.09655804758095776,
+    "profitLamports": -96558047,
+    "pnlPct": -13.794006797279682,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787953586895",
+    "sellTxid": "DRY_RUN_SELL_1787953603065",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1718,5 +1718,25 @@
     "buyTxid": "DRY_RUN_BUY_1787958406802",
     "sellTxid": "DRY_RUN_SELL_1787958430456",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T23:45:54.871261Z",
+    "token": "F2iLfRxjxMnKsw959PA2SDMsqydbeAYtPBGn55rspump",
+    "symbol": "MOON",
+    "marketCap": 29062.0,
+    "liquidity": 12820.89,
+    "candidateScore": 11.2396,
+    "entryPrice": 3.46524e-05,
+    "exitPrice": 2.906e-05,
+    "peakPrice": 3.631e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1129699530191271,
+    "profitLamports": -112969953,
+    "pnlPct": -16.13856471701816,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787960694579",
+    "sellTxid": "DRY_RUN_SELL_1787960754871",
+    "source": "PYTHON_SCANNER"
   }
 ]

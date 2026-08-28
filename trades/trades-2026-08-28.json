@@ -938,5 +938,25 @@
     "buyTxid": "DRY_RUN_BUY_1787933972868",
     "sellTxid": "DRY_RUN_SELL_1787934140707",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T16:40:22.342205Z",
+    "token": "GsUAiBuN6GgTYFiB52GWLB1ghatsRV4f8auDC9dGpump",
+    "symbol": "POTATO",
+    "marketCap": 87306.0,
+    "liquidity": 24614.45,
+    "candidateScore": 3.2,
+    "entryPrice": 6.856652574651381e-05,
+    "exitPrice": 8.73e-05,
+    "peakPrice": 8.73e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.19125122404363717,
+    "profitLamports": 191251224,
+    "pnlPct": 27.321603434805315,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787935163028",
+    "sellTxid": "DRY_RUN_SELL_1787935222342",
+    "source": "WF1_SCANNER"
   }
 ]

@@ -1058,5 +1058,25 @@
     "buyTxid": "DRY_RUN_BUY_1787938101268",
     "sellTxid": "DRY_RUN_SELL_1787938226117",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T17:41:11.442756Z",
+    "token": "LQiNwD86HE4SvY8UU5K4pLrmKhje1Avc2BbKjykpump",
+    "symbol": "BRAIN",
+    "marketCap": 32721.0,
+    "liquidity": 13704.28,
+    "candidateScore": 10.1527,
+    "entryPrice": 3.5486549999999997e-05,
+    "exitPrice": 3.284e-05,
+    "peakPrice": 3.5486549999999997e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.05220527213831718,
+    "profitLamports": -52205272,
+    "pnlPct": -7.457896019759598,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787938866430",
+    "sellTxid": "DRY_RUN_SELL_1787938871442",
+    "source": "PYTHON_SCANNER"
   }
 ]

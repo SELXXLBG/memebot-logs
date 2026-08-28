@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "HudkzEWpcUnTYFZMMcbNdwk1S5Am26J2SyEh4NfFworg",
+  "symbol": "MYCEL",
+  "marketCap": 45654.0,
+  "liquidity": 24139.02,
+  "volume1h": 20705.78,
+  "volume24h": 431670.79,
+  "candidateScore": 9.0289,
+  "entryPrice": 4.5878249999999994e-05,
+  "entryTime": 1787938101268,
+  "peakPrice": 4.5878249999999994e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787938101268",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

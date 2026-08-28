@@ -758,5 +758,25 @@
     "buyTxid": "DRY_RUN_BUY_1787925758464",
     "sellTxid": "DRY_RUN_SELL_1787925832297",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T14:12:41.057039Z",
+    "token": "3by3F4T2RWakHfQyECaPQS8eWqs57ardgGGdR4G8pump",
+    "symbol": "Tony",
+    "marketCap": 40477.0,
+    "liquidity": 15416.31,
+    "candidateScore": 11.1836,
+    "entryPrice": 4.2672299999999995e-05,
+    "exitPrice": 4.047e-05,
+    "peakPrice": 5.024e-05,
+    "solAmountLamports": 39999490,
+    "profitSOL": -0.0020643573659493374,
+    "profitLamports": -2064357,
+    "pnlPct": -5.160959217103361,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787926308034",
+    "sellTxid": "DRY_RUN_SELL_1787926361057",
+    "source": "PYTHON_SCANNER"
   }
 ]

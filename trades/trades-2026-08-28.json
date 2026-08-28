@@ -1438,5 +1438,25 @@
     "buyTxid": "DRY_RUN_BUY_1787948365308",
     "sellTxid": "DRY_RUN_SELL_1787948441283",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T20:23:42.991326Z",
+    "token": "EZV4HZx5a1XgaXSV3yZZ3rK3PFyH9qUe5wQa8xiApump",
+    "symbol": "fomoonfone",
+    "marketCap": 60759.0,
+    "liquidity": 19234.87,
+    "candidateScore": 9.361,
+    "entryPrice": 4.921484999999999e-05,
+    "exitPrice": 6.075e-05,
+    "peakPrice": 6.075e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.16406846713949155,
+    "profitLamports": 164068467,
+    "pnlPct": 23.438352448498794,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787948517570",
+    "sellTxid": "DRY_RUN_SELL_1787948622991",
+    "source": "PYTHON_SCANNER"
   }
 ]

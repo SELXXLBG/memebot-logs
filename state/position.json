@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "DSSQFoNqFFDubnM3U5z4ihS9DoPAwHEWeCsa4R7Qpump",
-  "symbol": "FALCON",
-  "marketCap": 30420.0,
-  "liquidity": 13353.48,
-  "volume1h": 43710.02,
-  "volume24h": 43710.02,
-  "candidateScore": 10.7364,
-  "entryPrice": 3.05721e-05,
-  "entryTime": 1787881549882,
-  "peakPrice": 3.1e-05,
-  "solAmountLamports": 26508339,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787881549882",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

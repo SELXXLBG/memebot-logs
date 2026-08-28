@@ -338,5 +338,25 @@
     "buyTxid": "DRY_RUN_BUY_1787895814169",
     "sellTxid": "DRY_RUN_SELL_1787895842059",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T06:03:55.879931Z",
+    "token": "FyGxBDvHzTkp29kvqbd8JM6imcytMpDp9DB32CThpump",
+    "symbol": "RERE",
+    "marketCap": 59501.0,
+    "liquidity": 19467.99,
+    "candidateScore": 12.0948,
+    "entryPrice": 7.228964999999999e-05,
+    "exitPrice": 5.95e-05,
+    "peakPrice": 7.228964999999999e-05,
+    "solAmountLamports": 348988787,
+    "profitSOL": -0.061743893346482476,
+    "profitLamports": -61743893,
+    "pnlPct": -17.692228417207705,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787897011548",
+    "sellTxid": "DRY_RUN_SELL_1787897035879",
+    "source": "PYTHON_SCANNER"
   }
 ]

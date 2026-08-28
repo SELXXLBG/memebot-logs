@@ -198,5 +198,25 @@
     "buyTxid": "DRY_RUN_BUY_1787883801470",
     "sellTxid": "DRY_RUN_SELL_1787883818545",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T02:33:53.635783Z",
+    "token": "8GZQoF1CSjasXo65iLLj38kB1VQWiQaNvPrD7sNzpump",
+    "symbol": "AFK",
+    "marketCap": 27832.0,
+    "liquidity": 12627.5,
+    "candidateScore": 10.1199,
+    "entryPrice": 3.4813199999999994e-05,
+    "exitPrice": 2.783e-05,
+    "peakPrice": 3.4813199999999994e-05,
+    "solAmountLamports": 39194060,
+    "profitSOL": -0.007861959250858865,
+    "profitLamports": -7861959,
+    "pnlPct": -20.059058058437593,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787884410468",
+    "sellTxid": "DRY_RUN_SELL_1787884433635",
+    "source": "PYTHON_SCANNER"
   }
 ]

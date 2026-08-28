@@ -698,5 +698,25 @@
     "buyTxid": "DRY_RUN_BUY_1787922579721",
     "sellTxid": "DRY_RUN_SELL_1787922609726",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T13:39:31.762070Z",
+    "token": "MukLDtJ8Cx9DxLbeyLRSWPSposTMWuwHANbuaudpump",
+    "symbol": "OTC",
+    "marketCap": 56315.0,
+    "liquidity": 18613.02,
+    "candidateScore": 10.2198,
+    "entryPrice": 4.483305e-05,
+    "exitPrice": 5.631e-05,
+    "peakPrice": 5.631e-05,
+    "solAmountLamports": 38695699,
+    "profitSOL": 0.009905830690485035,
+    "profitLamports": 9905830,
+    "pnlPct": 25.5993067614182,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787924260360",
+    "sellTxid": "DRY_RUN_SELL_1787924371762",
+    "source": "PYTHON_SCANNER"
   }
 ]

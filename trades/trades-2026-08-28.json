@@ -798,5 +798,25 @@
     "buyTxid": "DRY_RUN_BUY_1787926552514",
     "sellTxid": "DRY_RUN_SELL_1787926563606",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T14:28:08.472867Z",
+    "token": "6PifXVsMwRDYLepG6AsmTd64U2CSSp9KnzmJP2Htpump",
+    "symbol": "GEORGE",
+    "marketCap": 8624.0,
+    "liquidity": 6271.0,
+    "candidateScore": 3.2,
+    "entryPrice": 9.619986262877388e-06,
+    "exitPrice": 8.624e-06,
+    "peakPrice": 9.619986262877388e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.07247311638110775,
+    "profitLamports": -72473116,
+    "pnlPct": -10.353302340158251,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787927280349",
+    "sellTxid": "DRY_RUN_SELL_1787927288472",
+    "source": "WF1_SCANNER"
   }
 ]

@@ -1378,5 +1378,25 @@
     "buyTxid": "DRY_RUN_BUY_1787947053216",
     "sellTxid": "DRY_RUN_SELL_1787947062091",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T20:11:05.005142Z",
+    "token": "A1Uoja8X8DudY52eiY73PXWCEMu7zr3kCFvrVMjNpump",
+    "symbol": "Leo",
+    "marketCap": 29778.0,
+    "liquidity": 12908.38,
+    "candidateScore": 10.5609,
+    "entryPrice": 3.19188e-05,
+    "exitPrice": 2.977e-05,
+    "peakPrice": 3.19188e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0471245786182437,
+    "profitLamports": -47124578,
+    "pnlPct": -6.7320826597491,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787947847329",
+    "sellTxid": "DRY_RUN_SELL_1787947865005",
+    "source": "PYTHON_SCANNER"
   }
 ]

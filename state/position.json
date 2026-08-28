@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "HAH3KGjb9XnCtY6QmjEsXAFXnABiAmgJTWiTqEcXpump",
-  "symbol": "BOXBOY",
-  "marketCap": 79000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 8.095645081385311e-05,
-  "entryTime": 1787933553808,
-  "peakPrice": 8.18e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1048080075111",
-  "txid": "DRY_RUN_BUY_1787933553808",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

@@ -1158,5 +1158,25 @@
     "buyTxid": "DRY_RUN_BUY_1787941439032",
     "sellTxid": "DRY_RUN_SELL_1787941444081",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T18:42:12.348274Z",
+    "token": "HhMA9RYiaoddRKUhkwpwBoFeS86UacjCE5wDHiBTpump",
+    "symbol": "VALHALLA",
+    "marketCap": 66524.0,
+    "liquidity": 20288.16,
+    "candidateScore": 10.9637,
+    "entryPrice": 6.724454999999999e-05,
+    "exitPrice": 6.658e-05,
+    "peakPrice": 7.006e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.006917809696101664,
+    "profitLamports": -6917809,
+    "pnlPct": -0.9882585280145234,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1787942201299",
+    "sellTxid": "DRY_RUN_SELL_1787942532348",
+    "source": "PYTHON_SCANNER"
   }
 ]

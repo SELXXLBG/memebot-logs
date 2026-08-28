@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "A1Uoja8X8DudY52eiY73PXWCEMu7zr3kCFvrVMjNpump",
+  "symbol": "Leo",
+  "marketCap": 31770.0,
+  "liquidity": 13388.03,
+  "volume1h": 38993.11,
+  "volume24h": 38993.11,
+  "candidateScore": 10.5609,
+  "entryPrice": 3.19188e-05,
+  "entryTime": 1787947847329,
+  "peakPrice": 3.19188e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787947847329",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

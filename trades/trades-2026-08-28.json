@@ -1598,5 +1598,25 @@
     "buyTxid": "DRY_RUN_BUY_1787954779875",
     "sellTxid": "DRY_RUN_SELL_1787954786270",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T22:12:47.429645Z",
+    "token": "FexoXRxvYJUpwwWFzphgi86RAx1hSszNEVzS1KASpump",
+    "symbol": "SB",
+    "marketCap": 69048.0,
+    "liquidity": 20702.87,
+    "candidateScore": 10.6959,
+    "entryPrice": 5.028015e-05,
+    "exitPrice": 6.906e-05,
+    "peakPrice": 6.906e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.2614529789588934,
+    "profitLamports": 261452978,
+    "pnlPct": 37.35042556555621,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787955144893",
+    "sellTxid": "DRY_RUN_SELL_1787955167429",
+    "source": "PYTHON_SCANNER"
   }
 ]

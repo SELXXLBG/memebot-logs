@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "3g9F5NWq5z575KAp2Xny4HQ1frazsvMSzjKHhWGKpump",
-  "symbol": "LOBSTER",
-  "marketCap": 37000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 8.71772620680735e-06,
-  "entryTime": 1787887074192,
-  "peakPrice": 9.541e-06,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "7576412073006",
-  "txid": "DRY_RUN_BUY_1787887074192",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

@@ -898,5 +898,25 @@
     "buyTxid": "DRY_RUN_BUY_1787930427401",
     "sellTxid": "DRY_RUN_SELL_1787930439539",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T16:13:39.628540Z",
+    "token": "HAH3KGjb9XnCtY6QmjEsXAFXnABiAmgJTWiTqEcXpump",
+    "symbol": "BOXBOY",
+    "marketCap": 74612.0,
+    "liquidity": 22281.31,
+    "candidateScore": 3.2,
+    "entryPrice": 8.095645081385311e-05,
+    "exitPrice": 7.477e-05,
+    "peakPrice": 8.18e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0534919148031147,
+    "profitLamports": -53491914,
+    "pnlPct": -7.6417021147306725,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787933553808",
+    "sellTxid": "DRY_RUN_SELL_1787933619628",
+    "source": "WF1_SCANNER"
   }
 ]

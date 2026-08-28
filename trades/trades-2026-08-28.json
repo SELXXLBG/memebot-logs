@@ -1198,5 +1198,25 @@
     "buyTxid": "DRY_RUN_BUY_1787942597284",
     "sellTxid": "DRY_RUN_SELL_1787942763858",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T19:04:31.020554Z",
+    "token": "BgqmTPbhviWvo72QvFSkKUWnjdnuwcicPWMYRwTspump",
+    "symbol": "1090F",
+    "marketCap": 63557.0,
+    "liquidity": 19827.22,
+    "candidateScore": 11.204,
+    "entryPrice": 6.986759999999999e-05,
+    "exitPrice": 6.364e-05,
+    "peakPrice": 6.986759999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06239401382042602,
+    "profitLamports": -62394013,
+    "pnlPct": -8.913430545775146,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787943848276",
+    "sellTxid": "DRY_RUN_SELL_1787943871020",
+    "source": "PYTHON_SCANNER"
   }
 ]

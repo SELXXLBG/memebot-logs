@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "2DHSqc1duix815vkXJp1iqTKptz6BMUALQiPe59Vpump",
-  "symbol": "gfone",
-  "marketCap": 41486.0,
-  "liquidity": 15770.0,
-  "volume1h": 21977.8,
-  "volume24h": 21977.8,
-  "candidateScore": 9.6841,
-  "entryPrice": 4.16874e-05,
-  "entryTime": 1787887396722,
-  "peakPrice": 4.16874e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787887396722",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

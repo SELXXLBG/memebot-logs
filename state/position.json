@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "2FZCtjs3PqarpwjzXWeR4vMHmW4ESXGmWxRfWnbmpump",
-  "symbol": "Walnut",
-  "marketCap": 52982.0,
-  "liquidity": 18166.06,
-  "volume1h": 12218.11,
-  "volume24h": 12218.11,
-  "candidateScore": 10.1789,
-  "entryPrice": 5.324489999999999e-05,
-  "entryTime": 1787883009130,
-  "peakPrice": 5.971e-05,
-  "solAmountLamports": 26104629,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787883009130",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

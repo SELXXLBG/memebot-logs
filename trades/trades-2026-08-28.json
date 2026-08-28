@@ -1638,5 +1638,25 @@
     "buyTxid": "DRY_RUN_BUY_1787955723707",
     "sellTxid": "DRY_RUN_SELL_1787955790445",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T22:33:19.329618Z",
+    "token": "EHwq4pYNtuVDDFiMmk6z6kd4bbDSj5NUF2dsSi8fpump",
+    "symbol": "SOB",
+    "marketCap": 49586.0,
+    "liquidity": 17249.2,
+    "candidateScore": 11.3201,
+    "entryPrice": 3.8451299999999996e-05,
+    "exitPrice": 4.958e-05,
+    "peakPrice": 4.958e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.20259627112737427,
+    "profitLamports": 202596271,
+    "pnlPct": 28.942324446767753,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787956364376",
+    "sellTxid": "DRY_RUN_SELL_1787956399329",
+    "source": "PYTHON_SCANNER"
   }
 ]

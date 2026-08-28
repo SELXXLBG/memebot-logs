@@ -518,5 +518,25 @@
     "buyTxid": "DRY_RUN_BUY_1787904165226",
     "sellTxid": "DRY_RUN_SELL_1787904176700",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T10:03:04.808887Z",
+    "token": "95RfzL9BSPXMh68VgSWcpR1PEnRhdfNgTevJkw4Lpump",
+    "symbol": "CHILLAPE",
+    "marketCap": 2068.0,
+    "liquidity": 2187.65,
+    "candidateScore": 3.2,
+    "entryPrice": 2.1994680271345114e-06,
+    "exitPrice": 2.147e-06,
+    "peakPrice": 2.203e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.016698410043271748,
+    "profitLamports": -16698410,
+    "pnlPct": -2.385487149038821,
+    "reason": "FORCE_EXIT_90M",
+    "buyTxid": "DRY_RUN_BUY_1787905984383",
+    "sellTxid": "DRY_RUN_SELL_1787911384808",
+    "source": "WF1_SCANNER"
   }
 ]

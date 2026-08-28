@@ -1118,5 +1118,25 @@
     "buyTxid": "DRY_RUN_BUY_1787940061630",
     "sellTxid": "DRY_RUN_SELL_1787940194162",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T18:19:49.801832Z",
+    "token": "F9bpzK7vP8YAAMSy9CVK19GW2QEGgZRXyuKb5Jggpump",
+    "symbol": "GIGAAPE",
+    "marketCap": 63255.0,
+    "liquidity": 19679.63,
+    "candidateScore": 9.4738,
+    "entryPrice": 6.417929999999999e-05,
+    "exitPrice": 6.325e-05,
+    "peakPrice": 6.931e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.010135822609470487,
+    "profitLamports": -10135822,
+    "pnlPct": -1.447974658495784,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1787941073330",
+    "sellTxid": "DRY_RUN_SELL_1787941189801",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1318,5 +1318,25 @@
     "buyTxid": "DRY_RUN_BUY_1787945651757",
     "sellTxid": "DRY_RUN_SELL_1787945825579",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T19:43:30.687641Z",
+    "token": "9FYjpfKDxM8ZbRKTppv8PfZiEWk39aWCN4765UvUpump",
+    "symbol": "Cyberleek",
+    "marketCap": 59200.0,
+    "liquidity": 19222.49,
+    "candidateScore": 11.4949,
+    "entryPrice": 6.522449999999999e-05,
+    "exitPrice": 5.93e-05,
+    "peakPrice": 6.794e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06358270281872604,
+    "profitLamports": -63582702,
+    "pnlPct": -9.083243259818005,
+    "reason": "STOPLOSS8P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1787946170347",
+    "sellTxid": "DRY_RUN_SELL_1787946210687",
+    "source": "PYTHON_SCANNER"
   }
 ]

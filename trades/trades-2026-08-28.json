@@ -678,5 +678,25 @@
     "buyTxid": "DRY_RUN_BUY_1787922518562",
     "sellTxid": "DRY_RUN_SELL_1787922523732",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T13:10:09.726555Z",
+    "token": "35oa2wXzmQuNNHUzAFDX9csJ1PzrstTGSAPzaeMupump",
+    "symbol": "HOPE",
+    "marketCap": 36608.0,
+    "liquidity": 14611.33,
+    "candidateScore": 9.2255,
+    "entryPrice": 4.362705e-05,
+    "exitPrice": 3.66e-05,
+    "peakPrice": 4.362705e-05,
+    "solAmountLamports": 46125114,
+    "profitSOL": -0.007429415519355533,
+    "profitLamports": -7429415,
+    "pnlPct": -16.107094107898646,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787922579721",
+    "sellTxid": "DRY_RUN_SELL_1787922609726",
+    "source": "PYTHON_SCANNER"
   }
 ]

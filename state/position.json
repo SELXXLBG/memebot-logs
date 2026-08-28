@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "FBGhHFX2YXULawH5fxjFvySTG9DzS4HL71nX4VkNpump",
-  "symbol": "AFK",
-  "marketCap": 53936.0,
-  "liquidity": 18409.96,
-  "volume1h": 35799.62,
-  "volume24h": 35799.62,
-  "candidateScore": 10.4913,
-  "entryPrice": 5.419964999999999e-05,
-  "entryTime": 1787882097482,
-  "peakPrice": 5.419964999999999e-05,
-  "solAmountLamports": 25208228,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787882097482",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

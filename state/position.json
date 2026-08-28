@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "7dinxiqEhbP351WD5Ve1zpQpGmahU25VdqtccTo5pump",
-  "symbol": "Lucia",
-  "marketCap": 98974.0,
-  "liquidity": 27754.01,
-  "volume1h": 32290.22,
-  "volume24h": 834295.63,
-  "candidateScore": 6.7658,
-  "entryPrice": 0.00010250999999999999,
-  "entryTime": 1787875081581,
-  "peakPrice": 0.00010250999999999999,
-  "solAmountLamports": 37722559,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787875081581",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "6C3Mn5MjoydWec6QG5r421nws4AmqxWLGHDqyCGjpump",
-  "symbol": "Frigga",
-  "marketCap": 47622.0,
-  "liquidity": 17234.49,
-  "volume1h": 1385.3,
-  "volume24h": 1385.3,
-  "candidateScore": 10.4892,
-  "entryPrice": 4.7858099999999995e-05,
-  "entryTime": 1787876519060,
-  "peakPrice": 4.879e-05,
-  "solAmountLamports": 21926007,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787876519060",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

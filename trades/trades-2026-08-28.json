@@ -1,0 +1,22 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T00:00:48.066519Z",
+    "token": "7dinxiqEhbP351WD5Ve1zpQpGmahU25VdqtccTo5pump",
+    "symbol": "Lucia",
+    "marketCap": 90493.0,
+    "liquidity": 26432.58,
+    "candidateScore": 6.7658,
+    "entryPrice": 0.00010250999999999999,
+    "exitPrice": 9.331e-05,
+    "peakPrice": 0.00010250999999999999,
+    "solAmountLamports": 37722559,
+    "profitSOL": -0.0033854993932299266,
+    "profitLamports": -3385499,
+    "pnlPct": -8.97473417227587,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787875081581",
+    "sellTxid": "DRY_RUN_SELL_1787875248066",
+    "source": "PYTHON_SCANNER"
+  }
+]

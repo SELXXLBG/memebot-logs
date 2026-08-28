@@ -578,5 +578,25 @@
     "buyTxid": "DRY_RUN_BUY_1787911766739",
     "sellTxid": "DRY_RUN_SELL_1787911837275",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T11:36:08.551337Z",
+    "token": "88Y9rWycUFToKS66MjogsGicjYyULJg8zrnqMJpBpump",
+    "symbol": "Chelsea",
+    "marketCap": 41600.0,
+    "liquidity": 17950.63,
+    "candidateScore": 9.7476,
+    "entryPrice": 4.7616899999999995e-05,
+    "exitPrice": 4.159e-05,
+    "peakPrice": 4.7616899999999995e-05,
+    "solAmountLamports": 256192408,
+    "profitSOL": -0.03242642893122397,
+    "profitLamports": -32426428,
+    "pnlPct": -12.657060833443579,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787916956205",
+    "sellTxid": "DRY_RUN_SELL_1787916968551",
+    "source": "PYTHON_SCANNER"
   }
 ]

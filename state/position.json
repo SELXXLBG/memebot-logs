@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "BkjCLjbL8ZMBz1aN6cLFs1oXjmq5A5KE5yyWd9XDpump",
-  "symbol": "Cancer",
-  "marketCap": 47262.0,
-  "liquidity": 16798.05,
-  "volume1h": 42255.17,
-  "volume24h": 42255.17,
-  "candidateScore": 10.6228,
-  "entryPrice": 4.7616899999999995e-05,
-  "entryTime": 1787942597284,
-  "peakPrice": 4.939e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787942597284",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

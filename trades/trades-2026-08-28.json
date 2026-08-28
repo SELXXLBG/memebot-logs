@@ -78,5 +78,25 @@
     "buyTxid": "DRY_RUN_BUY_1787876519060",
     "sellTxid": "DRY_RUN_SELL_1787876570231",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T01:47:43.743582Z",
+    "token": "DSSQFoNqFFDubnM3U5z4ihS9DoPAwHEWeCsa4R7Qpump",
+    "symbol": "FALCON",
+    "marketCap": 39906.0,
+    "liquidity": 15573.56,
+    "candidateScore": 10.7364,
+    "entryPrice": 3.05721e-05,
+    "exitPrice": 3.99e-05,
+    "peakPrice": 3.99e-05,
+    "solAmountLamports": 26508339,
+    "profitSOL": 0.00808799969115959,
+    "profitLamports": 8087999,
+    "pnlPct": 30.511152325159223,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787881549882",
+    "sellTxid": "DRY_RUN_SELL_1787881663743",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -718,5 +718,25 @@
     "buyTxid": "DRY_RUN_BUY_1787924260360",
     "sellTxid": "DRY_RUN_SELL_1787924371762",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T13:47:10.564470Z",
+    "token": "CQAk4XDyZ1YTwD398MDrKo2SQtmYF1R9ayNuKFCZpump",
+    "symbol": "APESEM",
+    "marketCap": 72890.0,
+    "liquidity": 21517.62,
+    "candidateScore": 11.5069,
+    "entryPrice": 7.802819999999999e-05,
+    "exitPrice": 7.289e-05,
+    "peakPrice": 7.802819999999999e-05,
+    "solAmountLamports": 48601529,
+    "profitSOL": -0.0032004374868034834,
+    "profitLamports": -3200437,
+    "pnlPct": -6.585055146728992,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787924782178",
+    "sellTxid": "DRY_RUN_SELL_1787924830564",
+    "source": "PYTHON_SCANNER"
   }
 ]

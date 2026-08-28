@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "8Q2iTj5v8THkWQBkutoAHExevn6hGXaGMjLi4DwPpump",
-  "symbol": "MINIAPE",
-  "marketCap": 112000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 4.914065871537589e-05,
-  "entryTime": 1787895814169,
-  "peakPrice": 4.914065871537589e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "996430489867",
-  "txid": "DRY_RUN_BUY_1787895814169",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

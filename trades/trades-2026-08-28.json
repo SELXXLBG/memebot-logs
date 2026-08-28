@@ -1278,5 +1278,25 @@
     "buyTxid": "DRY_RUN_BUY_1787944763970",
     "sellTxid": "DRY_RUN_SELL_1787944778614",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T19:32:48.470022Z",
+    "token": "B5HH3B3hfvSpyAgpD3KH9G3Uj5xQcUVskxcR6NNHpump",
+    "symbol": "sadonfone",
+    "marketCap": 32191.0,
+    "liquidity": 13512.45,
+    "candidateScore": 9.492,
+    "entryPrice": 5.3496149999999994e-05,
+    "exitPrice": 3.219e-05,
+    "peakPrice": 5.412e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.27879211868517634,
+    "profitLamports": -278792118,
+    "pnlPct": -39.827445526453765,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787945498813",
+    "sellTxid": "DRY_RUN_SELL_1787945568470",
+    "source": "PYTHON_SCANNER"
   }
 ]

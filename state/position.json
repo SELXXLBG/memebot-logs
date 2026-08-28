@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "FexoXRxvYJUpwwWFzphgi86RAx1hSszNEVzS1KASpump",
-  "symbol": "SB",
-  "marketCap": 50025.0,
-  "liquidity": 17302.89,
-  "volume1h": 46833.75,
-  "volume24h": 46833.75,
-  "candidateScore": 10.6959,
-  "entryPrice": 5.028015e-05,
-  "entryTime": 1787955144893,
-  "peakPrice": 5.028015e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787955144893",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

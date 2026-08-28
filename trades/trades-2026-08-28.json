@@ -398,5 +398,25 @@
     "buyTxid": "DRY_RUN_BUY_1787902029919",
     "sellTxid": "DRY_RUN_SELL_1787902047378",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T07:33:54.300028Z",
+    "token": "5jeynhHofBDVkmthFA38Hk3xj3TvcnJeXeH9PD1bpump",
+    "symbol": "CATWIFFONE",
+    "marketCap": 54223.0,
+    "liquidity": 18432.52,
+    "candidateScore": 10.039,
+    "entryPrice": 4.4089349999999995e-05,
+    "exitPrice": 5.422e-05,
+    "peakPrice": 5.422e-05,
+    "solAmountLamports": 238064177,
+    "profitSOL": 0.054701302122282386,
+    "profitLamports": 54701302,
+    "pnlPct": 22.977544463685685,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787902182550",
+    "sellTxid": "DRY_RUN_SELL_1787902434300",
+    "source": "PYTHON_SCANNER"
   }
 ]

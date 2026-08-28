@@ -1098,5 +1098,25 @@
     "buyTxid": "DRY_RUN_BUY_1787939778219",
     "sellTxid": "DRY_RUN_SELL_1787939782171",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-28T18:03:14.162298Z",
+    "token": "HtmX7Yk27r5S2LKS43H2yrvgPi2H61AJy9StTnzpump",
+    "symbol": "Pumpcat",
+    "marketCap": 49560.0,
+    "liquidity": 17418.15,
+    "candidateScore": 10.7999,
+    "entryPrice": 4.775759999999999e-05,
+    "exitPrice": 4.963e-05,
+    "peakPrice": 5.442e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.027444427693184004,
+    "profitLamports": 27444427,
+    "pnlPct": 3.920632527597715,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787940061630",
+    "sellTxid": "DRY_RUN_SELL_1787940194162",
+    "source": "PYTHON_SCANNER"
   }
 ]

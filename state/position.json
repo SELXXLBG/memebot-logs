@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "BH6L1o7L6mga8xKk7uryRbqeZmgsKSHjyYqakuGfpump",
+  "symbol": "AUTOMATA",
+  "marketCap": 48326.0,
+  "liquidity": 17003.92,
+  "volume1h": 16905.25,
+  "volume24h": 16905.25,
+  "candidateScore": 9.6049,
+  "entryPrice": 4.856159999999999e-05,
+  "entryTime": 1787962043671,
+  "peakPrice": 4.856159999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787962043671",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

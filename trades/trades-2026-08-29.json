@@ -258,5 +258,25 @@
     "buyTxid": "DRY_RUN_BUY_1787974238399",
     "sellTxid": "DRY_RUN_SELL_1787974285014",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T03:38:59.440630Z",
+    "token": "CYFVyFeb1dk13fcxXFwWwZVy91jydQyoZ4hqPL6Rpump",
+    "symbol": "Pink Pill",
+    "marketCap": 66146.0,
+    "liquidity": 20270.65,
+    "candidateScore": 10.0647,
+    "entryPrice": 5.005904999999999e-05,
+    "exitPrice": 6.614e-05,
+    "peakPrice": 6.614e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.22486773120944178,
+    "profitLamports": 224867731,
+    "pnlPct": 32.123961601348825,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787974575199",
+    "sellTxid": "DRY_RUN_SELL_1787974739440",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -418,5 +418,25 @@
     "buyTxid": "DRY_RUN_BUY_1787985057827",
     "sellTxid": "DRY_RUN_SELL_1787985125493",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T06:46:34.468716Z",
+    "token": "9jRKQFo7SnAQYAndkwLCBx8D2RLkdspX5dCMSMaZpump",
+    "symbol": "BIRDHOUSE",
+    "marketCap": 58380.0,
+    "liquidity": 19016.45,
+    "candidateScore": 11.6124,
+    "entryPrice": 6.288285e-05,
+    "exitPrice": 5.837e-05,
+    "peakPrice": 6.288285e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.05023619317508674,
+    "profitLamports": -50236193,
+    "pnlPct": -7.1765990250123926,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787985974021",
+    "sellTxid": "DRY_RUN_SELL_1787985994468",
+    "source": "PYTHON_SCANNER"
   }
 ]

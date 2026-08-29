@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "G2bi4KGNWMsFGJWSYm98nPKm7XshfjLo9NTpzqHnpump",
+  "symbol": "CONNECTOME",
+  "marketCap": 54000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.3,
+  "entryPrice": 0.000046480621697596373,
+  "entryTime": 1788039735453,
+  "peakPrice": 0.000046480621697596373,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1459510091819",
+  "txid": "DRY_RUN_BUY_1788039735453",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

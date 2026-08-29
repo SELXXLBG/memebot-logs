@@ -818,5 +818,25 @@
     "buyTxid": "DRY_RUN_BUY_1787994812589",
     "sellTxid": "DRY_RUN_SELL_1787994938993",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T09:28:26.113422Z",
+    "token": "3cWb3fkAuqcH1CqJdqZoy5qAAqpZpG8pxiFR68MXAcf4",
+    "symbol": "DAWG",
+    "marketCap": 25221.0,
+    "liquidity": 17335.5,
+    "candidateScore": 3.2,
+    "entryPrice": 3.193596130534084e-05,
+    "exitPrice": 2.6e-05,
+    "peakPrice": 3.193596130534084e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.13010952994371572,
+    "profitLamports": -130109529,
+    "pnlPct": -18.587075706245106,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787995680093",
+    "sellTxid": "DRY_RUN_SELL_1787995706113",
+    "source": "WF1_SCANNER"
   }
 ]

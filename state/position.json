@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "3w9E9jgJo3Rka7dqdiHxzLevq1LUhfrme7AkBUVrpump",
+  "symbol": "Meeko",
+  "marketCap": 119636.0,
+  "liquidity": 27920.79,
+  "volume1h": 115769.07,
+  "volume24h": 115769.07,
+  "candidateScore": 12.1732,
+  "entryPrice": 0.00012019799999999998,
+  "entryTime": 1787991773488,
+  "peakPrice": 0.00012019799999999998,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787991773488",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

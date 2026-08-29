@@ -698,5 +698,25 @@
     "buyTxid": "DRY_RUN_BUY_1787991773488",
     "sellTxid": "DRY_RUN_SELL_1787991843915",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T08:36:09.823615Z",
+    "token": "DRc3pc5XYydUfKkCqGbjvncz6EuHjRKqUjBFEFdgpump",
+    "symbol": "toadfone",
+    "marketCap": 104261.0,
+    "liquidity": 26043.76,
+    "candidateScore": 12.3,
+    "entryPrice": 0.00010220849999999999,
+    "exitPrice": 0.0001042,
+    "peakPrice": 0.0001208,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.01363927657680141,
+    "profitLamports": 13639276,
+    "pnlPct": 1.9484680824002014,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787992472109",
+    "sellTxid": "DRY_RUN_SELL_1787992569823",
+    "source": "PYTHON_SCANNER"
   }
 ]

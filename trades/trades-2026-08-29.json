@@ -1198,5 +1198,25 @@
     "buyTxid": "DRY_RUN_BUY_1788013964935",
     "sellTxid": "DRY_RUN_SELL_1788013995257",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T15:31:48.236210Z",
+    "token": "7VVmK93JJgnKe9uWCqkCWMtWtWnpGJZyJjjUi3RZpump",
+    "symbol": "CopperApe",
+    "marketCap": 112143.0,
+    "liquidity": 27859.57,
+    "candidateScore": 10.6535,
+    "entryPrice": 0.00011999699999999998,
+    "exitPrice": 0.0001135,
+    "peakPrice": 0.000123,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.03790011416952084,
+    "profitLamports": -37900114,
+    "pnlPct": -5.414302024217264,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1788017448002",
+    "sellTxid": "DRY_RUN_SELL_1788017508236",
+    "source": "PYTHON_SCANNER"
   }
 ]

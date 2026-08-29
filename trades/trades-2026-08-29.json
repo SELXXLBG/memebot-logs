@@ -1098,5 +1098,25 @@
     "buyTxid": "DRY_RUN_BUY_1788010294166",
     "sellTxid": "DRY_RUN_SELL_1788010347821",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T14:06:32.892293Z",
+    "token": "MrQEXJP4nxZKQAJchXH65Kg2hS2ZmCd2J74Ru9cbu4Q",
+    "symbol": "MissCat",
+    "marketCap": 610867.0,
+    "liquidity": 464367.99,
+    "candidateScore": 10.8649,
+    "entryPrice": 3.0582149999999997e-05,
+    "exitPrice": 0.0006108,
+    "peakPrice": 0.0006108,
+    "solAmountLamports": 2384172687,
+    "profitSOL": 45.23356109625592,
+    "profitLamports": 45233561096,
+    "pnlPct": 1897.243490075093,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788010447877",
+    "sellTxid": "DRY_RUN_SELL_1788012392892",
+    "source": "PYTHON_SCANNER"
   }
 ]

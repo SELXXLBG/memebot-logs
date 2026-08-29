@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "8xDpnpnHdF5CPDYaB43kWjyqjztKGQGjAtDa6DQJpump",
+  "symbol": "MOURN",
+  "marketCap": 71000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.00008492676037777627,
+  "entryTime": 1787990399453,
+  "peakPrice": 0.00008492676037777627,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1198382265038",
+  "txid": "DRY_RUN_BUY_1787990399453",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

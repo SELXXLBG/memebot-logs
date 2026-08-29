@@ -598,5 +598,25 @@
     "buyTxid": "DRY_RUN_BUY_1787990399453",
     "sellTxid": "DRY_RUN_SELL_1787990415161",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T08:05:59.172716Z",
+    "token": "GwWN6njpoPfMZGRwJzNhJhuQBCLnqJu8kwoAztGWpump",
+    "symbol": "SALLY ",
+    "marketCap": 83001.0,
+    "liquidity": 23076.25,
+    "candidateScore": 10.285,
+    "entryPrice": 7.801815e-05,
+    "exitPrice": 8.3e-05,
+    "peakPrice": 9.183e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.04469850925714084,
+    "profitLamports": 44698509,
+    "pnlPct": 6.385501322448691,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787990434806",
+    "sellTxid": "DRY_RUN_SELL_1787990759172",
+    "source": "PYTHON_SCANNER"
   }
 ]

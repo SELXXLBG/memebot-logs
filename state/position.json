@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "8JUQps2GsryEuJiMmyCuukpEXg8c8zDZk7gXWednpump",
-  "symbol": "worm",
-  "marketCap": 54830.0,
-  "liquidity": 18384.97,
-  "volume1h": 30357.59,
-  "volume24h": 30357.59,
-  "candidateScore": 9.8668,
-  "entryPrice": 5.509409999999999e-05,
-  "entryTime": 1788047596337,
-  "peakPrice": 5.509409999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788047596337",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

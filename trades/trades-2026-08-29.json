@@ -1498,5 +1498,25 @@
     "buyTxid": "DRY_RUN_BUY_1788029209858",
     "sellTxid": "DRY_RUN_SELL_1788029316810",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T18:59:47.251686Z",
+    "token": "Cq5sidkkcx66wCo2Trpfv2Xz69VkkzX4ntb3oGYNpump",
+    "symbol": "401k",
+    "marketCap": 102033.0,
+    "liquidity": 26025.47,
+    "candidateScore": 12.0248,
+    "entryPrice": 0.00010010804999999999,
+    "exitPrice": 0.000102,
+    "peakPrice": 0.0001097,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.01322935568118656,
+    "profitLamports": 13229355,
+    "pnlPct": 1.8899079544552229,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788029943966",
+    "sellTxid": "DRY_RUN_SELL_1788029987251",
+    "source": "PYTHON_SCANNER"
   }
 ]

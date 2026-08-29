@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "HyU2txAuF3YHXmofdVUSELi6Cdt1iPLiuB9HwhzSpump",
-  "symbol": "Dickbutt",
-  "marketCap": 63953.0,
-  "liquidity": 19962.75,
-  "volume1h": 122989.85,
-  "volume24h": 122989.85,
-  "candidateScore": 11.6607,
-  "entryPrice": 6.426974999999999e-05,
-  "entryTime": 1788005440737,
-  "peakPrice": 6.426974999999999e-05,
-  "solAmountLamports": 2568246655,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788005440737",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

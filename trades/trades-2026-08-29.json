@@ -878,5 +878,25 @@
     "buyTxid": "DRY_RUN_BUY_1787996695632",
     "sellTxid": "DRY_RUN_SELL_1787996716712",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T09:59:00.414682Z",
+    "token": "2ui3bjKTyUj8yP7FxmeDQtkaTdAaLxzebec1LSiHpump",
+    "symbol": "SURFER",
+    "marketCap": 38588.0,
+    "liquidity": 14950.02,
+    "candidateScore": 10.5131,
+    "entryPrice": 4.3727549999999994e-05,
+    "exitPrice": 3.858e-05,
+    "peakPrice": 4.3727549999999994e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.08240308455424546,
+    "profitLamports": -82403084,
+    "pnlPct": -11.771869222035066,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787997519366",
+    "sellTxid": "DRY_RUN_SELL_1787997540414",
+    "source": "PYTHON_SCANNER"
   }
 ]

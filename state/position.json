@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "6xLVLh31xrkJhcJ3M6UpvfKW9nUEi9Y731QFJzycpump",
-  "symbol": "Ant",
-  "marketCap": 44360.0,
-  "liquidity": 16179.03,
-  "volume1h": 71203.56,
-  "volume24h": 71203.56,
-  "candidateScore": 11.3244,
-  "entryPrice": 4.4571749999999996e-05,
-  "entryTime": 1787996695632,
-  "peakPrice": 4.4571749999999996e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787996695632",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

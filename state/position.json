@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "Cq5sidkkcx66wCo2Trpfv2Xz69VkkzX4ntb3oGYNpump",
-  "symbol": "401k",
-  "marketCap": 99612.0,
-  "liquidity": 25675.06,
-  "volume1h": 182317.5,
-  "volume24h": 182317.5,
-  "candidateScore": 12.0248,
-  "entryPrice": 0.00010010804999999999,
-  "entryTime": 1788029943966,
-  "peakPrice": 0.0001097,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788029943966",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

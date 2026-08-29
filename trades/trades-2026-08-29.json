@@ -298,5 +298,25 @@
     "buyTxid": "DRY_RUN_BUY_1787976742666",
     "sellTxid": "DRY_RUN_SELL_1787976777541",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T04:18:30.704892Z",
+    "token": "J4afsNkuv8JoZVdEd53Gmj9LAawhNsFfo8jY6GRjpump",
+    "symbol": "BARRON",
+    "marketCap": 191018.0,
+    "liquidity": 41216.11,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00014153226249380999,
+    "exitPrice": 0.000201,
+    "peakPrice": 0.000201,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.2941196270083905,
+    "profitLamports": 294119627,
+    "pnlPct": 42.01708957262722,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787977091042",
+    "sellTxid": "DRY_RUN_SELL_1787977110704",
+    "source": "WF1_SCANNER"
   }
 ]

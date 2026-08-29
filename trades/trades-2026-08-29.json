@@ -1598,5 +1598,25 @@
     "buyTxid": "DRY_RUN_BUY_1788033185653",
     "sellTxid": "DRY_RUN_SELL_1788033187482",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T20:02:22.301355Z",
+    "token": "QfEPzg2jMQKbpG17z3fGiadhzAS1zRaTCPBgmC3pump",
+    "symbol": "FOOM",
+    "marketCap": 63799.0,
+    "liquidity": 19963.63,
+    "candidateScore": 9.6561,
+    "entryPrice": 5.2923299999999995e-05,
+    "exitPrice": 6.381e-05,
+    "peakPrice": 6.381e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.14399498897461052,
+    "profitLamports": 143994988,
+    "pnlPct": 20.570712710658647,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788033674312",
+    "sellTxid": "DRY_RUN_SELL_1788033742301",
+    "source": "PYTHON_SCANNER"
   }
 ]

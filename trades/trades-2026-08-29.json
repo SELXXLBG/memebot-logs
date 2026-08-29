@@ -1918,5 +1918,25 @@
     "buyTxid": "DRY_RUN_BUY_1788044419218",
     "sellTxid": "DRY_RUN_SELL_1788044461477",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T23:40:30.714439Z",
+    "token": "Crc9kuYPWG5pJwrNS8MeUq72Bbxxnw9nh42LkSoMpump",
+    "symbol": "Oscar",
+    "marketCap": 63714.0,
+    "liquidity": 21275.47,
+    "candidateScore": 9.1114,
+    "entryPrice": 6.799829999999999e-05,
+    "exitPrice": 6.632e-05,
+    "peakPrice": 7.109e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.017277049573298026,
+    "profitLamports": -17277049,
+    "pnlPct": -2.468149939042575,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788046798497",
+    "sellTxid": "DRY_RUN_SELL_1788046830714",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -498,5 +498,25 @@
     "buyTxid": "DRY_RUN_BUY_1787987868279",
     "sellTxid": "DRY_RUN_SELL_1787987981233",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T07:21:35.190756Z",
+    "token": "JEDV1v7wbAktfGoGEdzYnrwBmpb7oyXT4JrjkcNypump",
+    "symbol": "Venus",
+    "marketCap": 65375.0,
+    "liquidity": 20108.66,
+    "candidateScore": 9.7848,
+    "entryPrice": 4.5948599999999996e-05,
+    "exitPrice": 6.54e-05,
+    "peakPrice": 6.54e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.296330682545279,
+    "profitLamports": 296330682,
+    "pnlPct": 42.33295464932557,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787988051542",
+    "sellTxid": "DRY_RUN_SELL_1787988095190",
+    "source": "PYTHON_SCANNER"
   }
 ]

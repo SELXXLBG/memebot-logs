@@ -1558,5 +1558,25 @@
     "buyTxid": "DRY_RUN_BUY_1788030953700",
     "sellTxid": "DRY_RUN_SELL_1788031033109",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T19:48:48.349178Z",
+    "token": "nVs4Ec4nCVdCQk1xKSZ8YWMUYDUAfCdZkNRPM6fTsNH",
+    "symbol": "CHARLESTONAI",
+    "marketCap": 63124.0,
+    "liquidity": 20519.35,
+    "candidateScore": 3.2,
+    "entryPrice": 7.389434165969947e-05,
+    "exitPrice": 6.312e-05,
+    "peakPrice": 7.389434165969947e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1020651783667342,
+    "profitLamports": -102065178,
+    "pnlPct": -14.580739766676315,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788032910237",
+    "sellTxid": "DRY_RUN_SELL_1788032928349",
+    "source": "WF1_SCANNER"
   }
 ]

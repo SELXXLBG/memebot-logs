@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "Ha2KzStxM51yDYNBQkA3dRW2dRKik3Bi7rDmdLWKpump",
+  "symbol": "APETRUMP",
+  "marketCap": 44000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.00004535791183086252,
+  "entryTime": 1787997891097,
+  "peakPrice": 0.00004535791183086252,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "2188371739975",
+  "txid": "DRY_RUN_BUY_1787997891097",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

@@ -1638,5 +1638,25 @@
     "buyTxid": "DRY_RUN_BUY_1788034162465",
     "sellTxid": "DRY_RUN_SELL_1788034241509",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T20:13:00.762817Z",
+    "token": "8GNM5zn4rysJMHDKmR4RekhdUEMU6tgbNxuUEVZVpump",
+    "symbol": "CATSON",
+    "marketCap": 33767.0,
+    "liquidity": 14020.38,
+    "candidateScore": 10.0939,
+    "entryPrice": 4.487325e-05,
+    "exitPrice": 3.376e-05,
+    "peakPrice": 4.487325e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1733610781478943,
+    "profitLamports": -173361078,
+    "pnlPct": -24.765868306842044,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788034375508",
+    "sellTxid": "DRY_RUN_SELL_1788034380762",
+    "source": "PYTHON_SCANNER"
   }
 ]

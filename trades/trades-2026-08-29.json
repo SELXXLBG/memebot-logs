@@ -898,5 +898,25 @@
     "buyTxid": "DRY_RUN_BUY_1787997519366",
     "sellTxid": "DRY_RUN_SELL_1787997540414",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T10:01:13.551413Z",
+    "token": "BGbZECix6drESoqkbVjcAcRdN6XL8Vxd5sZ9b2DSpump",
+    "symbol": "Frogmo",
+    "marketCap": 44449.0,
+    "liquidity": 16292.83,
+    "candidateScore": 11.1463,
+    "entryPrice": 5.220975e-05,
+    "exitPrice": 4.444e-05,
+    "peakPrice": 5.254e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.10417259228400823,
+    "profitLamports": -104172592,
+    "pnlPct": -14.881798897715463,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787997580351",
+    "sellTxid": "DRY_RUN_SELL_1787997673551",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "DJ83eyBTEzBehmpz8jdmXqrGgpgCsJoN15RC53Wcpump",
-  "symbol": "BLUEHOUSE",
-  "marketCap": 42217.0,
-  "liquidity": 15759.54,
-  "volume1h": 49894.99,
-  "volume24h": 49894.99,
-  "candidateScore": 9.9279,
-  "entryPrice": 4.2421049999999996e-05,
-  "entryTime": 1787991074529,
-  "peakPrice": 4.2421049999999996e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787991074529",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

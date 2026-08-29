@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "2ui3bjKTyUj8yP7FxmeDQtkaTdAaLxzebec1LSiHpump",
-  "symbol": "SURFER",
-  "marketCap": 43519.0,
-  "liquidity": 15988.55,
-  "volume1h": 40492.01,
-  "volume24h": 40492.01,
-  "candidateScore": 10.5131,
-  "entryPrice": 4.3727549999999994e-05,
-  "entryTime": 1787997519366,
-  "peakPrice": 4.3727549999999994e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787997519366",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

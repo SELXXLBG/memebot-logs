@@ -1318,5 +1318,25 @@
     "buyTxid": "DRY_RUN_BUY_1788021479253",
     "sellTxid": "DRY_RUN_SELL_1788021488343",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T16:49:16.530763Z",
+    "token": "6bz4TMnouBNLnUm3xVs4cTGMoyq5tk39iQPLtL6jpump",
+    "symbol": "qump",
+    "marketCap": 58295.0,
+    "liquidity": 18994.89,
+    "candidateScore": 11.143,
+    "entryPrice": 4.577775e-05,
+    "exitPrice": 5.829e-05,
+    "peakPrice": 5.829e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.19132821075740947,
+    "profitLamports": 191328210,
+    "pnlPct": 27.33260153677278,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788022089153",
+    "sellTxid": "DRY_RUN_SELL_1788022156530",
+    "source": "PYTHON_SCANNER"
   }
 ]

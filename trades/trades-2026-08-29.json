@@ -998,5 +998,25 @@
     "buyTxid": "DRY_RUN_BUY_1787999491604",
     "sellTxid": "DRY_RUN_SELL_1788004896612",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T12:08:46.307228Z",
+    "token": "HyU2txAuF3YHXmofdVUSELi6Cdt1iPLiuB9HwhzSpump",
+    "symbol": "Dickbutt",
+    "marketCap": 48003.0,
+    "liquidity": 17044.0,
+    "candidateScore": 10.8931,
+    "entryPrice": 5.5767449999999994e-05,
+    "exitPrice": 4.8e-05,
+    "peakPrice": 5.5767449999999994e-05,
+    "solAmountLamports": 2983845144,
+    "profitSOL": -0.4155984891502621,
+    "profitLamports": -415598489,
+    "pnlPct": -13.928286123894843,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788005297297",
+    "sellTxid": "DRY_RUN_SELL_1788005326307",
+    "source": "PYTHON_SCANNER"
   }
 ]

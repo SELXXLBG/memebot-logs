@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "SVFfbDiXCzEzDdL1XLctuygNBdVWMvaZaUysN3Rpump",
+  "symbol": "Twump",
+  "marketCap": 47504.0,
+  "liquidity": 16898.09,
+  "volume1h": 66398.72,
+  "volume24h": 66398.72,
+  "candidateScore": 11.1723,
+  "entryPrice": 4.7737499999999995e-05,
+  "entryTime": 1787970341851,
+  "peakPrice": 4.7737499999999995e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787970341851",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

@@ -1378,5 +1378,25 @@
     "buyTxid": "DRY_RUN_BUY_1788023523453",
     "sellTxid": "DRY_RUN_SELL_1788023701066",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T17:23:11.070018Z",
+    "token": "Mz4pBP7bstvxhszHf17VsgUqXhwcxcj4mrZaab8pump",
+    "symbol": "P&P6900",
+    "marketCap": 24939.0,
+    "liquidity": 11748.34,
+    "candidateScore": 11.0356,
+    "entryPrice": 3.3345899999999995e-05,
+    "exitPrice": 2.493e-05,
+    "peakPrice": 3.632e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.17666729642924608,
+    "profitLamports": -176667296,
+    "pnlPct": -25.238185204178016,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788024104632",
+    "sellTxid": "DRY_RUN_SELL_1788024191070",
+    "source": "PYTHON_SCANNER"
   }
 ]

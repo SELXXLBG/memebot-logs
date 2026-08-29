@@ -438,5 +438,25 @@
     "buyTxid": "DRY_RUN_BUY_1787985974021",
     "sellTxid": "DRY_RUN_SELL_1787985994468",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T06:58:23.790294Z",
+    "token": "3UWkGGuT2Ut758CHDDWTzMMdgdagxnJjjhi8hKQYpump",
+    "symbol": "Beefzos",
+    "marketCap": 32699.0,
+    "liquidity": 13634.14,
+    "candidateScore": 11.2074,
+    "entryPrice": 3.81498e-05,
+    "exitPrice": 3.269e-05,
+    "peakPrice": 3.81498e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.10018034170559213,
+    "profitLamports": -100180341,
+    "pnlPct": -14.311477386513163,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787986645131",
+    "sellTxid": "DRY_RUN_SELL_1787986703790",
+    "source": "PYTHON_SCANNER"
   }
 ]

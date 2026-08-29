@@ -1878,5 +1878,25 @@
     "buyTxid": "DRY_RUN_BUY_1788041122893",
     "sellTxid": "DRY_RUN_SELL_1788041181553",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T22:28:27.963760Z",
+    "token": "7gUNjdsLRavTNY28cX3ztdLwM7NSqs11LoR8oGvvpump",
+    "symbol": "EVE",
+    "marketCap": 43654.0,
+    "liquidity": 16155.78,
+    "candidateScore": 9.8902,
+    "entryPrice": 4.507424999999999e-05,
+    "exitPrice": 4.365e-05,
+    "peakPrice": 4.507424999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.02211850446762835,
+    "profitLamports": -22118504,
+    "pnlPct": -3.159786352518336,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788042500904",
+    "sellTxid": "DRY_RUN_SELL_1788042507963",
+    "source": "PYTHON_SCANNER"
   }
 ]

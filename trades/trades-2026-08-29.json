@@ -798,5 +798,25 @@
     "buyTxid": "DRY_RUN_BUY_1787994660663",
     "sellTxid": "DRY_RUN_SELL_1787994781574",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T09:15:38.993227Z",
+    "token": "KGMfrA944duVjg77eWUTkJpJX1ZGAmodJ236RP2pump",
+    "symbol": "Pigtasio",
+    "marketCap": 87113.0,
+    "liquidity": 24773.46,
+    "candidateScore": 10.5667,
+    "entryPrice": 8.695259999999999e-05,
+    "exitPrice": 8.97e-05,
+    "peakPrice": 9.483e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.022117567502294412,
+    "profitLamports": 22117567,
+    "pnlPct": 3.1596525003277733,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787994812589",
+    "sellTxid": "DRY_RUN_SELL_1787994938993",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -518,5 +518,25 @@
     "buyTxid": "DRY_RUN_BUY_1787988051542",
     "sellTxid": "DRY_RUN_SELL_1787988095190",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T07:37:05.045699Z",
+    "token": "9YfsbjbZDtJ46Jh9JrCADuvsdSqUpbJ3bVjowCTdpump",
+    "symbol": "CHILLCORGI",
+    "marketCap": 30388.0,
+    "liquidity": 13649.27,
+    "candidateScore": 3.2,
+    "entryPrice": 3.430365898787188e-05,
+    "exitPrice": 3.038e-05,
+    "peakPrice": 3.430365898787188e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.08006613208466674,
+    "profitLamports": -80066132,
+    "pnlPct": -11.438018869238107,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787989015599",
+    "sellTxid": "DRY_RUN_SELL_1787989025045",
+    "source": "WF1_SCANNER"
   }
 ]

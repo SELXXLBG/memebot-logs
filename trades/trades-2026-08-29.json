@@ -978,5 +978,25 @@
     "buyTxid": "DRY_RUN_BUY_1787999349259",
     "sellTxid": "DRY_RUN_SELL_1787999415016",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T12:01:36.612325Z",
+    "token": "C9aCTvLNjYKcJaMjLfqhLKAekFoNU5ddPL832Af6pump",
+    "symbol": "FOA",
+    "marketCap": 2088.0,
+    "liquidity": 2140.48,
+    "candidateScore": 3.2,
+    "entryPrice": 2.0930391154069513e-06,
+    "exitPrice": 2.087e-06,
+    "peakPrice": 2.119e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.002019733292965193,
+    "profitLamports": -2019733,
+    "pnlPct": -0.28853332756645617,
+    "reason": "FORCE_EXIT_90M",
+    "buyTxid": "DRY_RUN_BUY_1787999491604",
+    "sellTxid": "DRY_RUN_SELL_1788004896612",
+    "source": "WF1_SCANNER"
   }
 ]

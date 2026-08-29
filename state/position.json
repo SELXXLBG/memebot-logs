@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "4NpupNaw1pLg2HeaNUM2KjJLA8x8DkdsMs5s2A5ypump",
-  "symbol": "HMM",
-  "marketCap": 49526.0,
-  "liquidity": 17213.0,
-  "volume1h": 87242.8,
-  "volume24h": 87242.8,
-  "candidateScore": 11.4518,
-  "entryPrice": 4.9767599999999994e-05,
-  "entryTime": 1787990983406,
-  "peakPrice": 4.9767599999999994e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787990983406",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

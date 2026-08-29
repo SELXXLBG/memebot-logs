@@ -1738,5 +1738,25 @@
     "buyTxid": "DRY_RUN_BUY_1788036449654",
     "sellTxid": "DRY_RUN_SELL_1788036484809",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T20:51:43.047520Z",
+    "token": "QSRVTnrTDF3wmFodfQdjajwEU8EbwACjzxPASukpump",
+    "symbol": "fomocycl\u0435",
+    "marketCap": 58092.0,
+    "liquidity": 18944.45,
+    "candidateScore": 11.011,
+    "entryPrice": 4.718475e-05,
+    "exitPrice": 5.81e-05,
+    "peakPrice": 5.81e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.16193102644392526,
+    "profitLamports": 161931026,
+    "pnlPct": 23.13300377770361,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788036693281",
+    "sellTxid": "DRY_RUN_SELL_1788036703047",
+    "source": "PYTHON_SCANNER"
   }
 ]

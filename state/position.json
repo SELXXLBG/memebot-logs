@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "AsgTxQD8MiYWboinxC9YvLydaRy3xNDMk1z6sAonpump",
+  "symbol": "MICRODINO",
+  "marketCap": 18000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.1,
+  "entryPrice": 0.00002130799443593336,
+  "entryTime": 1787993534930,
+  "peakPrice": 0.00002130799443593336,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "3389721076628",
+  "txid": "DRY_RUN_BUY_1787993534930",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

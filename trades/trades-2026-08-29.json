@@ -278,5 +278,25 @@
     "buyTxid": "DRY_RUN_BUY_1787974575199",
     "sellTxid": "DRY_RUN_SELL_1787974739440",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T04:12:57.541394Z",
+    "token": "BXQ2nUKvpr6S2e1SnNYtpKRhbCHdwryVn3ipdWCCpump",
+    "symbol": "Larpcoin",
+    "marketCap": 29493.0,
+    "liquidity": 12854.98,
+    "candidateScore": 10.3615,
+    "entryPrice": 3.3878549999999994e-05,
+    "exitPrice": 2.949e-05,
+    "peakPrice": 3.3878549999999994e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.09067640143984898,
+    "profitLamports": -90676401,
+    "pnlPct": -12.953771634264141,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787976742666",
+    "sellTxid": "DRY_RUN_SELL_1787976777541",
+    "source": "PYTHON_SCANNER"
   }
 ]

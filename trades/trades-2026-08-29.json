@@ -1838,5 +1838,25 @@
     "buyTxid": "DRY_RUN_BUY_1788039563734",
     "sellTxid": "DRY_RUN_SELL_1788039616361",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T21:44:45.351505Z",
+    "token": "G2bi4KGNWMsFGJWSYm98nPKm7XshfjLo9NTpzqHnpump",
+    "symbol": "CONNECTOME",
+    "marketCap": 63804.0,
+    "liquidity": 19930.37,
+    "candidateScore": 3.3,
+    "entryPrice": 4.6480621697596373e-05,
+    "exitPrice": 6.38e-05,
+    "peakPrice": 6.38e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.2608305218152769,
+    "profitLamports": 260830521,
+    "pnlPct": 37.26150311646813,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788039735453",
+    "sellTxid": "DRY_RUN_SELL_1788039885351",
+    "source": "WF1_SCANNER"
   }
 ]

@@ -318,5 +318,25 @@
     "buyTxid": "DRY_RUN_BUY_1787977091042",
     "sellTxid": "DRY_RUN_SELL_1787977110704",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T04:42:32.149407Z",
+    "token": "ACP8bf3CeBfA3XxKZMN2XMZ6TQ8E9XK5oYJ4Pnufpump",
+    "symbol": "SCAM",
+    "marketCap": 63736.0,
+    "liquidity": 19831.37,
+    "candidateScore": 11.6026,
+    "entryPrice": 5.2802699999999995e-05,
+    "exitPrice": 6.373e-05,
+    "peakPrice": 6.373e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.14486209985474238,
+    "profitLamports": 144862099,
+    "pnlPct": 20.694585693534627,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787978506885",
+    "sellTxid": "DRY_RUN_SELL_1787978552149",
+    "source": "PYTHON_SCANNER"
   }
 ]

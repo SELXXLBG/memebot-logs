@@ -558,5 +558,25 @@
     "buyTxid": "DRY_RUN_BUY_1787989277075",
     "sellTxid": "DRY_RUN_SELL_1787989289630",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T07:45:02.479326Z",
+    "token": "95TDpd91E9KcwiuU6kkG7BUVkAR3yvBNEC5pHHGNpump",
+    "symbol": "IQ",
+    "marketCap": 70524.0,
+    "liquidity": 20916.55,
+    "candidateScore": 10.2876,
+    "entryPrice": 4.4621999999999994e-05,
+    "exitPrice": 7.052e-05,
+    "peakPrice": 7.052e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.40627044955403174,
+    "profitLamports": 406270449,
+    "pnlPct": 58.03863565057596,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787989459972",
+    "sellTxid": "DRY_RUN_SELL_1787989502479",
+    "source": "PYTHON_SCANNER"
   }
 ]

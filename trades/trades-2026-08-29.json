@@ -1898,5 +1898,25 @@
     "buyTxid": "DRY_RUN_BUY_1788042500904",
     "sellTxid": "DRY_RUN_SELL_1788042507963",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T23:01:01.477333Z",
+    "token": "EZ3EYxf4y4S31YdwZaty1iiA285bq7gGfYugPyS2pump",
+    "symbol": "Topblast",
+    "marketCap": 46135.0,
+    "liquidity": 16729.07,
+    "candidateScore": 10.1878,
+    "entryPrice": 4.88832e-05,
+    "exitPrice": 4.613e-05,
+    "peakPrice": 5.179e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.039425405865409775,
+    "profitLamports": -39425405,
+    "pnlPct": -5.632200837915683,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788044419218",
+    "sellTxid": "DRY_RUN_SELL_1788044461477",
+    "source": "PYTHON_SCANNER"
   }
 ]

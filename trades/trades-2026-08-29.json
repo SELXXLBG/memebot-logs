@@ -778,5 +778,25 @@
     "buyTxid": "DRY_RUN_BUY_1787994178934",
     "sellTxid": "DRY_RUN_SELL_1787994635253",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T09:13:01.573993Z",
+    "token": "6d983op6MXVw5xHVFiU59d9XdSiY7YB5BbafUMG8pump",
+    "symbol": "Apestrong",
+    "marketCap": 150018.0,
+    "liquidity": 31837.62,
+    "candidateScore": 10.8764,
+    "entryPrice": 0.00014914199999999998,
+    "exitPrice": 0.0001516,
+    "peakPrice": 0.0001627,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.011536656340936934,
+    "profitLamports": 11536656,
+    "pnlPct": 1.6480937629909906,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1787994660663",
+    "sellTxid": "DRY_RUN_SELL_1787994781574",
+    "source": "PYTHON_SCANNER"
   }
 ]

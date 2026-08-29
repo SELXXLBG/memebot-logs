@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "Mz4pBP7bstvxhszHf17VsgUqXhwcxcj4mrZaab8pump",
+  "symbol": "P&P6900",
+  "marketCap": 33189.0,
+  "liquidity": 13834.93,
+  "volume1h": 67146.97,
+  "volume24h": 67146.97,
+  "candidateScore": 11.0356,
+  "entryPrice": 3.3345899999999995e-05,
+  "entryTime": 1788024104632,
+  "peakPrice": 3.3345899999999995e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788024104632",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

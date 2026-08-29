@@ -78,5 +78,25 @@
     "buyTxid": "DRY_RUN_BUY_1787964564261",
     "sellTxid": "DRY_RUN_SELL_1787964644573",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T01:00:21.128767Z",
+    "token": "9917LKoACry2edHZfSQC56qsyKmdRX8TQ6MJw2Pipump",
+    "symbol": "apeinbull",
+    "marketCap": 97911.0,
+    "liquidity": 25104.92,
+    "candidateScore": 10.1612,
+    "entryPrice": 7.636994999999999e-05,
+    "exitPrice": 9.791e-05,
+    "peakPrice": 9.791e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.19743413476112023,
+    "profitLamports": 197434134,
+    "pnlPct": 28.204876394445748,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787965119963",
+    "sellTxid": "DRY_RUN_SELL_1787965221128",
+    "source": "PYTHON_SCANNER"
   }
 ]

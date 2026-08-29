@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "DLvpmv8R4oTbC1DixU5yHLbBcmnvfTckGF3XFzLTpump",
+  "symbol": "APEWIF",
+  "marketCap": 45319.0,
+  "liquidity": 16507.06,
+  "volume1h": 58373.7,
+  "volume24h": 58373.7,
+  "candidateScore": 10.8756,
+  "entryPrice": 4.553654999999999e-05,
+  "entryTime": 1788034162465,
+  "peakPrice": 4.553654999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788034162465",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

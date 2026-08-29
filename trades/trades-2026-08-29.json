@@ -1138,5 +1138,25 @@
     "buyTxid": "DRY_RUN_BUY_1788012831509",
     "sellTxid": "DRY_RUN_SELL_1788012889050",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T14:23:56.277197Z",
+    "token": "9RxAV6hh9uxFao3oJfEg23ihoYLE7PFaqnvEw8wwpump",
+    "symbol": "Beau",
+    "marketCap": 33090.0,
+    "liquidity": 13750.91,
+    "candidateScore": 10.3429,
+    "entryPrice": 4.4250149999999995e-05,
+    "exitPrice": 3.309e-05,
+    "peakPrice": 4.487e-05,
+    "solAmountLamports": 43065789794,
+    "profitSOL": -10.861447339037465,
+    "profitLamports": -10861447339,
+    "pnlPct": -25.220592472567873,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788013350757",
+    "sellTxid": "DRY_RUN_SELL_1788013436277",
+    "source": "PYTHON_SCANNER"
   }
 ]

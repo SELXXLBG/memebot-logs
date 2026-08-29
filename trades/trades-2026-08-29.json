@@ -1858,5 +1858,25 @@
     "buyTxid": "DRY_RUN_BUY_1788039735453",
     "sellTxid": "DRY_RUN_SELL_1788039885351",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T22:06:21.553085Z",
+    "token": "DD3AC2Cmr5rXzJ6ErRHeryx3ASLVMhSBALiUqeKcpump",
+    "symbol": "Leafy",
+    "marketCap": 64936.0,
+    "liquidity": 20105.85,
+    "candidateScore": 9.3615,
+    "entryPrice": 7.20183e-05,
+    "exitPrice": 6.493e-05,
+    "peakPrice": 7.55e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06889651657981366,
+    "profitLamports": -68896516,
+    "pnlPct": -9.842359511401952,
+    "reason": "STOPLOSS8P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1788041122893",
+    "sellTxid": "DRY_RUN_SELL_1788041181553",
+    "source": "PYTHON_SCANNER"
   }
 ]

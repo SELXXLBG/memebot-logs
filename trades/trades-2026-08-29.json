@@ -1798,5 +1798,25 @@
     "buyTxid": "DRY_RUN_BUY_1788039349639",
     "sellTxid": "DRY_RUN_SELL_1788039400369",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T21:37:56.004567Z",
+    "token": "By2HASFCCG6cDVRG9r8TreTaP6ZtuhQKuv8ztXCapump",
+    "symbol": "Elgato",
+    "marketCap": 36109.0,
+    "liquidity": 14499.01,
+    "candidateScore": 10.1969,
+    "entryPrice": 4.304415e-05,
+    "exitPrice": 3.61e-05,
+    "peakPrice": 4.304415e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.11292835379488264,
+    "profitLamports": -112928353,
+    "pnlPct": -16.13262197069752,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788039441353",
+    "sellTxid": "DRY_RUN_SELL_1788039476004",
+    "source": "PYTHON_SCANNER"
   }
 ]

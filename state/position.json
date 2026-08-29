@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "3cMeyogu2sPzyQP8vwLLHQHcUt6tFWNsTZv8Mhywpump",
+  "symbol": "CrayonEater",
+  "marketCap": 48198.0,
+  "liquidity": 17024.23,
+  "volume1h": 85835.79,
+  "volume24h": 85835.79,
+  "candidateScore": 11.1909,
+  "entryPrice": 4.8430949999999994e-05,
+  "entryTime": 1787998343057,
+  "peakPrice": 4.8430949999999994e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787998343057",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

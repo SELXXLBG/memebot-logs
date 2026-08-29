@@ -578,5 +578,25 @@
     "buyTxid": "DRY_RUN_BUY_1787989459972",
     "sellTxid": "DRY_RUN_SELL_1787989502479",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T08:00:15.161915Z",
+    "token": "8xDpnpnHdF5CPDYaB43kWjyqjztKGQGjAtDa6DQJpump",
+    "symbol": "MOURN",
+    "marketCap": 60849.0,
+    "liquidity": 19937.78,
+    "candidateScore": 3.2,
+    "entryPrice": 8.492676037777627e-05,
+    "exitPrice": 6.084e-05,
+    "peakPrice": 8.492676037777627e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.19853262021820298,
+    "profitLamports": -198532620,
+    "pnlPct": -28.361802888314713,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787990399453",
+    "sellTxid": "DRY_RUN_SELL_1787990415161",
+    "source": "WF1_SCANNER"
   }
 ]

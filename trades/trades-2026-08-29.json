@@ -1358,5 +1358,25 @@
     "buyTxid": "DRY_RUN_BUY_1788023431841",
     "sellTxid": "DRY_RUN_SELL_1788023472915",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T17:15:01.066658Z",
+    "token": "BDyBkTWiPVq8hzuQEKk24HLc7YKUFPGuDWRyAXsMpump",
+    "symbol": "BABYCATE",
+    "marketCap": 43190.0,
+    "liquidity": 16023.53,
+    "candidateScore": 9.9581,
+    "entryPrice": 5.695334999999999e-05,
+    "exitPrice": 4.318e-05,
+    "peakPrice": 5.695334999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.16928494987564374,
+    "profitLamports": -169284949,
+    "pnlPct": -24.183564267949105,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788023523453",
+    "sellTxid": "DRY_RUN_SELL_1788023701066",
+    "source": "PYTHON_SCANNER"
   }
 ]

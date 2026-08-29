@@ -1298,5 +1298,25 @@
     "buyTxid": "DRY_RUN_BUY_1788019698961",
     "sellTxid": "DRY_RUN_SELL_1788020399303",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T16:38:08.343458Z",
+    "token": "25Mppoh1wDAhtLkWMD4JypzXqYjtAJMVYnTaDsmypump",
+    "symbol": "AE",
+    "marketCap": 46295.0,
+    "liquidity": 16749.99,
+    "candidateScore": 11.6216,
+    "entryPrice": 5.1586649999999995e-05,
+    "exitPrice": 4.629e-05,
+    "peakPrice": 5.1586649999999995e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.07187237395721563,
+    "profitLamports": -71872373,
+    "pnlPct": -10.267481993887948,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788021479253",
+    "sellTxid": "DRY_RUN_SELL_1788021488343",
+    "source": "PYTHON_SCANNER"
   }
 ]

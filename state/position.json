@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "C9aCTvLNjYKcJaMjLfqhLKAekFoNU5ddPL832Af6pump",
+  "symbol": "FOA",
+  "marketCap": 102000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.0000020930391154069513,
+  "entryTime": 1787999491604,
+  "peakPrice": 0.0000020930391154069513,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "32824936463384",
+  "txid": "DRY_RUN_BUY_1787999491604",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

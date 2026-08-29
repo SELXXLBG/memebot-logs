@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "Dt96Q88k5QpTgZc8A17ysaP66aX9QGmoSwU3m4nbpump",
+  "symbol": "PERFORM",
+  "marketCap": 55989.0,
+  "liquidity": 18895.62,
+  "volume1h": 27624.76,
+  "volume24h": 45336.88,
+  "candidateScore": 10.0907,
+  "entryPrice": 5.8681949999999995e-05,
+  "entryTime": 1787983413023,
+  "peakPrice": 5.8681949999999995e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787983413023",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

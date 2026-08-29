@@ -1678,5 +1678,25 @@
     "buyTxid": "DRY_RUN_BUY_1788035320853",
     "sellTxid": "DRY_RUN_SELL_1788035442170",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T20:37:20.593890Z",
+    "token": "7yf8vQEfGov6jjuW9tauBD1TmbMhzLz7UwY5newvpump",
+    "symbol": "TRUMPHOUSE",
+    "marketCap": 100713.0,
+    "liquidity": 25710.1,
+    "candidateScore": 12.3,
+    "entryPrice": 0.00010261049999999999,
+    "exitPrice": 0.0001007,
+    "peakPrice": 0.0001138,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.013033266576032631,
+    "profitLamports": -13033266,
+    "pnlPct": -1.861895225147519,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788035809707",
+    "sellTxid": "DRY_RUN_SELL_1788035840593",
+    "source": "PYTHON_SCANNER"
   }
 ]

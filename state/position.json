@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "JB1diNdtXQgY6qPVUdim22nJrXe7LBAYPFKDYVKwpump",
-  "symbol": "103K",
-  "marketCap": 103000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.3,
-  "entryPrice": 0.00011642280469779042,
-  "entryTime": 1787964564261,
-  "peakPrice": 0.0001202,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "600846163997",
-  "txid": "DRY_RUN_BUY_1787964564261",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

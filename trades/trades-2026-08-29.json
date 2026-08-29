@@ -938,5 +938,25 @@
     "buyTxid": "DRY_RUN_BUY_1787997891097",
     "sellTxid": "DRY_RUN_SELL_1787997939341",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T10:12:35.555106Z",
+    "token": "3cMeyogu2sPzyQP8vwLLHQHcUt6tFWNsTZv8Mhywpump",
+    "symbol": "CrayonEater",
+    "marketCap": 60739.0,
+    "liquidity": 19365.65,
+    "candidateScore": 11.1909,
+    "entryPrice": 4.8430949999999994e-05,
+    "exitPrice": 6.073e-05,
+    "peakPrice": 6.073e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.17776514811293204,
+    "profitLamports": 177765148,
+    "pnlPct": 25.395021158990293,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787998343057",
+    "sellTxid": "DRY_RUN_SELL_1787998355555",
+    "source": "PYTHON_SCANNER"
   }
 ]

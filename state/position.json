@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "Crc9kuYPWG5pJwrNS8MeUq72Bbxxnw9nh42LkSoMpump",
-  "symbol": "Oscar",
-  "marketCap": 65001.0,
-  "liquidity": 21515.25,
-  "volume1h": 75735.95,
-  "volume24h": 583199.87,
-  "candidateScore": 9.1114,
-  "entryPrice": 6.799829999999999e-05,
-  "entryTime": 1788046798497,
-  "peakPrice": 7.109e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788046798497",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

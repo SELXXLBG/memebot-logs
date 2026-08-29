@@ -638,5 +638,25 @@
     "buyTxid": "DRY_RUN_BUY_1787990983406",
     "sellTxid": "DRY_RUN_SELL_1787991004702",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T08:11:53.224596Z",
+    "token": "DJ83eyBTEzBehmpz8jdmXqrGgpgCsJoN15RC53Wcpump",
+    "symbol": "BLUEHOUSE",
+    "marketCap": 56861.0,
+    "liquidity": 18586.57,
+    "candidateScore": 9.9279,
+    "entryPrice": 4.2421049999999996e-05,
+    "exitPrice": 5.686e-05,
+    "peakPrice": 5.686e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.2382606041104594,
+    "profitLamports": 238260604,
+    "pnlPct": 34.03722915863706,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787991074529",
+    "sellTxid": "DRY_RUN_SELL_1787991113224",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -718,5 +718,25 @@
     "buyTxid": "DRY_RUN_BUY_1787992472109",
     "sellTxid": "DRY_RUN_SELL_1787992569823",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T08:44:50.787924Z",
+    "token": "B9DWo2RBM8fnE6Z52tbhWGVKRiQqQUASF8Txenr8pump",
+    "symbol": "BULLFONE",
+    "marketCap": 3146.0,
+    "liquidity": 3136.9,
+    "candidateScore": 3.2,
+    "entryPrice": 2.0879942237264655e-06,
+    "exitPrice": 3.145e-06,
+    "peakPrice": 3.145e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.3543611543479079,
+    "profitLamports": 354361154,
+    "pnlPct": 50.62302204970113,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787992804148",
+    "sellTxid": "DRY_RUN_SELL_1787993090787",
+    "source": "WF1_SCANNER"
   }
 ]

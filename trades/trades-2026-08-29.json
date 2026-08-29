@@ -38,5 +38,25 @@
     "buyTxid": "DRY_RUN_BUY_1787962227370",
     "sellTxid": "DRY_RUN_SELL_1787962288104",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T00:47:46.357792Z",
+    "token": "6izfUtKzX4sTCAtpWYxHmJFkEAPy3VhGduJpS4VBpump",
+    "symbol": "RDOG",
+    "marketCap": 37041.0,
+    "liquidity": 14700.2,
+    "candidateScore": 10.4539,
+    "entryPrice": 3.0210299999999998e-05,
+    "exitPrice": 3.704e-05,
+    "peakPrice": 3.704e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.158250331840465,
+    "profitLamports": 158250331,
+    "pnlPct": 22.607190262923574,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787964174825",
+    "sellTxid": "DRY_RUN_SELL_1787964466357",
+    "source": "PYTHON_SCANNER"
   }
 ]

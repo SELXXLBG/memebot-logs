@@ -738,5 +738,25 @@
     "buyTxid": "DRY_RUN_BUY_1787992804148",
     "sellTxid": "DRY_RUN_SELL_1787993090787",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T08:53:36.304578Z",
+    "token": "AsgTxQD8MiYWboinxC9YvLydaRy3xNDMk1z6sAonpump",
+    "symbol": "MICRODINO",
+    "marketCap": 17871.03,
+    "liquidity": 0.0,
+    "candidateScore": 3.1,
+    "entryPrice": 2.130799443593336e-05,
+    "exitPrice": 1.787e-05,
+    "peakPrice": 2.130799443593336e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.11294334210520152,
+    "profitLamports": -112943342,
+    "pnlPct": -16.13476315788593,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787993534930",
+    "sellTxid": "DRY_RUN_SELL_1787993616304",
+    "source": "WF1_SCANNER"
   }
 ]

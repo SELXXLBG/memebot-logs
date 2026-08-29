@@ -218,5 +218,25 @@
     "buyTxid": "DRY_RUN_BUY_1787973596565",
     "sellTxid": "DRY_RUN_SELL_1787973625065",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T03:24:55.893714Z",
+    "token": "AGxYF4qo74xg9VoVFRxprCV3k97ThxtEgcgcKsXFpump",
+    "symbol": "Tsumugi",
+    "marketCap": 21322.0,
+    "liquidity": 10677.49,
+    "candidateScore": 11.1931,
+    "entryPrice": 4.3405949999999994e-05,
+    "exitPrice": 2.132e-05,
+    "peakPrice": 4.3405949999999994e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.35617616939613106,
+    "profitLamports": -356176169,
+    "pnlPct": -50.88230991373302,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787973871869",
+    "sellTxid": "DRY_RUN_SELL_1787973895893",
+    "source": "PYTHON_SCANNER"
   }
 ]

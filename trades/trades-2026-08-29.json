@@ -178,5 +178,25 @@
     "buyTxid": "DRY_RUN_BUY_1787970341851",
     "sellTxid": "DRY_RUN_SELL_1787970370817",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T03:07:00.175896Z",
+    "token": "35M9BcmFRQ86TnmoFMfUmteZrQrmUm2n7ZiV5gacpump",
+    "symbol": "trumponfone",
+    "marketCap": 85980.0,
+    "liquidity": 23513.66,
+    "candidateScore": 10.8096,
+    "entryPrice": 9.238964999999999e-05,
+    "exitPrice": 8.598e-05,
+    "peakPrice": 9.238964999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.048563394276306855,
+    "profitLamports": -48563394,
+    "pnlPct": -6.937627753758123,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787972744195",
+    "sellTxid": "DRY_RUN_SELL_1787972820175",
+    "source": "PYTHON_SCANNER"
   }
 ]

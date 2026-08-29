@@ -1438,5 +1438,25 @@
     "buyTxid": "DRY_RUN_BUY_1788024532111",
     "sellTxid": "DRY_RUN_SELL_1788024536878",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T17:38:00.419020Z",
+    "token": "62gahMxD7cvSK3GuEyn3SvPwVY1366j8Z12B62mvpump",
+    "symbol": "CHIBI",
+    "marketCap": 93448.0,
+    "liquidity": 24687.73,
+    "candidateScore": 11.6,
+    "entryPrice": 0.00010381649999999999,
+    "exitPrice": 9.344e-05,
+    "peakPrice": 0.0001049,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06996527526934537,
+    "profitLamports": -69965275,
+    "pnlPct": -9.995039324192197,
+    "reason": "STOPLOSS6P",
+    "buyTxid": "DRY_RUN_BUY_1788024775459",
+    "sellTxid": "DRY_RUN_SELL_1788025080419",
+    "source": "PYTHON_SCANNER"
   }
 ]

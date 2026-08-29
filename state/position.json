@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "FXs5242SBs4J1Bt6Q6usuxB8Ju1SNApQBPbPSVXupump",
+  "symbol": "MONKE",
+  "marketCap": 48535.0,
+  "liquidity": 17088.24,
+  "volume1h": 31507.18,
+  "volume24h": 31507.18,
+  "candidateScore": 10.1501,
+  "entryPrice": 4.877264999999999e-05,
+  "entryTime": 1788013964935,
+  "peakPrice": 4.877264999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788013964935",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "FiV2R5c1KCu8ZTzdymLWU9j2t4t6k7Q33efhJKzvpump",
-  "symbol": "Burreaux",
-  "marketCap": 46353.0,
-  "liquidity": 16650.21,
-  "volume1h": 14181.65,
-  "volume24h": 14181.65,
-  "candidateScore": 9.6977,
-  "entryPrice": 4.658175e-05,
-  "entryTime": 1788024532111,
-  "peakPrice": 4.658175e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788024532111",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

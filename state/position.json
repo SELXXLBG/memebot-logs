@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "BZ8k8ospJiz2r98h6GC8ZtGAvPaHTi8GjxZQr88npump",
+  "symbol": "SANDY",
+  "marketCap": 107594.0,
+  "liquidity": 26527.84,
+  "volume1h": 154353.16,
+  "volume24h": 154353.16,
+  "candidateScore": 12.3,
+  "entryPrice": 0.00010803749999999999,
+  "entryTime": 1787987868279,
+  "peakPrice": 0.00010803749999999999,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1787987868279",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

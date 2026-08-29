@@ -1058,5 +1058,25 @@
     "buyTxid": "DRY_RUN_BUY_1788007309341",
     "sellTxid": "DRY_RUN_SELL_1788009661793",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T13:27:24.755014Z",
+    "token": "CBVf6HXjJ2aLeWBNzDMjHzTgsHsToT3vR291nRn8pump",
+    "symbol": "fomolab",
+    "marketCap": 66868.0,
+    "liquidity": 20411.23,
+    "candidateScore": 11.1817,
+    "entryPrice": 4.95063e-05,
+    "exitPrice": 6.686e-05,
+    "peakPrice": 6.686e-05,
+    "solAmountLamports": 2094166942,
+    "profitSOL": 0.7340791952011239,
+    "profitLamports": 734079195,
+    "pnlPct": 35.05351844108729,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788010015986",
+    "sellTxid": "DRY_RUN_SELL_1788010044755",
+    "source": "PYTHON_SCANNER"
   }
 ]

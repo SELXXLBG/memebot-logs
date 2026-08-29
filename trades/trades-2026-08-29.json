@@ -618,5 +618,25 @@
     "buyTxid": "DRY_RUN_BUY_1787990434806",
     "sellTxid": "DRY_RUN_SELL_1787990759172",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T08:10:04.702228Z",
+    "token": "4NpupNaw1pLg2HeaNUM2KjJLA8x8DkdsMs5s2A5ypump",
+    "symbol": "HMM",
+    "marketCap": 39291.0,
+    "liquidity": 15134.65,
+    "candidateScore": 11.4518,
+    "entryPrice": 4.9767599999999994e-05,
+    "exitPrice": 3.929e-05,
+    "peakPrice": 4.9767599999999994e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.14737138218439302,
+    "profitLamports": -147371382,
+    "pnlPct": -21.053054597770434,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1787990983406",
+    "sellTxid": "DRY_RUN_SELL_1787991004702",
+    "source": "PYTHON_SCANNER"
   }
 ]

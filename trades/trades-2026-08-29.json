@@ -858,5 +858,25 @@
     "buyTxid": "DRY_RUN_BUY_1787996604512",
     "sellTxid": "DRY_RUN_SELL_1787996689878",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T09:45:16.712331Z",
+    "token": "6xLVLh31xrkJhcJ3M6UpvfKW9nUEi9Y731QFJzycpump",
+    "symbol": "Ant",
+    "marketCap": 41473.0,
+    "liquidity": 15588.41,
+    "candidateScore": 11.3244,
+    "entryPrice": 4.4571749999999996e-05,
+    "exitPrice": 4.147e-05,
+    "peakPrice": 4.4571749999999996e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.048713030114366083,
+    "profitLamports": -48713030,
+    "pnlPct": -6.959004302052298,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1787996695632",
+    "sellTxid": "DRY_RUN_SELL_1787996716712",
+    "source": "PYTHON_SCANNER"
   }
 ]

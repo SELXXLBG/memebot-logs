@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "9YfsbjbZDtJ46Jh9JrCADuvsdSqUpbJ3bVjowCTdpump",
-  "symbol": "CHILLCORGI",
-  "marketCap": 45000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 3.430365898787188e-05,
-  "entryTime": 1787989015599,
-  "peakPrice": 3.430365898787188e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "1669791551523",
-  "txid": "DRY_RUN_BUY_1787989015599",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

@@ -678,5 +678,25 @@
     "buyTxid": "DRY_RUN_BUY_1787991165316",
     "sellTxid": "DRY_RUN_SELL_1787991193664",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T08:24:03.915553Z",
+    "token": "3w9E9jgJo3Rka7dqdiHxzLevq1LUhfrme7AkBUVrpump",
+    "symbol": "Meeko",
+    "marketCap": 112632.0,
+    "liquidity": 27068.48,
+    "candidateScore": 12.1732,
+    "entryPrice": 0.00012019799999999998,
+    "exitPrice": 0.0001126,
+    "peakPrice": 0.0001362,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.04424865638363354,
+    "profitLamports": -44248656,
+    "pnlPct": -6.321236626233364,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787991773488",
+    "sellTxid": "DRY_RUN_SELL_1787991843915",
+    "source": "PYTHON_SCANNER"
   }
 ]

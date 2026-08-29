@@ -538,5 +538,25 @@
     "buyTxid": "DRY_RUN_BUY_1787989015599",
     "sellTxid": "DRY_RUN_SELL_1787989025045",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T07:41:29.630248Z",
+    "token": "28gvgc3P3T4Fd1tCQvMhiz2899eq9koXs1TG2s9Upump",
+    "symbol": "MEAT",
+    "marketCap": 74506.0,
+    "liquidity": 21541.73,
+    "candidateScore": 10.3829,
+    "entryPrice": 5.2119299999999994e-05,
+    "exitPrice": 7.45e-05,
+    "peakPrice": 7.45e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.30058903323720776,
+    "profitLamports": 300589033,
+    "pnlPct": 42.941290462458255,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787989277075",
+    "sellTxid": "DRY_RUN_SELL_1787989289630",
+    "source": "PYTHON_SCANNER"
   }
 ]

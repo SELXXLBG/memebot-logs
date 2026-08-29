@@ -1118,5 +1118,25 @@
     "buyTxid": "DRY_RUN_BUY_1788010447877",
     "sellTxid": "DRY_RUN_SELL_1788012392892",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T14:14:49.050939Z",
+    "token": "9j2yfB4z5NZsoemYKB7rxcR3vfXZci2iwxvf5o27pump",
+    "symbol": "BILL",
+    "marketCap": 45812.0,
+    "liquidity": 16493.32,
+    "candidateScore": 9.6099,
+    "entryPrice": 5.0651999999999995e-05,
+    "exitPrice": 4.581e-05,
+    "peakPrice": 5.0651999999999995e-05,
+    "solAmountLamports": 47617733783,
+    "profitSOL": -4.5519439899171985,
+    "profitLamports": -4551943989,
+    "pnlPct": -9.559346126510304,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788012831509",
+    "sellTxid": "DRY_RUN_SELL_1788012889050",
+    "source": "PYTHON_SCANNER"
   }
 ]

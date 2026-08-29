@@ -1338,5 +1338,25 @@
     "buyTxid": "DRY_RUN_BUY_1788022089153",
     "sellTxid": "DRY_RUN_SELL_1788022156530",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T17:11:12.915015Z",
+    "token": "EBHq7ttH9oRTrwu9RjZHMPiNLv6i8fRnKWts6fdrpump",
+    "symbol": "cuda",
+    "marketCap": 61748.0,
+    "liquidity": 19582.21,
+    "candidateScore": 10.2438,
+    "entryPrice": 4.93053e-05,
+    "exitPrice": 6.174e-05,
+    "peakPrice": 6.174e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.17653862769316897,
+    "profitLamports": 176538627,
+    "pnlPct": 25.219803956167,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788023431841",
+    "sellTxid": "DRY_RUN_SELL_1788023472915",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1618,5 +1618,25 @@
     "buyTxid": "DRY_RUN_BUY_1788033674312",
     "sellTxid": "DRY_RUN_SELL_1788033742301",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T20:10:41.509601Z",
+    "token": "DLvpmv8R4oTbC1DixU5yHLbBcmnvfTckGF3XFzLTpump",
+    "symbol": "APEWIF",
+    "marketCap": 49969.0,
+    "liquidity": 17432.33,
+    "candidateScore": 10.8756,
+    "entryPrice": 4.553654999999999e-05,
+    "exitPrice": 4.996e-05,
+    "peakPrice": 5.363e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.06799845398915837,
+    "profitLamports": 67998453,
+    "pnlPct": 9.714064855594053,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788034162465",
+    "sellTxid": "DRY_RUN_SELL_1788034241509",
+    "source": "PYTHON_SCANNER"
   }
 ]

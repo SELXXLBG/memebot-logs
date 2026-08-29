@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "9USDUH2VKC8sKyZjhq7phXwnPNEdt36LRctKu7Aepump",
+  "symbol": "RICHCONEY",
+  "marketCap": 26000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.000002650678574465666,
+  "entryTime": 1788019698961,
+  "peakPrice": 0.000002650678574465666,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "25408836112800",
+  "txid": "DRY_RUN_BUY_1788019698961",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

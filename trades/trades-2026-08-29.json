@@ -1278,5 +1278,25 @@
     "buyTxid": "DRY_RUN_BUY_1788019373558",
     "sellTxid": "DRY_RUN_SELL_1788019393105",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T16:19:59.303281Z",
+    "token": "9USDUH2VKC8sKyZjhq7phXwnPNEdt36LRctKu7Aepump",
+    "symbol": "RICHCONEY",
+    "marketCap": 2618.0,
+    "liquidity": 2660.61,
+    "candidateScore": 3.2,
+    "entryPrice": 2.650678574465666e-06,
+    "exitPrice": 2.618e-06,
+    "peakPrice": 2.798e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.008629866459978947,
+    "profitLamports": -8629866,
+    "pnlPct": -1.2328380657112783,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788019698961",
+    "sellTxid": "DRY_RUN_SELL_1788020399303",
+    "source": "WF1_SCANNER"
   }
 ]

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "3r3X7HEdBuGguowiEVbBKboDjVgdUMaDViEoLGKvPwHK",
+  "symbol": "ILY",
+  "marketCap": 47000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.00000447396060890532,
+  "entryTime": 1788030353718,
+  "peakPrice": 0.00000447396060890532,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "14524180796246",
+  "txid": "DRY_RUN_BUY_1788030353718",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

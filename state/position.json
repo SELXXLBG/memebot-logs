@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "8DMR8WqYhEDqDE1uMsEB1fFXAz4dUCER3kaJoX5kpump",
-  "symbol": "APEINPINK",
-  "marketCap": 54506.0,
-  "liquidity": 18224.58,
-  "volume1h": 30752.07,
-  "volume24h": 30752.07,
-  "candidateScore": 9.9151,
-  "entryPrice": 5.47725e-05,
-  "entryTime": 1787962227370,
-  "peakPrice": 5.584e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1787962227370",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

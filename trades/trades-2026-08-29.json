@@ -18,5 +18,25 @@
     "buyTxid": "DRY_RUN_BUY_1787962043671",
     "sellTxid": "DRY_RUN_SELL_1787962067985",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T00:11:28.104754Z",
+    "token": "8DMR8WqYhEDqDE1uMsEB1fFXAz4dUCER3kaJoX5kpump",
+    "symbol": "APEINPINK",
+    "marketCap": 47351.0,
+    "liquidity": 16871.66,
+    "candidateScore": 9.9151,
+    "entryPrice": 5.47725e-05,
+    "exitPrice": 4.735e-05,
+    "peakPrice": 5.584e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.09486055958738417,
+    "profitLamports": -94860559,
+    "pnlPct": -13.551508512483453,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787962227370",
+    "sellTxid": "DRY_RUN_SELL_1787962288104",
+    "source": "PYTHON_SCANNER"
   }
 ]

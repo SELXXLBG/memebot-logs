@@ -1,0 +1,22 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T00:07:47.985937Z",
+    "token": "BH6L1o7L6mga8xKk7uryRbqeZmgsKSHjyYqakuGfpump",
+    "symbol": "AUTOMATA",
+    "marketCap": 63211.0,
+    "liquidity": 19726.95,
+    "candidateScore": 9.6049,
+    "entryPrice": 4.856159999999999e-05,
+    "exitPrice": 6.321e-05,
+    "peakPrice": 6.321e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.21115202135020272,
+    "profitLamports": 211152021,
+    "pnlPct": 30.164574478600393,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787962043671",
+    "sellTxid": "DRY_RUN_SELL_1787962067985",
+    "source": "PYTHON_SCANNER"
+  }
+]

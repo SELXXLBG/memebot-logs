@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "6bz4TMnouBNLnUm3xVs4cTGMoyq5tk39iQPLtL6jpump",
+  "symbol": "qump",
+  "marketCap": 45551.0,
+  "liquidity": 16568.82,
+  "volume1h": 86023.46,
+  "volume24h": 86023.46,
+  "candidateScore": 11.143,
+  "entryPrice": 4.577775e-05,
+  "entryTime": 1788022089153,
+  "peakPrice": 4.577775e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788022089153",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

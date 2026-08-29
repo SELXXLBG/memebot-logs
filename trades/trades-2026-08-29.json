@@ -238,5 +238,25 @@
     "buyTxid": "DRY_RUN_BUY_1787973871869",
     "sellTxid": "DRY_RUN_SELL_1787973895893",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T03:31:25.014093Z",
+    "token": "BRAANt4PvQmat7Zu6kat8mV5AZvjWLVx94wyWWS4pump",
+    "symbol": "BUY",
+    "marketCap": 76664.0,
+    "liquidity": 21987.15,
+    "candidateScore": 10.2544,
+    "entryPrice": 4.626014999999999e-05,
+    "exitPrice": 7.666e-05,
+    "peakPrice": 7.666e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.46000488541433626,
+    "profitLamports": 460004885,
+    "pnlPct": 65.71498363061947,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787974238399",
+    "sellTxid": "DRY_RUN_SELL_1787974285014",
+    "source": "PYTHON_SCANNER"
   }
 ]

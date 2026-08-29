@@ -1478,5 +1478,25 @@
     "buyTxid": "DRY_RUN_BUY_1788026941652",
     "sellTxid": "DRY_RUN_SELL_1788027002497",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T18:48:36.810835Z",
+    "token": "4KVMQ9qYLGfoj7uNnQMq4fq1aFDUKpikfhuYW18Ppump",
+    "symbol": "SOLGOAT",
+    "marketCap": 62735.0,
+    "liquidity": 20021.4,
+    "candidateScore": 12.5128,
+    "entryPrice": 5.7988499999999995e-05,
+    "exitPrice": 6.273e-05,
+    "peakPrice": 6.931e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.05723634858635774,
+    "profitLamports": 57236348,
+    "pnlPct": 8.176621226622535,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788029209858",
+    "sellTxid": "DRY_RUN_SELL_1788029316810",
+    "source": "PYTHON_SCANNER"
   }
 ]

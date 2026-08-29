@@ -1038,5 +1038,25 @@
     "buyTxid": "DRY_RUN_BUY_1788005440737",
     "sellTxid": "DRY_RUN_SELL_1788005476096",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T13:21:01.793047Z",
+    "token": "9p1SNyVY4eHxifSiSp8gPC9qhHYwBLdtbbTxJ6R2pump",
+    "symbol": "SDG",
+    "marketCap": 2108.0,
+    "liquidity": 2127.05,
+    "candidateScore": 3.2,
+    "entryPrice": 2.14047816315284e-06,
+    "exitPrice": 2.107e-06,
+    "peakPrice": 2.233e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.010948354722979144,
+    "profitLamports": -10948354,
+    "pnlPct": -1.5640506747113063,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788007309341",
+    "sellTxid": "DRY_RUN_SELL_1788009661793",
+    "source": "WF1_SCANNER"
   }
 ]

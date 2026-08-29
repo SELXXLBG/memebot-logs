@@ -1258,5 +1258,25 @@
     "buyTxid": "DRY_RUN_BUY_1788018946982",
     "sellTxid": "DRY_RUN_SELL_1788018975660",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T16:03:13.105540Z",
+    "token": "5hj6URXioQtyq4nWfNsd1DzpEtZAi3iqM8E3j2kNpump",
+    "symbol": "CAC",
+    "marketCap": 50465.0,
+    "liquidity": 17990.86,
+    "candidateScore": 8.0214,
+    "entryPrice": 5.488304999999999e-05,
+    "exitPrice": 5.254e-05,
+    "peakPrice": 5.488304999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.02988418099941592,
+    "profitLamports": -29884180,
+    "pnlPct": -4.269168714202275,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788019373558",
+    "sellTxid": "DRY_RUN_SELL_1788019393105",
+    "source": "PYTHON_SCANNER"
   }
 ]

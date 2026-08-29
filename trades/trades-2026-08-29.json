@@ -1418,5 +1418,25 @@
     "buyTxid": "DRY_RUN_BUY_1788024379469",
     "sellTxid": "DRY_RUN_SELL_1788024455509",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T17:28:56.878771Z",
+    "token": "FiV2R5c1KCu8ZTzdymLWU9j2t4t6k7Q33efhJKzvpump",
+    "symbol": "Burreaux",
+    "marketCap": 44776.0,
+    "liquidity": 16334.78,
+    "candidateScore": 9.6977,
+    "entryPrice": 4.658175e-05,
+    "exitPrice": 4.477e-05,
+    "peakPrice": 4.658175e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.02722579121651717,
+    "profitLamports": -27225791,
+    "pnlPct": -3.8893987452167393,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788024532111",
+    "sellTxid": "DRY_RUN_SELL_1788024536878",
+    "source": "PYTHON_SCANNER"
   }
 ]

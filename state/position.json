@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "62gahMxD7cvSK3GuEyn3SvPwVY1366j8Z12B62mvpump",
-  "symbol": "CHIBI",
-  "marketCap": 103393.0,
-  "liquidity": 26010.07,
-  "volume1h": 135213.51,
-  "volume24h": 135213.51,
-  "candidateScore": 11.6,
-  "entryPrice": 0.00010381649999999999,
-  "entryTime": 1788024775459,
-  "peakPrice": 0.0001049,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788024775459",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

@@ -1518,5 +1518,25 @@
     "buyTxid": "DRY_RUN_BUY_1788029943966",
     "sellTxid": "DRY_RUN_SELL_1788029987251",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T19:07:09.389585Z",
+    "token": "3r3X7HEdBuGguowiEVbBKboDjVgdUMaDViEoLGKvPwHK",
+    "symbol": "ILY",
+    "marketCap": 4553.0,
+    "liquidity": 4175.41,
+    "candidateScore": 3.2,
+    "entryPrice": 4.47396060890532e-06,
+    "exitPrice": 4.553e-06,
+    "peakPrice": 4.849e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.012366575972114713,
+    "profitLamports": 12366575,
+    "pnlPct": 1.7666537103021018,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788030353718",
+    "sellTxid": "DRY_RUN_SELL_1788030429389",
+    "source": "WF1_SCANNER"
   }
 ]

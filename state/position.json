@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "3cWb3fkAuqcH1CqJdqZoy5qAAqpZpG8pxiFR68MXAcf4",
-  "symbol": "DAWG",
-  "marketCap": 32000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 3.193596130534084e-05,
-  "entryTime": 1787995680093,
-  "peakPrice": 3.193596130534084e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "2528029317879635",
-  "txid": "DRY_RUN_BUY_1787995680093",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

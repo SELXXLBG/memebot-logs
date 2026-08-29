@@ -1238,5 +1238,25 @@
     "buyTxid": "DRY_RUN_BUY_1788018367363",
     "sellTxid": "DRY_RUN_SELL_1788018817862",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T15:56:15.660875Z",
+    "token": "AyRUoExXvDRusmcEizBtBM9njG82Qg3moC9gdgMopump",
+    "symbol": "$ZHP",
+    "marketCap": 51739.0,
+    "liquidity": 17912.73,
+    "candidateScore": 12.7961,
+    "entryPrice": 6.208889999999999e-05,
+    "exitPrice": 5.173e-05,
+    "peakPrice": 6.208889999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1167878638532812,
+    "profitLamports": -116787863,
+    "pnlPct": -16.683980550468743,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788018946982",
+    "sellTxid": "DRY_RUN_SELL_1788018975660",
+    "source": "PYTHON_SCANNER"
   }
 ]

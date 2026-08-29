@@ -118,5 +118,25 @@
     "buyTxid": "DRY_RUN_BUY_1787965820076",
     "sellTxid": "DRY_RUN_SELL_1787965831400",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T01:27:39.580261Z",
+    "token": "ApYYfiFpppHPWha6zP7WJT1L82HoksBYaWicz6Nkpump",
+    "symbol": "Freg",
+    "marketCap": 72409.0,
+    "liquidity": 21229.43,
+    "candidateScore": 9.6009,
+    "entryPrice": 5.217959999999999e-05,
+    "exitPrice": 7.241e-05,
+    "peakPrice": 7.241e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.2713949512836437,
+    "profitLamports": 271394951,
+    "pnlPct": 38.77070732623481,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787966827427",
+    "sellTxid": "DRY_RUN_SELL_1787966859580",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1538,5 +1538,25 @@
     "buyTxid": "DRY_RUN_BUY_1788030353718",
     "sellTxid": "DRY_RUN_SELL_1788030429389",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T19:17:13.109235Z",
+    "token": "Dz9tm4613ewyPFUXyXyrtw3o4qTBK4ESQmwfN7vzpump",
+    "symbol": "FPP",
+    "marketCap": 29365.0,
+    "liquidity": 13524.09,
+    "candidateScore": 8.7258,
+    "entryPrice": 3.27228e-05,
+    "exitPrice": 3.08e-05,
+    "peakPrice": 3.307e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.04113217695307236,
+    "profitLamports": -41132176,
+    "pnlPct": -5.876025279010337,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1788030953700",
+    "sellTxid": "DRY_RUN_SELL_1788031033109",
+    "source": "PYTHON_SCANNER"
   }
 ]

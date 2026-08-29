@@ -838,5 +838,25 @@
     "buyTxid": "DRY_RUN_BUY_1787995680093",
     "sellTxid": "DRY_RUN_SELL_1787995706113",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T09:44:49.878673Z",
+    "token": "5HTeFAka8LgGQBoSgzsPry3Yv56zFkv2dWY2sks8pump",
+    "symbol": "VEGA",
+    "marketCap": 108234.0,
+    "liquidity": 26460.8,
+    "candidateScore": 11.8519,
+    "entryPrice": 0.0001231125,
+    "exitPrice": 0.0001082,
+    "peakPrice": 0.000124,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.08479033404406533,
+    "profitLamports": -84790334,
+    "pnlPct": -12.112904863437905,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1787996604512",
+    "sellTxid": "DRY_RUN_SELL_1787996689878",
+    "source": "PYTHON_SCANNER"
   }
 ]

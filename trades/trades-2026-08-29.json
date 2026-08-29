@@ -1938,5 +1938,25 @@
     "buyTxid": "DRY_RUN_BUY_1788046798497",
     "sellTxid": "DRY_RUN_SELL_1788046830714",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T23:41:48.631097Z",
+    "token": "4fz7Y7GgUMr47Ed3QzLJhQZH2BRBNARUcgcyFu5Zpump",
+    "symbol": "carpet",
+    "marketCap": 64792.0,
+    "liquidity": 20150.12,
+    "candidateScore": 10.2938,
+    "entryPrice": 5.367704999999999e-05,
+    "exitPrice": 6.479e-05,
+    "peakPrice": 6.479e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.14492348219583606,
+    "profitLamports": 144923482,
+    "pnlPct": 20.703354599405156,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788046859681",
+    "sellTxid": "DRY_RUN_SELL_1788046908631",
+    "source": "PYTHON_SCANNER"
   }
 ]

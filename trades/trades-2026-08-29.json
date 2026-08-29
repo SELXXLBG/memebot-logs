@@ -138,5 +138,25 @@
     "buyTxid": "DRY_RUN_BUY_1787966827427",
     "sellTxid": "DRY_RUN_SELL_1787966859580",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T01:49:06.118869Z",
+    "token": "2E3pZyRn6itwaZ7n3WEG6348oPuGses6QrsXeJWLpump",
+    "symbol": "APEMESSIAH",
+    "marketCap": 47564.0,
+    "liquidity": 17225.9,
+    "candidateScore": 3.2,
+    "entryPrice": 5.3878833944244046e-05,
+    "exitPrice": 4.756e-05,
+    "peakPrice": 6.346e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.08209501648733004,
+    "profitLamports": -82095016,
+    "pnlPct": -11.727859498190007,
+    "reason": "STOPLOSS8P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1787968091222",
+    "sellTxid": "DRY_RUN_SELL_1787968146118",
+    "source": "WF1_SCANNER"
   }
 ]

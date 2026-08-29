@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "J4afsNkuv8JoZVdEd53Gmj9LAawhNsFfo8jY6GRjpump",
+  "symbol": "BARRON",
+  "marketCap": 191000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.00014153226249380999,
+  "entryTime": 1787977091042,
+  "peakPrice": 0.00014153226249380999,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "357073907509",
+  "txid": "DRY_RUN_BUY_1787977091042",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

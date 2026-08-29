@@ -158,5 +158,25 @@
     "buyTxid": "DRY_RUN_BUY_1787968091222",
     "sellTxid": "DRY_RUN_SELL_1787968146118",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T02:26:10.817231Z",
+    "token": "SVFfbDiXCzEzDdL1XLctuygNBdVWMvaZaUysN3Rpump",
+    "symbol": "Twump",
+    "marketCap": 60629.0,
+    "liquidity": 19338.48,
+    "candidateScore": 11.1723,
+    "entryPrice": 4.7737499999999995e-05,
+    "exitPrice": 6.062e-05,
+    "peakPrice": 6.062e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.18890285415030122,
+    "profitLamports": 188902854,
+    "pnlPct": 26.986122021471605,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787970341851",
+    "sellTxid": "DRY_RUN_SELL_1787970370817",
+    "source": "PYTHON_SCANNER"
   }
 ]

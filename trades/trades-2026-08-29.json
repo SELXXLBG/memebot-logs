@@ -478,5 +478,25 @@
     "buyTxid": "DRY_RUN_BUY_1787986828597",
     "sellTxid": "DRY_RUN_SELL_1787986863122",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T07:19:41.233756Z",
+    "token": "BZ8k8ospJiz2r98h6GC8ZtGAvPaHTi8GjxZQr88npump",
+    "symbol": "SANDY",
+    "marketCap": 134972.0,
+    "liquidity": 29954.95,
+    "candidateScore": 12.3,
+    "entryPrice": 0.00010803749999999999,
+    "exitPrice": 0.0001349,
+    "peakPrice": 0.0001349,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.17404836283697797,
+    "profitLamports": 174048362,
+    "pnlPct": 24.864051833854,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1787987868279",
+    "sellTxid": "DRY_RUN_SELL_1787987981233",
+    "source": "PYTHON_SCANNER"
   }
 ]

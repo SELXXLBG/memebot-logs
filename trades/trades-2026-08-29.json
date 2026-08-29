@@ -918,5 +918,25 @@
     "buyTxid": "DRY_RUN_BUY_1787997580351",
     "sellTxid": "DRY_RUN_SELL_1787997673551",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-29T10:05:39.341490Z",
+    "token": "Ha2KzStxM51yDYNBQkA3dRW2dRKik3Bi7rDmdLWKpump",
+    "symbol": "APETRUMP",
+    "marketCap": 41365.0,
+    "liquidity": 15641.86,
+    "candidateScore": 3.2,
+    "entryPrice": 4.535791183086252e-05,
+    "exitPrice": 4.136e-05,
+    "peakPrice": 4.871e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06169901057260703,
+    "profitLamports": -61699010,
+    "pnlPct": -8.81414436751529,
+    "reason": "STOPLOSS8P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1787997891097",
+    "sellTxid": "DRY_RUN_SELL_1787997939341",
+    "source": "WF1_SCANNER"
   }
 ]

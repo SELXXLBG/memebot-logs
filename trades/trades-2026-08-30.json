@@ -338,5 +338,25 @@
     "buyTxid": "DRY_RUN_BUY_1788073860538",
     "sellTxid": "DRY_RUN_SELL_1788079263862",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T08:50:38.053524Z",
+    "token": "9spcro5qnWYoDUoU3qof8pRLxyBiNM9E7gjpkkxGpump",
+    "symbol": "PEPITO",
+    "marketCap": 32876.0,
+    "liquidity": 14099.13,
+    "candidateScore": 7.9604,
+    "entryPrice": 3.7476449999999996e-05,
+    "exitPrice": 3.444e-05,
+    "peakPrice": 3.769e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.05671601765908979,
+    "profitLamports": -56716017,
+    "pnlPct": -8.102288237012829,
+    "reason": "STOPLOSS6P",
+    "buyTxid": "DRY_RUN_BUY_1788079284996",
+    "sellTxid": "DRY_RUN_SELL_1788079838053",
+    "source": "PYTHON_SCANNER"
   }
 ]

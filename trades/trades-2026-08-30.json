@@ -1038,5 +1038,25 @@
     "buyTxid": "DRY_RUN_BUY_1788120227234",
     "sellTxid": "DRY_RUN_SELL_1788120233401",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T20:06:08.136516Z",
+    "token": "CM7t434JkSc18K8UvZ7rqnbCUxLJnArBB8JBhjMepump",
+    "symbol": "KIRBY",
+    "marketCap": 58224.0,
+    "liquidity": 19140.8,
+    "candidateScore": 11.3385,
+    "entryPrice": 5.204894999999999e-05,
+    "exitPrice": 5.822e-05,
+    "peakPrice": 6.214e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.08299370112173265,
+    "profitLamports": 82993701,
+    "pnlPct": 11.85624301739038,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788120319022",
+    "sellTxid": "DRY_RUN_SELL_1788120368136",
+    "source": "PYTHON_SCANNER"
   }
 ]

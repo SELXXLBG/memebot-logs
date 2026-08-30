@@ -718,5 +718,25 @@
     "buyTxid": "DRY_RUN_BUY_1788099688889",
     "sellTxid": "DRY_RUN_SELL_1788099709907",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T14:35:19.006179Z",
+    "token": "Femuy4XPWMumb1L8ErHiWuXGweXCyqCyfrZxxxxqpump",
+    "symbol": "RAMCOIN",
+    "marketCap": 106350.0,
+    "liquidity": 26575.1,
+    "candidateScore": 11.3971,
+    "entryPrice": 0.00011406749999999998,
+    "exitPrice": 0.0001063,
+    "peakPrice": 0.0001181,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.047666951585683855,
+    "profitLamports": -47666951,
+    "pnlPct": -6.809564512240551,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1788100453232",
+    "sellTxid": "DRY_RUN_SELL_1788100519006",
+    "source": "PYTHON_SCANNER"
   }
 ]

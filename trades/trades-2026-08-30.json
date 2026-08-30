@@ -958,5 +958,25 @@
     "buyTxid": "DRY_RUN_BUY_1788117750542",
     "sellTxid": "DRY_RUN_SELL_1788117808267",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T19:32:42.550927Z",
+    "token": "2DKmdxb9sN9eHh1TdiE7g382jVooHzNbY7f1fQQFpump",
+    "symbol": "S.L.N.",
+    "marketCap": 45044.0,
+    "liquidity": 16545.85,
+    "candidateScore": 10.5528,
+    "entryPrice": 4.792845e-05,
+    "exitPrice": 4.504e-05,
+    "peakPrice": 4.982e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.042186112841120386,
+    "profitLamports": -42186112,
+    "pnlPct": -6.0265875487314835,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1788118299624",
+    "sellTxid": "DRY_RUN_SELL_1788118362550",
+    "source": "PYTHON_SCANNER"
   }
 ]

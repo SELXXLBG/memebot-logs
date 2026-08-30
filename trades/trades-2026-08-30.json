@@ -618,5 +618,25 @@
     "buyTxid": "DRY_RUN_BUY_1788095024748",
     "sellTxid": "DRY_RUN_SELL_1788095026735",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T13:15:48.720357Z",
+    "token": "H4wKNxcWH1qU85WmMBtxNLWthjFX5Up89LCfWeQfpump",
+    "symbol": "COPPERJAK",
+    "marketCap": 3102.0,
+    "liquidity": 3021.39,
+    "candidateScore": 3.2,
+    "entryPrice": 3.2100819108179173e-06,
+    "exitPrice": 3.101e-06,
+    "peakPrice": 3.2100819108179173e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.023786725601991406,
+    "profitLamports": -23786725,
+    "pnlPct": -3.398103657427344,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788095740830",
+    "sellTxid": "DRY_RUN_SELL_1788095748720",
+    "source": "WF1_SCANNER"
   }
 ]

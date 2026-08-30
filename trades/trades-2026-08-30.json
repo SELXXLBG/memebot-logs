@@ -178,5 +178,25 @@
     "buyTxid": "DRY_RUN_BUY_1788064689006",
     "sellTxid": "DRY_RUN_SELL_1788064779825",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T05:01:36.653556Z",
+    "token": "9gyJLA7Fq2Fpgkung5aipPyH6sQM26vsbN2RNrqKpump",
+    "symbol": "Niko",
+    "marketCap": 118486.0,
+    "liquidity": 33404.74,
+    "candidateScore": 7.5266,
+    "entryPrice": 0.00013889099999999998,
+    "exitPrice": 0.0001215,
+    "peakPrice": 0.0001396,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.08764930773052242,
+    "profitLamports": -87649307,
+    "pnlPct": -12.521329675788916,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1788065994784",
+    "sellTxid": "DRY_RUN_SELL_1788066096653",
+    "source": "PYTHON_SCANNER"
   }
 ]

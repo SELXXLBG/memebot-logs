@@ -458,5 +458,25 @@
     "buyTxid": "DRY_RUN_BUY_1788082429272",
     "sellTxid": "DRY_RUN_SELL_1788082450715",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T09:36:52.745396Z",
+    "token": "EDiyhq9vwZ1LLcXN4kujgk7xsc8Hj8bSrtG8dUagpump",
+    "symbol": "SHADE",
+    "marketCap": 67137.0,
+    "liquidity": 20772.9,
+    "candidateScore": 3.2,
+    "entryPrice": 7.473906338245454e-05,
+    "exitPrice": 6.713e-05,
+    "peakPrice": 7.473906338245454e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.07126586990342945,
+    "profitLamports": -71265869,
+    "pnlPct": -10.180838557632779,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788082555981",
+    "sellTxid": "DRY_RUN_SELL_1788082612745",
+    "source": "WF1_SCANNER"
   }
 ]

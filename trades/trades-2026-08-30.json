@@ -1158,5 +1158,25 @@
     "buyTxid": "DRY_RUN_BUY_1788131582935",
     "sellTxid": "DRY_RUN_SELL_1788131599753",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T23:15:44.410490Z",
+    "token": "6s66PhuZmLuPPWeBd6EsHFWU6VdfeBxDHEEZ6jMgpump",
+    "symbol": "BABYFONE",
+    "marketCap": 66890.0,
+    "liquidity": 20312.82,
+    "candidateScore": 10.1187,
+    "entryPrice": 4.9516349999999996e-05,
+    "exitPrice": 6.689e-05,
+    "peakPrice": 6.689e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.24560685510947408,
+    "profitLamports": 245606855,
+    "pnlPct": 35.08669358706773,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788131704949",
+    "sellTxid": "DRY_RUN_SELL_1788131744410",
+    "source": "PYTHON_SCANNER"
   }
 ]

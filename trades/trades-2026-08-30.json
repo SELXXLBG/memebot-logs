@@ -838,5 +838,25 @@
     "buyTxid": "DRY_RUN_BUY_1788104536064",
     "sellTxid": "DRY_RUN_SELL_1788104596412",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T17:27:39.233069Z",
+    "token": "4V5rVH7xzHD5vAUkPZ97qBp2u7LPmC7Q4mWPprsxpump",
+    "symbol": "SQUAWK",
+    "marketCap": 43182.0,
+    "liquidity": 16069.81,
+    "candidateScore": 10.1107,
+    "entryPrice": 4.800884999999999e-05,
+    "exitPrice": 4.318e-05,
+    "peakPrice": 4.800884999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.07040774773817726,
+    "profitLamports": -70407747,
+    "pnlPct": -10.058249676882467,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788110839177",
+    "sellTxid": "DRY_RUN_SELL_1788110859233",
+    "source": "PYTHON_SCANNER"
   }
 ]

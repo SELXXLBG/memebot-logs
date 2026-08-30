@@ -978,5 +978,25 @@
     "buyTxid": "DRY_RUN_BUY_1788118299624",
     "sellTxid": "DRY_RUN_SELL_1788118362550",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T19:47:41.093021Z",
+    "token": "12Fr5aSR9cVmgb5kqNexoddHVMxbWXme46tB4Xjnpump",
+    "symbol": "PENNY",
+    "marketCap": 64856.0,
+    "liquidity": 20251.41,
+    "candidateScore": 10.8714,
+    "entryPrice": 4.3084349999999993e-05,
+    "exitPrice": 6.485e-05,
+    "peakPrice": 6.485e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.3536308427538076,
+    "profitLamports": 353630842,
+    "pnlPct": 50.51869182197252,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788119216708",
+    "sellTxid": "DRY_RUN_SELL_1788119261093",
+    "source": "PYTHON_SCANNER"
   }
 ]

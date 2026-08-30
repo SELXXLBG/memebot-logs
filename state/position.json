@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "2WujBAAnETRNkfSbGpkCbpdYYiv3QmzsFmb1ZVFZpump",
-  "symbol": "Lulu",
-  "marketCap": 42632.0,
-  "liquidity": 15936.69,
-  "volume1h": 75019.36,
-  "volume24h": 75019.36,
-  "candidateScore": 10.4146,
-  "entryPrice": 4.284314999999999e-05,
-  "entryTime": 1788082429272,
-  "peakPrice": 4.284314999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788082429272",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

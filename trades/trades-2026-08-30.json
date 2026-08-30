@@ -598,5 +598,25 @@
     "buyTxid": "DRY_RUN_BUY_1788092298810",
     "sellTxid": "DRY_RUN_SELL_1788092324676",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T13:03:46.735191Z",
+    "token": "2beEEfXFh1gqHvjaDTsxF5oowdNMskg997tgogk4pump",
+    "symbol": "Dijon",
+    "marketCap": 40687.0,
+    "liquidity": 15582.64,
+    "candidateScore": 9.9615,
+    "entryPrice": 3.367755e-05,
+    "exitPrice": 4.068e-05,
+    "peakPrice": 4.068e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.1455484439931051,
+    "profitLamports": 145548443,
+    "pnlPct": 20.792634856157875,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788095024748",
+    "sellTxid": "DRY_RUN_SELL_1788095026735",
+    "source": "PYTHON_SCANNER"
   }
 ]

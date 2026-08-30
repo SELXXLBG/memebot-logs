@@ -358,5 +358,25 @@
     "buyTxid": "DRY_RUN_BUY_1788079284996",
     "sellTxid": "DRY_RUN_SELL_1788079838053",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T08:52:33.163601Z",
+    "token": "DQPfxuW3wB9oDcdn8f4co4zvXzBKTH7nYE6oCVFvpump",
+    "symbol": "ZUMIX",
+    "marketCap": 39551.0,
+    "liquidity": 15666.14,
+    "candidateScore": 3.2,
+    "entryPrice": 5.019894959374037e-05,
+    "exitPrice": 3.955e-05,
+    "peakPrice": 5.019894959374037e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.14849443615744057,
+    "profitLamports": -148494436,
+    "pnlPct": -21.21349087963437,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788079933476",
+    "sellTxid": "DRY_RUN_SELL_1788079953163",
+    "source": "WF1_SCANNER"
   }
 ]

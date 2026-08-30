@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "C9YAiwJRtQRr4GPGpJfHyZ7pKNARa4X1apT7drvopump",
+  "symbol": "GOTCHI",
+  "marketCap": 80000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.00005459131720115176,
+  "entryTime": 1788081356169,
+  "peakPrice": 0.00005459131720115176,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1325689515241",
+  "txid": "DRY_RUN_BUY_1788081356169",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

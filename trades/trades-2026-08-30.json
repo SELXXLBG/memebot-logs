@@ -158,5 +158,25 @@
     "buyTxid": "DRY_RUN_BUY_1788062701939",
     "sellTxid": "DRY_RUN_SELL_1788062709213",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T04:39:39.825823Z",
+    "token": "7ejXfWcYYJXqMR1fKxMDwEAzhoixs6Fs5dFgEnK9pump",
+    "symbol": "RIZO",
+    "marketCap": 94845.0,
+    "liquidity": 25419.04,
+    "candidateScore": 3.2,
+    "entryPrice": 6.466928973087998e-05,
+    "exitPrice": 9.484e-05,
+    "peakPrice": 9.484e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.32657691581695736,
+    "profitLamports": 326576915,
+    "pnlPct": 46.6538451167082,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788064689006",
+    "sellTxid": "DRY_RUN_SELL_1788064779825",
+    "source": "WF1_SCANNER"
   }
 ]

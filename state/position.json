@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "FgKCVNnWmCWHCd97UhxuhBa21LqLnCWpqwoFR3yFpump",
-  "symbol": "stafone",
-  "marketCap": 127550.0,
-  "liquidity": 29413.64,
-  "volume1h": 214683.37,
-  "volume24h": 214683.37,
-  "candidateScore": 11.9753,
-  "entryPrice": 0.0001281375,
-  "entryTime": 1788111176017,
-  "peakPrice": 0.0001483,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788111176017",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

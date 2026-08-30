@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "52GNdnQLTkeYnrPYLYkTJtyLLBRCDJA1E6euTjDspump",
+  "symbol": "MAGA",
+  "marketCap": 42600.0,
+  "liquidity": 16838.27,
+  "volume1h": 124542.16,
+  "volume24h": 1638181.81,
+  "candidateScore": 9.801,
+  "entryPrice": 4.297379999999999e-05,
+  "entryTime": 1788066361888,
+  "peakPrice": 4.297379999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788066361888",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

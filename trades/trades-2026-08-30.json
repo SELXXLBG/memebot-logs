@@ -1018,5 +1018,25 @@
     "buyTxid": "DRY_RUN_BUY_1788119584448",
     "sellTxid": "DRY_RUN_SELL_1788119599531",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T20:03:53.401279Z",
+    "token": "8vNqLcB7wzhRJFAPVkmboNkHbghGkpkuS6kt9kmpump",
+    "symbol": "Children",
+    "marketCap": 40704.0,
+    "liquidity": 15579.44,
+    "candidateScore": 9.8094,
+    "entryPrice": 4.2581849999999996e-05,
+    "exitPrice": 4.07e-05,
+    "peakPrice": 4.2581849999999996e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.030935598148037192,
+    "profitLamports": -30935598,
+    "pnlPct": -4.419371164005313,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788120227234",
+    "sellTxid": "DRY_RUN_SELL_1788120233401",
+    "source": "PYTHON_SCANNER"
   }
 ]

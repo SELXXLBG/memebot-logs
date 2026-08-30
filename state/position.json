@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "HGsR3hAw1ch7ZvQUzYRkKBYxBy3dzCEceikif6typump",
-  "symbol": "TAKO",
-  "marketCap": 98000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 0.0004857606898372794,
-  "entryTime": 1788049171444,
-  "peakPrice": 0.0004857606898372794,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "175006881626",
-  "txid": "DRY_RUN_BUY_1788049171444",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

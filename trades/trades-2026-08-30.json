@@ -758,5 +758,25 @@
     "buyTxid": "DRY_RUN_BUY_1788102192974",
     "sellTxid": "DRY_RUN_SELL_1788102282629",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T15:22:23.009284Z",
+    "token": "DLHUei9tZMjPMR7Ns4ba4yBLgG8tgHeYuQ8Mvatypump",
+    "symbol": "TRIPLEC",
+    "marketCap": 2707.0,
+    "liquidity": 2693.57,
+    "candidateScore": 3.2,
+    "entryPrice": 2.930408692176373e-06,
+    "exitPrice": 2.706e-06,
+    "peakPrice": 2.930408692176373e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.053605520944177774,
+    "profitLamports": -53605520,
+    "pnlPct": -7.6579315634539675,
+    "reason": "STOPLOSS6P",
+    "buyTxid": "DRY_RUN_BUY_1788102947901",
+    "sellTxid": "DRY_RUN_SELL_1788103343009",
+    "source": "WF1_SCANNER"
   }
 ]

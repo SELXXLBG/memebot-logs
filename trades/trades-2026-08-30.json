@@ -478,5 +478,25 @@
     "buyTxid": "DRY_RUN_BUY_1788082555981",
     "sellTxid": "DRY_RUN_SELL_1788082612745",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T10:22:26.731315Z",
+    "token": "EfdNfG8iJTsPDqMBVRXDfHcscTzEpDbVeWi51nPjpump",
+    "symbol": "SON",
+    "marketCap": 40239.0,
+    "liquidity": 15404.17,
+    "candidateScore": 11.1575,
+    "entryPrice": 3.90342e-05,
+    "exitPrice": 4.023e-05,
+    "peakPrice": 4.636e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.021444271946139532,
+    "profitLamports": 21444271,
+    "pnlPct": 3.063467420877076,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788085268264",
+    "sellTxid": "DRY_RUN_SELL_1788085346731",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "H4wKNxcWH1qU85WmMBtxNLWthjFX5Up89LCfWeQfpump",
-  "symbol": "COPPERJAK",
-  "marketCap": 78000,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 3.2100819108179173e-06,
-  "entryTime": 1788095740830,
-  "peakPrice": 3.2100819108179173e-06,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "22749238317645",
-  "txid": "DRY_RUN_BUY_1788095740830",
-  "source": "WF1_SCANNER",
-  "isDryRun": true
-}
+{}

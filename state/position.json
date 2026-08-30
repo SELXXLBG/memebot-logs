@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "zMXAUQvqHZfD8gLuXMaSmYc5J2VJzBcj565pHZvzBrC",
+  "symbol": "NGMI",
+  "marketCap": 34358.0,
+  "liquidity": 14175.89,
+  "volume1h": 35573.6,
+  "volume24h": 35573.6,
+  "candidateScore": 10.0524,
+  "entryPrice": 3.4521749999999995e-05,
+  "entryTime": 1788103748962,
+  "peakPrice": 3.4521749999999995e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788103748962",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

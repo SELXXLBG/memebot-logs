@@ -658,5 +658,25 @@
     "buyTxid": "DRY_RUN_BUY_1788096465783",
     "sellTxid": "DRY_RUN_SELL_1788096556354",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T14:13:30.105203Z",
+    "token": "37cjoHzoozNxefLEympUsFLQEapAX7JMbRNTHZHcpump",
+    "symbol": "CYBERT",
+    "marketCap": 2333.0,
+    "liquidity": 2389.24,
+    "candidateScore": 3.2,
+    "entryPrice": 2.4328944740966313e-06,
+    "exitPrice": 2.333e-06,
+    "peakPrice": 2.461e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.028741950221086568,
+    "profitLamports": -28741950,
+    "pnlPct": -4.105992888726653,
+    "reason": "STOPLOSS4P_LATE",
+    "buyTxid": "DRY_RUN_BUY_1788097370221",
+    "sellTxid": "DRY_RUN_SELL_1788099210105",
+    "source": "WF1_SCANNER"
   }
 ]

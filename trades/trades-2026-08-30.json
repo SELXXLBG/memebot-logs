@@ -138,5 +138,25 @@
     "buyTxid": "DRY_RUN_BUY_1788058485874",
     "sellTxid": "DRY_RUN_SELL_1788061008975",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T04:05:09.213086Z",
+    "token": "rtUhzRUyxQ2u9LQ7PoYZJEQ3NoLAPoGfCyFwW8Upump",
+    "symbol": "TaoTao",
+    "marketCap": 27580.0,
+    "liquidity": 12444.12,
+    "candidateScore": 10.4835,
+    "entryPrice": 3.178815e-05,
+    "exitPrice": 2.758e-05,
+    "peakPrice": 3.178815e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.09266676418728359,
+    "profitLamports": -92666764,
+    "pnlPct": -13.238109169611942,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788062701939",
+    "sellTxid": "DRY_RUN_SELL_1788062709213",
+    "source": "PYTHON_SCANNER"
   }
 ]

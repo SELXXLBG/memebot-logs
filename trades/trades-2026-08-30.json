@@ -498,5 +498,25 @@
     "buyTxid": "DRY_RUN_BUY_1788085268264",
     "sellTxid": "DRY_RUN_SELL_1788085346731",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T10:29:32.080000Z",
+    "token": "2pzpZ38eBkRBCL3qCdyb9jXtsdsmC4cVuEzhfxXRpump",
+    "symbol": "BABY",
+    "marketCap": 30789.0,
+    "liquidity": 13590.25,
+    "candidateScore": 3.2,
+    "entryPrice": 4.316352838939355e-05,
+    "exitPrice": 3.078e-05,
+    "peakPrice": 4.316352838939355e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.20082857440138197,
+    "profitLamports": -200828574,
+    "pnlPct": -28.689796343054567,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788085769840",
+    "sellTxid": "DRY_RUN_SELL_1788085772080",
+    "source": "WF1_SCANNER"
   }
 ]

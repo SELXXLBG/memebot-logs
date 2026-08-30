@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "2DKmdxb9sN9eHh1TdiE7g382jVooHzNbY7f1fQQFpump",
+  "symbol": "S.L.N.",
+  "marketCap": 47695.0,
+  "liquidity": 17072.02,
+  "volume1h": 43848.28,
+  "volume24h": 43848.28,
+  "candidateScore": 10.5528,
+  "entryPrice": 4.792845e-05,
+  "entryTime": 1788118299624,
+  "peakPrice": 4.792845e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788118299624",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

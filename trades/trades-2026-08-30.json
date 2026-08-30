@@ -378,5 +378,25 @@
     "buyTxid": "DRY_RUN_BUY_1788079933476",
     "sellTxid": "DRY_RUN_SELL_1788079953163",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T09:07:37.992059Z",
+    "token": "5AQpULaZJpC9MMiiZ8EjdPpbZCLN3mEBQczE26uxpump",
+    "symbol": "Sora",
+    "marketCap": 49088.0,
+    "liquidity": 17285.54,
+    "candidateScore": 11.1959,
+    "entryPrice": 4.8662099999999996e-05,
+    "exitPrice": 4.908e-05,
+    "peakPrice": 5.779e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.006011454499497578,
+    "profitLamports": 6011454,
+    "pnlPct": 0.8587792142139398,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788080813617",
+    "sellTxid": "DRY_RUN_SELL_1788080857992",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -858,5 +858,25 @@
     "buyTxid": "DRY_RUN_BUY_1788110839177",
     "sellTxid": "DRY_RUN_SELL_1788110859233",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T17:33:48.726044Z",
+    "token": "FgKCVNnWmCWHCd97UhxuhBa21LqLnCWpqwoFR3yFpump",
+    "symbol": "stafone",
+    "marketCap": 159123.0,
+    "liquidity": 33091.91,
+    "candidateScore": 11.9753,
+    "entryPrice": 0.0001281375,
+    "exitPrice": 0.0001591,
+    "peakPrice": 0.0001591,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.16914447370988198,
+    "profitLamports": 169144473,
+    "pnlPct": 24.163496244268853,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788111176017",
+    "sellTxid": "DRY_RUN_SELL_1788111228726",
+    "source": "PYTHON_SCANNER"
   }
 ]

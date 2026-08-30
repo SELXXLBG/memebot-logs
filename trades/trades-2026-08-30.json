@@ -318,5 +318,25 @@
     "buyTxid": "DRY_RUN_BUY_1788072503046",
     "sellTxid": "DRY_RUN_SELL_1788072551288",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T08:41:03.862955Z",
+    "token": "B62M9xHfR3A3pKki6s9oKS6ruqsYWY36QCWz225Rpump",
+    "symbol": "LEADMEM",
+    "marketCap": 2068.0,
+    "liquidity": 2082.4,
+    "candidateScore": 3.2,
+    "entryPrice": 2.112253881305551e-06,
+    "exitPrice": 2.067e-06,
+    "peakPrice": 2.128e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.014997116205702652,
+    "profitLamports": -14997116,
+    "pnlPct": -2.142445172243236,
+    "reason": "FORCE_EXIT_90M",
+    "buyTxid": "DRY_RUN_BUY_1788073860538",
+    "sellTxid": "DRY_RUN_SELL_1788079263862",
+    "source": "WF1_SCANNER"
   }
 ]

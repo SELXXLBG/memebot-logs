@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "DQPfxuW3wB9oDcdn8f4co4zvXzBKTH7nYE6oCVFvpump",
+  "symbol": "ZUMIX",
+  "marketCap": 49000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.00005019894959374037,
+  "entryTime": 1788079933476,
+  "peakPrice": 0.00005019894959374037,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1431678489023",
+  "txid": "DRY_RUN_BUY_1788079933476",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

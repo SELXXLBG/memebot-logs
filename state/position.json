@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "8vNqLcB7wzhRJFAPVkmboNkHbghGkpkuS6kt9kmpump",
+  "symbol": "Children",
+  "marketCap": 42374.0,
+  "liquidity": 15932.8,
+  "volume1h": 45762.34,
+  "volume24h": 45762.34,
+  "candidateScore": 9.8094,
+  "entryPrice": 4.2581849999999996e-05,
+  "entryTime": 1788120227234,
+  "peakPrice": 4.2581849999999996e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788120227234",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

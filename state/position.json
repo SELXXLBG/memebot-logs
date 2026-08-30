@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "7mHXutov2bZxkKzwqhMfXCBweY6dkQCsXxo4wQ5Bpump",
+  "symbol": "CHUNK",
+  "marketCap": 49000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.0000576293895054941,
+  "entryTime": 1788058053310,
+  "peakPrice": 0.0000576293895054941,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "6165976696609",
+  "txid": "DRY_RUN_BUY_1788058053310",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

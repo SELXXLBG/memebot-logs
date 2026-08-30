@@ -898,5 +898,25 @@
     "buyTxid": "DRY_RUN_BUY_1788115212106",
     "sellTxid": "DRY_RUN_SELL_1788115425472",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T18:45:02.904410Z",
+    "token": "3pHTUMJV8f5pFYAskzWa5969nAej4WwBi4Wn6m7Bpump",
+    "symbol": "Dogonfone",
+    "marketCap": 66858.0,
+    "liquidity": 20535.01,
+    "candidateScore": 10.6325,
+    "entryPrice": 7.176704999999998e-05,
+    "exitPrice": 6.685e-05,
+    "peakPrice": 7.524e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.04795982278775551,
+    "profitLamports": -47959822,
+    "pnlPct": -6.851403255393645,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788115456780",
+    "sellTxid": "DRY_RUN_SELL_1788115502904",
+    "source": "PYTHON_SCANNER"
   }
 ]

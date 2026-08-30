@@ -218,5 +218,25 @@
     "buyTxid": "DRY_RUN_BUY_1788066361888",
     "sellTxid": "DRY_RUN_SELL_1788066884936",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T05:27:05.726398Z",
+    "token": "4SnvN9Eja4WkqcUwZWXddmq8caeJQDUBH4mvCRFmpump",
+    "symbol": "PINKCAT",
+    "marketCap": 36583.0,
+    "liquidity": 14910.34,
+    "candidateScore": 6.9632,
+    "entryPrice": 3.984825e-05,
+    "exitPrice": 3.778e-05,
+    "peakPrice": 4.197e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.03633221032291252,
+    "profitLamports": -36332210,
+    "pnlPct": -5.190315760416075,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788066912227",
+    "sellTxid": "DRY_RUN_SELL_1788067625726",
+    "source": "PYTHON_SCANNER"
   }
 ]

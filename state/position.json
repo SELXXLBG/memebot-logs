@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "5AQpULaZJpC9MMiiZ8EjdPpbZCLN3mEBQczE26uxpump",
+  "symbol": "Sora",
+  "marketCap": 48429.0,
+  "liquidity": 17109.43,
+  "volume1h": 55893.29,
+  "volume24h": 55893.29,
+  "candidateScore": 11.1959,
+  "entryPrice": 4.8662099999999996e-05,
+  "entryTime": 1788080813617,
+  "peakPrice": 4.8662099999999996e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788080813617",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

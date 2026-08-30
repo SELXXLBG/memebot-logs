@@ -58,5 +58,25 @@
     "buyTxid": "DRY_RUN_BUY_1788049896842",
     "sellTxid": "DRY_RUN_SELL_1788049925744",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T00:43:05.138467Z",
+    "token": "6DGgsCCoyJehBbJzUoLcYeukHJoqJDrBCjNcZDar1Mjt",
+    "symbol": "squirt",
+    "marketCap": 41928.0,
+    "liquidity": 16479.79,
+    "candidateScore": 11.574,
+    "entryPrice": 5.0581649999999994e-05,
+    "exitPrice": 4.192e-05,
+    "peakPrice": 5.0581649999999994e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.11986866778762648,
+    "profitLamports": -119868667,
+    "pnlPct": -17.124095398232356,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788050573353",
+    "sellTxid": "DRY_RUN_SELL_1788050585138",
+    "source": "PYTHON_SCANNER"
   }
 ]

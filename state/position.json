@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "FbJs3cnqUMYkxka9C3nmEQjBJbsHNtNZr14EnGRhJhLA",
-  "symbol": "CHANSE",
-  "marketCap": 67974.0,
-  "liquidity": 20305.33,
-  "volume1h": 66748.9,
-  "volume24h": 66748.9,
-  "candidateScore": 11.148,
-  "entryPrice": 6.830984999999999e-05,
-  "entryTime": 1788133993012,
-  "peakPrice": 7.982e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788133993012",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

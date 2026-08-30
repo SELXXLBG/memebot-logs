@@ -518,5 +518,25 @@
     "buyTxid": "DRY_RUN_BUY_1788085769840",
     "sellTxid": "DRY_RUN_SELL_1788085772080",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T11:18:46.738975Z",
+    "token": "EKRJYeJGjC4fkXbhnF1wTK8jKjPFF9BiKTgC3yQMpump",
+    "symbol": "ANSEMSTACY",
+    "marketCap": 83475.0,
+    "liquidity": 23341.28,
+    "candidateScore": 10.8154,
+    "entryPrice": 9.902264999999998e-05,
+    "exitPrice": 8.347e-05,
+    "peakPrice": 0.0001072,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.10994307867947373,
+    "profitLamports": -109943078,
+    "pnlPct": -15.706154097067676,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788088666006",
+    "sellTxid": "DRY_RUN_SELL_1788088726738",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -778,5 +778,25 @@
     "buyTxid": "DRY_RUN_BUY_1788102947901",
     "sellTxid": "DRY_RUN_SELL_1788103343009",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T15:26:47.941394Z",
+    "token": "9hxC5DK32NoS5gUHJ8n1kgU3Muj52HwhBc9LGpFnpump",
+    "symbol": "adolfin",
+    "marketCap": 53581.0,
+    "liquidity": 18195.82,
+    "candidateScore": 9.2984,
+    "entryPrice": 4.4089349999999995e-05,
+    "exitPrice": 5.358e-05,
+    "peakPrice": 5.358e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.15068162719568337,
+    "profitLamports": 150681627,
+    "pnlPct": 21.525946742240485,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788103596494",
+    "sellTxid": "DRY_RUN_SELL_1788103607941",
+    "source": "PYTHON_SCANNER"
   }
 ]

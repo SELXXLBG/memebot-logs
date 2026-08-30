@@ -918,5 +918,25 @@
     "buyTxid": "DRY_RUN_BUY_1788115456780",
     "sellTxid": "DRY_RUN_SELL_1788115502904",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T18:54:19.191002Z",
+    "token": "G1PcdYhCXKzRL3Cyon52eUaU5KaciFfUGuuPgb9opump",
+    "symbol": "HeeHaw",
+    "marketCap": 63576.0,
+    "liquidity": 20047.05,
+    "candidateScore": 10.5685,
+    "entryPrice": 5.027009999999999e-05,
+    "exitPrice": 6.357e-05,
+    "peakPrice": 6.357e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.18519815954215346,
+    "profitLamports": 185198159,
+    "pnlPct": 26.456879934593353,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788115976703",
+    "sellTxid": "DRY_RUN_SELL_1788116059191",
+    "source": "PYTHON_SCANNER"
   }
 ]

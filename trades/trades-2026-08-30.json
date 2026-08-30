@@ -1118,5 +1118,25 @@
     "buyTxid": "DRY_RUN_BUY_1788128892311",
     "sellTxid": "DRY_RUN_SELL_1788128978964",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T22:41:27.680558Z",
+    "token": "DnQu6xQd9zzW5dWpKppjNTRcTYFS6JDpK5xLXEZypump",
+    "symbol": "catfish",
+    "marketCap": 113815.0,
+    "liquidity": 27079.15,
+    "candidateScore": 10.8018,
+    "entryPrice": 9.39474e-05,
+    "exitPrice": 0.0001138,
+    "peakPrice": 0.0001138,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.14792128361189344,
+    "profitLamports": 147921283,
+    "pnlPct": 21.13161194455621,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788129594660",
+    "sellTxid": "DRY_RUN_SELL_1788129687680",
+    "source": "PYTHON_SCANNER"
   }
 ]

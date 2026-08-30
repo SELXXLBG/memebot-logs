@@ -1198,5 +1198,25 @@
     "buyTxid": "DRY_RUN_BUY_1788133077910",
     "sellTxid": "DRY_RUN_SELL_1788133152946",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T23:58:45.355183Z",
+    "token": "FbJs3cnqUMYkxka9C3nmEQjBJbsHNtNZr14EnGRhJhLA",
+    "symbol": "CHANSE",
+    "marketCap": 82176.0,
+    "liquidity": 22596.48,
+    "candidateScore": 11.148,
+    "entryPrice": 6.830984999999999e-05,
+    "exitPrice": 8.217e-05,
+    "peakPrice": 8.217e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.14203083449897785,
+    "profitLamports": 142030834,
+    "pnlPct": 20.290119214139697,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788133993012",
+    "sellTxid": "DRY_RUN_SELL_1788134325355",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "B62M9xHfR3A3pKki6s9oKS6ruqsYWY36QCWz225Rpump",
+  "symbol": "LEADMEM",
+  "marketCap": 54000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.000002112253881305551,
+  "entryTime": 1788073860538,
+  "peakPrice": 0.000002112253881305551,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "33118665352071",
+  "txid": "DRY_RUN_BUY_1788073860538",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

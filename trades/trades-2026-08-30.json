@@ -198,5 +198,25 @@
     "buyTxid": "DRY_RUN_BUY_1788065994784",
     "sellTxid": "DRY_RUN_SELL_1788066096653",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T05:14:44.936462Z",
+    "token": "52GNdnQLTkeYnrPYLYkTJtyLLBRCDJA1E6euTjDspump",
+    "symbol": "MAGA",
+    "marketCap": 40878.0,
+    "liquidity": 16480.86,
+    "candidateScore": 9.801,
+    "entryPrice": 4.297379999999999e-05,
+    "exitPrice": 4.103e-05,
+    "peakPrice": 4.519e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.03166254787800928,
+    "profitLamports": -31662547,
+    "pnlPct": -4.523221125429898,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788066361888",
+    "sellTxid": "DRY_RUN_SELL_1788066884936",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "EKRJYeJGjC4fkXbhnF1wTK8jKjPFF9BiKTgC3yQMpump",
-  "symbol": "ANSEMSTACY",
-  "marketCap": 98536.0,
-  "liquidity": 25505.68,
-  "volume1h": 182073.7,
-  "volume24h": 182073.7,
-  "candidateScore": 10.8154,
-  "entryPrice": 9.902264999999998e-05,
-  "entryTime": 1788088666006,
-  "peakPrice": 0.0001072,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788088666006",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

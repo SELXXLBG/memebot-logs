@@ -78,5 +78,25 @@
     "buyTxid": "DRY_RUN_BUY_1788050573353",
     "sellTxid": "DRY_RUN_SELL_1788050585138",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T00:44:51.194433Z",
+    "token": "BAZzbrFXzavfeNbQhsdDFAoprw6tMQYktpiPNZmpump",
+    "symbol": "megalink",
+    "marketCap": 12997.0,
+    "liquidity": 7998.14,
+    "candidateScore": 10.5411,
+    "entryPrice": 5.366699999999999e-05,
+    "exitPrice": 1.299e-05,
+    "peakPrice": 5.366699999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.5305662697747218,
+    "profitLamports": -530566269,
+    "pnlPct": -75.79518139638883,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788050664800",
+    "sellTxid": "DRY_RUN_SELL_1788050691194",
+    "source": "PYTHON_SCANNER"
   }
 ]

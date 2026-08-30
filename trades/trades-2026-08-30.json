@@ -98,5 +98,25 @@
     "buyTxid": "DRY_RUN_BUY_1788050664800",
     "sellTxid": "DRY_RUN_SELL_1788050691194",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T02:51:18.059707Z",
+    "token": "7mHXutov2bZxkKzwqhMfXCBweY6dkQCsXxo4wQ5Bpump",
+    "symbol": "CHUNK",
+    "marketCap": 2457.0,
+    "liquidity": 2443.39,
+    "candidateScore": 3.2,
+    "entryPrice": 5.76293895054941e-05,
+    "exitPrice": 2.457e-06,
+    "peakPrice": 5.76293895054941e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.6701558525127871,
+    "profitLamports": -670155852,
+    "pnlPct": -95.7365503589696,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788058053310",
+    "sellTxid": "DRY_RUN_SELL_1788058278059",
+    "source": "WF1_SCANNER"
   }
 ]

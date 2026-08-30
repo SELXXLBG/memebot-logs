@@ -278,5 +278,25 @@
     "buyTxid": "DRY_RUN_BUY_1788070000702",
     "sellTxid": "DRY_RUN_SELL_1788070054718",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T06:36:52.832529Z",
+    "token": "59iQSbZvRcGb67FLVRPDWekRTELjq7ykC98UJbPipump",
+    "symbol": "TRUMPSTACY",
+    "marketCap": 106053.0,
+    "liquidity": 26309.38,
+    "candidateScore": 11.7268,
+    "entryPrice": 0.00011306249999999999,
+    "exitPrice": 0.000106,
+    "peakPrice": 0.00011306249999999999,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.04372581536760635,
+    "profitLamports": -43725815,
+    "pnlPct": -6.246545052515192,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788071795682",
+    "sellTxid": "DRY_RUN_SELL_1788071812832",
+    "source": "PYTHON_SCANNER"
   }
 ]

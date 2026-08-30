@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "2beEEfXFh1gqHvjaDTsxF5oowdNMskg997tgogk4pump",
-  "symbol": "Dijon",
-  "marketCap": 33517.0,
-  "liquidity": 13970.26,
-  "volume1h": 33430.09,
-  "volume24h": 33430.09,
-  "candidateScore": 9.9615,
-  "entryPrice": 3.367755e-05,
-  "entryTime": 1788095024748,
-  "peakPrice": 3.367755e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788095024748",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

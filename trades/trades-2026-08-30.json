@@ -558,5 +558,25 @@
     "buyTxid": "DRY_RUN_BUY_1788088947804",
     "sellTxid": "DRY_RUN_SELL_1788090647175",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T12:17:08.831946Z",
+    "token": "8XFJyRPUeZNuLgJwMLbL1mYCzzH7JwPjzMmDefGbpump",
+    "symbol": "Popsem",
+    "marketCap": 127858.0,
+    "liquidity": 29889.99,
+    "candidateScore": 10.7119,
+    "entryPrice": 0.00014210699999999999,
+    "exitPrice": 0.0001295,
+    "peakPrice": 0.0001454,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06210038914339187,
+    "profitLamports": -62100389,
+    "pnlPct": -8.871484163341696,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1788092146055",
+    "sellTxid": "DRY_RUN_SELL_1788092228831",
+    "source": "PYTHON_SCANNER"
   }
 ]

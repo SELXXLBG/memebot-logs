@@ -18,5 +18,25 @@
     "buyTxid": "DRY_RUN_BUY_1788048642585",
     "sellTxid": "DRY_RUN_SELL_1788048665800",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T00:19:45.656018Z",
+    "token": "HGsR3hAw1ch7ZvQUzYRkKBYxBy3dzCEceikif6typump",
+    "symbol": "TAKO",
+    "marketCap": 388782.0,
+    "liquidity": 54876.27,
+    "candidateScore": 3.2,
+    "entryPrice": 0.0004857606898372794,
+    "exitPrice": 0.0003887,
+    "peakPrice": 0.0004857606898372794,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1398682196965238,
+    "profitLamports": -139868219,
+    "pnlPct": -19.981174242360545,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788049171444",
+    "sellTxid": "DRY_RUN_SELL_1788049185656",
+    "source": "WF1_SCANNER"
   }
 ]

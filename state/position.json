@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "2pzpZ38eBkRBCL3qCdyb9jXtsdsmC4cVuEzhfxXRpump",
+  "symbol": "BABY",
+  "marketCap": 67000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.00004316352838939355,
+  "entryTime": 1788085769840,
+  "peakPrice": 0.00004316352838939355,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "2194589028029",
+  "txid": "DRY_RUN_BUY_1788085769840",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

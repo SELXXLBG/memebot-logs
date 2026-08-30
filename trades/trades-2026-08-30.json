@@ -298,5 +298,25 @@
     "buyTxid": "DRY_RUN_BUY_1788071795682",
     "sellTxid": "DRY_RUN_SELL_1788071812832",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T06:49:11.288560Z",
+    "token": "8XeSB4TKsAmb1SX4mE6THeovbiJ1gUyEjwah4FtFpump",
+    "symbol": "TRUMPFONE",
+    "marketCap": 73603.0,
+    "liquidity": 21597.11,
+    "candidateScore": 3.2,
+    "entryPrice": 5.6532862670241936e-05,
+    "exitPrice": 7.36e-05,
+    "peakPrice": 7.36e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.21132834189766525,
+    "profitLamports": 211328341,
+    "pnlPct": 30.189763128237896,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788072503046",
+    "sellTxid": "DRY_RUN_SELL_1788072551288",
+    "source": "WF1_SCANNER"
   }
 ]

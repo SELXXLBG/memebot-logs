@@ -398,5 +398,25 @@
     "buyTxid": "DRY_RUN_BUY_1788080813617",
     "sellTxid": "DRY_RUN_SELL_1788080857992",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T09:16:12.932455Z",
+    "token": "C9YAiwJRtQRr4GPGpJfHyZ7pKNARa4X1apT7drvopump",
+    "symbol": "GOTCHI",
+    "marketCap": 52056.0,
+    "liquidity": 18086.59,
+    "candidateScore": 3.2,
+    "entryPrice": 5.459131720115176e-05,
+    "exitPrice": 5.205e-05,
+    "peakPrice": 5.459131720115176e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.032586171794526705,
+    "profitLamports": -32586171,
+    "pnlPct": -4.655167399218101,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788081356169",
+    "sellTxid": "DRY_RUN_SELL_1788081372932",
+    "source": "WF1_SCANNER"
   }
 ]

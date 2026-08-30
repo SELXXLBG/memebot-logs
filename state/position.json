@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "3pHTUMJV8f5pFYAskzWa5969nAej4WwBi4Wn6m7Bpump",
+  "symbol": "Dogonfone",
+  "marketCap": 71411.0,
+  "liquidity": 21281.73,
+  "volume1h": 3920.1,
+  "volume24h": 3920.1,
+  "candidateScore": 10.6325,
+  "entryPrice": 7.176704999999998e-05,
+  "entryTime": 1788115456780,
+  "peakPrice": 7.176704999999998e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788115456780",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

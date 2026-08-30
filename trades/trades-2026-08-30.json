@@ -738,5 +738,25 @@
     "buyTxid": "DRY_RUN_BUY_1788100453232",
     "sellTxid": "DRY_RUN_SELL_1788100519006",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T15:04:42.629937Z",
+    "token": "HUeHHC3cDQvBzmzhuFdKKqvXEX1dNXE7wj4PStvjpump",
+    "symbol": "NENEM",
+    "marketCap": 105698.0,
+    "liquidity": 26719.14,
+    "candidateScore": 11.8822,
+    "entryPrice": 0.00010632899999999999,
+    "exitPrice": 0.0001056,
+    "peakPrice": 0.0001146,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0047992551420589875,
+    "profitLamports": -4799255,
+    "pnlPct": -0.6856078774369982,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788102192974",
+    "sellTxid": "DRY_RUN_SELL_1788102282629",
+    "source": "PYTHON_SCANNER"
   }
 ]

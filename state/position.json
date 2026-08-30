@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "HUeHHC3cDQvBzmzhuFdKKqvXEX1dNXE7wj4PStvjpump",
+  "symbol": "NENEM",
+  "marketCap": 105846.0,
+  "liquidity": 26712.9,
+  "volume1h": 204920.47,
+  "volume24h": 204920.47,
+  "candidateScore": 11.8822,
+  "entryPrice": 0.00010632899999999999,
+  "entryTime": 1788102192974,
+  "peakPrice": 0.00010632899999999999,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788102192974",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

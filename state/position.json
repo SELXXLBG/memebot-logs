@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "9gyJLA7Fq2Fpgkung5aipPyH6sQM26vsbN2RNrqKpump",
-  "symbol": "Niko",
-  "marketCap": 134789.0,
-  "liquidity": 35717.52,
-  "volume1h": 271628.15,
-  "volume24h": 3037821.86,
-  "candidateScore": 7.5266,
-  "entryPrice": 0.00013889099999999998,
-  "entryTime": 1788065994784,
-  "peakPrice": 0.0001396,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788065994784",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

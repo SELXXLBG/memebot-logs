@@ -638,5 +638,25 @@
     "buyTxid": "DRY_RUN_BUY_1788095740830",
     "sellTxid": "DRY_RUN_SELL_1788095748720",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T13:29:16.354134Z",
+    "token": "9Rf6DTf9xXEnJVQQVL3uQ5hkYdJuZPjx8V9rTCbZpump",
+    "symbol": "Primates",
+    "marketCap": 55279.0,
+    "liquidity": 18493.13,
+    "candidateScore": 10.9352,
+    "entryPrice": 3.7848299999999995e-05,
+    "exitPrice": 5.527e-05,
+    "peakPrice": 5.527e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.3222123582829349,
+    "profitLamports": 322212358,
+    "pnlPct": 46.03033689756212,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788096465783",
+    "sellTxid": "DRY_RUN_SELL_1788096556354",
+    "source": "PYTHON_SCANNER"
   }
 ]

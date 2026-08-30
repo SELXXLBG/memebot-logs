@@ -38,5 +38,25 @@
     "buyTxid": "DRY_RUN_BUY_1788049171444",
     "sellTxid": "DRY_RUN_SELL_1788049185656",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T00:32:05.744035Z",
+    "token": "2sqxxDV1LWKEq1pPXtsxbUHUHvyJGXronsfqN4Q8pump",
+    "symbol": "Epileptic",
+    "marketCap": 51014.0,
+    "liquidity": 17680.99,
+    "candidateScore": 11.733,
+    "entryPrice": 5.444084999999999e-05,
+    "exitPrice": 5.101e-05,
+    "peakPrice": 5.444084999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.04411384098521595,
+    "profitLamports": -44113840,
+    "pnlPct": -6.301977283602279,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788049896842",
+    "sellTxid": "DRY_RUN_SELL_1788049925744",
+    "source": "PYTHON_SCANNER"
   }
 ]

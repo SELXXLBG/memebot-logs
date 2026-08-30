@@ -698,5 +698,25 @@
     "buyTxid": "DRY_RUN_BUY_1788099321682",
     "sellTxid": "DRY_RUN_SELL_1788099495612",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T14:21:49.907639Z",
+    "token": "Gq5J16kc2fM3SCzEtDJh5wUKgQYTWVXXfr5pb8iApump",
+    "symbol": "popape",
+    "marketCap": 136454.0,
+    "liquidity": 31090.13,
+    "candidateScore": 10.8,
+    "entryPrice": 0.00015014699999999997,
+    "exitPrice": 0.0001384,
+    "peakPrice": 0.00015014699999999997,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.05476566298360925,
+    "profitLamports": -54765662,
+    "pnlPct": -7.823666140515607,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788099688889",
+    "sellTxid": "DRY_RUN_SELL_1788099709907",
+    "source": "PYTHON_SCANNER"
   }
 ]

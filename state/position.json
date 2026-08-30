@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "G1uKEoJPr6WtvDfJdcL56XE1xLKBwXcP1SDo9UHVpump",
+  "symbol": "apewif",
+  "marketCap": 49439.0,
+  "liquidity": 17398.73,
+  "volume1h": 4405.59,
+  "volume24h": 4405.59,
+  "candidateScore": 10.5865,
+  "entryPrice": 4.9677149999999996e-05,
+  "entryTime": 1788115212106,
+  "peakPrice": 4.9677149999999996e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788115212106",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

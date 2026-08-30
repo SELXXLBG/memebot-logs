@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "DLHUei9tZMjPMR7Ns4ba4yBLgG8tgHeYuQ8Mvatypump",
+  "symbol": "TRIPLEC",
+  "marketCap": 54000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.000002930408692176373,
+  "entryTime": 1788102947901,
+  "peakPrice": 0.000002930408692176373,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "24787937600721",
+  "txid": "DRY_RUN_BUY_1788102947901",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

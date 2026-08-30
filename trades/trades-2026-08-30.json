@@ -678,5 +678,25 @@
     "buyTxid": "DRY_RUN_BUY_1788097370221",
     "sellTxid": "DRY_RUN_SELL_1788099210105",
     "source": "WF1_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T14:18:15.612741Z",
+    "token": "FRQHGWkkAz4p9b3yB3K7iFi4tGc4gHC37h519hnNpump",
+    "symbol": "Meow",
+    "marketCap": 78136.0,
+    "liquidity": 23244.08,
+    "candidateScore": 10.8958,
+    "entryPrice": 7.838999999999999e-05,
+    "exitPrice": 8.114e-05,
+    "peakPrice": 8.58e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.02455670366118139,
+    "profitLamports": 24556703,
+    "pnlPct": 3.508100523025913,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788099321682",
+    "sellTxid": "DRY_RUN_SELL_1788099495612",
+    "source": "PYTHON_SCANNER"
   }
 ]

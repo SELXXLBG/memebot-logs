@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "Gq5J16kc2fM3SCzEtDJh5wUKgQYTWVXXfr5pb8iApump",
-  "symbol": "popape",
-  "marketCap": 147291.0,
-  "liquidity": 32370.54,
-  "volume1h": 185615.29,
-  "volume24h": 357228.18,
-  "candidateScore": 10.8,
-  "entryPrice": 0.00015014699999999997,
-  "entryTime": 1788099688889,
-  "peakPrice": 0.00015014699999999997,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788099688889",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

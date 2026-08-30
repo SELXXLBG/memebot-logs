@@ -238,5 +238,25 @@
     "buyTxid": "DRY_RUN_BUY_1788066912227",
     "sellTxid": "DRY_RUN_SELL_1788067625726",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T05:50:46.169683Z",
+    "token": "Hdjun3VdboRNBHf6KVsVdfnihePU7g9c7GU96Zhzpump",
+    "symbol": "TROLLINA",
+    "marketCap": 45609.0,
+    "liquidity": 16515.79,
+    "candidateScore": 9.4594,
+    "entryPrice": 4.8511349999999994e-05,
+    "exitPrice": 4.56e-05,
+    "peakPrice": 4.8511349999999994e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.042009653411005835,
+    "profitLamports": -42009653,
+    "pnlPct": -6.00137905871512,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788069026239",
+    "sellTxid": "DRY_RUN_SELL_1788069046169",
+    "source": "PYTHON_SCANNER"
   }
 ]

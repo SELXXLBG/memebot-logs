@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "7ejXfWcYYJXqMR1fKxMDwEAzhoixs6Fs5dFgEnK9pump",
+  "symbol": "RIZO",
+  "marketCap": 67000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.00006466928973087998,
+  "entryTime": 1788064689006,
+  "peakPrice": 0.00006466928973087998,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "1095146232524",
+  "txid": "DRY_RUN_BUY_1788064689006",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

@@ -798,5 +798,25 @@
     "buyTxid": "DRY_RUN_BUY_1788103596494",
     "sellTxid": "DRY_RUN_SELL_1788103607941",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T15:29:11.574714Z",
+    "token": "zMXAUQvqHZfD8gLuXMaSmYc5J2VJzBcj565pHZvzBrC",
+    "symbol": "NGMI",
+    "marketCap": 30630.0,
+    "liquidity": 13280.08,
+    "candidateScore": 10.0524,
+    "entryPrice": 3.4521749999999995e-05,
+    "exitPrice": 3.062e-05,
+    "peakPrice": 3.4521749999999995e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.07911606451005514,
+    "profitLamports": -79116064,
+    "pnlPct": -11.302294930007877,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788103748962",
+    "sellTxid": "DRY_RUN_SELL_1788103751574",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,0 +1,22 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-30T00:11:05.800883Z",
+    "token": "Bro8qvUSSeCQ3A5Wk4LQBHzm6XnAaJu36z5b1pP2pump",
+    "symbol": "Liquititty",
+    "marketCap": 38188.0,
+    "liquidity": 14982.25,
+    "candidateScore": 9.4399,
+    "entryPrice": 4.354665e-05,
+    "exitPrice": 3.818e-05,
+    "peakPrice": 4.354665e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.08626737073919578,
+    "profitLamports": -86267370,
+    "pnlPct": -12.3239101055994,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788048642585",
+    "sellTxid": "DRY_RUN_SELL_1788048665800",
+    "source": "PYTHON_SCANNER"
+  }
+]

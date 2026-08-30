@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "37cjoHzoozNxefLEympUsFLQEapAX7JMbRNTHZHcpump",
+  "symbol": "CYBERT",
+  "marketCap": 62000,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.0000024328944740966313,
+  "entryTime": 1788097370221,
+  "peakPrice": 0.0000024328944740966313,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "29450463794590",
+  "txid": "DRY_RUN_BUY_1788097370221",
+  "source": "WF1_SCANNER",
+  "isDryRun": true
+}

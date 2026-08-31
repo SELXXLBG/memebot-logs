@@ -858,5 +858,25 @@
     "buyTxid": "DRY_RUN_BUY_1788200184547",
     "sellTxid": "DRY_RUN_SELL_1788200295083",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T18:19:37.877775Z",
+    "token": "XET1HPXx1k2QtnriTKfn9UMaQCzcRnRFQRHPcR4pump",
+    "symbol": "susanito",
+    "marketCap": 39701.0,
+    "liquidity": 15220.6,
+    "candidateScore": 9.6582,
+    "entryPrice": 4.471245e-05,
+    "exitPrice": 3.97e-05,
+    "peakPrice": 4.471245e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.07847288618718046,
+    "profitLamports": -78472886,
+    "pnlPct": -11.210412312454352,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788200369208",
+    "sellTxid": "DRY_RUN_SELL_1788200377877",
+    "source": "PYTHON_SCANNER"
   }
 ]

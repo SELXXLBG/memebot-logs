@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "7oAmDHFooAGvtWa9LEEQ4v8JNZH9Ax8betoS36aspump",
-  "symbol": "PFP",
-  "marketCap": 41412.0,
-  "liquidity": 15532.26,
-  "volume1h": 74941.76,
-  "volume24h": 74941.76,
-  "candidateScore": 10.7501,
-  "entryPrice": 4.1617049999999995e-05,
-  "entryTime": 1788197240847,
-  "peakPrice": 4.1617049999999995e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788197240847",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

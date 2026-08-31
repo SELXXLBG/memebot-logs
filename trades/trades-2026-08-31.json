@@ -618,5 +618,25 @@
     "buyTxid": "DRY_RUN_BUY_1788187926104",
     "sellTxid": "DRY_RUN_SELL_1788187939201",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T15:30:04.208655Z",
+    "token": "JAxVpWgn8qMYGayeL9X3oUYX5W3yB83h6GrEAXb7pump",
+    "symbol": "$GOAT",
+    "marketCap": 65308.0,
+    "liquidity": 20277.5,
+    "candidateScore": 12.3508,
+    "entryPrice": 5.262179999999999e-05,
+    "exitPrice": 6.53e-05,
+    "peakPrice": 6.53e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.1686513954292709,
+    "profitLamports": 168651395,
+    "pnlPct": 24.093056489895844,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788190110070",
+    "sellTxid": "DRY_RUN_SELL_1788190204208",
+    "source": "PYTHON_SCANNER"
   }
 ]

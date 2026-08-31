@@ -178,5 +178,25 @@
     "buyTxid": "DRY_RUN_BUY_1788155781698",
     "sellTxid": "DRY_RUN_SELL_1788155810974",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T06:19:59.004056Z",
+    "token": "CwcWwyFqTKkKibtimjJo1dh3w4Mh69GGHW2bocwXpump",
+    "symbol": "goji",
+    "marketCap": 93331.0,
+    "liquidity": 24214.14,
+    "candidateScore": 10.5702,
+    "entryPrice": 7.733474999999999e-05,
+    "exitPrice": 9.333e-05,
+    "peakPrice": 9.333e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.14478193826190702,
+    "profitLamports": 144781938,
+    "pnlPct": 20.68313403741529,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788157094311",
+    "sellTxid": "DRY_RUN_SELL_1788157199004",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "Gm7URgHiWi6AGwymT5WX7LVJnVeceRitEWB6Ck5Wpump",
-  "symbol": "Payfone",
-  "marketCap": 44692.0,
-  "liquidity": 16298.42,
-  "volume1h": 93746.9,
-  "volume24h": 93746.9,
-  "candidateScore": 11.3446,
-  "entryPrice": 4.491344999999999e-05,
-  "entryTime": 1788194111156,
-  "peakPrice": 4.686e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788194111156",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

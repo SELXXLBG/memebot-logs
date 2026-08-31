@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "XET1HPXx1k2QtnriTKfn9UMaQCzcRnRFQRHPcR4pump",
-  "symbol": "susanito",
-  "marketCap": 44491.0,
-  "liquidity": 16218.26,
-  "volume1h": 20879.21,
-  "volume24h": 20879.21,
-  "candidateScore": 9.6582,
-  "entryPrice": 4.471245e-05,
-  "entryTime": 1788200369208,
-  "peakPrice": 4.471245e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788200369208",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

@@ -478,5 +478,25 @@
     "buyTxid": "DRY_RUN_BUY_1788176147492",
     "sellTxid": "DRY_RUN_SELL_1788176192964",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T12:55:08.865083Z",
+    "token": "5He3HRoRXmBwgFhnJEge2hRQCa25eKfWeeJnm4g9pump",
+    "symbol": "CATBYTE",
+    "marketCap": 100550.0,
+    "liquidity": 26173.22,
+    "candidateScore": 9.3762,
+    "entryPrice": 8.589734999999999e-05,
+    "exitPrice": 0.0001047,
+    "peakPrice": 0.0001047,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.15322771889936077,
+    "profitLamports": 153227718,
+    "pnlPct": 21.88967412848011,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788180679717",
+    "sellTxid": "DRY_RUN_SELL_1788180908865",
+    "source": "PYTHON_SCANNER"
   }
 ]

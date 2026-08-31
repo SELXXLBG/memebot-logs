@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "pump3WayMj4S48ERaM5zfETRXMzspN1ZfPVknQNHhR9",
+  "symbol": "pandacoin",
+  "marketCap": 79207.0,
+  "liquidity": 22486.81,
+  "volume1h": 19703.73,
+  "volume24h": 23344.94,
+  "candidateScore": 8.5146,
+  "entryPrice": 8.215874999999998e-05,
+  "entryTime": 1788136437067,
+  "peakPrice": 8.215874999999998e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788136437067",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

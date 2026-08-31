@@ -1078,5 +1078,25 @@
     "buyTxid": "DRY_RUN_BUY_1788204840498",
     "sellTxid": "DRY_RUN_SELL_1788204858300",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T19:39:18.443839Z",
+    "token": "EdVa9bXZrkqrjzej5hVb2fK6SR6NhdruWDyMFhVTpump",
+    "symbol": "APES",
+    "marketCap": 92192.0,
+    "liquidity": 24166.08,
+    "candidateScore": 10.6206,
+    "entryPrice": 6.63099e-05,
+    "exitPrice": 9.219e-05,
+    "peakPrice": 9.219e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.2732030963702252,
+    "profitLamports": 273203096,
+    "pnlPct": 39.02901376717503,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788204933312",
+    "sellTxid": "DRY_RUN_SELL_1788205158443",
+    "source": "PYTHON_SCANNER"
   }
 ]

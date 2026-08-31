@@ -1098,5 +1098,25 @@
     "buyTxid": "DRY_RUN_BUY_1788204933312",
     "sellTxid": "DRY_RUN_SELL_1788205158443",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T20:00:44.434747Z",
+    "token": "7TqH1d4Vf9QG587vB99Q7ewFQPoxSYqBDxSAzBpBpump",
+    "symbol": "GPRO",
+    "marketCap": 95191.0,
+    "liquidity": 24766.99,
+    "candidateScore": 12.3,
+    "entryPrice": 0.00011939399999999999,
+    "exitPrice": 9.519e-05,
+    "peakPrice": 0.00011939399999999999,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.14190662847379257,
+    "profitLamports": -141906628,
+    "pnlPct": -20.272375496256085,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788206379459",
+    "sellTxid": "DRY_RUN_SELL_1788206444434",
+    "source": "PYTHON_SCANNER"
   }
 ]

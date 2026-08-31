@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "3v3MymJvAoH2P4kb3uc2XqDX5LSK3ZyR1E3DuqSkpump",
-  "symbol": "ABYSSAL",
-  "marketCap": 43284.0,
-  "liquidity": 15929.58,
-  "volume1h": 28476.96,
-  "volume24h": 28476.96,
-  "candidateScore": 10.2337,
-  "entryPrice": 4.349639999999999e-05,
-  "entryTime": 1788166124205,
-  "peakPrice": 4.629e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788166124205",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

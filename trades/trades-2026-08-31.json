@@ -198,5 +198,25 @@
     "buyTxid": "DRY_RUN_BUY_1788157094311",
     "sellTxid": "DRY_RUN_SELL_1788157199004",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T06:55:42.066653Z",
+    "token": "H3CZ4aWEQg7AoNZKj6fFMWjR8QuFTwqzE3oJqdyKpump",
+    "symbol": "PSYOPED",
+    "marketCap": 40023.0,
+    "liquidity": 15219.19,
+    "candidateScore": 9.7171,
+    "entryPrice": 4.2782849999999996e-05,
+    "exitPrice": 4.002e-05,
+    "peakPrice": 4.2782849999999996e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.04520491271619347,
+    "profitLamports": -45204912,
+    "pnlPct": -6.457844673741925,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788159318335",
+    "sellTxid": "DRY_RUN_SELL_1788159342066",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -558,5 +558,25 @@
     "buyTxid": "DRY_RUN_BUY_1788184708669",
     "sellTxid": "DRY_RUN_SELL_1788184730020",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T14:25:56.858745Z",
+    "token": "J4yevL8jKAfkzNUc44XWAfuQ3jWmVqiFesrXvpbRpump",
+    "symbol": "POB",
+    "marketCap": 36492.0,
+    "liquidity": 14464.65,
+    "candidateScore": 10.9244,
+    "entryPrice": 4.820985e-05,
+    "exitPrice": 3.649e-05,
+    "peakPrice": 4.999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.17017051494663435,
+    "profitLamports": -170170514,
+    "pnlPct": -24.310073563804906,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788186298732",
+    "sellTxid": "DRY_RUN_SELL_1788186356858",
+    "source": "PYTHON_SCANNER"
   }
 ]

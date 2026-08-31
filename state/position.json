@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "8ZZuVb74Pc3GYRmsskkBmFoTrGihMy6A4NVAnMHMpump",
+  "symbol": "Sharingan",
+  "marketCap": 49499.0,
+  "liquidity": 17154.89,
+  "volume1h": 23734.74,
+  "volume24h": 23734.74,
+  "candidateScore": 9.8683,
+  "entryPrice": 4.973745e-05,
+  "entryTime": 1788191556475,
+  "peakPrice": 4.973745e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788191556475",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

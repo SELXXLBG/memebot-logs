@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "Busoc97Lc3gMSNk8CRyF6ya1tfB8bwR5MSWmm1D2pump",
-  "symbol": "inu",
-  "marketCap": 46399.0,
-  "liquidity": 16543.91,
-  "volume1h": 35788.12,
-  "volume24h": 35788.12,
-  "candidateScore": 10.2843,
-  "entryPrice": 4.662195e-05,
-  "entryTime": 1788192047528,
-  "peakPrice": 4.662195e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788192047528",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

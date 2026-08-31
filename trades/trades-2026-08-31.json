@@ -18,5 +18,25 @@
     "buyTxid": "DRY_RUN_BUY_1788134574801",
     "sellTxid": "DRY_RUN_SELL_1788134616112",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T00:54:09.724984Z",
+    "token": "pump3WayMj4S48ERaM5zfETRXMzspN1ZfPVknQNHhR9",
+    "symbol": "pandacoin",
+    "marketCap": 95596.0,
+    "liquidity": 24895.16,
+    "candidateScore": 8.5146,
+    "entryPrice": 8.215874999999998e-05,
+    "exitPrice": 9.866e-05,
+    "peakPrice": 9.866e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.14059214630212866,
+    "profitLamports": 140592146,
+    "pnlPct": 20.084592328875523,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788136437067",
+    "sellTxid": "DRY_RUN_SELL_1788137649724",
+    "source": "PYTHON_SCANNER"
   }
 ]

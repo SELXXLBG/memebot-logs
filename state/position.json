@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "FoH1L4hLoz16g1cfG79r4NcTAqP77y8jVoqAQa9gpump",
-  "symbol": "Graped",
-  "marketCap": 147601.0,
-  "liquidity": 32285.87,
-  "volume1h": 255064.75,
-  "volume24h": 390872.29,
-  "candidateScore": 9.6166,
-  "entryPrice": 0.00015416699999999998,
-  "entryTime": 1788147052700,
-  "peakPrice": 0.00015416699999999998,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788147052700",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

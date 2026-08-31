@@ -1278,5 +1278,25 @@
     "buyTxid": "DRY_RUN_BUY_1788215721171",
     "sellTxid": "DRY_RUN_SELL_1788215725484",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T23:05:25.193678Z",
+    "token": "2QChDZRA76jXfmMt6t1GC6SjsmUkpiD6jzimy4jHKPAD",
+    "symbol": "PAD",
+    "marketCap": 71892.0,
+    "liquidity": 22523.56,
+    "candidateScore": 3.2,
+    "entryPrice": 8.375669999999998e-05,
+    "exitPrice": 7.277e-05,
+    "peakPrice": 8.375669999999998e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.09182178858527129,
+    "profitLamports": -91821788,
+    "pnlPct": -13.117398369324471,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788217514883",
+    "sellTxid": "DRY_RUN_SELL_1788217525193",
+    "source": "KOL_CALLANALYSER"
   }
 ]

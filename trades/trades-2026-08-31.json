@@ -518,5 +518,25 @@
     "buyTxid": "DRY_RUN_BUY_1788181448167",
     "sellTxid": "DRY_RUN_SELL_1788181628828",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T13:38:57.508996Z",
+    "token": "4v6pzWv183VXKh5tHbomY1NKGRwLvPhdA7LLHUJBpump",
+    "symbol": "Maxi",
+    "marketCap": 74987.0,
+    "liquidity": 21580.52,
+    "candidateScore": 10.8086,
+    "entryPrice": 4.99485e-05,
+    "exitPrice": 7.498e-05,
+    "peakPrice": 7.498e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.3508023263961882,
+    "profitLamports": 350802326,
+    "pnlPct": 50.11461805659832,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788183511993",
+    "sellTxid": "DRY_RUN_SELL_1788183537509",
+    "source": "PYTHON_SCANNER"
   }
 ]

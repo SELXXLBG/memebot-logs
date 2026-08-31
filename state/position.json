@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "5He3HRoRXmBwgFhnJEge2hRQCa25eKfWeeJnm4g9pump",
-  "symbol": "CATBYTE",
-  "marketCap": 82042.0,
-  "liquidity": 23484.58,
-  "volume1h": 106047.71,
-  "volume24h": 182935.19,
-  "candidateScore": 9.3762,
-  "entryPrice": 8.589734999999999e-05,
-  "entryTime": 1788180679717,
-  "peakPrice": 9.973e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788180679717",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

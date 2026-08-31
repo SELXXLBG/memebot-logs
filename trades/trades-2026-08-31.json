@@ -458,5 +458,25 @@
     "buyTxid": "DRY_RUN_BUY_1788174132858",
     "sellTxid": "DRY_RUN_SELL_1788174222611",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T11:36:32.964762Z",
+    "token": "CSLP8Vp7u9hrXQi7crPXqCp7BaJaG4JrNxqvR3jDpump",
+    "symbol": "chimp",
+    "marketCap": 56968.0,
+    "liquidity": 18781.06,
+    "candidateScore": 11.7038,
+    "entryPrice": 6.443054999999999e-05,
+    "exitPrice": 5.696e-05,
+    "peakPrice": 6.57e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.08116312836069219,
+    "profitLamports": -81163128,
+    "pnlPct": -11.594732622956027,
+    "reason": "STOPLOSS8P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1788176147492",
+    "sellTxid": "DRY_RUN_SELL_1788176192964",
+    "source": "PYTHON_SCANNER"
   }
 ]

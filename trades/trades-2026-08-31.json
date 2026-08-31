@@ -38,5 +38,25 @@
     "buyTxid": "DRY_RUN_BUY_1788136437067",
     "sellTxid": "DRY_RUN_SELL_1788137649724",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T00:58:21.002836Z",
+    "token": "GxqQ4V6mYWzPe3jyZQCJANDkq3tuyY1RcYRRZSg9pump",
+    "symbol": "GROKPOCKET",
+    "marketCap": 43210.0,
+    "liquidity": 15969.99,
+    "candidateScore": 11.5648,
+    "entryPrice": 5.978744999999999e-05,
+    "exitPrice": 4.321e-05,
+    "peakPrice": 6.013e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.19409115123658885,
+    "profitLamports": -194091151,
+    "pnlPct": -27.727307319512697,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788137843339",
+    "sellTxid": "DRY_RUN_SELL_1788137901002",
+    "source": "PYTHON_SCANNER"
   }
 ]

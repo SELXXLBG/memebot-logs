@@ -1318,5 +1318,25 @@
     "buyTxid": "DRY_RUN_BUY_1788217610073",
     "sellTxid": "DRY_RUN_SELL_1788217624668",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T23:11:29.053396Z",
+    "token": "Dpd6HkwyGs48Fx7ZHShR95UNcSyU7mSYZcrChP17pump",
+    "symbol": "Women",
+    "marketCap": 59248.0,
+    "liquidity": 18942.56,
+    "candidateScore": 9.9155,
+    "entryPrice": 4.6632e-05,
+    "exitPrice": 5.924e-05,
+    "peakPrice": 5.924e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.1892605935838052,
+    "profitLamports": 189260593,
+    "pnlPct": 27.037227654829316,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788217883714",
+    "sellTxid": "DRY_RUN_SELL_1788217889053",
+    "source": "PYTHON_SCANNER"
   }
 ]

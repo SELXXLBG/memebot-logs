@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "HoeMbt5H1rwg53sgST8Cio6LDRxsXz8qfUNj9ewCpump",
-  "symbol": "CLARITY",
-  "marketCap": 73023.0,
-  "liquidity": 21326.61,
-  "volume1h": 28587.84,
-  "volume24h": 28587.84,
-  "candidateScore": 9.2176,
-  "entryPrice": 7.33851e-05,
-  "entryTime": 1788213212428,
-  "peakPrice": 7.676e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788213212428",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

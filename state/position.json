@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "7TBkWkqohDZEoCAh1ykErGKyZzgFUEjxTv75xQeAvTeP",
+  "symbol": "APEC",
+  "marketCap": 44043.0,
+  "liquidity": 17439.03,
+  "volume1h": 64311.54,
+  "volume24h": 64311.54,
+  "candidateScore": 10.3952,
+  "entryPrice": 4.4260199999999993e-05,
+  "entryTime": 1788134574801,
+  "peakPrice": 4.4260199999999993e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788134574801",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

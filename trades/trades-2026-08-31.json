@@ -1238,5 +1238,25 @@
     "buyTxid": "DRY_RUN_BUY_1788213212428",
     "sellTxid": "DRY_RUN_SELL_1788213273252",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T22:04:17.604397Z",
+    "token": "9HDDorw6orEWQJXqDQ6aa3wwoQVUAtJB8miaWqxjpump",
+    "symbol": "SAHUR",
+    "marketCap": 70599.0,
+    "liquidity": 21371.3,
+    "candidateScore": 3.2,
+    "entryPrice": 7.574685e-05,
+    "exitPrice": 7.059e-05,
+    "peakPrice": 7.965e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.04765604114230488,
+    "profitLamports": -47656041,
+    "pnlPct": -6.808005877472126,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788213809131",
+    "sellTxid": "DRY_RUN_SELL_1788213857604",
+    "source": "KOL_CALLANALYSER"
   }
 ]

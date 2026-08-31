@@ -378,5 +378,25 @@
     "buyTxid": "DRY_RUN_BUY_1788169790858",
     "sellTxid": "DRY_RUN_SELL_1788169810801",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T09:54:30.326481Z",
+    "token": "CeLJ2RjFZaG3HCCfjm7KKspCwRZGXR9PdHeuePpXpump",
+    "symbol": "Fagjak",
+    "marketCap": 57482.0,
+    "liquidity": 18843.03,
+    "candidateScore": 11.7786,
+    "entryPrice": 6.891285e-05,
+    "exitPrice": 5.748e-05,
+    "peakPrice": 6.978e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.11613211469268793,
+    "profitLamports": -116132114,
+    "pnlPct": -16.59030209895542,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788170035083",
+    "sellTxid": "DRY_RUN_SELL_1788170070326",
+    "source": "PYTHON_SCANNER"
   }
 ]

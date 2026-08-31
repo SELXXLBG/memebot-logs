@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "JAxVpWgn8qMYGayeL9X3oUYX5W3yB83h6GrEAXb7pump",
-  "symbol": "$GOAT",
-  "marketCap": 52361.0,
-  "liquidity": 17916.45,
-  "volume1h": 132126.27,
-  "volume24h": 132126.27,
-  "candidateScore": 12.3508,
-  "entryPrice": 5.262179999999999e-05,
-  "entryTime": 1788190110070,
-  "peakPrice": 6.287e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788190110070",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

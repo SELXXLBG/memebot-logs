@@ -98,5 +98,25 @@
     "buyTxid": "DRY_RUN_BUY_1788147418035",
     "sellTxid": "DRY_RUN_SELL_1788147426493",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T04:48:47.625965Z",
+    "token": "93ihpGjLVnhghXciSeFovXwKF762rwcigW12kSQBpump",
+    "symbol": "STYXX",
+    "marketCap": 96213.0,
+    "liquidity": 25283.89,
+    "candidateScore": 10.5938,
+    "entryPrice": 8.002814999999998e-05,
+    "exitPrice": 0.000101,
+    "peakPrice": 0.000101,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.18343913985266452,
+    "profitLamports": 183439139,
+    "pnlPct": 26.205591407523503,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788151607675",
+    "sellTxid": "DRY_RUN_SELL_1788151727625",
+    "source": "PYTHON_SCANNER"
   }
 ]

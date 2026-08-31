@@ -1178,5 +1178,25 @@
     "buyTxid": "DRY_RUN_BUY_1788210673178",
     "sellTxid": "DRY_RUN_SELL_1788210816969",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T21:32:43.086568Z",
+    "token": "2LHvrRxAW7LdCqd2fwRYp8VfnTwgwv7iRpmhB6Bppump",
+    "symbol": "Nibbelt",
+    "marketCap": 60850.0,
+    "liquidity": 19270.51,
+    "candidateScore": 9.8022,
+    "entryPrice": 4.825005e-05,
+    "exitPrice": 6.084e-05,
+    "peakPrice": 6.084e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.18265193507571498,
+    "profitLamports": 182651935,
+    "pnlPct": 26.093133582245,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788211866958",
+    "sellTxid": "DRY_RUN_SELL_1788211963086",
+    "source": "PYTHON_SCANNER"
   }
 ]

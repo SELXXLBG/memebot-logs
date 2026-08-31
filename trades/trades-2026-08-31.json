@@ -938,5 +938,25 @@
     "buyTxid": "DRY_RUN_BUY_1788201563562",
     "sellTxid": "DRY_RUN_SELL_1788201702641",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T18:44:05.712822Z",
+    "token": "4mUKmrt7DSBUv2spN7CYgjC7HUGbt2pZYd2ZFZ9B4uko",
+    "symbol": "KILN",
+    "marketCap": 78039.0,
+    "liquidity": 22211.57,
+    "candidateScore": 11.1478,
+    "entryPrice": 6.965655e-05,
+    "exitPrice": 7.803e-05,
+    "peakPrice": 8.313e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.08414736302616194,
+    "profitLamports": 84147363,
+    "pnlPct": 12.021051860880277,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788201777304",
+    "sellTxid": "DRY_RUN_SELL_1788201845712",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "2jzVi9LZv5TN2UsoodWe7jXZfj5DL9p3oB7xqtakpump",
-  "symbol": "fred",
-  "marketCap": 51823.0,
-  "liquidity": 17605.32,
-  "volume1h": 22860.76,
-  "volume24h": 22860.76,
-  "candidateScore": 10.0345,
-  "entryPrice": 5.2119299999999994e-05,
-  "entryTime": 1788196226798,
-  "peakPrice": 5.2119299999999994e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788196226798",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

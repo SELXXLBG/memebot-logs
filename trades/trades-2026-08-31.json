@@ -318,5 +318,25 @@
     "buyTxid": "DRY_RUN_BUY_1788166124205",
     "sellTxid": "DRY_RUN_SELL_1788166178243",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T08:52:43.181350Z",
+    "token": "CiN8f69KQrLxtRKx4EEd8VyC6psogY7kBbyLKuwf4zY8",
+    "symbol": "Mimikyu",
+    "marketCap": 32871.0,
+    "liquidity": 13702.95,
+    "candidateScore": 11.5632,
+    "entryPrice": 4.824e-05,
+    "exitPrice": 3.287e-05,
+    "peakPrice": 4.824e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.22303067993366493,
+    "profitLamports": -223030679,
+    "pnlPct": -31.861525704809278,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788166337286",
+    "sellTxid": "DRY_RUN_SELL_1788166363181",
+    "source": "PYTHON_SCANNER"
   }
 ]

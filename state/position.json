@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "HexNJ1xHidJSMhMi2RgSiaw8d8y9e3v7kCJ8UNBXpump",
-  "symbol": "JOKE",
-  "marketCap": 33252.0,
-  "liquidity": 13756.22,
-  "volume1h": 39395.28,
-  "volume24h": 39395.28,
-  "candidateScore": 10.3358,
-  "entryPrice": 3.341625e-05,
-  "entryTime": 1788174132858,
-  "peakPrice": 3.765e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788174132858",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

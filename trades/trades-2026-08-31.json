@@ -798,5 +798,25 @@
     "buyTxid": "DRY_RUN_BUY_1788197240847",
     "sellTxid": "DRY_RUN_SELL_1788197267995",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T17:58:41.558652Z",
+    "token": "HyNys3cFWQBALE48KqUYo8dLeDy2M3MNcfoefmPXpump",
+    "symbol": "USSBXR ",
+    "marketCap": 57116.0,
+    "liquidity": 18604.31,
+    "candidateScore": 9.2209,
+    "entryPrice": 5.7908099999999995e-05,
+    "exitPrice": 5.711e-05,
+    "peakPrice": 6.106e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.009647527720646965,
+    "profitLamports": -9647527,
+    "pnlPct": -1.3782182458067094,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788198650936",
+    "sellTxid": "DRY_RUN_SELL_1788199121558",
+    "source": "PYTHON_SCANNER"
   }
 ]

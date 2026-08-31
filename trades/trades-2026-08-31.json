@@ -918,5 +918,25 @@
     "buyTxid": "DRY_RUN_BUY_1788201227741",
     "sellTxid": "DRY_RUN_SELL_1788201482304",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T18:41:42.641298Z",
+    "token": "GvG1zCYVsEbQXh8Y88iQMTpSkixqXZN9afmpL89Bpump",
+    "symbol": "DrunkJew",
+    "marketCap": 58668.0,
+    "liquidity": 19137.27,
+    "candidateScore": 11.1431,
+    "entryPrice": 4.6632e-05,
+    "exitPrice": 5.866e-05,
+    "peakPrice": 5.866e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.1805541259221136,
+    "profitLamports": 180554125,
+    "pnlPct": 25.79344656030194,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788201563562",
+    "sellTxid": "DRY_RUN_SELL_1788201702641",
+    "source": "PYTHON_SCANNER"
   }
 ]

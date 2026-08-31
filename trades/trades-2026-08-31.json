@@ -818,5 +818,25 @@
     "buyTxid": "DRY_RUN_BUY_1788198650936",
     "sellTxid": "DRY_RUN_SELL_1788199121558",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T18:08:25.874312Z",
+    "token": "2hkp8owKesQp89NeD1KqcEvnyVA4kKXJaxP4eiJepump",
+    "symbol": "SMOLAPE",
+    "marketCap": 69893.0,
+    "liquidity": 20920.89,
+    "candidateScore": 11.9562,
+    "entryPrice": 7.610864999999999e-05,
+    "exitPrice": 6.989e-05,
+    "peakPrice": 7.974e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0571952728106463,
+    "profitLamports": -57195272,
+    "pnlPct": -8.170753258663757,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1788199631702",
+    "sellTxid": "DRY_RUN_SELL_1788199705874",
+    "source": "PYTHON_SCANNER"
   }
 ]

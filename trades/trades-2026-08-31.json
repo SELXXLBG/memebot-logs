@@ -598,5 +598,25 @@
     "buyTxid": "DRY_RUN_BUY_1788186604534",
     "sellTxid": "DRY_RUN_SELL_1788186645809",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T14:52:19.201091Z",
+    "token": "BNM51cbC7dHF7PZ5cvmC8ZpX4jGSgQwpyH1b5Kbfpump",
+    "symbol": "PUPE",
+    "marketCap": 59230.0,
+    "liquidity": 19019.89,
+    "candidateScore": 11.0812,
+    "entryPrice": 4.775759999999999e-05,
+    "exitPrice": 5.923e-05,
+    "peakPrice": 5.923e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.16815501616496656,
+    "profitLamports": 168155016,
+    "pnlPct": 24.022145166423797,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788187926104",
+    "sellTxid": "DRY_RUN_SELL_1788187939201",
+    "source": "PYTHON_SCANNER"
   }
 ]

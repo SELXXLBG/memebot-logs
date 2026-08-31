@@ -138,5 +138,25 @@
     "buyTxid": "DRY_RUN_BUY_1788152674629",
     "sellTxid": "DRY_RUN_SELL_1788152684775",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T05:47:45.230574Z",
+    "token": "7nhSNBWBuXdYQSc1jJZZ25dqkAqhkaRePKhoweUQpump",
+    "symbol": "Microdick",
+    "marketCap": 38150.0,
+    "liquidity": 14794.22,
+    "candidateScore": 10.0449,
+    "entryPrice": 4.306424999999999e-05,
+    "exitPrice": 3.814e-05,
+    "peakPrice": 4.306424999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.08004261075021615,
+    "profitLamports": -80042610,
+    "pnlPct": -11.434658678602307,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788155260675",
+    "sellTxid": "DRY_RUN_SELL_1788155265230",
+    "source": "PYTHON_SCANNER"
   }
 ]

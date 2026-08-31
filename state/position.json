@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "DjoZ4fzBh5jyf3kT5aZYncm8WMLts2GBJuMMQbUGpump",
+  "symbol": "UPTEMBER",
+  "marketCap": 48989.0,
+  "liquidity": 17269.61,
+  "volume1h": 80299.65,
+  "volume24h": 80299.65,
+  "candidateScore": 11.2276,
+  "entryPrice": 4.92249e-05,
+  "entryTime": 1788202296868,
+  "peakPrice": 4.92249e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788202296868",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

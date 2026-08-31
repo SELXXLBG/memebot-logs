@@ -158,5 +158,25 @@
     "buyTxid": "DRY_RUN_BUY_1788155260675",
     "sellTxid": "DRY_RUN_SELL_1788155265230",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T05:56:50.974692Z",
+    "token": "5i5X3pD8z4fxFLpUbJx1zfDQMf9r8fuvpApP57nQpump",
+    "symbol": "Tuff",
+    "marketCap": 35695.0,
+    "liquidity": 14262.1,
+    "candidateScore": 9.7322,
+    "entryPrice": 4.3807949999999994e-05,
+    "exitPrice": 3.571e-05,
+    "peakPrice": 4.3807949999999994e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1293958060123789,
+    "profitLamports": -129395806,
+    "pnlPct": -18.48511514462556,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788155781698",
+    "sellTxid": "DRY_RUN_SELL_1788155810974",
+    "source": "PYTHON_SCANNER"
   }
 ]

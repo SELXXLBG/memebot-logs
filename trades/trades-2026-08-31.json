@@ -538,5 +538,25 @@
     "buyTxid": "DRY_RUN_BUY_1788183511993",
     "sellTxid": "DRY_RUN_SELL_1788183537509",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T13:58:50.020185Z",
+    "token": "4duBEe1EoNFdpkf2ouMn62zYLhMspGGB34uPZx5Gpump",
+    "symbol": "SOLLO",
+    "marketCap": 47352.0,
+    "liquidity": 16833.6,
+    "candidateScore": 11.3746,
+    "entryPrice": 5.8681949999999995e-05,
+    "exitPrice": 4.735e-05,
+    "peakPrice": 5.8681949999999995e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.13517555227800024,
+    "profitLamports": -135175552,
+    "pnlPct": -19.310793182571466,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788184708669",
+    "sellTxid": "DRY_RUN_SELL_1788184730020",
+    "source": "PYTHON_SCANNER"
   }
 ]

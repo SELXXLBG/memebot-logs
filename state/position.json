@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "7TqH1d4Vf9QG587vB99Q7ewFQPoxSYqBDxSAzBpBpump",
+  "symbol": "GPRO",
+  "marketCap": 118823.0,
+  "liquidity": 27851.13,
+  "volume1h": 124016.26,
+  "volume24h": 124016.26,
+  "candidateScore": 12.3,
+  "entryPrice": 0.00011939399999999999,
+  "entryTime": 1788206379459,
+  "peakPrice": 0.00011939399999999999,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788206379459",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

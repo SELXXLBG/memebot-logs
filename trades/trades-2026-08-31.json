@@ -338,5 +338,25 @@
     "buyTxid": "DRY_RUN_BUY_1788166337286",
     "sellTxid": "DRY_RUN_SELL_1788166363181",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T09:42:55.603657Z",
+    "token": "8ex9zVQfkcBq5WhCMX4DP7j2wRCdaWSMvVoHgGiEpump",
+    "symbol": "bfone",
+    "marketCap": 87765.0,
+    "liquidity": 23498.61,
+    "candidateScore": 10.5763,
+    "entryPrice": 9.30027e-05,
+    "exitPrice": 8.776e-05,
+    "peakPrice": 9.30027e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0394600371817162,
+    "profitLamports": -39460037,
+    "pnlPct": -5.6371481688166005,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788169363976",
+    "sellTxid": "DRY_RUN_SELL_1788169375603",
+    "source": "PYTHON_SCANNER"
   }
 ]

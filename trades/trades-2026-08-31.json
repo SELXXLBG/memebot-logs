@@ -418,5 +418,25 @@
     "buyTxid": "DRY_RUN_BUY_1788171257222",
     "sellTxid": "DRY_RUN_SELL_1788171281389",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T10:41:17.745952Z",
+    "token": "4bzCcz2mSqZ552a2CA9PT6GkzgeW6rcUaRsD1Fu9pump",
+    "symbol": "Viscacha",
+    "marketCap": 49260.0,
+    "liquidity": 17080.3,
+    "candidateScore": 9.5139,
+    "entryPrice": 5.2189649999999996e-05,
+    "exitPrice": 4.925e-05,
+    "peakPrice": 5.2189649999999996e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.03942841157202623,
+    "profitLamports": -39428411,
+    "pnlPct": -5.632630224575176,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788172847458",
+    "sellTxid": "DRY_RUN_SELL_1788172877745",
+    "source": "PYTHON_SCANNER"
   }
 ]

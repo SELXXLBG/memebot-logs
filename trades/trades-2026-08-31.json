@@ -658,5 +658,25 @@
     "buyTxid": "DRY_RUN_BUY_1788190664964",
     "sellTxid": "DRY_RUN_SELL_1788190730869",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T15:53:03.747311Z",
+    "token": "8ZZuVb74Pc3GYRmsskkBmFoTrGihMy6A4NVAnMHMpump",
+    "symbol": "Sharingan",
+    "marketCap": 48166.0,
+    "liquidity": 16911.05,
+    "candidateScore": 9.8683,
+    "entryPrice": 4.973745e-05,
+    "exitPrice": 4.816e-05,
+    "peakPrice": 4.973745e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.022200876804098314,
+    "profitLamports": -22200876,
+    "pnlPct": -3.171553829156902,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788191556475",
+    "sellTxid": "DRY_RUN_SELL_1788191583747",
+    "source": "PYTHON_SCANNER"
   }
 ]

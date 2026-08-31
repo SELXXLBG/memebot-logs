@@ -1,0 +1,22 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T00:03:36.112536Z",
+    "token": "7TBkWkqohDZEoCAh1ykErGKyZzgFUEjxTv75xQeAvTeP",
+    "symbol": "APEC",
+    "marketCap": 31812.0,
+    "liquidity": 14886.85,
+    "candidateScore": 10.3952,
+    "entryPrice": 4.4260199999999993e-05,
+    "exitPrice": 3.181e-05,
+    "peakPrice": 4.538e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.19690692766865028,
+    "profitLamports": -196906927,
+    "pnlPct": -28.12956109552147,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788134574801",
+    "sellTxid": "DRY_RUN_SELL_1788134616112",
+    "source": "PYTHON_SCANNER"
+  }
+]

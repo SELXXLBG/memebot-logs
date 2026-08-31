@@ -678,5 +678,25 @@
     "buyTxid": "DRY_RUN_BUY_1788191556475",
     "sellTxid": "DRY_RUN_SELL_1788191583747",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T16:01:35.301248Z",
+    "token": "Busoc97Lc3gMSNk8CRyF6ya1tfB8bwR5MSWmm1D2pump",
+    "symbol": "inu",
+    "marketCap": 60974.0,
+    "liquidity": 19266.37,
+    "candidateScore": 10.2843,
+    "entryPrice": 4.662195e-05,
+    "exitPrice": 6.097e-05,
+    "peakPrice": 6.097e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.21542717539699652,
+    "profitLamports": 215427175,
+    "pnlPct": 30.775310770999504,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788192047528",
+    "sellTxid": "DRY_RUN_SELL_1788192095301",
+    "source": "PYTHON_SCANNER"
   }
 ]

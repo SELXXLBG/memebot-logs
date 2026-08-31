@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "93ihpGjLVnhghXciSeFovXwKF762rwcigW12kSQBpump",
+  "symbol": "STYXX",
+  "marketCap": 75797.0,
+  "liquidity": 22235.93,
+  "volume1h": 83534.31,
+  "volume24h": 97888.58,
+  "candidateScore": 10.5938,
+  "entryPrice": 8.002814999999998e-05,
+  "entryTime": 1788151607675,
+  "peakPrice": 8.002814999999998e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788151607675",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

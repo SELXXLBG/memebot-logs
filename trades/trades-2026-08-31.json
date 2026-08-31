@@ -1038,5 +1038,25 @@
     "buyTxid": "DRY_RUN_BUY_1788204067304",
     "sellTxid": "DRY_RUN_SELL_1788204118990",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T19:28:54.631816Z",
+    "token": "2Nm18vbG7MBfTKQFdSL7S791WAZwxyAWHsjeuFa7pump",
+    "symbol": "RIPPY",
+    "marketCap": 55263.0,
+    "liquidity": 18315.08,
+    "candidateScore": 9.7037,
+    "entryPrice": 4.4330549999999995e-05,
+    "exitPrice": 5.526e-05,
+    "peakPrice": 5.526e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.17258109813661246,
+    "profitLamports": 172581098,
+    "pnlPct": 24.65444259094464,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788204468478",
+    "sellTxid": "DRY_RUN_SELL_1788204534631",
+    "source": "PYTHON_SCANNER"
   }
 ]

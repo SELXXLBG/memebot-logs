@@ -758,5 +758,25 @@
     "buyTxid": "DRY_RUN_BUY_1788195951191",
     "sellTxid": "DRY_RUN_SELL_1788196013708",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T17:10:32.192401Z",
+    "token": "2jzVi9LZv5TN2UsoodWe7jXZfj5DL9p3oB7xqtakpump",
+    "symbol": "fred",
+    "marketCap": 46443.0,
+    "liquidity": 16575.82,
+    "candidateScore": 10.0345,
+    "entryPrice": 5.2119299999999994e-05,
+    "exitPrice": 4.648e-05,
+    "peakPrice": 5.2119299999999994e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.07573988906220909,
+    "profitLamports": -75739889,
+    "pnlPct": -10.819984151744157,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788196226798",
+    "sellTxid": "DRY_RUN_SELL_1788196232192",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "8ex9zVQfkcBq5WhCMX4DP7j2wRCdaWSMvVoHgGiEpump",
-  "symbol": "bfone",
-  "marketCap": 92541.0,
-  "liquidity": 24171.76,
-  "volume1h": 37530.78,
-  "volume24h": 37530.78,
-  "candidateScore": 10.5763,
-  "entryPrice": 9.30027e-05,
-  "entryTime": 1788169363976,
-  "peakPrice": 9.30027e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788169363976",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

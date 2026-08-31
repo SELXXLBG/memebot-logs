@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "2QChDZRA76jXfmMt6t1GC6SjsmUkpiD6jzimy4jHKPAD",
+  "symbol": "PAD",
+  "marketCap": 64000.0,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 8.375669999999998e-05,
+  "entryTime": 1788217514883,
+  "peakPrice": 8.375669999999998e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788217514883",
+  "isDryRun": true,
+  "source": "KOL_CALLANALYSER"
+}

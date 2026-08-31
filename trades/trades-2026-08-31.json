@@ -278,5 +278,25 @@
     "buyTxid": "DRY_RUN_BUY_1788162094321",
     "sellTxid": "DRY_RUN_SELL_1788162140267",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T08:39:03.407017Z",
+    "token": "Duz5NLo5cyLPFrPiocsu7Cq4ovbUg8yBhbGxvBPWpump",
+    "symbol": "beanly",
+    "marketCap": 73475.0,
+    "liquidity": 21384.8,
+    "candidateScore": 10.2088,
+    "entryPrice": 7.261124999999999e-05,
+    "exitPrice": 7.347e-05,
+    "peakPrice": 7.983e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.008278675825027204,
+    "profitLamports": 8278675,
+    "pnlPct": 1.1826679750038864,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788165482904",
+    "sellTxid": "DRY_RUN_SELL_1788165543407",
+    "source": "PYTHON_SCANNER"
   }
 ]

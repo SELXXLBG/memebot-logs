@@ -978,5 +978,25 @@
     "buyTxid": "DRY_RUN_BUY_1788202296868",
     "sellTxid": "DRY_RUN_SELL_1788202355561",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T19:06:22.102531Z",
+    "token": "EYBMhikmdqUs6j5p9mv1tfPY3HszsCyYeRpwme6Bpump",
+    "symbol": "VOXIE",
+    "marketCap": 58531.0,
+    "liquidity": 18968.19,
+    "candidateScore": 10.7071,
+    "entryPrice": 3.1808249999999995e-05,
+    "exitPrice": 5.853e-05,
+    "peakPrice": 5.853e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.5880620593713896,
+    "profitLamports": 588062059,
+    "pnlPct": 84.00886562448423,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788203127898",
+    "sellTxid": "DRY_RUN_SELL_1788203182102",
+    "source": "PYTHON_SCANNER"
   }
 ]

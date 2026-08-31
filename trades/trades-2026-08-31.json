@@ -1198,5 +1198,25 @@
     "buyTxid": "DRY_RUN_BUY_1788211866958",
     "sellTxid": "DRY_RUN_SELL_1788211963086",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T21:51:07.615081Z",
+    "token": "C4bhc12gc3hV3Kw8doumtBAqdAMUYKgwQXHW3nx5pump",
+    "symbol": "groker",
+    "marketCap": 44728.0,
+    "liquidity": 16301.12,
+    "candidateScore": 9.7629,
+    "entryPrice": 5.298359999999999e-05,
+    "exitPrice": 4.472e-05,
+    "peakPrice": 5.298359999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.10917566945243426,
+    "profitLamports": -109175669,
+    "pnlPct": -15.596524207490608,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788213060054",
+    "sellTxid": "DRY_RUN_SELL_1788213067615",
+    "source": "PYTHON_SCANNER"
   }
 ]

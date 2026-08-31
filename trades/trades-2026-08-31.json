@@ -298,5 +298,25 @@
     "buyTxid": "DRY_RUN_BUY_1788165482904",
     "sellTxid": "DRY_RUN_SELL_1788165543407",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T08:49:38.243787Z",
+    "token": "3v3MymJvAoH2P4kb3uc2XqDX5LSK3ZyR1E3DuqSkpump",
+    "symbol": "ABYSSAL",
+    "marketCap": 42371.0,
+    "liquidity": 15745.56,
+    "candidateScore": 10.2337,
+    "entryPrice": 4.349639999999999e-05,
+    "exitPrice": 4.237e-05,
+    "peakPrice": 4.629e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.01812747721650511,
+    "profitLamports": -18127477,
+    "pnlPct": -2.589639602357873,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788166124205",
+    "sellTxid": "DRY_RUN_SELL_1788166178243",
+    "source": "PYTHON_SCANNER"
   }
 ]

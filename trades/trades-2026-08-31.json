@@ -58,5 +58,25 @@
     "buyTxid": "DRY_RUN_BUY_1788137843339",
     "sellTxid": "DRY_RUN_SELL_1788137901002",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T03:31:13.959712Z",
+    "token": "FoH1L4hLoz16g1cfG79r4NcTAqP77y8jVoqAQa9gpump",
+    "symbol": "Graped",
+    "marketCap": 129635.0,
+    "liquidity": 30147.26,
+    "candidateScore": 9.6166,
+    "entryPrice": 0.00015416699999999998,
+    "exitPrice": 0.0001347,
+    "peakPrice": 0.00015416699999999998,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.08839051158808298,
+    "profitLamports": -88390511,
+    "pnlPct": -12.627215941154713,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788147052700",
+    "sellTxid": "DRY_RUN_SELL_1788147073959",
+    "source": "PYTHON_SCANNER"
   }
 ]

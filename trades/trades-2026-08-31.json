@@ -1158,5 +1158,25 @@
     "buyTxid": "DRY_RUN_BUY_1788210642566",
     "sellTxid": "DRY_RUN_SELL_1788210655196",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T21:13:36.969905Z",
+    "token": "EE4e7Nx3QJE18QuHY3jz7pBzahFptc39ZUQc33EdqE91",
+    "symbol": "MEMESTOCK",
+    "marketCap": 31110.0,
+    "liquidity": 13934.1,
+    "candidateScore": 7.9949,
+    "entryPrice": 3.1597199999999996e-05,
+    "exitPrice": 3.209e-05,
+    "peakPrice": 3.453e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.010917423062803104,
+    "profitLamports": 10917423,
+    "pnlPct": 1.559631866114729,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788210673178",
+    "sellTxid": "DRY_RUN_SELL_1788210816969",
+    "source": "PYTHON_SCANNER"
   }
 ]

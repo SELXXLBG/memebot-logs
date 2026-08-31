@@ -718,5 +718,25 @@
     "buyTxid": "DRY_RUN_BUY_1788193339581",
     "sellTxid": "DRY_RUN_SELL_1788193373936",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T16:36:03.429280Z",
+    "token": "Gm7URgHiWi6AGwymT5WX7LVJnVeceRitEWB6Ck5Wpump",
+    "symbol": "Payfone",
+    "marketCap": 66539.0,
+    "liquidity": 20345.29,
+    "candidateScore": 11.3446,
+    "entryPrice": 4.491344999999999e-05,
+    "exitPrice": 6.653e-05,
+    "peakPrice": 6.653e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.3369054258802209,
+    "profitLamports": 336905425,
+    "pnlPct": 48.12934655431727,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788194111156",
+    "sellTxid": "DRY_RUN_SELL_1788194163429",
+    "source": "PYTHON_SCANNER"
   }
 ]

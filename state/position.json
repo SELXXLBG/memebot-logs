@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "uLciFduYZDfo3fRfQAZFAxFBvGYytCRBt9Mr6QKpump",
+  "symbol": "POW",
+  "marketCap": 41000.0,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 8.329439999999999e-05,
+  "entryTime": 1788207662690,
+  "peakPrice": 8.329439999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788207662690",
+  "isDryRun": true,
+  "source": "KOL_CALLANALYSER"
+}

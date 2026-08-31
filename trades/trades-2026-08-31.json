@@ -738,5 +738,25 @@
     "buyTxid": "DRY_RUN_BUY_1788194111156",
     "sellTxid": "DRY_RUN_SELL_1788194163429",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-08-31T17:06:53.708401Z",
+    "token": "9CQ7J8R5Qf1v3LoV5bnYfcx4u5PG4WBRWNrJ9TVrpump",
+    "symbol": "$TWIN",
+    "marketCap": 47991.0,
+    "liquidity": 17058.28,
+    "candidateScore": 12.0194,
+    "entryPrice": 5.0491199999999995e-05,
+    "exitPrice": 4.799e-05,
+    "peakPrice": 5.732e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.03467614158506823,
+    "profitLamports": -34676141,
+    "pnlPct": -4.953734512152605,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788195951191",
+    "sellTxid": "DRY_RUN_SELL_1788196013708",
+    "source": "PYTHON_SCANNER"
   }
 ]

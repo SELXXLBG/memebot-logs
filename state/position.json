@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "EeZ67jpgcxe55R3qGg9oF14eQ293bbSFyKL3VkKvFH3F",
-  "symbol": "MICRO",
-  "marketCap": 137000.0,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 8.5,
-  "entryPrice": 0.00014431799999999997,
-  "entryTime": 1788270766300,
-  "peakPrice": 0.00014431799999999997,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788270766300",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

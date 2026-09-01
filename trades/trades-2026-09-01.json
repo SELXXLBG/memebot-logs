@@ -778,5 +778,25 @@
     "buyTxid": "DRY_RUN_BUY_1788258159640",
     "sellTxid": "DRY_RUN_SELL_1788258170119",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T10:36:29.183918Z",
+    "token": "BAX8hB13yHW6d4oUwhcS18QRvDxfZBe2qzjqXWz6pump",
+    "symbol": "fable",
+    "marketCap": 112226.0,
+    "liquidity": 27029.78,
+    "candidateScore": 11.9456,
+    "entryPrice": 0.0001245195,
+    "exitPrice": 0.0001122,
+    "peakPrice": 0.0001245195,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06925541782612359,
+    "profitLamports": -69255417,
+    "pnlPct": -9.893631118017657,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788258986380",
+    "sellTxid": "DRY_RUN_SELL_1788258989183",
+    "source": "PYTHON_SCANNER"
   }
 ]

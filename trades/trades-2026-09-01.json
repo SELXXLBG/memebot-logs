@@ -1018,5 +1018,25 @@
     "buyTxid": "DRY_RUN_BUY_1788268996371",
     "sellTxid": "DRY_RUN_SELL_1788269063146",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T13:53:47.174806Z",
+    "token": "EeZ67jpgcxe55R3qGg9oF14eQ293bbSFyKL3VkKvFH3F",
+    "symbol": "MICRO",
+    "marketCap": 99573.0,
+    "liquidity": 27151.04,
+    "candidateScore": 8.5,
+    "entryPrice": 0.00014431799999999997,
+    "exitPrice": 0.0001018,
+    "peakPrice": 0.00014431799999999997,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.20622929918651856,
+    "profitLamports": -206229299,
+    "pnlPct": -29.46132845521694,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788270766300",
+    "sellTxid": "DRY_RUN_SELL_1788270827174",
+    "source": "KOL_CALLANALYSER"
   }
 ]

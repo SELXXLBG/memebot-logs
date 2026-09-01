@@ -278,5 +278,25 @@
     "buyTxid": "DRY_RUN_BUY_1788232727860",
     "sellTxid": "DRY_RUN_SELL_1788232745806",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T03:22:02.133064Z",
+    "token": "B3K4qx7pvMCs4cDV3r4f9wLSPNxViAtxxCErKi4ppump",
+    "symbol": "MONK",
+    "marketCap": 53727.0,
+    "liquidity": 18028.3,
+    "candidateScore": 10.5014,
+    "entryPrice": 4.45617e-05,
+    "exitPrice": 5.372e-05,
+    "peakPrice": 5.372e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.14386367665506483,
+    "profitLamports": 143863676,
+    "pnlPct": 20.551953807866404,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788232910511",
+    "sellTxid": "DRY_RUN_SELL_1788232922133",
+    "source": "PYTHON_SCANNER"
   }
 ]

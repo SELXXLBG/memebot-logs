@@ -898,5 +898,25 @@
     "buyTxid": "DRY_RUN_BUY_1788265015193",
     "sellTxid": "DRY_RUN_SELL_1788265043751",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T12:21:18.891110Z",
+    "token": "Bfwpx6q5xAnKJomp2DBk4EaTYkjkqesQX97AD3r3pump",
+    "symbol": "StonkInu",
+    "marketCap": 112446.0,
+    "liquidity": 27006.19,
+    "candidateScore": 12.3,
+    "entryPrice": 0.00011748449999999998,
+    "exitPrice": 0.0001124,
+    "peakPrice": 0.0001279,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.030294634611374202,
+    "profitLamports": -30294634,
+    "pnlPct": -4.327804944482029,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788265107580",
+    "sellTxid": "DRY_RUN_SELL_1788265278891",
+    "source": "PYTHON_SCANNER"
   }
 ]

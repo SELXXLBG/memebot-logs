@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "4rSRTTJWSr6Rc2SLH5Uibmja8dtmuBBwkm46LQuPpump",
-  "symbol": "Termus",
-  "marketCap": 44853.0,
-  "liquidity": 16095.52,
-  "volume1h": 12750.95,
-  "volume24h": 12750.95,
-  "candidateScore": 9.4672,
-  "entryPrice": 4.507424999999999e-05,
-  "entryTime": 1788279943204,
-  "peakPrice": 4.507424999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788279943204",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

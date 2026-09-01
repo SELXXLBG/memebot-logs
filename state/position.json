@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "9Qd95G3TKB61py4TURSTBka6GntAj2xzvbGp3kLTpump",
-  "symbol": "SLUCE",
-  "marketCap": 38045.0,
-  "liquidity": 14803.87,
-  "volume1h": 75654.59,
-  "volume24h": 75654.59,
-  "candidateScore": 11.119,
-  "entryPrice": 3.82302e-05,
-  "entryTime": 1788263668342,
-  "peakPrice": 4.201e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788263668342",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

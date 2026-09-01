@@ -158,5 +158,25 @@
     "buyTxid": "DRY_RUN_BUY_1788227975511",
     "sellTxid": "DRY_RUN_SELL_1788228036990",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T02:14:04.170597Z",
+    "token": "4qAv1QAoFpNtTqxpZmyjLfxM3RRcLqT84gJf3KNrQS3c",
+    "symbol": "BULLPAD",
+    "marketCap": 36433.0,
+    "liquidity": 14512.68,
+    "candidateScore": 11.2243,
+    "entryPrice": 4.41597e-05,
+    "exitPrice": 3.647e-05,
+    "peakPrice": 4.41597e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.12189371757507403,
+    "profitLamports": -121893717,
+    "pnlPct": -17.413388225010575,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788228827925",
+    "sellTxid": "DRY_RUN_SELL_1788228844170",
+    "source": "PYTHON_SCANNER"
   }
 ]

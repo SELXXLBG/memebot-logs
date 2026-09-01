@@ -1058,5 +1058,25 @@
     "buyTxid": "DRY_RUN_BUY_1788271787373",
     "sellTxid": "DRY_RUN_SELL_1788272721281",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T14:38:54.283711Z",
+    "token": "Gd2igp4YL8Sn1nag3F8U98Eo2eJrgFxjk6DSaRorpump",
+    "symbol": "Flip",
+    "marketCap": 83999.0,
+    "liquidity": 23101.88,
+    "candidateScore": 12.6486,
+    "entryPrice": 8.171655e-05,
+    "exitPrice": 8.399e-05,
+    "peakPrice": 9.566e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.019474818748466505,
+    "profitLamports": 19474818,
+    "pnlPct": 2.782116964066644,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788273477188",
+    "sellTxid": "DRY_RUN_SELL_1788273534283",
+    "source": "PYTHON_SCANNER"
   }
 ]

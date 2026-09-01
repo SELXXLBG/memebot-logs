@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "posWsbD8rmmz6zUF6ADKuMVHWphvqFs8bHRovsgjFUN",
-  "symbol": "POS",
-  "marketCap": 44032.0,
-  "liquidity": 15964.93,
-  "volume1h": 10053.34,
-  "volume24h": 10053.34,
-  "candidateScore": 9.703,
-  "entryPrice": 4.42803e-05,
-  "entryTime": 1788279605200,
-  "peakPrice": 4.42803e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788279605200",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

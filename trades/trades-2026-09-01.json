@@ -1418,5 +1418,25 @@
     "buyTxid": "DRY_RUN_BUY_1788286408306",
     "sellTxid": "DRY_RUN_SELL_1788286468184",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T18:42:11.286239Z",
+    "token": "9cS5Ctdf4jqz8CwLzYiPMKW5RmvedbQ15dZRd4kdpump",
+    "symbol": "Rotisserie",
+    "marketCap": 38010.0,
+    "liquidity": 14612.54,
+    "candidateScore": 10.8455,
+    "entryPrice": 4.8621899999999996e-05,
+    "exitPrice": 3.8e-05,
+    "peakPrice": 4.8621899999999996e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.15292142018308613,
+    "profitLamports": -152921420,
+    "pnlPct": -21.845917169012306,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788288093398",
+    "sellTxid": "DRY_RUN_SELL_1788288131286",
+    "source": "PYTHON_SCANNER"
   }
 ]

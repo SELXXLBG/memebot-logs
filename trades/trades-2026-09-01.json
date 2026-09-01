@@ -758,5 +758,25 @@
     "buyTxid": "DRY_RUN_BUY_1788256669796",
     "sellTxid": "DRY_RUN_SELL_1788256716052",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T10:22:50.119699Z",
+    "token": "Daj8qEnEb9L6v1wmrCPJGunJAsQJuXctFsEh9TsApump",
+    "symbol": "CHUCHO",
+    "marketCap": 60097.0,
+    "liquidity": 19198.48,
+    "candidateScore": 11.2545,
+    "entryPrice": 6.740534999999999e-05,
+    "exitPrice": 6.009e-05,
+    "peakPrice": 6.740534999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0759694148906577,
+    "profitLamports": -75969414,
+    "pnlPct": -10.852773555808243,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788258159640",
+    "sellTxid": "DRY_RUN_SELL_1788258170119",
+    "source": "PYTHON_SCANNER"
   }
 ]

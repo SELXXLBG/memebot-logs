@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "BF5Brj8HdE5b2CJ5XzSMYDVZzhhbnSg6k3fPAz8opump",
-  "symbol": "COGE",
-  "marketCap": 43073.0,
-  "liquidity": 15890.76,
-  "volume1h": 39220.35,
-  "volume24h": 39220.35,
-  "candidateScore": 9.9093,
-  "entryPrice": 4.3285349999999994e-05,
-  "entryTime": 1788248102503,
-  "peakPrice": 4.3285349999999994e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788248102503",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

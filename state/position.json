@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "AQ9pKadi9jA1vTofHFPrsgXjUU8C2pF8FpFpg2oMpump",
-  "symbol": "Blue",
-  "marketCap": 38673.0,
-  "liquidity": 15028.86,
-  "volume1h": 59195.88,
-  "volume24h": 59195.88,
-  "candidateScore": 11.3045,
-  "entryPrice": 3.8863349999999994e-05,
-  "entryTime": 1788240508908,
-  "peakPrice": 3.8863349999999994e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788240508908",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "YqcuATZxuireTdAMY2euLmZRos7u4SNmdLpTZUDpump",
+  "symbol": "SOLAMI",
+  "marketCap": 171000.0,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.4,
+  "entryPrice": 0.00017265899999999997,
+  "entryTime": 1788278121471,
+  "peakPrice": 0.00017265899999999997,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788278121471",
+  "isDryRun": true,
+  "source": "KOL_CALLANALYSER"
+}

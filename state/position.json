@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "5jeGaCtaYh3zZxTmrFZh1zVygJSeVKLgbX61rdaWpump",
+  "symbol": "ROBINNYAN",
+  "marketCap": 76000.0,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.00010562549999999999,
+  "entryTime": 1788244140674,
+  "peakPrice": 0.00010562549999999999,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788244140674",
+  "isDryRun": true,
+  "source": "KOL_CALLANALYSER"
+}

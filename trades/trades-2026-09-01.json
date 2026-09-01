@@ -78,5 +78,25 @@
     "buyTxid": "DRY_RUN_BUY_1788224861564",
     "sellTxid": "DRY_RUN_SELL_1788224891603",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T01:26:31.228735Z",
+    "token": "642XvszEjiMcj9fomnfZkQB9DfQD6kksLj7nuiZJpump",
+    "symbol": "SLOP",
+    "marketCap": 35064.0,
+    "liquidity": 14218.34,
+    "candidateScore": 10.697,
+    "entryPrice": 5.068215e-05,
+    "exitPrice": 3.506e-05,
+    "peakPrice": 5.068215e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.21576639901819472,
+    "profitLamports": -215766399,
+    "pnlPct": -30.823771288313534,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788225964703",
+    "sellTxid": "DRY_RUN_SELL_1788225991228",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "HpDfwCfH7HzerE9e4mBdBQ9PyRzoWWj8EwJjqijNpump",
-  "symbol": "FOMOBUNNY",
-  "marketCap": 73000.0,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 7.580715e-05,
-  "entryTime": 1788256669796,
-  "peakPrice": 7.580715e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788256669796",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

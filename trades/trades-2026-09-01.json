@@ -1078,5 +1078,25 @@
     "buyTxid": "DRY_RUN_BUY_1788273477188",
     "sellTxid": "DRY_RUN_SELL_1788273534283",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T14:40:31.556204Z",
+    "token": "Ck3MzWwogmM7JDuXY49HPbX5kPuQhTkxEdb3z59Rpump",
+    "symbol": "BVP",
+    "marketCap": 33169.0,
+    "liquidity": 13677.6,
+    "candidateScore": 11.0486,
+    "entryPrice": 3.560715e-05,
+    "exitPrice": 3.316e-05,
+    "peakPrice": 3.786e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.048108455745545405,
+    "profitLamports": -48108455,
+    "pnlPct": -6.872636535077915,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1788273569211",
+    "sellTxid": "DRY_RUN_SELL_1788273631556",
+    "source": "PYTHON_SCANNER"
   }
 ]

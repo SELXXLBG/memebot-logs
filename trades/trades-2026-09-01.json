@@ -378,5 +378,25 @@
     "buyTxid": "DRY_RUN_BUY_1788239262974",
     "sellTxid": "DRY_RUN_SELL_1788239328029",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T05:16:11.663731Z",
+    "token": "8NKQuBuwQ8FE8sFtNkzbk83DECKuY6Rh4FfLadxGpump",
+    "symbol": "DN",
+    "marketCap": 43179.0,
+    "liquidity": 15963.19,
+    "candidateScore": 10.5812,
+    "entryPrice": 4.460189999999999e-05,
+    "exitPrice": 4.317e-05,
+    "peakPrice": 4.460189999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.022472809454305586,
+    "profitLamports": -22472809,
+    "pnlPct": -3.2104013506150837,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788239747086",
+    "sellTxid": "DRY_RUN_SELL_1788239771663",
+    "source": "PYTHON_SCANNER"
   }
 ]

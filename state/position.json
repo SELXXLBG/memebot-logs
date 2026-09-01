@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "8NKQuBuwQ8FE8sFtNkzbk83DECKuY6Rh4FfLadxGpump",
+  "symbol": "DN",
+  "marketCap": 44387.0,
+  "liquidity": 16200.46,
+  "volume1h": 39469.31,
+  "volume24h": 39469.31,
+  "candidateScore": 10.5812,
+  "entryPrice": 4.460189999999999e-05,
+  "entryTime": 1788239747086,
+  "peakPrice": 4.460189999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788239747086",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

@@ -118,5 +118,25 @@
     "buyTxid": "DRY_RUN_BUY_1788226025582",
     "sellTxid": "DRY_RUN_SELL_1788226032874",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T01:56:20.672542Z",
+    "token": "AesbwdfgLavw6Qw5pZrQcMs7yPpzwQQed5WJEcyxpump",
+    "symbol": "MEMEPLOYED",
+    "marketCap": 37926.0,
+    "liquidity": 14836.94,
+    "candidateScore": 11.391,
+    "entryPrice": 4.81194e-05,
+    "exitPrice": 3.792e-05,
+    "peakPrice": 4.81194e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.14837217421663607,
+    "profitLamports": -148372174,
+    "pnlPct": -21.196024888090868,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788227762785",
+    "sellTxid": "DRY_RUN_SELL_1788227780672",
+    "source": "PYTHON_SCANNER"
   }
 ]

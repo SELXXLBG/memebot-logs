@@ -1398,5 +1398,25 @@
     "buyTxid": "DRY_RUN_BUY_1788280869263",
     "sellTxid": "DRY_RUN_SELL_1788286276330",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T18:14:28.184937Z",
+    "token": "BjcXmPHa1oXeR1DGfrSB1kTw24BJuJKZMk9zMFSmpump",
+    "symbol": "Orbital",
+    "marketCap": 36109.0,
+    "liquidity": 14212.59,
+    "candidateScore": 9.7658,
+    "entryPrice": 4.057185e-05,
+    "exitPrice": 3.61e-05,
+    "peakPrice": 4.302e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.07715435702340409,
+    "profitLamports": -77154357,
+    "pnlPct": -11.022051003343442,
+    "reason": "STOPLOSS8P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1788286408306",
+    "sellTxid": "DRY_RUN_SELL_1788286468184",
+    "source": "PYTHON_SCANNER"
   }
 ]

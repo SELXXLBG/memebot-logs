@@ -518,5 +518,25 @@
     "buyTxid": "DRY_RUN_BUY_1788242983501",
     "sellTxid": "DRY_RUN_SELL_1788243003855",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T06:16:04.418826Z",
+    "token": "4eXGQJMBZp656x9eqerEc1hepSoe27zvuXBtNuqjpump",
+    "symbol": "084BEAR",
+    "marketCap": 95242.0,
+    "liquidity": 26574.4,
+    "candidateScore": 10.0209,
+    "entryPrice": 0.00010894199999999999,
+    "exitPrice": 0.000108,
+    "peakPrice": 0.000116,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.006052762020157465,
+    "profitLamports": -6052762,
+    "pnlPct": -0.8646802885939235,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788243318517",
+    "sellTxid": "DRY_RUN_SELL_1788243364418",
+    "source": "PYTHON_SCANNER"
   }
 ]

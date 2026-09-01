@@ -1578,5 +1578,25 @@
     "buyTxid": "DRY_RUN_BUY_1788294071340",
     "sellTxid": "DRY_RUN_SELL_1788295227617",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T20:41:01.242703Z",
+    "token": "3D62gTtHREVwyjTC2izpXLdcwgKjtVvsQEuv1FHtpump",
+    "symbol": "CERNEY",
+    "marketCap": 38601.0,
+    "liquidity": 14776.49,
+    "candidateScore": 10.1219,
+    "entryPrice": 4.6883249999999995e-05,
+    "exitPrice": 3.86e-05,
+    "peakPrice": 4.6883249999999995e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.12367476657441612,
+    "profitLamports": -123674766,
+    "pnlPct": -17.66782379634516,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788295233382",
+    "sellTxid": "DRY_RUN_SELL_1788295261242",
+    "source": "PYTHON_SCANNER"
   }
 ]

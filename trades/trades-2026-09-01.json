@@ -638,5 +638,25 @@
     "buyTxid": "DRY_RUN_BUY_1788248102503",
     "sellTxid": "DRY_RUN_SELL_1788248128940",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T07:41:11.090223Z",
+    "token": "41ATnp4GSXDaXzC7Aikn65Q3PKJzJ5AFiRKNjkwopump",
+    "symbol": "Finn",
+    "marketCap": 30142.0,
+    "liquidity": 12993.29,
+    "candidateScore": 9.8052,
+    "entryPrice": 3.502425e-05,
+    "exitPrice": 3.014e-05,
+    "peakPrice": 3.502425e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.09761736511131573,
+    "profitLamports": -97617365,
+    "pnlPct": -13.945337873045105,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788248468613",
+    "sellTxid": "DRY_RUN_SELL_1788248471090",
+    "source": "PYTHON_SCANNER"
   }
 ]

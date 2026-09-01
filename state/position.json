@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "3U2U7Kv4EWwJfCJFLBPLXYNCVehBiYEZGPzy37Tcpump",
-  "symbol": "TRUCE",
-  "marketCap": 42338.0,
-  "liquidity": 15528.21,
-  "volume1h": 62141.35,
-  "volume24h": 62141.35,
-  "candidateScore": 11.0496,
-  "entryPrice": 4.2541649999999996e-05,
-  "entryTime": 1788289653868,
-  "peakPrice": 4.2541649999999996e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788289653868",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

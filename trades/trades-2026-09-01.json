@@ -198,5 +198,25 @@
     "buyTxid": "DRY_RUN_BUY_1788228949782",
     "sellTxid": "DRY_RUN_SELL_1788228964337",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T02:24:32.941404Z",
+    "token": "ASDFvo2ex6WyfwB5Sa4chTmwJhckk8Gtvsmu7fPcpump",
+    "symbol": "DEE",
+    "marketCap": 42393.0,
+    "liquidity": 15731.52,
+    "candidateScore": 9.472,
+    "entryPrice": 4.7988749999999993e-05,
+    "exitPrice": 4.239e-05,
+    "peakPrice": 4.7988749999999993e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.08166757833867305,
+    "profitLamports": -81667578,
+    "pnlPct": -11.666796905524722,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788229467088",
+    "sellTxid": "DRY_RUN_SELL_1788229472941",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "2Hz7jarCWer6xnrCZXkyyXVRTx7sDxiijbXCLpAEpump",
-  "symbol": "EYE",
-  "marketCap": 37429.0,
-  "liquidity": 14739.19,
-  "volume1h": 43788.29,
-  "volume24h": 43788.29,
-  "candidateScore": 10.3466,
-  "entryPrice": 3.7878449999999996e-05,
-  "entryTime": 1788228949782,
-  "peakPrice": 3.7878449999999996e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788228949782",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

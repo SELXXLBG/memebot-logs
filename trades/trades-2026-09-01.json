@@ -1218,5 +1218,25 @@
     "buyTxid": "DRY_RUN_BUY_1788276510980",
     "sellTxid": "DRY_RUN_SELL_1788276543392",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T15:44:44.500654Z",
+    "token": "92G6qAymyDNQe4kaBoB9h2fz6mzsYJrEV3T5BetZpump",
+    "symbol": "TIT",
+    "marketCap": 171981.0,
+    "liquidity": 38640.93,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00020713049999999998,
+    "exitPrice": 0.000177,
+    "peakPrice": 0.0002077,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.10182638481537,
+    "profitLamports": -101826384,
+    "pnlPct": -14.546626402195715,
+    "reason": "STOPLOSS8P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1788277190220",
+    "sellTxid": "DRY_RUN_SELL_1788277484500",
+    "source": "KOL_CALLANALYSER"
   }
 ]

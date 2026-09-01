@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "9cS5Ctdf4jqz8CwLzYiPMKW5RmvedbQ15dZRd4kdpump",
-  "symbol": "Rotisserie",
-  "marketCap": 48389.0,
-  "liquidity": 16694.24,
-  "volume1h": 61532.3,
-  "volume24h": 61532.3,
-  "candidateScore": 10.8455,
-  "entryPrice": 4.8621899999999996e-05,
-  "entryTime": 1788288093398,
-  "peakPrice": 4.8621899999999996e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788288093398",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

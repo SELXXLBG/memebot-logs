@@ -558,5 +558,25 @@
     "buyTxid": "DRY_RUN_BUY_1788244050864",
     "sellTxid": "DRY_RUN_SELL_1788244112737",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T06:29:08.823087Z",
+    "token": "5jeGaCtaYh3zZxTmrFZh1zVygJSeVKLgbX61rdaWpump",
+    "symbol": "ROBINNYAN",
+    "marketCap": 95678.0,
+    "liquidity": 24974.5,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00010562549999999999,
+    "exitPrice": 9.567e-05,
+    "peakPrice": 0.00010562549999999999,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06597696578951098,
+    "profitLamports": -65976965,
+    "pnlPct": -9.425280827073,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788244140674",
+    "sellTxid": "DRY_RUN_SELL_1788244148823",
+    "source": "KOL_CALLANALYSER"
   }
 ]

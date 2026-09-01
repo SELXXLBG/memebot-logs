@@ -1498,5 +1498,25 @@
     "buyTxid": "DRY_RUN_BUY_1788290698741",
     "sellTxid": "DRY_RUN_SELL_1788290704091",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T19:48:12.419101Z",
+    "token": "4i9eqfLNCbFmzJm8UAtVyfDk192mpiYDyDA4XDgDpump",
+    "symbol": "$ATLASX",
+    "marketCap": 79640.0,
+    "liquidity": 22252.54,
+    "candidateScore": 12.4685,
+    "entryPrice": 6.24909e-05,
+    "exitPrice": 7.963e-05,
+    "peakPrice": 7.963e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.19198587314312957,
+    "profitLamports": 191985873,
+    "pnlPct": 27.426553306161367,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788292049998",
+    "sellTxid": "DRY_RUN_SELL_1788292092419",
+    "source": "PYTHON_SCANNER"
   }
 ]

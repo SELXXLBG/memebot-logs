@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "4qAv1QAoFpNtTqxpZmyjLfxM3RRcLqT84gJf3KNrQS3c",
+  "symbol": "BULLPAD",
+  "marketCap": 43902.0,
+  "liquidity": 16107.48,
+  "volume1h": 77160.99,
+  "volume24h": 77160.99,
+  "candidateScore": 11.2243,
+  "entryPrice": 4.41597e-05,
+  "entryTime": 1788228827925,
+  "peakPrice": 4.41597e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788228827925",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

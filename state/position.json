@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "Daj8qEnEb9L6v1wmrCPJGunJAsQJuXctFsEh9TsApump",
-  "symbol": "CHUCHO",
-  "marketCap": 67070.0,
-  "liquidity": 20378.07,
-  "volume1h": 141439.61,
-  "volume24h": 141439.61,
-  "candidateScore": 11.2545,
-  "entryPrice": 6.740534999999999e-05,
-  "entryTime": 1788258159640,
-  "peakPrice": 6.740534999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788258159640",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

@@ -738,5 +738,25 @@
     "buyTxid": "DRY_RUN_BUY_1788253906078",
     "sellTxid": "DRY_RUN_SELL_1788253936889",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T09:58:36.052481Z",
+    "token": "HpDfwCfH7HzerE9e4mBdBQ9PyRzoWWj8EwJjqijNpump",
+    "symbol": "FOMOBUNNY",
+    "marketCap": 112214.0,
+    "liquidity": 26957.5,
+    "candidateScore": 3.2,
+    "entryPrice": 7.580715e-05,
+    "exitPrice": 0.0001122,
+    "peakPrice": 0.0001122,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.3360500295816424,
+    "profitLamports": 336050029,
+    "pnlPct": 48.00714708309177,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788256669796",
+    "sellTxid": "DRY_RUN_SELL_1788256716052",
+    "source": "KOL_CALLANALYSER"
   }
 ]

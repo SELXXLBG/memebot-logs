@@ -1338,5 +1338,25 @@
     "buyTxid": "DRY_RUN_BUY_1788279635927",
     "sellTxid": "DRY_RUN_SELL_1788279697382",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T16:26:05.714829Z",
+    "token": "4rSRTTJWSr6Rc2SLH5Uibmja8dtmuBBwkm46LQuPpump",
+    "symbol": "Termus",
+    "marketCap": 55509.0,
+    "liquidity": 18126.5,
+    "candidateScore": 9.4672,
+    "entryPrice": 4.507424999999999e-05,
+    "exitPrice": 5.55e-05,
+    "peakPrice": 5.55e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.1619111798865207,
+    "profitLamports": 161911179,
+    "pnlPct": 23.130168555217246,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788279943204",
+    "sellTxid": "DRY_RUN_SELL_1788279965715",
+    "source": "PYTHON_SCANNER"
   }
 ]

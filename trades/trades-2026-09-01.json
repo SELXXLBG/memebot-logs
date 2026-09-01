@@ -1138,5 +1138,25 @@
     "buyTxid": "DRY_RUN_BUY_1788275468748",
     "sellTxid": "DRY_RUN_SELL_1788275470869",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T15:13:34.715499Z",
+    "token": "HzmASEo87R43BvUac3yaE7EStxWtA5z7LUGba6eGpump",
+    "symbol": "$OLDOGE",
+    "marketCap": 66298.0,
+    "liquidity": 20238.22,
+    "candidateScore": 12.5174,
+    "entryPrice": 5.436044999999999e-05,
+    "exitPrice": 6.629e-05,
+    "peakPrice": 6.629e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.1536169218613902,
+    "profitLamports": 153616921,
+    "pnlPct": 21.945274551627172,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788275530042",
+    "sellTxid": "DRY_RUN_SELL_1788275614715",
+    "source": "PYTHON_SCANNER"
   }
 ]

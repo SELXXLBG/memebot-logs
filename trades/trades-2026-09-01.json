@@ -38,5 +38,25 @@
     "buyTxid": "DRY_RUN_BUY_1788223240354",
     "sellTxid": "DRY_RUN_SELL_1788223252520",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T00:54:48.291495Z",
+    "token": "nEXnqLrRQt6uyfAYZ2gkBN8F99UHRQ84kGbfqe4pump",
+    "symbol": "ecoToken",
+    "marketCap": 61228.0,
+    "liquidity": 19473.22,
+    "candidateScore": 10.8349,
+    "entryPrice": 4.2953699999999995e-05,
+    "exitPrice": 6.122e-05,
+    "peakPrice": 6.122e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.29767889611372256,
+    "profitLamports": 297678896,
+    "pnlPct": 42.52555658767465,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788224065853",
+    "sellTxid": "DRY_RUN_SELL_1788224088291",
+    "source": "PYTHON_SCANNER"
   }
 ]

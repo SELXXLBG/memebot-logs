@@ -1098,5 +1098,25 @@
     "buyTxid": "DRY_RUN_BUY_1788273569211",
     "sellTxid": "DRY_RUN_SELL_1788273631556",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T14:53:30.839057Z",
+    "token": "BsCicGw8VpCx3PUuppz9KmcNpGZPuFxtuRawuCgUpump",
+    "symbol": "CISNEROS",
+    "marketCap": 41164.0,
+    "liquidity": 16271.77,
+    "candidateScore": 3.2,
+    "entryPrice": 4.985804999999999e-05,
+    "exitPrice": 4.426e-05,
+    "peakPrice": 5.083e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.07859583357150943,
+    "profitLamports": -78595833,
+    "pnlPct": -11.227976224501347,
+    "reason": "STOPLOSS8P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1788274361306",
+    "sellTxid": "DRY_RUN_SELL_1788274410839",
+    "source": "KOL_CALLANALYSER"
   }
 ]

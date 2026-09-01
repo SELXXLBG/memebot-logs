@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "4vk8tC5i4BjZoWLkJTFRogCkM3J4LaXn3tKk274Vpump",
-  "symbol": "CALIMERO",
-  "marketCap": 68380.0,
-  "liquidity": 20742.58,
-  "volume1h": 142200.23,
-  "volume24h": 142200.23,
-  "candidateScore": 11.8593,
-  "entryPrice": 6.87219e-05,
-  "entryTime": 1788226025582,
-  "peakPrice": 6.87219e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788226025582",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

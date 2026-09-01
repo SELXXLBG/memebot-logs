@@ -878,5 +878,25 @@
     "buyTxid": "DRY_RUN_BUY_1788264831959",
     "sellTxid": "DRY_RUN_SELL_1788264837260",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T12:17:23.751339Z",
+    "token": "zxRjdghPoqkc7fEMyNWTA7mByUG1M3rjaE8GZBepump",
+    "symbol": "Bigbird",
+    "marketCap": 12364.0,
+    "liquidity": 7664.5,
+    "candidateScore": 10.2143,
+    "entryPrice": 5.048114999999999e-05,
+    "exitPrice": 1.236e-05,
+    "peakPrice": 5.048114999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.5286092927756202,
+    "profitLamports": -528609292,
+    "pnlPct": -75.51561325366004,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788265015193",
+    "sellTxid": "DRY_RUN_SELL_1788265043751",
+    "source": "PYTHON_SCANNER"
   }
 ]

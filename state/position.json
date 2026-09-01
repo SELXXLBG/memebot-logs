@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "9vE71yxHFSDhkzUTvMbiToMQK8oS1p6SLXYfg1Qdpump",
-  "symbol": "DRIP",
-  "marketCap": 113000.0,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 0.00014230799999999998,
-  "entryTime": 1788240843312,
-  "peakPrice": 0.00014230799999999998,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788240843312",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

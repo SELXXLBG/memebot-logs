@@ -658,5 +658,25 @@
     "buyTxid": "DRY_RUN_BUY_1788248468613",
     "sellTxid": "DRY_RUN_SELL_1788248471090",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T08:27:30.033336Z",
+    "token": "9AXxGepWb5oHUTM7kzKLHhah561XFh96SpR7vdtspump",
+    "symbol": "CHOMP",
+    "marketCap": 114119.0,
+    "liquidity": 27406.88,
+    "candidateScore": 9.148,
+    "entryPrice": 0.00012150449999999999,
+    "exitPrice": 0.0001173,
+    "peakPrice": 0.00012150449999999999,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.024222559658284164,
+    "profitLamports": -24222559,
+    "pnlPct": -3.4603656654691664,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788251245537",
+    "sellTxid": "DRY_RUN_SELL_1788251250033",
+    "source": "PYTHON_SCANNER"
   }
 ]

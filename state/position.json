@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "3oY5NnNAbnRK4eNzPWZFmtAWVW4RNumpni4XtGarpump",
-  "symbol": "MOBI",
-  "marketCap": 121000.0,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 9.34248e-05,
-  "entryTime": 1788266110857,
-  "peakPrice": 0.0001073,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788266110857",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

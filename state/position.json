@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "4eXGQJMBZp656x9eqerEc1hepSoe27zvuXBtNuqjpump",
+  "symbol": "084BEAR",
+  "marketCap": 95548.0,
+  "liquidity": 26616.77,
+  "volume1h": 109590.46,
+  "volume24h": 170215.66,
+  "candidateScore": 10.0209,
+  "entryPrice": 0.00010894199999999999,
+  "entryTime": 1788243318517,
+  "peakPrice": 0.00010894199999999999,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788243318517",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

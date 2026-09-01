@@ -858,5 +858,25 @@
     "buyTxid": "DRY_RUN_BUY_1788263668342",
     "sellTxid": "DRY_RUN_SELL_1788263821469",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T12:13:57.260499Z",
+    "token": "EZaKeZcosDoUFMPEAyjUfsNE7BbWxTiQ3mzRLdgYpump",
+    "symbol": "ROOFLINE",
+    "marketCap": 32997.0,
+    "liquidity": 13648.46,
+    "candidateScore": 11.1973,
+    "entryPrice": 3.6632249999999995e-05,
+    "exitPrice": 3.299e-05,
+    "peakPrice": 3.6632249999999995e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06959919196882516,
+    "profitLamports": -69599191,
+    "pnlPct": -9.942741709832168,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788264831959",
+    "sellTxid": "DRY_RUN_SELL_1788264837260",
+    "source": "PYTHON_SCANNER"
   }
 ]

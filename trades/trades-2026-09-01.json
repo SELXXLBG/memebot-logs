@@ -478,5 +478,25 @@
     "buyTxid": "DRY_RUN_BUY_1788240843312",
     "sellTxid": "DRY_RUN_SELL_1788240872635",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T06:09:20.570397Z",
+    "token": "ExCUjq2tt1inqr2oV3v6AMGM39mcz948bLFBjKe3pump",
+    "symbol": "ROBINKEY",
+    "marketCap": 53997.0,
+    "liquidity": 18342.53,
+    "candidateScore": 3.2,
+    "entryPrice": 6.242055e-05,
+    "exitPrice": 5.399e-05,
+    "peakPrice": 7.358e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.09454234222543693,
+    "profitLamports": -94542342,
+    "pnlPct": -13.506048889348135,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1788242844853",
+    "sellTxid": "DRY_RUN_SELL_1788242960570",
+    "source": "KOL_CALLANALYSER"
   }
 ]

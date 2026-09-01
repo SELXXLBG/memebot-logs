@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "HzmASEo87R43BvUac3yaE7EStxWtA5z7LUGba6eGpump",
-  "symbol": "$OLDOGE",
-  "marketCap": 54090.0,
-  "liquidity": 18084.49,
-  "volume1h": 122123.27,
-  "volume24h": 122123.27,
-  "candidateScore": 12.5174,
-  "entryPrice": 5.436044999999999e-05,
-  "entryTime": 1788275530042,
-  "peakPrice": 6.488e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788275530042",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

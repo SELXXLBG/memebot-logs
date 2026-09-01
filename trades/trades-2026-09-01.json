@@ -238,5 +238,25 @@
     "buyTxid": "DRY_RUN_BUY_1788230284386",
     "sellTxid": "DRY_RUN_SELL_1788230307540",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T02:46:29.996966Z",
+    "token": "GeW8N6JgqYL4uGPJgZT7rTFKMrCgYibTNGuLnPjZcC5j",
+    "symbol": "MANNY",
+    "marketCap": 73137.0,
+    "liquidity": 21329.19,
+    "candidateScore": 10.3378,
+    "entryPrice": 4.852139999999999e-05,
+    "exitPrice": 7.313e-05,
+    "peakPrice": 7.313e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.35501902253438705,
+    "profitLamports": 355019022,
+    "pnlPct": 50.717003219198155,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788230683195",
+    "sellTxid": "DRY_RUN_SELL_1788230789996",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -798,5 +798,25 @@
     "buyTxid": "DRY_RUN_BUY_1788258986380",
     "sellTxid": "DRY_RUN_SELL_1788258989183",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T11:22:43.189491Z",
+    "token": "4rRDyAMWWnegXxCHD1qLipEfHVxktr8HeEta9Y2epump",
+    "symbol": "JELITICS",
+    "marketCap": 42995.0,
+    "liquidity": 15834.78,
+    "candidateScore": 10.2474,
+    "entryPrice": 5.080275e-05,
+    "exitPrice": 4.299e-05,
+    "peakPrice": 5.080275e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.10765017641761515,
+    "profitLamports": -107650176,
+    "pnlPct": -15.378596631087879,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788261740330",
+    "sellTxid": "DRY_RUN_SELL_1788261763189",
+    "source": "PYTHON_SCANNER"
   }
 ]

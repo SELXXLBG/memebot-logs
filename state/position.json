@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "41ATnp4GSXDaXzC7Aikn65Q3PKJzJ5AFiRKNjkwopump",
-  "symbol": "Finn",
-  "marketCap": 34858.0,
-  "liquidity": 14109.47,
-  "volume1h": 55860.28,
-  "volume24h": 55860.28,
-  "candidateScore": 9.8052,
-  "entryPrice": 3.502425e-05,
-  "entryTime": 1788248468613,
-  "peakPrice": 3.502425e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788248468613",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "9AXxGepWb5oHUTM7kzKLHhah561XFh96SpR7vdtspump",
+  "symbol": "CHOMP",
+  "marketCap": 117543.0,
+  "liquidity": 27888.47,
+  "volume1h": 56255.91,
+  "volume24h": 61081.38,
+  "candidateScore": 9.148,
+  "entryPrice": 0.00012150449999999999,
+  "entryTime": 1788251245537,
+  "peakPrice": 0.00012150449999999999,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788251245537",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

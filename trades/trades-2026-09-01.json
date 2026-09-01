@@ -1478,5 +1478,25 @@
     "buyTxid": "DRY_RUN_BUY_1788290146824",
     "sellTxid": "DRY_RUN_SELL_1788290172524",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T19:25:04.091292Z",
+    "token": "7QFNr9GRgRgrGr4wL96b4JuoqCyoMKMmwFk8xkZYbAyA",
+    "symbol": "BUILD",
+    "marketCap": 50983.0,
+    "liquidity": 17245.69,
+    "candidateScore": 10.9545,
+    "entryPrice": 5.286299999999999e-05,
+    "exitPrice": 5.098e-05,
+    "peakPrice": 5.286299999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.024934264041011525,
+    "profitLamports": -24934264,
+    "pnlPct": -3.5620377201445037,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788290698741",
+    "sellTxid": "DRY_RUN_SELL_1788290704091",
+    "source": "PYTHON_SCANNER"
   }
 ]

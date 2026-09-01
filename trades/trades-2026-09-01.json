@@ -1258,5 +1258,25 @@
     "buyTxid": "DRY_RUN_BUY_1788277977275",
     "sellTxid": "DRY_RUN_SELL_1788278036341",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T16:00:14.444496Z",
+    "token": "YqcuATZxuireTdAMY2euLmZRos7u4SNmdLpTZUDpump",
+    "symbol": "SOLAMI",
+    "marketCap": 101959.0,
+    "liquidity": 68978.96,
+    "candidateScore": 3.4,
+    "entryPrice": 0.00017265899999999997,
+    "exitPrice": 0.0001027,
+    "peakPrice": 0.00017265899999999997,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.283630161184763,
+    "profitLamports": -283630161,
+    "pnlPct": -40.51859445496614,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788278121471",
+    "sellTxid": "DRY_RUN_SELL_1788278414444",
+    "source": "KOL_CALLANALYSER"
   }
 ]

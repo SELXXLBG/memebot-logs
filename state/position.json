@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "Ck3MzWwogmM7JDuXY49HPbX5kPuQhTkxEdb3z59Rpump",
+  "symbol": "BVP",
+  "marketCap": 35432.0,
+  "liquidity": 14195.79,
+  "volume1h": 66617.1,
+  "volume24h": 66617.1,
+  "candidateScore": 11.0486,
+  "entryPrice": 3.560715e-05,
+  "entryTime": 1788273569211,
+  "peakPrice": 3.560715e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788273569211",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

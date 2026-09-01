@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "91pXQmY7MdgCsAp2x9T3L9iHgYR2JMkHHC3G3q2Ypump",
-  "symbol": "PUTER",
-  "marketCap": 79000.0,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 5.4189599999999994e-05,
-  "entryTime": 1788236235838,
-  "peakPrice": 5.428e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788236235838",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

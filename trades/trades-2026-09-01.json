@@ -1658,5 +1658,25 @@
     "buyTxid": "DRY_RUN_BUY_1788298643533",
     "sellTxid": "DRY_RUN_SELL_1788299060804",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T21:47:54.970474Z",
+    "token": "BSTn5cRBoQhSm3pQw1iivFssGtDpD5TnjqURbwZ5RwkQ",
+    "symbol": "QQQ",
+    "marketCap": 45698.0,
+    "liquidity": 16281.51,
+    "candidateScore": 10.9167,
+    "entryPrice": 5.763674999999999e-05,
+    "exitPrice": 4.576e-05,
+    "peakPrice": 5.763674999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.14424347313129202,
+    "profitLamports": -144243473,
+    "pnlPct": -20.60621044732743,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788299258169",
+    "sellTxid": "DRY_RUN_SELL_1788299274970",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1378,5 +1378,25 @@
     "buyTxid": "DRY_RUN_BUY_1788280707009",
     "sellTxid": "DRY_RUN_SELL_1788280717088",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T18:11:16.330781Z",
+    "token": "2bvj49eY3bYzeK5UrqwPfuSgmvbk9164RGCsWQE7pump",
+    "symbol": "SOLMALLOW",
+    "marketCap": 2135.0,
+    "liquidity": 2125.11,
+    "candidateScore": 3.2,
+    "entryPrice": 2.1446699999999996e-06,
+    "exitPrice": 2.134e-06,
+    "peakPrice": 2.1446699999999996e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0034825870646765403,
+    "profitLamports": -3482587,
+    "pnlPct": -0.49751243781093435,
+    "reason": "FORCE_EXIT_90M",
+    "buyTxid": "DRY_RUN_BUY_1788280869263",
+    "sellTxid": "DRY_RUN_SELL_1788286276330",
+    "source": "KOL_CALLANALYSER"
   }
 ]

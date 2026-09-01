@@ -838,5 +838,25 @@
     "buyTxid": "DRY_RUN_BUY_1788262474748",
     "sellTxid": "DRY_RUN_SELL_1788262677856",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T11:57:01.469688Z",
+    "token": "9Qd95G3TKB61py4TURSTBka6GntAj2xzvbGp3kLTpump",
+    "symbol": "SLUCE",
+    "marketCap": 37652.0,
+    "liquidity": 14720.09,
+    "candidateScore": 11.119,
+    "entryPrice": 3.82302e-05,
+    "exitPrice": 3.765e-05,
+    "peakPrice": 4.201e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.010623538459123907,
+    "profitLamports": -10623538,
+    "pnlPct": -1.5176483513034154,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788263668342",
+    "sellTxid": "DRY_RUN_SELL_1788263821469",
+    "source": "PYTHON_SCANNER"
   }
 ]

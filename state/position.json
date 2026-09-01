@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "4iMKhSgDGsn2SbiAboq7qSLkr5A7KAmG4wyux77upump",
+  "symbol": "fable",
+  "marketCap": 118011.0,
+  "liquidity": 27601.1,
+  "volume1h": 139872.74,
+  "volume24h": 139872.74,
+  "candidateScore": 12.3,
+  "entryPrice": 0.00011858999999999999,
+  "entryTime": 1788253906078,
+  "peakPrice": 0.00011858999999999999,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788253906078",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

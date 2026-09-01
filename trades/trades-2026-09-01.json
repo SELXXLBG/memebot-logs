@@ -498,5 +498,25 @@
     "buyTxid": "DRY_RUN_BUY_1788242844853",
     "sellTxid": "DRY_RUN_SELL_1788242960570",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T06:10:03.855342Z",
+    "token": "9GHJ5Q14H18aQW16N2fAzyfYHU4MCfwPkzdt6DsQpump",
+    "symbol": "DUNCAN",
+    "marketCap": 32195.0,
+    "liquidity": 13570.22,
+    "candidateScore": 11.2537,
+    "entryPrice": 3.8772899999999996e-05,
+    "exitPrice": 3.219e-05,
+    "peakPrice": 3.8772899999999996e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.11884666867838094,
+    "profitLamports": -118846668,
+    "pnlPct": -16.978095525482992,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788242983501",
+    "sellTxid": "DRY_RUN_SELL_1788243003855",
+    "source": "PYTHON_SCANNER"
   }
 ]

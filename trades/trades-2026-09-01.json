@@ -1798,5 +1798,25 @@
     "buyTxid": "DRY_RUN_BUY_1788304912025",
     "sellTxid": "DRY_RUN_SELL_1788304933683",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T23:30:06.656784Z",
+    "token": "HvuramaSMhjPixVgiSToAYLonCBBNgVjbnHuapRam4dU",
+    "symbol": "GME",
+    "marketCap": 35306.0,
+    "liquidity": 14002.57,
+    "candidateScore": 9.9635,
+    "entryPrice": 4.56471e-05,
+    "exitPrice": 3.53e-05,
+    "peakPrice": 4.56471e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1586731687226571,
+    "profitLamports": -158673168,
+    "pnlPct": -22.667595531808157,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788305364852",
+    "sellTxid": "DRY_RUN_SELL_1788305406656",
+    "source": "PYTHON_SCANNER"
   }
 ]

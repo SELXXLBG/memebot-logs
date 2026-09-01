@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "2BTMCRgeEDcfhg5c4ZbBywpEHR1tyybaPxGHBHX5pump",
+  "symbol": "PIGBLOCK",
+  "marketCap": 60000.0,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 7.0551e-05,
+  "entryTime": 1788304912025,
+  "peakPrice": 7.0551e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788304912025",
+  "isDryRun": true,
+  "source": "KOL_CALLANALYSER"
+}

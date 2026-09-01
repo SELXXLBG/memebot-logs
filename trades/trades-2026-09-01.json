@@ -338,5 +338,25 @@
     "buyTxid": "DRY_RUN_BUY_1788237768322",
     "sellTxid": "DRY_RUN_SELL_1788237794271",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T04:55:38.720291Z",
+    "token": "BH3WrGte3e6XYCW8gFea7D8nVnkrUGvyoKqzHA4ypump",
+    "symbol": "oomf",
+    "marketCap": 40323.0,
+    "liquidity": 15351.2,
+    "candidateScore": 10.2204,
+    "entryPrice": 4.3807949999999994e-05,
+    "exitPrice": 4.032e-05,
+    "peakPrice": 4.3807949999999994e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.05573337716099466,
+    "profitLamports": -55733377,
+    "pnlPct": -7.961911022999238,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788238528420",
+    "sellTxid": "DRY_RUN_SELL_1788238538720",
+    "source": "PYTHON_SCANNER"
   }
 ]

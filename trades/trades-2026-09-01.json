@@ -698,5 +698,25 @@
     "buyTxid": "DRY_RUN_BUY_1788252251998",
     "sellTxid": "DRY_RUN_SELL_1788252298240",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T08:59:26.276657Z",
+    "token": "GNB9MA4a3VmnJPNSEwU8awFyqpYDnY9A257axnCpug87",
+    "symbol": "PPPP",
+    "marketCap": 31392.0,
+    "liquidity": 13229.17,
+    "candidateScore": 10.0825,
+    "entryPrice": 3.6099599999999996e-05,
+    "exitPrice": 3.139e-05,
+    "peakPrice": 3.6099599999999996e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.09132289554454885,
+    "profitLamports": -91322895,
+    "pnlPct": -13.04612793493555,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788253140349",
+    "sellTxid": "DRY_RUN_SELL_1788253166276",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "BuY3MHzaDEd2ipwub6uAhddH8Ah95oHoZfNDVkVVpump",
+  "symbol": "SOLDOG",
+  "marketCap": 131943.0,
+  "liquidity": 29175.32,
+  "volume1h": 157713.39,
+  "volume24h": 157713.39,
+  "candidateScore": 12.3,
+  "entryPrice": 0.00013255949999999998,
+  "entryTime": 1788275836920,
+  "peakPrice": 0.00013255949999999998,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788275836920",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

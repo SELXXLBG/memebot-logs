@@ -598,5 +598,25 @@
     "buyTxid": "DRY_RUN_BUY_1788244564851",
     "sellTxid": "DRY_RUN_SELL_1788244637224",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T07:34:02.723739Z",
+    "token": "HYYLdNLgNiDdLR8zs6mSvfttRLLqtZXD7kwuF2tupump",
+    "symbol": "ROBINGUY",
+    "marketCap": 47727.0,
+    "liquidity": 17989.82,
+    "candidateScore": 3.2,
+    "entryPrice": 4.9727399999999994e-05,
+    "exitPrice": 4.772e-05,
+    "peakPrice": 5.312e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.028257660766498913,
+    "profitLamports": -28257660,
+    "pnlPct": -4.0368086809284165,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788247978998",
+    "sellTxid": "DRY_RUN_SELL_1788248042723",
+    "source": "KOL_CALLANALYSER"
   }
 ]

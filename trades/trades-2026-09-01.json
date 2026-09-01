@@ -398,5 +398,25 @@
     "buyTxid": "DRY_RUN_BUY_1788239747086",
     "sellTxid": "DRY_RUN_SELL_1788239771663",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T05:21:53.687591Z",
+    "token": "2hSYFFK9S9gwKjnZnPdiN1GZFLNvYTPCCcqNLBDMpump",
+    "symbol": "PROSTATE",
+    "marketCap": 43627.0,
+    "liquidity": 16075.93,
+    "candidateScore": 10.9665,
+    "entryPrice": 5.072235e-05,
+    "exitPrice": 4.362e-05,
+    "peakPrice": 5.072235e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.09801685055996023,
+    "profitLamports": -98016850,
+    "pnlPct": -14.002407222851462,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788240112602",
+    "sellTxid": "DRY_RUN_SELL_1788240113687",
+    "source": "PYTHON_SCANNER"
   }
 ]

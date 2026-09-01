@@ -1558,5 +1558,25 @@
     "buyTxid": "DRY_RUN_BUY_1788293459366",
     "sellTxid": "DRY_RUN_SELL_1788293515623",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T20:40:27.617501Z",
+    "token": "B3rdXkPrgEv1hQpPASLWue8xPDsn8LqThnaz3q2UBEzF",
+    "symbol": "$BURN",
+    "marketCap": 102491.0,
+    "liquidity": 15756.39,
+    "candidateScore": 5.1686,
+    "entryPrice": 0.0001078365,
+    "exitPrice": 0.0001024,
+    "peakPrice": 0.0001078365,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.035289999211769674,
+    "profitLamports": -35289999,
+    "pnlPct": -5.04142845882424,
+    "reason": "STOPLOSS4P_LATE",
+    "buyTxid": "DRY_RUN_BUY_1788294071340",
+    "sellTxid": "DRY_RUN_SELL_1788295227617",
+    "source": "PYTHON_SCANNER"
   }
 ]

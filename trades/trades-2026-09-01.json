@@ -1778,5 +1778,25 @@
     "buyTxid": "DRY_RUN_BUY_1788302733072",
     "sellTxid": "DRY_RUN_SELL_1788302745210",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T23:22:13.683359Z",
+    "token": "2BTMCRgeEDcfhg5c4ZbBywpEHR1tyybaPxGHBHX5pump",
+    "symbol": "PIGBLOCK",
+    "marketCap": 64427.0,
+    "liquidity": 19933.57,
+    "candidateScore": 3.2,
+    "entryPrice": 7.0551e-05,
+    "exitPrice": 6.442e-05,
+    "peakPrice": 7.0551e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.060831171776445404,
+    "profitLamports": -60831171,
+    "pnlPct": -8.690167396635058,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788304912025",
+    "sellTxid": "DRY_RUN_SELL_1788304933683",
+    "source": "KOL_CALLANALYSER"
   }
 ]

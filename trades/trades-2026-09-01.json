@@ -1198,5 +1198,25 @@
     "buyTxid": "DRY_RUN_BUY_1788276389158",
     "sellTxid": "DRY_RUN_SELL_1788276414563",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T15:29:03.392302Z",
+    "token": "96VQnimdvfxcGHpyythagZaGyyfAkATd93M6t2Qbpump",
+    "symbol": "Hackooor",
+    "marketCap": 28328.0,
+    "liquidity": 12444.03,
+    "candidateScore": 9.2813,
+    "entryPrice": 3.223035e-05,
+    "exitPrice": 2.832e-05,
+    "peakPrice": 3.223035e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.08492756051361526,
+    "profitLamports": -84927560,
+    "pnlPct": -12.13250864480218,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788276510980",
+    "sellTxid": "DRY_RUN_SELL_1788276543392",
+    "source": "PYTHON_SCANNER"
   }
 ]

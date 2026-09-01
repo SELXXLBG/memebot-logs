@@ -458,5 +458,25 @@
     "buyTxid": "DRY_RUN_BUY_1788240661218",
     "sellTxid": "DRY_RUN_SELL_1788240671487",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T05:34:32.635420Z",
+    "token": "9vE71yxHFSDhkzUTvMbiToMQK8oS1p6SLXYfg1Qdpump",
+    "symbol": "DRIP",
+    "marketCap": 116892.0,
+    "liquidity": 28141.06,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00014230799999999998,
+    "exitPrice": 0.0001168,
+    "peakPrice": 0.00014230799999999998,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.12547151249402694,
+    "profitLamports": -125471512,
+    "pnlPct": -17.92450178486099,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788240843312",
+    "sellTxid": "DRY_RUN_SELL_1788240872635",
+    "source": "KOL_CALLANALYSER"
   }
 ]

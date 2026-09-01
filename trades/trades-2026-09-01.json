@@ -98,5 +98,25 @@
     "buyTxid": "DRY_RUN_BUY_1788225964703",
     "sellTxid": "DRY_RUN_SELL_1788225991228",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T01:27:12.874147Z",
+    "token": "4vk8tC5i4BjZoWLkJTFRogCkM3J4LaXn3tKk274Vpump",
+    "symbol": "CALIMERO",
+    "marketCap": 65567.0,
+    "liquidity": 20277.48,
+    "candidateScore": 11.8593,
+    "entryPrice": 6.87219e-05,
+    "exitPrice": 6.556e-05,
+    "peakPrice": 6.87219e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0322070548107663,
+    "profitLamports": -32207054,
+    "pnlPct": -4.601007830109472,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788226025582",
+    "sellTxid": "DRY_RUN_SELL_1788226032874",
+    "source": "PYTHON_SCANNER"
   }
 ]

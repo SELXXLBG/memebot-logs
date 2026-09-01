@@ -1298,5 +1298,25 @@
     "buyTxid": "DRY_RUN_BUY_1788279443391",
     "sellTxid": "DRY_RUN_SELL_1788279484105",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T16:20:15.179470Z",
+    "token": "posWsbD8rmmz6zUF6ADKuMVHWphvqFs8bHRovsgjFUN",
+    "symbol": "POS",
+    "marketCap": 32991.0,
+    "liquidity": 13580.3,
+    "candidateScore": 9.703,
+    "entryPrice": 4.42803e-05,
+    "exitPrice": 3.301e-05,
+    "peakPrice": 4.42803e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1781652337495455,
+    "profitLamports": -178165233,
+    "pnlPct": -25.45217624993507,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788279605200",
+    "sellTxid": "DRY_RUN_SELL_1788279615179",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1038,5 +1038,25 @@
     "buyTxid": "DRY_RUN_BUY_1788270766300",
     "sellTxid": "DRY_RUN_SELL_1788270827174",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T14:25:21.281451Z",
+    "token": "Fwq2m6nQox3y85omV8WeVe4pVT98aTRqFnqKt1oepump",
+    "symbol": "KRABBY",
+    "marketCap": 29448.0,
+    "liquidity": 19253.1,
+    "candidateScore": 9.7679,
+    "entryPrice": 6.469184999999999e-05,
+    "exitPrice": 6.136e-05,
+    "peakPrice": 6.469184999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.036052377540602004,
+    "profitLamports": -36052377,
+    "pnlPct": -5.15033964865743,
+    "reason": "STOPLOSS4P_LATE",
+    "buyTxid": "DRY_RUN_BUY_1788271787373",
+    "sellTxid": "DRY_RUN_SELL_1788272721281",
+    "source": "PYTHON_SCANNER"
   }
 ]

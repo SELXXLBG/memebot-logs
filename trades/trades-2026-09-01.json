@@ -1158,5 +1158,25 @@
     "buyTxid": "DRY_RUN_BUY_1788275530042",
     "sellTxid": "DRY_RUN_SELL_1788275614715",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T15:17:43.623647Z",
+    "token": "BuY3MHzaDEd2ipwub6uAhddH8Ah95oHoZfNDVkVVpump",
+    "symbol": "SOLDOG",
+    "marketCap": 171213.0,
+    "liquidity": 33527.39,
+    "candidateScore": 12.3,
+    "entryPrice": 0.00013255949999999998,
+    "exitPrice": 0.0001712,
+    "peakPrice": 0.0001712,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.20404686197518854,
+    "profitLamports": 204046861,
+    "pnlPct": 29.14955171074122,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788275836920",
+    "sellTxid": "DRY_RUN_SELL_1788275863623",
+    "source": "PYTHON_SCANNER"
   }
 ]

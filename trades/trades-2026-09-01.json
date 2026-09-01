@@ -138,5 +138,25 @@
     "buyTxid": "DRY_RUN_BUY_1788227762785",
     "sellTxid": "DRY_RUN_SELL_1788227780672",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T02:00:36.990685Z",
+    "token": "4J5txaggsvKurgqffxLSGFi36s3KRUmBJibaaLhqpump",
+    "symbol": "Peared",
+    "marketCap": 53270.0,
+    "liquidity": 18140.09,
+    "candidateScore": 11.5578,
+    "entryPrice": 7.027965e-05,
+    "exitPrice": 5.327e-05,
+    "peakPrice": 7.027965e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1694196684246435,
+    "profitLamports": -169419668,
+    "pnlPct": -24.202809774949074,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788227975511",
+    "sellTxid": "DRY_RUN_SELL_1788228036990",
+    "source": "PYTHON_SCANNER"
   }
 ]

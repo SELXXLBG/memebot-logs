@@ -1238,5 +1238,25 @@
     "buyTxid": "DRY_RUN_BUY_1788277190220",
     "sellTxid": "DRY_RUN_SELL_1788277484500",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T15:53:56.341022Z",
+    "token": "EUW3BLm2jf8GFX6MoVjUSUDbt8TZK3SLtdwd5Ekgpump",
+    "symbol": "PUMP",
+    "marketCap": 43644.0,
+    "liquidity": 16484.19,
+    "candidateScore": 3.2,
+    "entryPrice": 8.197785e-05,
+    "exitPrice": 4.364e-05,
+    "peakPrice": 8.197785e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.3273627571350065,
+    "profitLamports": -327362757,
+    "pnlPct": -46.766108162143794,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788277977275",
+    "sellTxid": "DRY_RUN_SELL_1788278036341",
+    "source": "KOL_CALLANALYSER"
   }
 ]

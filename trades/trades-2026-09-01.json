@@ -978,5 +978,25 @@
     "buyTxid": "DRY_RUN_BUY_1788267169385",
     "sellTxid": "DRY_RUN_SELL_1788267199420",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T13:01:04.734585Z",
+    "token": "2etuVTg3SJEgpvNJaEJTTqJ4KHDWzFMrCVxFcr7Fpump",
+    "symbol": "Peepo",
+    "marketCap": 25961.0,
+    "liquidity": 11867.09,
+    "candidateScore": 10.9207,
+    "entryPrice": 3.27429e-05,
+    "exitPrice": 2.596e-05,
+    "peakPrice": 3.27429e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1450094524309087,
+    "profitLamports": -145009452,
+    "pnlPct": -20.71563606155839,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788267646704",
+    "sellTxid": "DRY_RUN_SELL_1788267664734",
+    "source": "PYTHON_SCANNER"
   }
 ]

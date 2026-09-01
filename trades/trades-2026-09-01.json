@@ -1638,5 +1638,25 @@
     "buyTxid": "DRY_RUN_BUY_1788296150070",
     "sellTxid": "DRY_RUN_SELL_1788297528194",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T21:44:20.804775Z",
+    "token": "5i7GMjXEoszEmhcZxQstW5hhEKA7UghCCs2cQ5urpump",
+    "symbol": "ZGHIRE",
+    "marketCap": 56975.0,
+    "liquidity": 19601.61,
+    "candidateScore": 3.2,
+    "entryPrice": 6.340544999999998e-05,
+    "exitPrice": 5.886e-05,
+    "peakPrice": 6.340544999999998e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.050182042710839335,
+    "profitLamports": -50182042,
+    "pnlPct": -7.168863244405619,
+    "reason": "STOPLOSS6P",
+    "buyTxid": "DRY_RUN_BUY_1788298643533",
+    "sellTxid": "DRY_RUN_SELL_1788299060804",
+    "source": "KOL_CALLANALYSER"
   }
 ]

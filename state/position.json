@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "9Y7pDt9Cw3znxhwymywKNd13PVzWAuq54bUBYVVnafSR",
+  "symbol": "REITARD",
+  "marketCap": 33422.0,
+  "liquidity": 20822.81,
+  "volume1h": 81019.98,
+  "volume24h": 105017.82,
+  "candidateScore": 8.5385,
+  "entryPrice": 3.3587099999999996e-05,
+  "entryTime": 1788295599753,
+  "peakPrice": 3.3587099999999996e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788295599753",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

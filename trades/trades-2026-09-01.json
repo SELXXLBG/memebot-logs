@@ -1438,5 +1438,25 @@
     "buyTxid": "DRY_RUN_BUY_1788288093398",
     "sellTxid": "DRY_RUN_SELL_1788288131286",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T19:07:39.730797Z",
+    "token": "3U2U7Kv4EWwJfCJFLBPLXYNCVehBiYEZGPzy37Tcpump",
+    "symbol": "TRUCE",
+    "marketCap": 40496.0,
+    "liquidity": 15161.5,
+    "candidateScore": 11.0496,
+    "entryPrice": 4.2541649999999996e-05,
+    "exitPrice": 4.049e-05,
+    "peakPrice": 4.2541649999999996e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.03375879873018553,
+    "profitLamports": -33758798,
+    "pnlPct": -4.822685532883647,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788289653868",
+    "sellTxid": "DRY_RUN_SELL_1788289659730",
+    "source": "PYTHON_SCANNER"
   }
 ]

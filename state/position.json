@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "2bvj49eY3bYzeK5UrqwPfuSgmvbk9164RGCsWQE7pump",
-  "symbol": "SOLMALLOW",
-  "marketCap": 47000.0,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 2.1446699999999996e-06,
-  "entryTime": 1788280869263,
-  "peakPrice": 2.1446699999999996e-06,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788280869263",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

@@ -1758,5 +1758,25 @@
     "buyTxid": "DRY_RUN_BUY_1788301721705",
     "sellTxid": "DRY_RUN_SELL_1788301812932",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T22:45:45.210884Z",
+    "token": "D3apZscU3YZe7y7Tzbn32PAFxFt72c6siE2qsz8Qpump",
+    "symbol": "SAMURAIAPE",
+    "marketCap": 86818.0,
+    "liquidity": 23759.82,
+    "candidateScore": 3.2,
+    "entryPrice": 5.546594999999999e-05,
+    "exitPrice": 8.681e-05,
+    "peakPrice": 8.681e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.39557304977197744,
+    "profitLamports": 395573049,
+    "pnlPct": 56.510435681711066,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788302733072",
+    "sellTxid": "DRY_RUN_SELL_1788302745210",
+    "source": "KOL_CALLANALYSER"
   }
 ]

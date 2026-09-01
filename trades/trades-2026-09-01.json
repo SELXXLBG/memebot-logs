@@ -1278,5 +1278,25 @@
     "buyTxid": "DRY_RUN_BUY_1788278121471",
     "sellTxid": "DRY_RUN_SELL_1788278414444",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T16:18:04.105033Z",
+    "token": "5ae9q6gC77BD96xoBwdHJcdJaweZ8mZjSToEQawFpump",
+    "symbol": "GREG",
+    "marketCap": 2281.0,
+    "liquidity": 2352.86,
+    "candidateScore": 3.2,
+    "entryPrice": 2.5798349999999998e-06,
+    "exitPrice": 2.281e-06,
+    "peakPrice": 2.588e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.08108444919927048,
+    "profitLamports": -81084449,
+    "pnlPct": -11.583492742752926,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788279443391",
+    "sellTxid": "DRY_RUN_SELL_1788279484105",
+    "source": "KOL_CALLANALYSER"
   }
 ]

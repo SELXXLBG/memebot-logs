@@ -218,5 +218,25 @@
     "buyTxid": "DRY_RUN_BUY_1788229467088",
     "sellTxid": "DRY_RUN_SELL_1788229472941",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T02:38:27.540459Z",
+    "token": "EUXZbyAYH9K5qfauLC8jWqEbUBU3KRs2gcFRCwfJpump",
+    "symbol": "GIGAFOMO",
+    "marketCap": 111389.0,
+    "liquidity": 28181.76,
+    "candidateScore": 3.2,
+    "entryPrice": 9.245999999999999e-05,
+    "exitPrice": 0.0001113,
+    "peakPrice": 0.0001113,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.14263465282284235,
+    "profitLamports": 142634652,
+    "pnlPct": 20.376378974691765,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788230284386",
+    "sellTxid": "DRY_RUN_SELL_1788230307540",
+    "source": "KOL_CALLANALYSER"
   }
 ]

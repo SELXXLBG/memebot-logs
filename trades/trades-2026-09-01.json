@@ -578,5 +578,25 @@
     "buyTxid": "DRY_RUN_BUY_1788244140674",
     "sellTxid": "DRY_RUN_SELL_1788244148823",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T06:37:17.224621Z",
+    "token": "38ZRRuFVYf52oTJWS1pMFMLKzXkNEheWyqHNhq3jpump",
+    "symbol": "motion",
+    "marketCap": 26065.0,
+    "liquidity": 11983.01,
+    "candidateScore": 10.1286,
+    "entryPrice": 3.311475e-05,
+    "exitPrice": 2.606e-05,
+    "peakPrice": 3.311475e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1491276545950067,
+    "profitLamports": -149127654,
+    "pnlPct": -21.30395065642953,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788244564851",
+    "sellTxid": "DRY_RUN_SELL_1788244637224",
+    "source": "PYTHON_SCANNER"
   }
 ]

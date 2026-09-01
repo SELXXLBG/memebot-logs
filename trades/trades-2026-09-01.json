@@ -178,5 +178,25 @@
     "buyTxid": "DRY_RUN_BUY_1788228827925",
     "sellTxid": "DRY_RUN_SELL_1788228844170",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T02:16:04.337286Z",
+    "token": "2Hz7jarCWer6xnrCZXkyyXVRTx7sDxiijbXCLpAEpump",
+    "symbol": "EYE",
+    "marketCap": 35214.0,
+    "liquidity": 14242.3,
+    "candidateScore": 10.3466,
+    "entryPrice": 3.7878449999999996e-05,
+    "exitPrice": 3.546e-05,
+    "peakPrice": 3.7878449999999996e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.044693354664723496,
+    "profitLamports": -44693354,
+    "pnlPct": -6.384764952103357,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788228949782",
+    "sellTxid": "DRY_RUN_SELL_1788228964337",
+    "source": "PYTHON_SCANNER"
   }
 ]

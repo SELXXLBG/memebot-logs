@@ -18,5 +18,25 @@
     "buyTxid": "DRY_RUN_BUY_1788222052339",
     "sellTxid": "DRY_RUN_SELL_1788222092894",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T00:40:52.520635Z",
+    "token": "buttHrbsXnwwDQkr9dzDAons3CEGr7HtMKwrVsnDWUF",
+    "symbol": "butthole",
+    "marketCap": 20175.0,
+    "liquidity": 10387.78,
+    "candidateScore": 11.3926,
+    "entryPrice": 5.257154999999999e-05,
+    "exitPrice": 2.019e-05,
+    "peakPrice": 5.257154999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.431166381816781,
+    "profitLamports": -431166381,
+    "pnlPct": -61.5951974023973,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788223240354",
+    "sellTxid": "DRY_RUN_SELL_1788223252520",
+    "source": "PYTHON_SCANNER"
   }
 ]

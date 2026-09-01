@@ -1738,5 +1738,25 @@
     "buyTxid": "DRY_RUN_BUY_1788301638364",
     "sellTxid": "DRY_RUN_SELL_1788301654982",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T22:30:12.932895Z",
+    "token": "Aax33ynURrAKhKVrYPCFMKXUXsqZ8HL4X4oYyipxpump",
+    "symbol": "NI",
+    "marketCap": 36705.0,
+    "liquidity": 14525.29,
+    "candidateScore": 3.2,
+    "entryPrice": 3.0340949999999996e-05,
+    "exitPrice": 3.67e-05,
+    "peakPrice": 3.67e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.14671046885479858,
+    "profitLamports": 146710468,
+    "pnlPct": 20.95863840782837,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788301721705",
+    "sellTxid": "DRY_RUN_SELL_1788301812932",
+    "source": "KOL_CALLANALYSER"
   }
 ]

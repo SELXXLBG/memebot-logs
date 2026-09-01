@@ -298,5 +298,25 @@
     "buyTxid": "DRY_RUN_BUY_1788232910511",
     "sellTxid": "DRY_RUN_SELL_1788232922133",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T04:18:22.198385Z",
+    "token": "91pXQmY7MdgCsAp2x9T3L9iHgYR2JMkHHC3G3q2Ypump",
+    "symbol": "PUTER",
+    "marketCap": 43785.0,
+    "liquidity": 16246.2,
+    "candidateScore": 3.2,
+    "entryPrice": 5.4189599999999994e-05,
+    "exitPrice": 4.378e-05,
+    "peakPrice": 5.428e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.13446713022424964,
+    "profitLamports": -134467130,
+    "pnlPct": -19.209590032035663,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788236235838",
+    "sellTxid": "DRY_RUN_SELL_1788236302198",
+    "source": "KOL_CALLANALYSER"
   }
 ]

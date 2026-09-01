@@ -1598,5 +1598,25 @@
     "buyTxid": "DRY_RUN_BUY_1788295233382",
     "sellTxid": "DRY_RUN_SELL_1788295261242",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T20:49:53.569201Z",
+    "token": "9Y7pDt9Cw3znxhwymywKNd13PVzWAuq54bUBYVVnafSR",
+    "symbol": "REITARD",
+    "marketCap": 24784.0,
+    "liquidity": 17432.92,
+    "candidateScore": 8.5385,
+    "entryPrice": 3.3587099999999996e-05,
+    "exitPrice": 2.478e-05,
+    "peakPrice": 3.3587099999999996e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1835517207499307,
+    "profitLamports": -183551720,
+    "pnlPct": -26.221674392847245,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788295599753",
+    "sellTxid": "DRY_RUN_SELL_1788295793569",
+    "source": "PYTHON_SCANNER"
   }
 ]

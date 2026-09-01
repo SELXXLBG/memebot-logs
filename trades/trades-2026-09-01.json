@@ -1718,5 +1718,25 @@
     "buyTxid": "DRY_RUN_BUY_1788300784819",
     "sellTxid": "DRY_RUN_SELL_1788300795890",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-01T22:27:34.982443Z",
+    "token": "5BL7FMfmr3EPKq62E9WkdvpMk5LUERSj4E766yZtpump",
+    "symbol": "CharlestonAI",
+    "marketCap": 48478.0,
+    "liquidity": 16720.54,
+    "candidateScore": 9.6822,
+    "entryPrice": 5.403885e-05,
+    "exitPrice": 4.847e-05,
+    "peakPrice": 5.403885e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.07213689780593033,
+    "profitLamports": -72136897,
+    "pnlPct": -10.305271115132904,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788301638364",
+    "sellTxid": "DRY_RUN_SELL_1788301654982",
+    "source": "PYTHON_SCANNER"
   }
 ]

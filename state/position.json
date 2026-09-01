@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "5ae9q6gC77BD96xoBwdHJcdJaweZ8mZjSToEQawFpump",
+  "symbol": "GREG",
+  "marketCap": 60000.0,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 2.5798349999999998e-06,
+  "entryTime": 1788279443391,
+  "peakPrice": 2.5798349999999998e-06,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788279443391",
+  "isDryRun": true,
+  "source": "KOL_CALLANALYSER"
+}

@@ -158,5 +158,25 @@
     "buyTxid": "DRY_RUN_BUY_1788316640594",
     "sellTxid": "DRY_RUN_SELL_1788316645605",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T02:51:23.370406Z",
+    "token": "BX7SJo6LBpT971MJ4TBcnfEcPRSgnR6ymYEmSsEec79e",
+    "symbol": "PFP",
+    "marketCap": 32515.0,
+    "liquidity": 13412.73,
+    "candidateScore": 10.0645,
+    "entryPrice": 4.8712349999999994e-05,
+    "exitPrice": 3.251e-05,
+    "peakPrice": 5.019e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.23282894378940863,
+    "profitLamports": -232828943,
+    "pnlPct": -33.26127768420123,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788317436982",
+    "sellTxid": "DRY_RUN_SELL_1788317483370",
+    "source": "PYTHON_SCANNER"
   }
 ]

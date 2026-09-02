@@ -318,5 +318,25 @@
     "buyTxid": "DRY_RUN_BUY_1788325162231",
     "sellTxid": "DRY_RUN_SELL_1788325215205",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T05:06:39.008198Z",
+    "token": "99XjLY8VUSuwHcLcbTnqXvhwC3nWShMqqffamanAytMA",
+    "symbol": "Boomer",
+    "marketCap": 59005.0,
+    "liquidity": 18728.9,
+    "candidateScore": 10.2084,
+    "entryPrice": 4.6843049999999995e-05,
+    "exitPrice": 5.9e-05,
+    "peakPrice": 5.9e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.18166761131053596,
+    "profitLamports": 181667611,
+    "pnlPct": 25.95251590150514,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788325497419",
+    "sellTxid": "DRY_RUN_SELL_1788325599008",
+    "source": "PYTHON_SCANNER"
   }
 ]

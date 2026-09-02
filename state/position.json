@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "6o1BnDcHSSfynLnBLcHWbQxAG64oTjCH9A21USfNsS6n",
-  "symbol": "FUN",
-  "marketCap": 16000.0,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 1.964775e-05,
-  "entryTime": 1788322253513,
-  "peakPrice": 2.23e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788322253513",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

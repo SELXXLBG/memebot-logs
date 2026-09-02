@@ -198,5 +198,25 @@
     "buyTxid": "DRY_RUN_BUY_1788318959867",
     "sellTxid": "DRY_RUN_SELL_1788318990063",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T03:18:56.774734Z",
+    "token": "6mPo12ay9H7Fgr34y1NXoNEGzmKLVdA8QZ3VFThHpump",
+    "symbol": "Pumpape",
+    "marketCap": 114112.0,
+    "liquidity": 27082.17,
+    "candidateScore": 11.8143,
+    "entryPrice": 9.3666e-05,
+    "exitPrice": 0.0001141,
+    "peakPrice": 0.0001141,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.1527106954497897,
+    "profitLamports": 152710695,
+    "pnlPct": 21.815813635684243,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788319081570",
+    "sellTxid": "DRY_RUN_SELL_1788319136774",
+    "source": "PYTHON_SCANNER"
   }
 ]

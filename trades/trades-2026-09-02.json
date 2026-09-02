@@ -558,5 +558,25 @@
     "buyTxid": "DRY_RUN_BUY_1788344782575",
     "sellTxid": "DRY_RUN_SELL_1788344932270",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T10:54:35.986394Z",
+    "token": "BZcnQXeeRuzMPC1mvU8gSpS5LtdNDd3wbot35Ayzpump",
+    "symbol": "Syoma",
+    "marketCap": 49285.0,
+    "liquidity": 16780.86,
+    "candidateScore": 10.6712,
+    "entryPrice": 4.059195e-05,
+    "exitPrice": 4.928e-05,
+    "peakPrice": 4.928e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.14982367193495272,
+    "profitLamports": 149823671,
+    "pnlPct": 21.403381704993247,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788346464419",
+    "sellTxid": "DRY_RUN_SELL_1788346475986",
+    "source": "PYTHON_SCANNER"
   }
 ]

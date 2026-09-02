@@ -598,5 +598,25 @@
     "buyTxid": "DRY_RUN_BUY_1788346587089",
     "sellTxid": "DRY_RUN_SELL_1788346621201",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T11:10:29.547574Z",
+    "token": "2ddMcFkjrhdpQhJ3ZmG4DyPnkF3wZ36heCrNRGoppump",
+    "symbol": "TRUMP1",
+    "marketCap": 64763.0,
+    "liquidity": 23061.61,
+    "candidateScore": 10.3561,
+    "entryPrice": 7.237004999999999e-05,
+    "exitPrice": 6.476e-05,
+    "peakPrice": 7.237004999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.07360828132632209,
+    "profitLamports": -73608281,
+    "pnlPct": -10.515468760903156,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788347413178",
+    "sellTxid": "DRY_RUN_SELL_1788347429547",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "AG14A9hi14J5tJA2AGT7cNb8xmYWsBhe7gpgAuZopump",
-  "symbol": "CUMINU",
-  "marketCap": 68000.0,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 6.0420599999999995e-05,
-  "entryTime": 1788342022725,
-  "peakPrice": 6.0420599999999995e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788342022725",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

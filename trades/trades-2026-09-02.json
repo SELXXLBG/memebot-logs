@@ -238,5 +238,25 @@
     "buyTxid": "DRY_RUN_BUY_1788320423054",
     "sellTxid": "DRY_RUN_SELL_1788320450912",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T04:03:34.524490Z",
+    "token": "7BeHrHBuooQ9CpYALn5ShzxRmuP2X4ra9DZ4M2A2pump",
+    "symbol": "SwiftLift",
+    "marketCap": 31935.0,
+    "liquidity": 13295.56,
+    "candidateScore": 11.143,
+    "entryPrice": 3.35067e-05,
+    "exitPrice": 3.193e-05,
+    "peakPrice": 3.35067e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.032939382272799196,
+    "profitLamports": -32939382,
+    "pnlPct": -4.705626038971314,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788321796643",
+    "sellTxid": "DRY_RUN_SELL_1788321814524",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -438,5 +438,25 @@
     "buyTxid": "DRY_RUN_BUY_1788329223425",
     "sellTxid": "DRY_RUN_SELL_1788329253733",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T08:32:48.870910Z",
+    "token": "4vGzRdSukiho84jjWVJ7q5qFhuBnRwibK2zT3HW7pump",
+    "symbol": "PUMPMINI",
+    "marketCap": 1985.0,
+    "liquidity": 2141.14,
+    "candidateScore": 3.2,
+    "entryPrice": 2.1346199999999996e-06,
+    "exitPrice": 2.103e-06,
+    "peakPrice": 2.1346199999999996e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.010369058661494636,
+    "profitLamports": -10369058,
+    "pnlPct": -1.4812940944992339,
+    "reason": "FORCE_EXIT_90M",
+    "buyTxid": "DRY_RUN_BUY_1788332568639",
+    "sellTxid": "DRY_RUN_SELL_1788337968870",
+    "source": "KOL_CALLANALYSER"
   }
 ]

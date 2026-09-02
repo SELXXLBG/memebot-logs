@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "CYg4nZXfTt9we23DbtRiajsPh56bniE4rKKo55kMpump",
+  "symbol": "BARRY",
+  "marketCap": 42717.0,
+  "liquidity": 15576.06,
+  "volume1h": 48479.11,
+  "volume24h": 48479.11,
+  "candidateScore": 10.4754,
+  "entryPrice": 4.292355e-05,
+  "entryTime": 1788322777081,
+  "peakPrice": 4.292355e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788322777081",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

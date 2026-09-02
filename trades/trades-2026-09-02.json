@@ -118,5 +118,25 @@
     "buyTxid": "DRY_RUN_BUY_1788313742530",
     "sellTxid": "DRY_RUN_SELL_1788313787553",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T02:30:35.824498Z",
+    "token": "A5wGRdDSLtXsnWEXdL9fWWsPKecL8HXrnRW1XqyZpump",
+    "symbol": "SINK",
+    "marketCap": 40582.0,
+    "liquidity": 15107.88,
+    "candidateScore": 10.4356,
+    "entryPrice": 4.55667e-05,
+    "exitPrice": 4.058e-05,
+    "peakPrice": 4.55667e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.07660616195598975,
+    "profitLamports": -76606161,
+    "pnlPct": -10.94373742228425,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788316211843",
+    "sellTxid": "DRY_RUN_SELL_1788316235824",
+    "source": "PYTHON_SCANNER"
   }
 ]

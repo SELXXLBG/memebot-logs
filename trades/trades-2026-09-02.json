@@ -338,5 +338,25 @@
     "buyTxid": "DRY_RUN_BUY_1788325497419",
     "sellTxid": "DRY_RUN_SELL_1788325599008",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T05:07:34.305052Z",
+    "token": "8xsJv71C474ec6gfX3nAa4p5vCKKc5izVYMdqak7pump",
+    "symbol": "OHNO",
+    "marketCap": 58677.0,
+    "liquidity": 18809.94,
+    "candidateScore": 12.2477,
+    "entryPrice": 6.97269e-05,
+    "exitPrice": 5.867e-05,
+    "peakPrice": 7.44e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.11100206663425448,
+    "profitLamports": -111002066,
+    "pnlPct": -15.857438090607785,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788325619473",
+    "sellTxid": "DRY_RUN_SELL_1788325654305",
+    "source": "PYTHON_SCANNER"
   }
 ]

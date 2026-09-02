@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "4vGzRdSukiho84jjWVJ7q5qFhuBnRwibK2zT3HW7pump",
+  "symbol": "PUMPMINI",
+  "marketCap": 47000.0,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 2.1346199999999996e-06,
+  "entryTime": 1788332568639,
+  "peakPrice": 2.1346199999999996e-06,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788332568639",
+  "isDryRun": true,
+  "source": "KOL_CALLANALYSER"
+}

@@ -518,5 +518,25 @@
     "buyTxid": "DRY_RUN_BUY_1788339987183",
     "sellTxid": "DRY_RUN_SELL_1788340028276",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T10:16:33.945496Z",
+    "token": "AG14A9hi14J5tJA2AGT7cNb8xmYWsBhe7gpgAuZopump",
+    "symbol": "CUMINU",
+    "marketCap": 54061.0,
+    "liquidity": 17890.43,
+    "candidateScore": 3.2,
+    "entryPrice": 6.0420599999999995e-05,
+    "exitPrice": 5.406e-05,
+    "peakPrice": 6.0420599999999995e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.07369043008510337,
+    "profitLamports": -73690430,
+    "pnlPct": -10.52720429787191,
+    "reason": "STOPLOSS4P_LATE",
+    "buyTxid": "DRY_RUN_BUY_1788342022725",
+    "sellTxid": "DRY_RUN_SELL_1788344193945",
+    "source": "KOL_CALLANALYSER"
   }
 ]

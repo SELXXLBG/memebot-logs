@@ -58,5 +58,25 @@
     "buyTxid": "DRY_RUN_BUY_1788309559305",
     "sellTxid": "DRY_RUN_SELL_1788309568354",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T00:59:01.017696Z",
+    "token": "72NtVkCkBC2mKCT6paAdo9g4KptUrRH8aRU3xzBVQHDW",
+    "symbol": "alon",
+    "marketCap": 36320.0,
+    "liquidity": 14293.81,
+    "candidateScore": 11.2712,
+    "entryPrice": 4.8139499999999995e-05,
+    "exitPrice": 3.632e-05,
+    "peakPrice": 4.8139499999999995e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.17186821632962532,
+    "profitLamports": -171868216,
+    "pnlPct": -24.55260233280362,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788310719886",
+    "sellTxid": "DRY_RUN_SELL_1788310741017",
+    "source": "PYTHON_SCANNER"
   }
 ]

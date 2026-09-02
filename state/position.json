@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "H2LsWF3zJ4n2kkVpRsjZ912LPASMEYhQT9C4xFKvpump",
+  "symbol": "microduck",
+  "marketCap": 125357.0,
+  "liquidity": 27839.69,
+  "volume1h": 64396.28,
+  "volume24h": 64396.28,
+  "candidateScore": 10.5566,
+  "entryPrice": 0.00012673049999999998,
+  "entryTime": 1788346587089,
+  "peakPrice": 0.00012673049999999998,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788346587089",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

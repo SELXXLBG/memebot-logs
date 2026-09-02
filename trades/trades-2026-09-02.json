@@ -278,5 +278,25 @@
     "buyTxid": "DRY_RUN_BUY_1788322253513",
     "sellTxid": "DRY_RUN_SELL_1788322415879",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T04:20:13.663761Z",
+    "token": "CYg4nZXfTt9we23DbtRiajsPh56bniE4rKKo55kMpump",
+    "symbol": "BARRY",
+    "marketCap": 59800.0,
+    "liquidity": 18784.77,
+    "candidateScore": 10.4754,
+    "entryPrice": 4.292355e-05,
+    "exitPrice": 5.979e-05,
+    "peakPrice": 5.979e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.2750591458535,
+    "profitLamports": 275059145,
+    "pnlPct": 39.29416369335715,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788322777081",
+    "sellTxid": "DRY_RUN_SELL_1788322813663",
+    "source": "PYTHON_SCANNER"
   }
 ]

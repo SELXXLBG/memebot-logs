@@ -578,5 +578,25 @@
     "buyTxid": "DRY_RUN_BUY_1788346464419",
     "sellTxid": "DRY_RUN_SELL_1788346475986",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T10:57:01.201732Z",
+    "token": "H2LsWF3zJ4n2kkVpRsjZ912LPASMEYhQT9C4xFKvpump",
+    "symbol": "microduck",
+    "marketCap": 154025.0,
+    "liquidity": 31072.2,
+    "candidateScore": 10.5566,
+    "entryPrice": 0.00012673049999999998,
+    "exitPrice": 0.0001549,
+    "peakPrice": 0.0001549,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.15559514086979861,
+    "profitLamports": 155595140,
+    "pnlPct": 22.22787726711409,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788346587089",
+    "sellTxid": "DRY_RUN_SELL_1788346621201",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -418,5 +418,25 @@
     "buyTxid": "DRY_RUN_BUY_1788328791413",
     "sellTxid": "DRY_RUN_SELL_1788328802562",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T06:07:33.733522Z",
+    "token": "HGicAKH4gzaNNeoBonh6DmFFkiiZYKWueQND9x8aRZYe",
+    "symbol": "BITCAT",
+    "marketCap": 42080.0,
+    "liquidity": 15509.81,
+    "candidateScore": 10.7101,
+    "entryPrice": 4.4571749999999996e-05,
+    "exitPrice": 4.207e-05,
+    "peakPrice": 4.4571749999999996e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.03929002114568074,
+    "profitLamports": -39290021,
+    "pnlPct": -5.612860163668677,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788329223425",
+    "sellTxid": "DRY_RUN_SELL_1788329253733",
+    "source": "PYTHON_SCANNER"
   }
 ]

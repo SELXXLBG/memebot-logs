@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "6mPo12ay9H7Fgr34y1NXoNEGzmKLVdA8QZ3VFThHpump",
+  "symbol": "Pumpape",
+  "marketCap": 93206.0,
+  "liquidity": 24295.92,
+  "volume1h": 192975.29,
+  "volume24h": 192975.29,
+  "candidateScore": 11.8143,
+  "entryPrice": 9.3666e-05,
+  "entryTime": 1788319081570,
+  "peakPrice": 9.3666e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788319081570",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

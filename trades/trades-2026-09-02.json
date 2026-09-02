@@ -1,0 +1,22 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T00:19:52.888117Z",
+    "token": "GEffekmuHN6fEFnH1GLLQGeBtsnyjC94vcc6hM9dpump",
+    "symbol": "Rubert",
+    "marketCap": 120734.0,
+    "liquidity": 28952.79,
+    "candidateScore": 10.028,
+    "entryPrice": 0.00014100149999999998,
+    "exitPrice": 0.0001231,
+    "peakPrice": 0.00014100149999999998,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.08887174959131627,
+    "profitLamports": -88871749,
+    "pnlPct": -12.695964227330897,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788308370115",
+    "sellTxid": "DRY_RUN_SELL_1788308392888",
+    "source": "PYTHON_SCANNER"
+  }
+]

@@ -698,5 +698,25 @@
     "buyTxid": "DRY_RUN_BUY_1788355137434",
     "sellTxid": "DRY_RUN_SELL_1788355292308",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T14:35:07.261515Z",
+    "token": "HmaHhC9vBh43gZnNTUFGNGP1A72jH1MXKjhHRWw2Ja8F",
+    "symbol": "FAMI",
+    "marketCap": 24873.0,
+    "liquidity": 11524.05,
+    "candidateScore": 11.3567,
+    "entryPrice": 4.545615e-05,
+    "exitPrice": 2.487e-05,
+    "peakPrice": 5.259e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.31701551935216676,
+    "profitLamports": -317015519,
+    "pnlPct": -45.28793133602383,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788359641868",
+    "sellTxid": "DRY_RUN_SELL_1788359707261",
+    "source": "PYTHON_SCANNER"
   }
 ]

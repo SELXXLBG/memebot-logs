@@ -298,5 +298,25 @@
     "buyTxid": "DRY_RUN_BUY_1788322777081",
     "sellTxid": "DRY_RUN_SELL_1788322813663",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T05:00:15.205888Z",
+    "token": "5KHYLdDxTQFtCzqiZVGDx3ZXpk2jFWpxVSygf5uappje",
+    "symbol": "Loom",
+    "marketCap": 35497.0,
+    "liquidity": 14059.69,
+    "candidateScore": 9.6917,
+    "entryPrice": 4.170749999999999e-05,
+    "exitPrice": 3.549e-05,
+    "peakPrice": 4.562e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.10435173529940646,
+    "profitLamports": -104351735,
+    "pnlPct": -14.907390757058067,
+    "reason": "STOPLOSS8P_EARLY",
+    "buyTxid": "DRY_RUN_BUY_1788325162231",
+    "sellTxid": "DRY_RUN_SELL_1788325215205",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "BZcnQXeeRuzMPC1mvU8gSpS5LtdNDd3wbot35Ayzpump",
+  "symbol": "Syoma",
+  "marketCap": 40399.0,
+  "liquidity": 14988.87,
+  "volume1h": 43848.99,
+  "volume24h": 43848.99,
+  "candidateScore": 10.6712,
+  "entryPrice": 4.059195e-05,
+  "entryTime": 1788346464419,
+  "peakPrice": 4.059195e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788346464419",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

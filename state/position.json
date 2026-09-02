@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "BrikD3tfzSL7deBUQsxzKjWdYkAHKpFKmt89KySxpump",
-  "symbol": "brik",
-  "marketCap": 50144.0,
-  "liquidity": 17043.1,
-  "volume1h": 18050.7,
-  "volume24h": 18050.7,
-  "candidateScore": 9.6875,
-  "entryPrice": 5.039069999999999e-05,
-  "entryTime": 1788309559305,
-  "peakPrice": 5.039069999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788309559305",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

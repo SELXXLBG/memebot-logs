@@ -38,5 +38,25 @@
     "buyTxid": "DRY_RUN_BUY_1788308735043",
     "sellTxid": "DRY_RUN_SELL_1788309366298",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T00:39:28.354607Z",
+    "token": "BrikD3tfzSL7deBUQsxzKjWdYkAHKpFKmt89KySxpump",
+    "symbol": "brik",
+    "marketCap": 65332.0,
+    "liquidity": 19711.51,
+    "candidateScore": 9.6875,
+    "entryPrice": 5.039069999999999e-05,
+    "exitPrice": 6.533e-05,
+    "peakPrice": 6.533e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.20752857174042047,
+    "profitLamports": 207528571,
+    "pnlPct": 29.646938820060072,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788309559305",
+    "sellTxid": "DRY_RUN_SELL_1788309568354",
+    "source": "PYTHON_SCANNER"
   }
 ]

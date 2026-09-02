@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "GEffekmuHN6fEFnH1GLLQGeBtsnyjC94vcc6hM9dpump",
+  "symbol": "Rubert",
+  "marketCap": 137550.0,
+  "liquidity": 31018.86,
+  "volume1h": 195051.22,
+  "volume24h": 586787.02,
+  "candidateScore": 10.028,
+  "entryPrice": 0.00014100149999999998,
+  "entryTime": 1788308370115,
+  "peakPrice": 0.00014100149999999998,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788308370115",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

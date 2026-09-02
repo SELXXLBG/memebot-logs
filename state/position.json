@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "AL63Th2HZAjHzU5hvRiqsDumfYp3CEnZUQaFSDnVotQn",
-  "symbol": "Hashcash",
-  "marketCap": 47449.0,
-  "liquidity": 16595.66,
-  "volume1h": 36969.22,
-  "volume24h": 36969.22,
-  "candidateScore": 10.4157,
-  "entryPrice": 4.767719999999999e-05,
-  "entryTime": 1788328247273,
-  "peakPrice": 4.767719999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788328247273",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

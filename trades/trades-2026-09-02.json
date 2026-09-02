@@ -538,5 +538,25 @@
     "buyTxid": "DRY_RUN_BUY_1788342022725",
     "sellTxid": "DRY_RUN_SELL_1788344193945",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T10:28:52.270019Z",
+    "token": "4rxNSU5BynixWPZvN3Nprvm4fdomjRSQynFb5XvQpump",
+    "symbol": "Biu",
+    "marketCap": 121975.0,
+    "liquidity": 28245.06,
+    "candidateScore": 7.0421,
+    "entryPrice": 0.00013848899999999997,
+    "exitPrice": 0.0001263,
+    "peakPrice": 0.000146,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06160994736043999,
+    "profitLamports": -61609947,
+    "pnlPct": -8.801421051491428,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1788344782575",
+    "sellTxid": "DRY_RUN_SELL_1788344932270",
+    "source": "PYTHON_SCANNER"
   }
 ]

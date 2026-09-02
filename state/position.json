@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "BEy3GeKMC3J9dr2eabXYTUuD37YGiSnwWFq13hSgpump",
+  "symbol": "APES",
+  "marketCap": 135603.0,
+  "liquidity": 30600.11,
+  "volume1h": 240350.18,
+  "volume24h": 544576.7,
+  "candidateScore": 9.6364,
+  "entryPrice": 0.00013959449999999997,
+  "entryTime": 1788338980569,
+  "peakPrice": 0.00013959449999999997,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788338980569",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

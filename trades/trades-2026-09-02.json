@@ -638,5 +638,25 @@
     "buyTxid": "DRY_RUN_BUY_1788350172702",
     "sellTxid": "DRY_RUN_SELL_1788350177356",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T12:31:31.783119Z",
+    "token": "DKiAVjAaQLNY6xSs5guR3EJLMjKT27LD15rVfohxpump",
+    "symbol": "PumpCity",
+    "marketCap": 61355.0,
+    "liquidity": 18987.71,
+    "candidateScore": 10.9011,
+    "entryPrice": 4.88832e-05,
+    "exitPrice": 6.135e-05,
+    "peakPrice": 6.135e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.1785226826394344,
+    "profitLamports": 178522682,
+    "pnlPct": 25.50324037706206,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788352262009",
+    "sellTxid": "DRY_RUN_SELL_1788352291783",
+    "source": "PYTHON_SCANNER"
   }
 ]

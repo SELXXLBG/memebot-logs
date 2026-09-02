@@ -358,5 +358,25 @@
     "buyTxid": "DRY_RUN_BUY_1788325619473",
     "sellTxid": "DRY_RUN_SELL_1788325654305",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T05:27:50.442394Z",
+    "token": "7KEPvuY6sY3AMXBZGeCPuyLwvHHYqVCMDRrT2Mv9pump",
+    "symbol": "AIPEPE",
+    "marketCap": 57385.0,
+    "liquidity": 18667.41,
+    "candidateScore": 11.6208,
+    "entryPrice": 6.985754999999999e-05,
+    "exitPrice": 5.738e-05,
+    "peakPrice": 8.138e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.12502993591959627,
+    "profitLamports": -125029935,
+    "pnlPct": -17.86141941708518,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788326779760",
+    "sellTxid": "DRY_RUN_SELL_1788326870442",
+    "source": "PYTHON_SCANNER"
   }
 ]

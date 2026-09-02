@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "5KHYLdDxTQFtCzqiZVGDx3ZXpk2jFWpxVSygf5uappje",
-  "symbol": "Loom",
-  "marketCap": 41503.0,
-  "liquidity": 15337.94,
-  "volume1h": 11785.96,
-  "volume24h": 11785.96,
-  "candidateScore": 9.6917,
-  "entryPrice": 4.170749999999999e-05,
-  "entryTime": 1788325162231,
-  "peakPrice": 4.562e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788325162231",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

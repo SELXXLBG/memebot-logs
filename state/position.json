@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "A5wGRdDSLtXsnWEXdL9fWWsPKecL8HXrnRW1XqyZpump",
-  "symbol": "SINK",
-  "marketCap": 45349.0,
-  "liquidity": 16061.24,
-  "volume1h": 25579.33,
-  "volume24h": 25579.33,
-  "candidateScore": 10.4356,
-  "entryPrice": 4.55667e-05,
-  "entryTime": 1788316211843,
-  "peakPrice": 4.55667e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788316211843",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

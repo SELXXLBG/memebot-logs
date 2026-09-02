@@ -78,5 +78,25 @@
     "buyTxid": "DRY_RUN_BUY_1788310719886",
     "sellTxid": "DRY_RUN_SELL_1788310741017",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T01:24:59.362953Z",
+    "token": "AckB4GuVx2vmNtaibcTL6Po1jfavx5hAdKs1aP2r7qeq",
+    "symbol": "Cupsey",
+    "marketCap": 37436.0,
+    "liquidity": 14527.68,
+    "candidateScore": 10.9024,
+    "entryPrice": 4.41999e-05,
+    "exitPrice": 3.743e-05,
+    "peakPrice": 4.41999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.10721585342953262,
+    "profitLamports": -107215853,
+    "pnlPct": -15.316550489933231,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788312278058",
+    "sellTxid": "DRY_RUN_SELL_1788312299362",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -678,5 +678,25 @@
     "buyTxid": "DRY_RUN_BUY_1788354405469",
     "sellTxid": "DRY_RUN_SELL_1788354415185",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T13:21:32.308694Z",
+    "token": "7GiHstJv9zMvBeaFu85SXRmuaoSLYfjvruRbpqMvpump",
+    "symbol": "MOGGY",
+    "marketCap": 85959.0,
+    "liquidity": 22725.28,
+    "candidateScore": 10.8557,
+    "entryPrice": 6.479235e-05,
+    "exitPrice": 8.595e-05,
+    "peakPrice": 8.595e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.2285818464679859,
+    "profitLamports": 228581846,
+    "pnlPct": 32.65454949542656,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788355137434",
+    "sellTxid": "DRY_RUN_SELL_1788355292308",
+    "source": "PYTHON_SCANNER"
   }
 ]

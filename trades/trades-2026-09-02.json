@@ -498,5 +498,25 @@
     "buyTxid": "DRY_RUN_BUY_1788338980569",
     "sellTxid": "DRY_RUN_SELL_1788339051245",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T09:07:08.276195Z",
+    "token": "FdtKqpPK99NiMyre48EADmWv51d7wwDGfWV6fzW9pump",
+    "symbol": "Chuffy",
+    "marketCap": 29217.0,
+    "liquidity": 12536.24,
+    "candidateScore": 9.6623,
+    "entryPrice": 3.32856e-05,
+    "exitPrice": 2.921e-05,
+    "peakPrice": 3.32856e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.08571033720287449,
+    "profitLamports": -85710337,
+    "pnlPct": -12.244333886124927,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788339987183",
+    "sellTxid": "DRY_RUN_SELL_1788340028276",
+    "source": "PYTHON_SCANNER"
   }
 ]

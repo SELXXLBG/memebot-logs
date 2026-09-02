@@ -618,5 +618,25 @@
     "buyTxid": "DRY_RUN_BUY_1788347413178",
     "sellTxid": "DRY_RUN_SELL_1788347429547",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-02T11:56:17.356155Z",
+    "token": "Dzddja1BqGN18kks2Zqdg4iXRw5NnHvmYy1h1qdKpump",
+    "symbol": "CASHCOW",
+    "marketCap": 35057.0,
+    "liquidity": 13832.49,
+    "candidateScore": 9.7099,
+    "entryPrice": 4.4169749999999995e-05,
+    "exitPrice": 3.505e-05,
+    "peakPrice": 4.4169749999999995e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.14452934417785923,
+    "profitLamports": -144529344,
+    "pnlPct": -20.647049168265607,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788350172702",
+    "sellTxid": "DRY_RUN_SELL_1788350177356",
+    "source": "PYTHON_SCANNER"
   }
 ]

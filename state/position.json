@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "BA4iCAoJWfhsjDNNJHbd4NQbxLbYgR5QiLojAHGVpump",
-  "symbol": "AI",
-  "marketCap": 100258.0,
-  "liquidity": 24883.07,
-  "volume1h": 44881.52,
-  "volume24h": 44881.52,
-  "candidateScore": 10.2156,
-  "entryPrice": 0.00010070099999999998,
-  "entryTime": 1788308735043,
-  "peakPrice": 0.0001034,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788308735043",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "DpWunGR7zkBUxEopSob5Lhcd8marAcFobYYQ2tyvpump",
+  "symbol": "ROBININU",
+  "marketCap": 17000.0,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 2.30145e-06,
+  "entryTime": 1788465959793,
+  "peakPrice": 2.30145e-06,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788465959793",
+  "isDryRun": true,
+  "source": "KOL_CALLANALYSER"
+}

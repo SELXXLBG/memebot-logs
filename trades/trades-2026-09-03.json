@@ -178,5 +178,25 @@
     "buyTxid": "DRY_RUN_BUY_1788470039332",
     "sellTxid": "DRY_RUN_SELL_1788470064316",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-03T21:23:01.529605Z",
+    "token": "J3qm7RXmdTvLP1VFa9sg6QXGmRxkbinyZKUBirBnpump",
+    "symbol": "MENDOZA",
+    "marketCap": 40191.0,
+    "liquidity": 15536.61,
+    "candidateScore": 11.5218,
+    "entryPrice": 4.905405e-05,
+    "exitPrice": 4.019e-05,
+    "peakPrice": 4.905405e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1264897597649939,
+    "profitLamports": -126489759,
+    "pnlPct": -18.069965680713416,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788470559513",
+    "sellTxid": "DRY_RUN_SELL_1788470581529",
+    "source": "PYTHON_SCANNER"
   }
 ]

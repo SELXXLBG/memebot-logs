@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "G5B1zojKV8SZhdXwEc8tPoVGZpTGzC91qG8KkXSNpump",
+  "symbol": "ARTPEPE",
+  "marketCap": 61000.0,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 2.5034549999999996e-06,
+  "entryTime": 1788476851556,
+  "peakPrice": 2.5034549999999996e-06,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788476851556",
+  "isDryRun": true,
+  "source": "KOL_CALLANALYSER"
+}

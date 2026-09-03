@@ -58,5 +58,25 @@
     "buyTxid": "DRY_RUN_BUY_1788465166645",
     "sellTxid": "DRY_RUN_SELL_1788465168158",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-03T20:21:03.810386Z",
+    "token": "DpWunGR7zkBUxEopSob5Lhcd8marAcFobYYQ2tyvpump",
+    "symbol": "ROBININU",
+    "marketCap": 2207.0,
+    "liquidity": 2205.42,
+    "candidateScore": 3.2,
+    "entryPrice": 2.30145e-06,
+    "exitPrice": 2.207e-06,
+    "peakPrice": 2.346e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.02872754133263812,
+    "profitLamports": -28727541,
+    "pnlPct": -4.10393447609116,
+    "reason": "STOPLOSS4P_LATE",
+    "buyTxid": "DRY_RUN_BUY_1788465959793",
+    "sellTxid": "DRY_RUN_SELL_1788466863810",
+    "source": "KOL_CALLANALYSER"
   }
 ]

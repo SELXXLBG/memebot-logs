@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "51sFqy51CHrdns9r4crVUY3sLp6amqsBFMXbytu4SijK",
-  "symbol": "ASTRA",
-  "marketCap": 105000.0,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 1.2431849999999999e-05,
-  "entryTime": 1788468552291,
-  "peakPrice": 1.2431849999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788468552291",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

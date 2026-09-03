@@ -1,0 +1,22 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-03T19:20:29.768334Z",
+    "token": "DnPVN9acX65VpwQZvd66txYNRBfeZeYJgUgAm2Jhpump",
+    "symbol": "CATMAX",
+    "marketCap": 43133.0,
+    "liquidity": 16064.13,
+    "candidateScore": 10.3225,
+    "entryPrice": 3.5707649999999993e-05,
+    "exitPrice": 4.313e-05,
+    "peakPrice": 4.313e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.1455050948466227,
+    "profitLamports": 145505094,
+    "pnlPct": 20.7864421209461,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788463132666",
+    "sellTxid": "DRY_RUN_SELL_1788463229768",
+    "source": "PYTHON_SCANNER"
+  }
+]

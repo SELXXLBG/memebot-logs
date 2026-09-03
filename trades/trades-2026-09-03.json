@@ -238,5 +238,25 @@
     "buyTxid": "DRY_RUN_BUY_1788473740662",
     "sellTxid": "DRY_RUN_SELL_1788473767347",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-03T22:24:20.320981Z",
+    "token": "4wYcdCpY7MtEzhayGYHpAKN5jhRkQUQwTbtAQgudpump",
+    "symbol": "miguel",
+    "marketCap": 9267.0,
+    "liquidity": 6434.57,
+    "candidateScore": 10.2365,
+    "entryPrice": 4.418985e-05,
+    "exitPrice": 9.266e-06,
+    "peakPrice": 4.418985e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.5532196873263882,
+    "profitLamports": -553219687,
+    "pnlPct": -79.03138390376975,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788474258911",
+    "sellTxid": "DRY_RUN_SELL_1788474260320",
+    "source": "PYTHON_SCANNER"
   }
 ]

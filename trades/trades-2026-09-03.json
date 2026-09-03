@@ -198,5 +198,25 @@
     "buyTxid": "DRY_RUN_BUY_1788470559513",
     "sellTxid": "DRY_RUN_SELL_1788470581529",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-03T21:48:39.001883Z",
+    "token": "GkE46G36hvDPRQ9EbzpVJ9VMW2gkkYC4de3gvPadpump",
+    "symbol": "pumpjeet",
+    "marketCap": 46956.0,
+    "liquidity": 16818.0,
+    "candidateScore": 9.7098,
+    "entryPrice": 4.616969999999999e-05,
+    "exitPrice": 4.695e-05,
+    "peakPrice": 5.394e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.011830486227980842,
+    "profitLamports": 11830486,
+    "pnlPct": 1.6900694611401206,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788472027070",
+    "sellTxid": "DRY_RUN_SELL_1788472119001",
+    "source": "PYTHON_SCANNER"
   }
 ]

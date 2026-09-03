@@ -138,5 +138,25 @@
     "buyTxid": "DRY_RUN_BUY_1788468552291",
     "sellTxid": "DRY_RUN_SELL_1788468564760",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-03T20:57:31.042069Z",
+    "token": "UkPoGjkTuxYQJQpS91fJhobBuPfNXNvAciFfsLdpump",
+    "symbol": "Chiikawa",
+    "marketCap": 36825.0,
+    "liquidity": 14700.89,
+    "candidateScore": 11.4439,
+    "entryPrice": 4.730535e-05,
+    "exitPrice": 3.682e-05,
+    "peakPrice": 4.730535e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1551567634527595,
+    "profitLamports": -155156763,
+    "pnlPct": -22.165251921822787,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788469031078",
+    "sellTxid": "DRY_RUN_SELL_1788469051042",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -218,5 +218,25 @@
     "buyTxid": "DRY_RUN_BUY_1788472027070",
     "sellTxid": "DRY_RUN_SELL_1788472119001",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-03T22:16:07.347880Z",
+    "token": "EwoHciwRuKoJuGsjf9AD3Pw7Cm4cUBk8mSd9n49Npump",
+    "symbol": "mikedyson",
+    "marketCap": 46973.0,
+    "liquidity": 16776.92,
+    "candidateScore": 9.3886,
+    "entryPrice": 4.902389999999999e-05,
+    "exitPrice": 4.697e-05,
+    "peakPrice": 4.902389999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.029327124117012188,
+    "profitLamports": -29327124,
+    "pnlPct": -4.18958915957317,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788473740662",
+    "sellTxid": "DRY_RUN_SELL_1788473767347",
+    "source": "PYTHON_SCANNER"
   }
 ]

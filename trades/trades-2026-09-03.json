@@ -38,5 +38,25 @@
     "buyTxid": "DRY_RUN_BUY_1788463254045",
     "sellTxid": "DRY_RUN_SELL_1788464684575",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-03T19:52:48.158385Z",
+    "token": "2iYZbVPgTnQPMGtzHVS7tw2AkoXv8FrxQoAaUie6Xxkx",
+    "symbol": "Goldcoin",
+    "marketCap": 52101.0,
+    "liquidity": 17871.95,
+    "candidateScore": 10.6682,
+    "entryPrice": 5.4018749999999995e-05,
+    "exitPrice": 5.21e-05,
+    "peakPrice": 5.4018749999999995e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.024864051833853932,
+    "profitLamports": -24864051,
+    "pnlPct": -3.552007404836276,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788465166645",
+    "sellTxid": "DRY_RUN_SELL_1788465168158",
+    "source": "PYTHON_SCANNER"
   }
 ]

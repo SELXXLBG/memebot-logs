@@ -118,5 +118,25 @@
     "buyTxid": "DRY_RUN_BUY_1788467095160",
     "sellTxid": "DRY_RUN_SELL_1788467116124",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-03T20:49:24.760283Z",
+    "token": "51sFqy51CHrdns9r4crVUY3sLp6amqsBFMXbytu4SijK",
+    "symbol": "ASTRA",
+    "marketCap": 9205.0,
+    "liquidity": 9218.73,
+    "candidateScore": 3.2,
+    "entryPrice": 1.2431849999999999e-05,
+    "exitPrice": 9.204e-06,
+    "peakPrice": 1.2431849999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.18175050374642543,
+    "profitLamports": -181750503,
+    "pnlPct": -25.96435767806078,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788468552291",
+    "sellTxid": "DRY_RUN_SELL_1788468564760",
+    "source": "KOL_CALLANALYSER"
   }
 ]

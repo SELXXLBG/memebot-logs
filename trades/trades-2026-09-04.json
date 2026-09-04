@@ -898,5 +898,25 @@
     "buyTxid": "DRY_RUN_BUY_1788550753089",
     "sellTxid": "DRY_RUN_SELL_1788550831738",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T19:48:31.832507Z",
+    "token": "2QGk9gXwMckxApDJGjMUkkBMvyJqieDtwJV3e65Lpump",
+    "symbol": "PSA",
+    "marketCap": 65645.0,
+    "liquidity": 19966.59,
+    "candidateScore": 9.6692,
+    "entryPrice": 4.345619999999999e-05,
+    "exitPrice": 6.564e-05,
+    "peakPrice": 6.564e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.35734049456694345,
+    "profitLamports": 357340494,
+    "pnlPct": 51.048642080991925,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788551240494",
+    "sellTxid": "DRY_RUN_SELL_1788551311832",
+    "source": "PYTHON_SCANNER"
   }
 ]

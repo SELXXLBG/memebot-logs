@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "2zvLe8b8d5Mr6nGGG6gH4hRMgxxhtbFMWVA8hWyapump",
-  "symbol": "CATBULL",
-  "marketCap": 41336.0,
-  "liquidity": 15377.32,
-  "volume1h": 13372.97,
-  "volume24h": 13372.97,
-  "candidateScore": 8.761,
-  "entryPrice": 4.1536649999999995e-05,
-  "entryTime": 1788534695442,
-  "peakPrice": 4.448e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788534695442",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

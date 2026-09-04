@@ -338,5 +338,25 @@
     "buyTxid": "DRY_RUN_BUY_1788518327154",
     "sellTxid": "DRY_RUN_SELL_1788518435023",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T11:09:26.244883Z",
+    "token": "Hyddgx7vrzHNUuxCBvDDjyjz5EJHj7qwnk8wVWrepump",
+    "symbol": "BOLD",
+    "marketCap": 56616.0,
+    "liquidity": 18856.4,
+    "candidateScore": 10.6822,
+    "entryPrice": 6.339539999999999e-05,
+    "exitPrice": 5.757e-05,
+    "peakPrice": 6.339539999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.064322963495774,
+    "profitLamports": -64322963,
+    "pnlPct": -9.188994785110573,
+    "reason": "STOPLOSS6P",
+    "buyTxid": "DRY_RUN_BUY_1788519607461",
+    "sellTxid": "DRY_RUN_SELL_1788520166244",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -138,5 +138,25 @@
     "buyTxid": "DRY_RUN_BUY_1788485530544",
     "sellTxid": "DRY_RUN_SELL_1788485877109",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T01:39:50.043203Z",
+    "token": "qbHi6X4mJzs4RSJyVMy3947xF72ot3urG5oEFkcpump",
+    "symbol": "OPENSLOP",
+    "marketCap": 53762.0,
+    "liquidity": 18219.4,
+    "candidateScore": 10.489,
+    "entryPrice": 6.87621e-05,
+    "exitPrice": 5.376e-05,
+    "peakPrice": 6.87621e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.15272177551296423,
+    "profitLamports": -152721775,
+    "pnlPct": -21.817396501852034,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788485986906",
+    "sellTxid": "DRY_RUN_SELL_1788485990043",
+    "source": "PYTHON_SCANNER"
   }
 ]

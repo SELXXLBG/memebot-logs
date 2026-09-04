@@ -798,5 +798,25 @@
     "buyTxid": "DRY_RUN_BUY_1788544881666",
     "sellTxid": "DRY_RUN_SELL_1788544980667",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T18:08:08.563384Z",
+    "token": "5Cbrtd7xGDYrqAgMCrib44Jsw6oZyyru6srAUMoxpump",
+    "symbol": "SELFIE",
+    "marketCap": 59937.0,
+    "liquidity": 19002.46,
+    "candidateScore": 10.6667,
+    "entryPrice": 6.612899999999999e-05,
+    "exitPrice": 5.993e-05,
+    "peakPrice": 6.612899999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06561871493595843,
+    "profitLamports": -65618714,
+    "pnlPct": -9.374102133708348,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788545280436",
+    "sellTxid": "DRY_RUN_SELL_1788545288563",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -558,5 +558,25 @@
     "buyTxid": "DRY_RUN_BUY_1788534695442",
     "sellTxid": "DRY_RUN_SELL_1788534729948",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T15:16:42.899691Z",
+    "token": "CaWZeUM4FvX9dPkjGc2xHS6tSN3qJfTWyvaG77aM5o7h",
+    "symbol": "AGI",
+    "marketCap": 150762.0,
+    "liquidity": 49113.31,
+    "candidateScore": 3.3,
+    "entryPrice": 0.00015426749999999999,
+    "exitPrice": 0.0001507,
+    "peakPrice": 0.00015426749999999999,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.01618779068825247,
+    "profitLamports": -16187790,
+    "pnlPct": -2.31254152689321,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788534987802",
+    "sellTxid": "DRY_RUN_SELL_1788535002899",
+    "source": "KOL_CALLANALYSER"
   }
 ]

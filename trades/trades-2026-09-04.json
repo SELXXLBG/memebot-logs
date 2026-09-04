@@ -758,5 +758,25 @@
     "buyTxid": "DRY_RUN_BUY_1788541793149",
     "sellTxid": "DRY_RUN_SELL_1788541820348",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T17:26:13.906874Z",
+    "token": "GR7rApPiiFyZzCqgVCXGa34JZNAJRdVxGWWWvv9kpump",
+    "symbol": "MELTO",
+    "marketCap": 4925.0,
+    "liquidity": 4427.7,
+    "candidateScore": 3.2,
+    "entryPrice": 3.9998999999999994e-05,
+    "exitPrice": 4.925e-06,
+    "peakPrice": 4.683e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.6138103452586314,
+    "profitLamports": -613810345,
+    "pnlPct": -87.6871921798045,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788542717422",
+    "sellTxid": "DRY_RUN_SELL_1788542773906",
+    "source": "KOL_CALLANALYSER"
   }
 ]

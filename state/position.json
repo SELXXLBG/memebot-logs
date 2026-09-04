@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "HwEGDkubk3QFpJqhj5KvQULd54dTwFXX2hwaLDJ1pump",
-  "symbol": "bikelonmusk",
-  "marketCap": 49553.0,
-  "liquidity": 17115.71,
-  "volume1h": 73660.72,
-  "volume24h": 73660.72,
-  "candidateScore": 11.788,
-  "entryPrice": 4.9797749999999996e-05,
-  "entryTime": 1788531906200,
-  "peakPrice": 5.764e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788531906200",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

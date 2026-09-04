@@ -618,5 +618,25 @@
     "buyTxid": "DRY_RUN_BUY_1788536435348",
     "sellTxid": "DRY_RUN_SELL_1788536455230",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T15:49:28.338636Z",
+    "token": "2kbfJ8ppFUoh3gXRpaTT2QXDmipTW8RM1cNYCxNdpump",
+    "symbol": "catfish",
+    "marketCap": 38599.0,
+    "liquidity": 14867.56,
+    "candidateScore": 10.3685,
+    "entryPrice": 4.5174749999999996e-05,
+    "exitPrice": 3.859e-05,
+    "peakPrice": 4.5174749999999996e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1020332154577501,
+    "profitLamports": -102033215,
+    "pnlPct": -14.576173636821444,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1788536890534",
+    "sellTxid": "DRY_RUN_SELL_1788536968338",
+    "source": "PYTHON_SCANNER"
   }
 ]

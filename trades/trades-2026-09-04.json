@@ -818,5 +818,25 @@
     "buyTxid": "DRY_RUN_BUY_1788545280436",
     "sellTxid": "DRY_RUN_SELL_1788545288563",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T18:10:26.442138Z",
+    "token": "VgLcGCPBh4hgpYLbFweMaup24UAupGN3Rgz5NPCpump",
+    "symbol": "\u0405USHIPEDIA",
+    "marketCap": 62783.0,
+    "liquidity": 19430.61,
+    "candidateScore": 9.0647,
+    "entryPrice": 4.3034099999999995e-05,
+    "exitPrice": 6.283e-05,
+    "peakPrice": 6.283e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.3220034809604479,
+    "profitLamports": 322003480,
+    "pnlPct": 46.00049728006398,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788545402565",
+    "sellTxid": "DRY_RUN_SELL_1788545426442",
+    "source": "PYTHON_SCANNER"
   }
 ]

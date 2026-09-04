@@ -238,5 +238,25 @@
     "buyTxid": "DRY_RUN_BUY_1788493238112",
     "sellTxid": "DRY_RUN_SELL_1788493394992",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T04:29:26.268183Z",
+    "token": "62sRxxH4KBqrEE95qvjQrRnoMsGWBnHbf51dXWm8pump",
+    "symbol": "Trump",
+    "marketCap": 24291.0,
+    "liquidity": 11521.73,
+    "candidateScore": 9.6972,
+    "entryPrice": 4.4611949999999996e-05,
+    "exitPrice": 2.429e-05,
+    "peakPrice": 4.4611949999999996e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.31886893534131544,
+    "profitLamports": -318868935,
+    "pnlPct": -45.55270504875935,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788496138959",
+    "sellTxid": "DRY_RUN_SELL_1788496166268",
+    "source": "PYTHON_SCANNER"
   }
 ]

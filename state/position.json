@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "9BwwsVvRJp6exbDfLfn5TekLcWKV3PEd8Qc7r3cupump",
-  "symbol": "PEPEUS",
-  "marketCap": 46000.0,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 4.75566e-05,
-  "entryTime": 1788521108294,
-  "peakPrice": 5.394e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788521108294",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

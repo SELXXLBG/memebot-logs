@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "GLRGgpetTFGoetoD2A2CmTVCJTrnqfyxMGqPWFMcpump",
+  "symbol": "PONSLESS",
+  "marketCap": 43605.0,
+  "liquidity": 16075.43,
+  "volume1h": 5223.67,
+  "volume24h": 5223.67,
+  "candidateScore": 9.2761,
+  "entryPrice": 4.4008949999999995e-05,
+  "entryTime": 1788518327154,
+  "peakPrice": 4.4008949999999995e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788518327154",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

@@ -278,5 +278,25 @@
     "buyTxid": "DRY_RUN_BUY_1788499953951",
     "sellTxid": "DRY_RUN_SELL_1788499959437",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T05:55:06.234872Z",
+    "token": "Drk1zV9LCxkuHdCJ5zf4CQfXnkaARcC25HiN1JP5pump",
+    "symbol": "SOLBULL",
+    "marketCap": 63058.0,
+    "liquidity": 19912.34,
+    "candidateScore": 11.6791,
+    "entryPrice": 6.704355e-05,
+    "exitPrice": 6.305e-05,
+    "peakPrice": 6.704355e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.04169655395634627,
+    "profitLamports": -41696553,
+    "pnlPct": -5.956650565192325,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788501282724",
+    "sellTxid": "DRY_RUN_SELL_1788501306234",
+    "source": "PYTHON_SCANNER"
   }
 ]

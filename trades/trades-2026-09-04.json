@@ -598,5 +598,25 @@
     "buyTxid": "DRY_RUN_BUY_1788535032179",
     "sellTxid": "DRY_RUN_SELL_1788535200108",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T15:40:55.230152Z",
+    "token": "GirFsKj7ehYPWekY54zcwtrRCwSTa32B5Vtk9BGYpump",
+    "symbol": "kek",
+    "marketCap": 42483.0,
+    "liquidity": 15660.89,
+    "candidateScore": 9.7423,
+    "entryPrice": 4.460189999999999e-05,
+    "exitPrice": 4.248e-05,
+    "peakPrice": 4.460189999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.03330194453599496,
+    "profitLamports": -33301944,
+    "pnlPct": -4.757420647999281,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788536435348",
+    "sellTxid": "DRY_RUN_SELL_1788536455230",
+    "source": "PYTHON_SCANNER"
   }
 ]

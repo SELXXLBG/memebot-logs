@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "7KkgU73L1eBejV9uB95WHimxsoG7NZLsnCV7GDMCpump",
+  "symbol": "RUBINHUD",
+  "marketCap": 18000.0,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 1.1929349999999998e-05,
+  "entryTime": 1788527111734,
+  "peakPrice": 1.1929349999999998e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788527111734",
+  "isDryRun": true,
+  "source": "KOL_CALLANALYSER"
+}

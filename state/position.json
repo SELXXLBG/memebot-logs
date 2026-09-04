@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "9Qa7D2digdw3swDvefgM9FqGMv6htFz2Jr5DKz8Ypump",
+  "symbol": "RUNNER",
+  "marketCap": 52057.0,
+  "liquidity": 17751.14,
+  "volume1h": 32949.31,
+  "volume24h": 32949.31,
+  "candidateScore": 10.208,
+  "entryPrice": 5.231024999999999e-05,
+  "entryTime": 1788482353089,
+  "peakPrice": 5.231024999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788482353089",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

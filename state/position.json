@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "7MheGcnpccNDqQnm1m5SS47iqgX6z6GbkdTSHsGqpump",
-  "symbol": "biketrump",
-  "marketCap": 80130.0,
-  "liquidity": 22749.72,
-  "volume1h": 174511.71,
-  "volume24h": 174511.71,
-  "candidateScore": 11.5478,
-  "entryPrice": 8.05206e-05,
-  "entryTime": 1788491523745,
-  "peakPrice": 8.05206e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788491523745",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

@@ -378,5 +378,25 @@
     "buyTxid": "DRY_RUN_BUY_1788521108294",
     "sellTxid": "DRY_RUN_SELL_1788521172022",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T12:19:14.814381Z",
+    "token": "4fRvdV4ekoBccdFAQQEYVFE5cVpA1wVVeYSv3T3Dpump",
+    "symbol": "PONSHOUSE",
+    "marketCap": 103936.0,
+    "liquidity": 26583.32,
+    "candidateScore": 3.2,
+    "entryPrice": 0.000135273,
+    "exitPrice": 0.0001039,
+    "peakPrice": 0.000135273,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.16234651408632905,
+    "profitLamports": -162346514,
+    "pnlPct": -23.192359155189866,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788524336881",
+    "sellTxid": "DRY_RUN_SELL_1788524354814",
+    "source": "KOL_CALLANALYSER"
   }
 ]

@@ -358,5 +358,25 @@
     "buyTxid": "DRY_RUN_BUY_1788519607461",
     "sellTxid": "DRY_RUN_SELL_1788520166244",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T11:26:12.022354Z",
+    "token": "9BwwsVvRJp6exbDfLfn5TekLcWKV3PEd8Qc7r3cupump",
+    "symbol": "PEPEUS",
+    "marketCap": 73782.0,
+    "liquidity": 21733.82,
+    "candidateScore": 3.2,
+    "entryPrice": 4.75566e-05,
+    "exitPrice": 7.378e-05,
+    "peakPrice": 7.378e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.385990167505667,
+    "profitLamports": 385990167,
+    "pnlPct": 55.14145250080957,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788521108294",
+    "sellTxid": "DRY_RUN_SELL_1788521172022",
+    "source": "KOL_CALLANALYSER"
   }
 ]

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "4fRvdV4ekoBccdFAQQEYVFE5cVpA1wVVeYSv3T3Dpump",
+  "symbol": "PONSHOUSE",
+  "marketCap": 64000.0,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 0.000135273,
+  "entryTime": 1788524336881,
+  "peakPrice": 0.000135273,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788524336881",
+  "isDryRun": true,
+  "source": "KOL_CALLANALYSER"
+}

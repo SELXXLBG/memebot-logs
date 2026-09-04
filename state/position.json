@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "CaWZeUM4FvX9dPkjGc2xHS6tSN3qJfTWyvaG77aM5o7h",
-  "symbol": "AGI",
-  "marketCap": 151000.0,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.3,
-  "entryPrice": 0.00015426749999999999,
-  "entryTime": 1788534987802,
-  "peakPrice": 0.00015426749999999999,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788534987802",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "GHpszqkkha2DzwNoqPEJ5c58v77w3d9P58WETc3D8ray",
+  "symbol": "Gramps",
+  "marketCap": 33805.0,
+  "liquidity": 13400.08,
+  "volume1h": 3985.6,
+  "volume24h": 5519.72,
+  "candidateScore": 9.1421,
+  "entryPrice": 3.3969e-05,
+  "entryTime": 1788540115877,
+  "peakPrice": 3.3969e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788540115877",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

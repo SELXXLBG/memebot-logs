@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "6KhNv1ty8q5TqAsqcLjDAzkoHxDX3sJQs3pFuuaSpBvr",
+  "symbol": "BUFO",
+  "marketCap": 20000.0,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 2.9607299999999997e-05,
+  "entryTime": 1788552337712,
+  "peakPrice": 2.9607299999999997e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788552337712",
+  "isDryRun": true,
+  "source": "KOL_CALLANALYSER"
+}

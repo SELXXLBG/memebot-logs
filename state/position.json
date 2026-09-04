@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "GR7rApPiiFyZzCqgVCXGa34JZNAJRdVxGWWWvv9kpump",
-  "symbol": "MELTO",
-  "marketCap": 52000.0,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 3.9998999999999994e-05,
-  "entryTime": 1788542717422,
-  "peakPrice": 4.683e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788542717422",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

@@ -678,5 +678,25 @@
     "buyTxid": "DRY_RUN_BUY_1788539107805",
     "sellTxid": "DRY_RUN_SELL_1788539159465",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T16:27:34.950123Z",
+    "token": "RNV8qqGr46XYmCB2vT46FYpKUGCgoJP9bbijd86pump",
+    "symbol": "Juror",
+    "marketCap": 35680.0,
+    "liquidity": 14300.84,
+    "candidateScore": 11.3611,
+    "entryPrice": 5.014949999999999e-05,
+    "exitPrice": 3.568e-05,
+    "peakPrice": 5.014949999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.20196911235406131,
+    "profitLamports": -201969112,
+    "pnlPct": -28.852730336294474,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788539230086",
+    "sellTxid": "DRY_RUN_SELL_1788539254950",
+    "source": "PYTHON_SCANNER"
   }
 ]

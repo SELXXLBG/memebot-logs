@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "5eLcW9sTax56Hpr45yiXu82TyuUWi5xGgLchuH3apump",
+  "symbol": "ONBOARDING",
+  "marketCap": 30394.0,
+  "liquidity": 14207.54,
+  "volume1h": 11020.3,
+  "volume24h": 1007856.63,
+  "candidateScore": 6.6806,
+  "entryPrice": 3.15771e-05,
+  "entryTime": 1788485530544,
+  "peakPrice": 3.15771e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788485530544",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

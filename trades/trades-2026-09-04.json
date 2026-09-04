@@ -198,5 +198,25 @@
     "buyTxid": "DRY_RUN_BUY_1788491523745",
     "sellTxid": "DRY_RUN_SELL_1788491554328",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T03:35:19.354558Z",
+    "token": "87Y8yTksSxqH19XMWzvcEjsG4PoMdqvVtUAL8Fvppump",
+    "symbol": "Kimi",
+    "marketCap": 8162.0,
+    "liquidity": 5986.22,
+    "candidateScore": 11.0268,
+    "entryPrice": 5.1546449999999995e-05,
+    "exitPrice": 8.161e-06,
+    "peakPrice": 5.437e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.589173745233668,
+    "profitLamports": -589173745,
+    "pnlPct": -84.16767789052399,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788492809722",
+    "sellTxid": "DRY_RUN_SELL_1788492919354",
+    "source": "PYTHON_SCANNER"
   }
 ]

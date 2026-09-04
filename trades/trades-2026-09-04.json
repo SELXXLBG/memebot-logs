@@ -838,5 +838,25 @@
     "buyTxid": "DRY_RUN_BUY_1788545402565",
     "sellTxid": "DRY_RUN_SELL_1788545426442",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T18:36:41.092665Z",
+    "token": "DXJCE5WfuZfZxF5Jj2DndHTTT8jR56eUGgsiFs1Mpump",
+    "symbol": "StonkCat",
+    "marketCap": 147495.0,
+    "liquidity": 31264.63,
+    "candidateScore": 11.8661,
+    "entryPrice": 0.000113364,
+    "exitPrice": 0.0001474,
+    "peakPrice": 0.0001474,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.2101654846335698,
+    "profitLamports": 210165484,
+    "pnlPct": 30.023640661938543,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788546746368",
+    "sellTxid": "DRY_RUN_SELL_1788547001092",
+    "source": "PYTHON_SCANNER"
   }
 ]

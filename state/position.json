@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "GsQMz9gNp8nYF8DFBHQHrKrMJRWi8RtxgLTYkj7Kpump",
-  "symbol": "DREAM",
-  "marketCap": 45751.0,
-  "liquidity": 16454.23,
-  "volume1h": 16083.28,
-  "volume24h": 16083.28,
-  "candidateScore": 9.4767,
-  "entryPrice": 4.597875e-05,
-  "entryTime": 1788485316922,
-  "peakPrice": 4.597875e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788485316922",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

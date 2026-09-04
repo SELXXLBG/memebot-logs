@@ -578,5 +578,25 @@
     "buyTxid": "DRY_RUN_BUY_1788534987802",
     "sellTxid": "DRY_RUN_SELL_1788535002899",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T15:20:00.108241Z",
+    "token": "5HfYvXezU94NaeK7UXVK3YpPBd2T2v6nxJh3FBYBpump",
+    "symbol": "niketyson",
+    "marketCap": 58353.0,
+    "liquidity": 18662.4,
+    "candidateScore": 9.4816,
+    "entryPrice": 4.6923449999999995e-05,
+    "exitPrice": 5.835e-05,
+    "peakPrice": 5.835e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.17046029224193884,
+    "profitLamports": 170460292,
+    "pnlPct": 24.351470320276977,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788535032179",
+    "sellTxid": "DRY_RUN_SELL_1788535200108",
+    "source": "PYTHON_SCANNER"
   }
 ]

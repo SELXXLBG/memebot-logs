@@ -1,0 +1,22 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T00:37:34.883056Z",
+    "token": "G5B1zojKV8SZhdXwEc8tPoVGZpTGzC91qG8KkXSNpump",
+    "symbol": "ARTPEPE",
+    "marketCap": 2279.0,
+    "liquidity": 2417.47,
+    "candidateScore": 3.2,
+    "entryPrice": 2.5034549999999996e-06,
+    "exitPrice": 2.419e-06,
+    "peakPrice": 2.5034549999999996e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.023614764395605163,
+    "profitLamports": -23614764,
+    "pnlPct": -3.3735377708007377,
+    "reason": "FORCE_EXIT_90M",
+    "buyTxid": "DRY_RUN_BUY_1788476851556",
+    "sellTxid": "DRY_RUN_SELL_1788482254883",
+    "source": "KOL_CALLANALYSER"
+  }
+]

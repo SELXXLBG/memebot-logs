@@ -538,5 +538,25 @@
     "buyTxid": "DRY_RUN_BUY_1788534634357",
     "sellTxid": "DRY_RUN_SELL_1788534688140",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T15:12:09.948767Z",
+    "token": "2zvLe8b8d5Mr6nGGG6gH4hRMgxxhtbFMWVA8hWyapump",
+    "symbol": "CATBULL",
+    "marketCap": 4684.0,
+    "liquidity": 4001.24,
+    "candidateScore": 8.761,
+    "entryPrice": 4.1536649999999995e-05,
+    "exitPrice": 4.683e-06,
+    "peakPrice": 4.448e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.6210793359599293,
+    "profitLamports": -621079335,
+    "pnlPct": -88.72561942284705,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788534695442",
+    "sellTxid": "DRY_RUN_SELL_1788534729948",
+    "source": "PYTHON_SCANNER"
   }
 ]

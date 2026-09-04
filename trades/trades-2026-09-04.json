@@ -318,5 +318,25 @@
     "buyTxid": "DRY_RUN_BUY_1788502778593",
     "sellTxid": "DRY_RUN_SELL_1788502865951",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T10:40:35.023439Z",
+    "token": "GLRGgpetTFGoetoD2A2CmTVCJTrnqfyxMGqPWFMcpump",
+    "symbol": "PONSLESS",
+    "marketCap": 55701.0,
+    "liquidity": 18417.68,
+    "candidateScore": 9.2761,
+    "entryPrice": 4.4008949999999995e-05,
+    "exitPrice": 5.594e-05,
+    "peakPrice": 5.594e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.18977355742411503,
+    "profitLamports": 189773557,
+    "pnlPct": 27.110508203445004,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788518327154",
+    "sellTxid": "DRY_RUN_SELL_1788518435023",
+    "source": "PYTHON_SCANNER"
   }
 ]

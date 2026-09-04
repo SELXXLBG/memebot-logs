@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "62sRxxH4KBqrEE95qvjQrRnoMsGWBnHbf51dXWm8pump",
-  "symbol": "Trump",
-  "marketCap": 44394.0,
-  "liquidity": 16201.13,
-  "volume1h": 8696.5,
-  "volume24h": 8696.5,
-  "candidateScore": 9.6972,
-  "entryPrice": 4.4611949999999996e-05,
-  "entryTime": 1788496138959,
-  "peakPrice": 4.4611949999999996e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788496138959",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

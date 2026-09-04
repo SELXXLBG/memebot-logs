@@ -38,5 +38,25 @@
     "buyTxid": "DRY_RUN_BUY_1788482353089",
     "sellTxid": "DRY_RUN_SELL_1788482406500",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T00:45:27.427814Z",
+    "token": "AchoL6hadnRsr4vxMcaB8tt9SF7uQPx3n1SCeJsEpump",
+    "symbol": "PTA",
+    "marketCap": 24273.0,
+    "liquidity": 11535.32,
+    "candidateScore": 10.0236,
+    "entryPrice": 3.0401249999999996e-05,
+    "exitPrice": 2.427e-05,
+    "peakPrice": 3.115e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.14117429382015537,
+    "profitLamports": -141174293,
+    "pnlPct": -20.167756260022195,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788482628185",
+    "sellTxid": "DRY_RUN_SELL_1788482727427",
+    "source": "PYTHON_SCANNER"
   }
 ]

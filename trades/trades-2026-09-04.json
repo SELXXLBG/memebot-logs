@@ -518,5 +518,25 @@
     "buyTxid": "DRY_RUN_BUY_1788534481120",
     "sellTxid": "DRY_RUN_SELL_1788534506211",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T15:11:28.140370Z",
+    "token": "3sZxcgS9pG9psF6gtPut536R4JkmjnytvSFgpk4Zpump",
+    "symbol": "POINTLESS",
+    "marketCap": 115032.0,
+    "liquidity": 27086.99,
+    "candidateScore": 12.3,
+    "entryPrice": 0.00012120299999999998,
+    "exitPrice": 0.000115,
+    "peakPrice": 0.0001353,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.03582502083281757,
+    "profitLamports": -35825020,
+    "pnlPct": -5.1178601189739386,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788534634357",
+    "sellTxid": "DRY_RUN_SELL_1788534688140",
+    "source": "PYTHON_SCANNER"
   }
 ]

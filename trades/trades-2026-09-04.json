@@ -718,5 +718,25 @@
     "buyTxid": "DRY_RUN_BUY_1788539474441",
     "sellTxid": "DRY_RUN_SELL_1788539573060",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T17:00:14.322711Z",
+    "token": "GHpszqkkha2DzwNoqPEJ5c58v77w3d9P58WETc3D8ray",
+    "symbol": "Gramps",
+    "marketCap": 32524.0,
+    "liquidity": 13139.92,
+    "candidateScore": 9.1421,
+    "entryPrice": 3.3969e-05,
+    "exitPrice": 3.252e-05,
+    "peakPrice": 3.3969e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.029859577850392987,
+    "profitLamports": -29859577,
+    "pnlPct": -4.26565397862757,
+    "reason": "STOPLOSS4P_LATE",
+    "buyTxid": "DRY_RUN_BUY_1788540115877",
+    "sellTxid": "DRY_RUN_SELL_1788541214322",
+    "source": "PYTHON_SCANNER"
   }
 ]

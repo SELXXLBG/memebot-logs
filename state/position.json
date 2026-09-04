@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "RNV8qqGr46XYmCB2vT46FYpKUGCgoJP9bbijd86pump",
+  "symbol": "Juror",
+  "marketCap": 49902.0,
+  "liquidity": 17232.59,
+  "volume1h": 90993.47,
+  "volume24h": 90993.47,
+  "candidateScore": 11.3611,
+  "entryPrice": 5.014949999999999e-05,
+  "entryTime": 1788539230086,
+  "peakPrice": 5.014949999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788539230086",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

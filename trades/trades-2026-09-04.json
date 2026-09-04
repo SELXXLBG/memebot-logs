@@ -438,5 +438,25 @@
     "buyTxid": "DRY_RUN_BUY_1788527111734",
     "sellTxid": "DRY_RUN_SELL_1788527140595",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T13:50:59.050318Z",
+    "token": "2FCYSc66btguEdepA5w5aTsLFjpkeDZWGyV7t8L3pump",
+    "symbol": "bullson",
+    "marketCap": 43843.0,
+    "liquidity": 16001.58,
+    "candidateScore": 9.6448,
+    "entryPrice": 4.746614999999999e-05,
+    "exitPrice": 4.384e-05,
+    "peakPrice": 5.041e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.05347610876382422,
+    "profitLamports": -53476108,
+    "pnlPct": -7.639444109117746,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788529699985",
+    "sellTxid": "DRY_RUN_SELL_1788529859050",
+    "source": "PYTHON_SCANNER"
   }
 ]

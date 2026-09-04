@@ -418,5 +418,25 @@
     "buyTxid": "DRY_RUN_BUY_1788526577390",
     "sellTxid": "DRY_RUN_SELL_1788526627035",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T13:05:40.595602Z",
+    "token": "7KkgU73L1eBejV9uB95WHimxsoG7NZLsnCV7GDMCpump",
+    "symbol": "RUBINHUD",
+    "marketCap": 16338.0,
+    "liquidity": 9135.15,
+    "candidateScore": 3.2,
+    "entryPrice": 1.1929349999999998e-05,
+    "exitPrice": 1.633e-05,
+    "peakPrice": 1.633e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.2582248823280399,
+    "profitLamports": 258224882,
+    "pnlPct": 36.889268904005704,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788527111734",
+    "sellTxid": "DRY_RUN_SELL_1788527140595",
+    "source": "KOL_CALLANALYSER"
   }
 ]

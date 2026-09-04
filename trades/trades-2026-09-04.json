@@ -1038,5 +1038,25 @@
     "buyTxid": "DRY_RUN_BUY_1788560022766",
     "sellTxid": "DRY_RUN_SELL_1788560039065",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T22:31:29.327286Z",
+    "token": "EFqKKz6L4ZdeecdkbzGDKF17naj8bTkuYBEmbqXapump",
+    "symbol": "BULLAI",
+    "marketCap": 3266.0,
+    "liquidity": 3102.86,
+    "candidateScore": 3.2,
+    "entryPrice": 2.5898849999999998e-06,
+    "exitPrice": 3.266e-06,
+    "peakPrice": 3.266e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.18274189780627337,
+    "profitLamports": 182741897,
+    "pnlPct": 26.1059854008962,
+    "reason": "TAKEPROFIT25P",
+    "buyTxid": "DRY_RUN_BUY_1788561079148",
+    "sellTxid": "DRY_RUN_SELL_1788561089327",
+    "source": "KOL_CALLANALYSER"
   }
 ]

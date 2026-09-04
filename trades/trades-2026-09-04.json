@@ -158,5 +158,25 @@
     "buyTxid": "DRY_RUN_BUY_1788485986906",
     "sellTxid": "DRY_RUN_SELL_1788485990043",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T01:51:26.629677Z",
+    "token": "3oY5NnNAbnRK4eNzPWZFmtAWVW4RNumpni4XtGarpump",
+    "symbol": "MOBI",
+    "marketCap": 172963.0,
+    "liquidity": 38291.07,
+    "candidateScore": 3.3,
+    "entryPrice": 0.0001355745,
+    "exitPrice": 0.00018,
+    "peakPrice": 0.00018,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.22937831229324107,
+    "profitLamports": 229378312,
+    "pnlPct": 32.768330327605874,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788486328785",
+    "sellTxid": "DRY_RUN_SELL_1788486686629",
+    "source": "KOL_CALLANALYSER"
   }
 ]

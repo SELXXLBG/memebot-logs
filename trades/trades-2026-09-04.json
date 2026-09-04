@@ -978,5 +978,25 @@
     "buyTxid": "DRY_RUN_BUY_1788555411129",
     "sellTxid": "DRY_RUN_SELL_1788555432286",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T21:00:55.129662Z",
+    "token": "8kmJFPWyGfR6c6FuV5LqyBmqpGLjrQgXTZp7713ipump",
+    "symbol": "biteson",
+    "marketCap": 47318.0,
+    "liquidity": 16661.47,
+    "candidateScore": 9.8225,
+    "entryPrice": 5.0531399999999995e-05,
+    "exitPrice": 4.731e-05,
+    "peakPrice": 5.0531399999999995e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.04462532207696595,
+    "profitLamports": -44625322,
+    "pnlPct": -6.375046010995137,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788555650633",
+    "sellTxid": "DRY_RUN_SELL_1788555655129",
+    "source": "PYTHON_SCANNER"
   }
 ]

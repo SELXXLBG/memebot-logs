@@ -98,5 +98,25 @@
     "buyTxid": "DRY_RUN_BUY_1788485164492",
     "sellTxid": "DRY_RUN_SELL_1788485259944",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T01:28:59.049279Z",
+    "token": "GsQMz9gNp8nYF8DFBHQHrKrMJRWi8RtxgLTYkj7Kpump",
+    "symbol": "DREAM",
+    "marketCap": 44504.0,
+    "liquidity": 16194.15,
+    "candidateScore": 9.4767,
+    "entryPrice": 4.597875e-05,
+    "exitPrice": 4.45e-05,
+    "peakPrice": 4.597875e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.02251311747274556,
+    "profitLamports": -22513117,
+    "pnlPct": -3.216159638963652,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788485316922",
+    "sellTxid": "DRY_RUN_SELL_1788485339049",
+    "source": "PYTHON_SCANNER"
   }
 ]

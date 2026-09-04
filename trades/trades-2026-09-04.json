@@ -658,5 +658,25 @@
     "buyTxid": "DRY_RUN_BUY_1788537862698",
     "sellTxid": "DRY_RUN_SELL_1788537957648",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T16:25:59.465129Z",
+    "token": "HLBm9EovjiN7H2TCZGE3vsbmadhzwvc6WhrRLBRypump",
+    "symbol": "ARGOS",
+    "marketCap": 79084.0,
+    "liquidity": 22155.56,
+    "candidateScore": 10.0164,
+    "entryPrice": 4.9767599999999994e-05,
+    "exitPrice": 7.908e-05,
+    "peakPrice": 7.908e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.4122899235647289,
+    "profitLamports": 412289923,
+    "pnlPct": 58.89856050924699,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788539107805",
+    "sellTxid": "DRY_RUN_SELL_1788539159465",
+    "source": "PYTHON_SCANNER"
   }
 ]

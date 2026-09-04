@@ -998,5 +998,25 @@
     "buyTxid": "DRY_RUN_BUY_1788555650633",
     "sellTxid": "DRY_RUN_SELL_1788555655129",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T21:11:40.918055Z",
+    "token": "6VKeTKCjs7hxQC5BmbSJKDnZjLVoGCW196dYFcaNpump",
+    "symbol": "WPONS",
+    "marketCap": 66663.0,
+    "liquidity": 20401.06,
+    "candidateScore": 11.6157,
+    "entryPrice": 7.311375e-05,
+    "exitPrice": 6.666e-05,
+    "peakPrice": 7.311375e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.061788993178437696,
+    "profitLamports": -61788993,
+    "pnlPct": -8.8269990254911,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788556296978",
+    "sellTxid": "DRY_RUN_SELL_1788556300918",
+    "source": "PYTHON_SCANNER"
   }
 ]

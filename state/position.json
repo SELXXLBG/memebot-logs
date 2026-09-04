@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "GirFsKj7ehYPWekY54zcwtrRCwSTa32B5Vtk9BGYpump",
-  "symbol": "kek",
-  "marketCap": 44384.0,
-  "liquidity": 16043.06,
-  "volume1h": 15320.59,
-  "volume24h": 15320.59,
-  "candidateScore": 9.7423,
-  "entryPrice": 4.460189999999999e-05,
-  "entryTime": 1788536435348,
-  "peakPrice": 4.460189999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788536435348",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

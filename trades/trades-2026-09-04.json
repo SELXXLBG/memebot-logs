@@ -178,5 +178,25 @@
     "buyTxid": "DRY_RUN_BUY_1788486328785",
     "sellTxid": "DRY_RUN_SELL_1788486686629",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T03:12:34.328309Z",
+    "token": "7MheGcnpccNDqQnm1m5SS47iqgX6z6GbkdTSHsGqpump",
+    "symbol": "biketrump",
+    "marketCap": 52321.0,
+    "liquidity": 18061.11,
+    "candidateScore": 11.5478,
+    "entryPrice": 8.05206e-05,
+    "exitPrice": 5.232e-05,
+    "peakPrice": 8.05206e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.24515987213210033,
+    "profitLamports": -245159872,
+    "pnlPct": -35.02283887601433,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788491523745",
+    "sellTxid": "DRY_RUN_SELL_1788491554328",
+    "source": "PYTHON_SCANNER"
   }
 ]

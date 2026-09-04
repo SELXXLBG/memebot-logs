@@ -778,5 +778,25 @@
     "buyTxid": "DRY_RUN_BUY_1788542717422",
     "sellTxid": "DRY_RUN_SELL_1788542773906",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T18:03:00.667621Z",
+    "token": "98W4YrPiRwetNxiDTL2ELago17XUX7Zo6JMbbdtTpump",
+    "symbol": "mikebyson",
+    "marketCap": 56551.0,
+    "liquidity": 18332.9,
+    "candidateScore": 9.6791,
+    "entryPrice": 4.5988799999999996e-05,
+    "exitPrice": 5.655e-05,
+    "peakPrice": 5.655e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.16075305291723208,
+    "profitLamports": 160753052,
+    "pnlPct": 22.96472184531887,
+    "reason": "TAKEPROFIT20P",
+    "buyTxid": "DRY_RUN_BUY_1788544881666",
+    "sellTxid": "DRY_RUN_SELL_1788544980667",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -18,5 +18,25 @@
     "buyTxid": "DRY_RUN_BUY_1788476851556",
     "sellTxid": "DRY_RUN_SELL_1788482254883",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T00:40:06.500837Z",
+    "token": "9Qa7D2digdw3swDvefgM9FqGMv6htFz2Jr5DKz8Ypump",
+    "symbol": "RUNNER",
+    "marketCap": 50613.0,
+    "liquidity": 17505.15,
+    "candidateScore": 10.208,
+    "entryPrice": 5.231024999999999e-05,
+    "exitPrice": 5.061e-05,
+    "peakPrice": 5.879e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.022752233070956338,
+    "profitLamports": -22752233,
+    "pnlPct": -3.25031901013662,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788482353089",
+    "sellTxid": "DRY_RUN_SELL_1788482406500",
+    "source": "PYTHON_SCANNER"
   }
 ]

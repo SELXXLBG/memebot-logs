@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "6VKeTKCjs7hxQC5BmbSJKDnZjLVoGCW196dYFcaNpump",
+  "symbol": "WPONS",
+  "marketCap": 72757.0,
+  "liquidity": 21369.86,
+  "volume1h": 163472.38,
+  "volume24h": 163472.38,
+  "candidateScore": 11.6157,
+  "entryPrice": 7.311375e-05,
+  "entryTime": 1788556296978,
+  "peakPrice": 7.311375e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788556296978",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

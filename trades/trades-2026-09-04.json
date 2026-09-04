@@ -858,5 +858,25 @@
     "buyTxid": "DRY_RUN_BUY_1788546746368",
     "sellTxid": "DRY_RUN_SELL_1788547001092",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T18:44:01.975769Z",
+    "token": "9id8xcGkL1UFQwavRYe6U3vVVjhrQozFPeEPxLsUpump",
+    "symbol": "NEEDLESS",
+    "marketCap": 105025.0,
+    "liquidity": 25846.51,
+    "candidateScore": 11.9737,
+    "entryPrice": 0.00011577599999999998,
+    "exitPrice": 0.000105,
+    "peakPrice": 0.000131,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06515339966832492,
+    "profitLamports": -65153399,
+    "pnlPct": -9.307628524046418,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1788547325230",
+    "sellTxid": "DRY_RUN_SELL_1788547441975",
+    "source": "PYTHON_SCANNER"
   }
 ]

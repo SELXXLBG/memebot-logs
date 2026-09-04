@@ -298,5 +298,25 @@
     "buyTxid": "DRY_RUN_BUY_1788501282724",
     "sellTxid": "DRY_RUN_SELL_1788501306234",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T06:21:05.951967Z",
+    "token": "F2bLKM4uLW9KLX53f88CCvSTFndPPSRamWpt8cGKpump",
+    "symbol": "worthless",
+    "marketCap": 38878.0,
+    "liquidity": 18083.31,
+    "candidateScore": 8.8703,
+    "entryPrice": 5.743574999999999e-05,
+    "exitPrice": 5.395e-05,
+    "peakPrice": 5.743574999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0424826871765407,
+    "profitLamports": -42482687,
+    "pnlPct": -6.068955310934386,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1788502778593",
+    "sellTxid": "DRY_RUN_SELL_1788502865951",
+    "source": "PYTHON_SCANNER"
   }
 ]

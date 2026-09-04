@@ -938,5 +938,25 @@
     "buyTxid": "DRY_RUN_BUY_1788551758766",
     "sellTxid": "DRY_RUN_SELL_1788551770931",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T20:05:45.814722Z",
+    "token": "6KhNv1ty8q5TqAsqcLjDAzkoHxDX3sJQs3pFuuaSpBvr",
+    "symbol": "BUFO",
+    "marketCap": 25378.0,
+    "liquidity": 11798.65,
+    "candidateScore": 3.2,
+    "entryPrice": 2.9607299999999997e-05,
+    "exitPrice": 2.537e-05,
+    "peakPrice": 2.9607299999999997e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.10018171194266273,
+    "profitLamports": -100181711,
+    "pnlPct": -14.311673134666107,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788552337712",
+    "sellTxid": "DRY_RUN_SELL_1788552345814",
+    "source": "KOL_CALLANALYSER"
   }
 ]

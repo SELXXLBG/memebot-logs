@@ -58,5 +58,25 @@
     "buyTxid": "DRY_RUN_BUY_1788482628185",
     "sellTxid": "DRY_RUN_SELL_1788482727427",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T01:13:53.635902Z",
+    "token": "9ENMRcpQNzTZtQJSBQgoPsjJPySbo35pj17kcLkwpump",
+    "symbol": "Fredgazim",
+    "marketCap": 41586.0,
+    "liquidity": 15614.58,
+    "candidateScore": 9.578,
+    "entryPrice": 4.545615e-05,
+    "exitPrice": 4.158e-05,
+    "peakPrice": 4.545615e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.05969060292171684,
+    "profitLamports": -59690602,
+    "pnlPct": -8.527228988816692,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788484402170",
+    "sellTxid": "DRY_RUN_SELL_1788484433635",
+    "source": "PYTHON_SCANNER"
   }
 ]

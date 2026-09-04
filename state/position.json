@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "5HfYvXezU94NaeK7UXVK3YpPBd2T2v6nxJh3FBYBpump",
-  "symbol": "niketyson",
-  "marketCap": 46692.0,
-  "liquidity": 16455.09,
-  "volume1h": 14160.58,
-  "volume24h": 14160.58,
-  "candidateScore": 9.4816,
-  "entryPrice": 4.6923449999999995e-05,
-  "entryTime": 1788535032179,
-  "peakPrice": 4.951e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788535032179",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

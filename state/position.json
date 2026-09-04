@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "DXJCE5WfuZfZxF5Jj2DndHTTT8jR56eUGgsiFs1Mpump",
+  "symbol": "StonkCat",
+  "marketCap": 112889.0,
+  "liquidity": 27019.0,
+  "volume1h": 209009.82,
+  "volume24h": 209009.82,
+  "candidateScore": 11.8661,
+  "entryPrice": 0.000113364,
+  "entryTime": 1788546746368,
+  "peakPrice": 0.000113364,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788546746368",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

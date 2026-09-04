@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "J1UBp7zvEMJWN5VKRh3wzFrLMfN78AWr4S6vCyRSpump",
-  "symbol": "mikedyson",
-  "marketCap": 42715.0,
-  "liquidity": 15711.15,
-  "volume1h": 11767.41,
-  "volume24h": 11767.41,
-  "candidateScore": 8.9007,
-  "entryPrice": 4.292355e-05,
-  "entryTime": 1788539474441,
-  "peakPrice": 4.582e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788539474441",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

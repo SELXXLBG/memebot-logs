@@ -738,5 +738,25 @@
     "buyTxid": "DRY_RUN_BUY_1788540115877",
     "sellTxid": "DRY_RUN_SELL_1788541214322",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-04T17:10:20.348082Z",
+    "token": "3N1oupF3YjXTGtzkg1hQ7AmGLBHx1GRHtRemaF7npump",
+    "symbol": "rock",
+    "marketCap": 44630.0,
+    "liquidity": 16116.51,
+    "candidateScore": 9.7689,
+    "entryPrice": 4.70541e-05,
+    "exitPrice": 4.462e-05,
+    "peakPrice": 4.70541e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.03621087216629365,
+    "profitLamports": -36210872,
+    "pnlPct": -5.17298173804195,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788541793149",
+    "sellTxid": "DRY_RUN_SELL_1788541820348",
+    "source": "PYTHON_SCANNER"
   }
 ]

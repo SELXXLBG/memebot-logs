@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "9id8xcGkL1UFQwavRYe6U3vVVjhrQozFPeEPxLsUpump",
+  "symbol": "NEEDLESS",
+  "marketCap": 115214.0,
+  "liquidity": 27099.9,
+  "volume1h": 101551.73,
+  "volume24h": 101551.73,
+  "candidateScore": 11.9737,
+  "entryPrice": 0.00011577599999999998,
+  "entryTime": 1788547325230,
+  "peakPrice": 0.00011577599999999998,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788547325230",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

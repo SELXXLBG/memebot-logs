@@ -318,5 +318,25 @@
     "buyTxid": "DRY_RUN_BUY_1788599004420",
     "sellTxid": "DRY_RUN_SELL_1788599030240",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T09:14:26.686997Z",
+    "token": "7derokLDpd7zRVjbJHJtKQf1DF7Tp2fpUNTCLz1mpump",
+    "symbol": "VibeCat",
+    "marketCap": 125946.0,
+    "liquidity": 28773.07,
+    "candidateScore": 11.8213,
+    "entryPrice": 9.454034999999998e-05,
+    "exitPrice": 0.0001259,
+    "peakPrice": 0.0001259,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.23219456031207852,
+    "profitLamports": 232194560,
+    "pnlPct": 33.17065147315408,
+    "reason": "TAKEPROFIT25P",
+    "buyTxid": "DRY_RUN_BUY_1788599582791",
+    "sellTxid": "DRY_RUN_SELL_1788599666687",
+    "source": "PYTHON_SCANNER"
   }
 ]

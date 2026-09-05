@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "DHLqUh8wJjJCnfdZpjFkeKhdic9nTpMxzD1Vkx8DG17U",
+  "symbol": "SWIFT",
+  "marketCap": 81732.0,
+  "liquidity": 25027.09,
+  "volume1h": 124987.68,
+  "volume24h": 124987.68,
+  "candidateScore": 10.575,
+  "entryPrice": 8.213865e-05,
+  "entryTime": 1788640766435,
+  "peakPrice": 8.213865e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788640766435",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

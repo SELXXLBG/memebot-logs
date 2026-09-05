@@ -278,5 +278,25 @@
     "buyTxid": "DRY_RUN_BUY_1788593588676",
     "sellTxid": "DRY_RUN_SELL_1788593612983",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T08:37:07.129812Z",
+    "token": "CBzJvfeWtomVHYgs9AAigQravRwuxj6HgcFtiGHwpump",
+    "symbol": "PONSJAK",
+    "marketCap": 84347.0,
+    "liquidity": 23488.24,
+    "candidateScore": 3.2,
+    "entryPrice": 9.401774999999999e-05,
+    "exitPrice": 8.434e-05,
+    "peakPrice": 9.401774999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.07205474498166566,
+    "profitLamports": -72054744,
+    "pnlPct": -10.293534997380808,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788597410959",
+    "sellTxid": "DRY_RUN_SELL_1788597427129",
+    "source": "KOL_CALLANALYSER"
   }
 ]

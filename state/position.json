@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "7ry18sNk7cYEVrfbRFtLVvkwA8CkfQKZjKqW4XLFpump",
+  "symbol": "millsmith",
+  "marketCap": 51808.0,
+  "liquidity": 17578.54,
+  "volume1h": 15392.09,
+  "volume24h": 15392.09,
+  "candidateScore": 9.8347,
+  "entryPrice": 5.205899999999999e-05,
+  "entryTime": 1788619545729,
+  "peakPrice": 5.205899999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788619545729",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

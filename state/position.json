@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "7huiz6DieN69wvAQn8Lb5DQZKi9u2oYLDuZJxNbTpump",
+  "symbol": "ANSEMSTRO",
+  "marketCap": 48000.0,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 2.059245e-06,
+  "entryTime": 1788605260855,
+  "peakPrice": 2.059245e-06,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788605260855",
+  "isDryRun": true,
+  "source": "KOL_CALLANALYSER"
+}

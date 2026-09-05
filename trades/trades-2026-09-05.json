@@ -1,0 +1,22 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T00:29:22.436112Z",
+    "token": "HdYKqbPW3EiuCQsKB1ASfY2s2KjwwsGP1FG3jibGpump",
+    "symbol": "USELESS",
+    "marketCap": 2369.0,
+    "liquidity": 2378.4,
+    "candidateScore": 3.2,
+    "entryPrice": 2.2934099999999998e-06,
+    "exitPrice": 2.368e-06,
+    "peakPrice": 2.368e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.022766535421054314,
+    "profitLamports": 22766535,
+    "pnlPct": 3.2523622030077597,
+    "reason": "FORCE_EXIT_90M",
+    "buyTxid": "DRY_RUN_BUY_1788562761322",
+    "sellTxid": "DRY_RUN_SELL_1788568162436",
+    "source": "KOL_CALLANALYSER"
+  }
+]

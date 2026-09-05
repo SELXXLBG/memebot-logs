@@ -58,5 +58,25 @@
     "buyTxid": "DRY_RUN_BUY_1788571640193",
     "sellTxid": "DRY_RUN_SELL_1788571681830",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T01:59:04.195653Z",
+    "token": "72R8nNwFhqcTENksDhj9Ek8YB9iWZtzEmwcLHBQWhUFr",
+    "symbol": "ETF",
+    "marketCap": 35449.0,
+    "liquidity": 14198.28,
+    "candidateScore": 10.1786,
+    "entryPrice": 5.160675e-05,
+    "exitPrice": 3.544e-05,
+    "peakPrice": 5.807e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.2192876900793016,
+    "profitLamports": -219287690,
+    "pnlPct": -31.32681286847166,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788573423393",
+    "sellTxid": "DRY_RUN_SELL_1788573544195",
+    "source": "PYTHON_SCANNER"
   }
 ]

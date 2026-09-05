@@ -138,5 +138,25 @@
     "buyTxid": "DRY_RUN_BUY_1788581452692",
     "sellTxid": "DRY_RUN_SELL_1788581494440",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T04:48:10.772038Z",
+    "token": "5LJ4613HrXB9x8ieNNWFkwK8si9q1ioZesg4SBW5pump",
+    "symbol": "PDUCK",
+    "marketCap": 26256.0,
+    "liquidity": 12087.93,
+    "candidateScore": 3.2,
+    "entryPrice": 3.8049299999999995e-05,
+    "exitPrice": 2.625e-05,
+    "peakPrice": 3.8049299999999995e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.2170739014909603,
+    "profitLamports": -217073901,
+    "pnlPct": -31.010557355851475,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788583667727",
+    "sellTxid": "DRY_RUN_SELL_1788583690772",
+    "source": "KOL_CALLANALYSER"
   }
 ]

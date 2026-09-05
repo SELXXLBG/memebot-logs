@@ -118,5 +118,25 @@
     "buyTxid": "DRY_RUN_BUY_1788577691392",
     "sellTxid": "DRY_RUN_SELL_1788577698839",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T04:11:34.440527Z",
+    "token": "HCGjWQ8g2VB2ah8vyufj7kZbRajeW61hW4gAsuUM4yNN",
+    "symbol": "Elon",
+    "marketCap": 91435.0,
+    "liquidity": 24017.48,
+    "candidateScore": 11.4789,
+    "entryPrice": 6.815909999999999e-05,
+    "exitPrice": 9.143e-05,
+    "peakPrice": 9.143e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.23899420620284018,
+    "profitLamports": 238994206,
+    "pnlPct": 34.1420294575486,
+    "reason": "TAKEPROFIT25P",
+    "buyTxid": "DRY_RUN_BUY_1788581452692",
+    "sellTxid": "DRY_RUN_SELL_1788581494440",
+    "source": "PYTHON_SCANNER"
   }
 ]

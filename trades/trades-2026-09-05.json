@@ -178,5 +178,25 @@
     "buyTxid": "DRY_RUN_BUY_1788586592959",
     "sellTxid": "DRY_RUN_SELL_1788586923955",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T05:46:50.344219Z",
+    "token": "D4QVMAGGXUTGipUD1U2g4ATqRVsQa3WrPYFNSWSNpump",
+    "symbol": "MPONS",
+    "marketCap": 48759.0,
+    "liquidity": 17359.78,
+    "candidateScore": 3.2,
+    "entryPrice": 5.67624e-05,
+    "exitPrice": 4.875e-05,
+    "peakPrice": 5.67624e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0988097754851803,
+    "profitLamports": -98809775,
+    "pnlPct": -14.115682212168615,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788587206650",
+    "sellTxid": "DRY_RUN_SELL_1788587210344",
+    "source": "KOL_CALLANALYSER"
   }
 ]

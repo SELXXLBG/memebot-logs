@@ -718,5 +718,25 @@
     "buyTxid": "DRY_RUN_BUY_1788646683448",
     "sellTxid": "DRY_RUN_SELL_1788646925461",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T22:59:56.168885Z",
+    "token": "9vs7z2FmYXvcF1865pSJae1qt9UetNQeGp7AcB4npump",
+    "symbol": "VANDIESEL",
+    "marketCap": 68413.0,
+    "liquidity": 20585.39,
+    "candidateScore": 9.5418,
+    "entryPrice": 5.18178e-05,
+    "exitPrice": 6.841e-05,
+    "peakPrice": 6.841e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.22414189718590918,
+    "profitLamports": 224141897,
+    "pnlPct": 32.020271026558454,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1788648888809",
+    "sellTxid": "DRY_RUN_SELL_1788649196168",
+    "source": "PYTHON_SCANNER"
   }
 ]

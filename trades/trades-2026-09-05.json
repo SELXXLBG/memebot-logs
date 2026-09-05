@@ -418,5 +418,25 @@
     "buyTxid": "DRY_RUN_BUY_1788605260855",
     "sellTxid": "DRY_RUN_SELL_1788608516808",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T12:14:05.207041Z",
+    "token": "7kTWZ2P6SfTjJF4SbhyDFfHRS199YpWYfz2xydqPpump",
+    "symbol": "USDCAMC",
+    "marketCap": 47691.0,
+    "liquidity": 16822.46,
+    "candidateScore": 11.1082,
+    "entryPrice": 5.180774999999999e-05,
+    "exitPrice": 4.769e-05,
+    "peakPrice": 5.180774999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.055636946209785126,
+    "profitLamports": -55636946,
+    "pnlPct": -7.948135172826447,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788610389050",
+    "sellTxid": "DRY_RUN_SELL_1788610445207",
+    "source": "PYTHON_SCANNER"
   }
 ]

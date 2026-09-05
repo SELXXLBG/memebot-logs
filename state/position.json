@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "3bDqtpr8L2akw3SXyy4MDPwf93eCsyWTktgPMh1xpump",
+  "symbol": "PONSCHAN",
+  "marketCap": 64000.0,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 4.8270149999999994e-05,
+  "entryTime": 1788590425242,
+  "peakPrice": 4.8270149999999994e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788590425242",
+  "isDryRun": true,
+  "source": "KOL_CALLANALYSER"
+}

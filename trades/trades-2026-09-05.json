@@ -398,5 +398,25 @@
     "buyTxid": "DRY_RUN_BUY_1788603542447",
     "sellTxid": "DRY_RUN_SELL_1788603599642",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T11:41:56.808573Z",
+    "token": "7huiz6DieN69wvAQn8Lb5DQZKi9u2oYLDuZJxNbTpump",
+    "symbol": "ANSEMSTRO",
+    "marketCap": 1950.0,
+    "liquidity": 2064.59,
+    "candidateScore": 3.2,
+    "entryPrice": 2.059245e-06,
+    "exitPrice": 2.023e-06,
+    "peakPrice": 2.348e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.012320777760781235,
+    "profitLamports": -12320777,
+    "pnlPct": -1.7601111086830337,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788605260855",
+    "sellTxid": "DRY_RUN_SELL_1788608516808",
+    "source": "KOL_CALLANALYSER"
   }
 ]

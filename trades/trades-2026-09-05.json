@@ -738,5 +738,25 @@
     "buyTxid": "DRY_RUN_BUY_1788648888809",
     "sellTxid": "DRY_RUN_SELL_1788649196168",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T23:54:04.924665Z",
+    "token": "9zgW3XJX6qBuqY1MkkE2w8PuVzxCF1W1qzpUXrLnpump",
+    "symbol": "KEVINBACON",
+    "marketCap": 49363.0,
+    "liquidity": 17169.9,
+    "candidateScore": 9.4872,
+    "entryPrice": 5.1425849999999995e-05,
+    "exitPrice": 4.936e-05,
+    "peakPrice": 5.548e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.028120001905656306,
+    "profitLamports": -28120001,
+    "pnlPct": -4.017143129379472,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788652341838",
+    "sellTxid": "DRY_RUN_SELL_1788652444924",
+    "source": "PYTHON_SCANNER"
   }
 ]

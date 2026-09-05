@@ -78,5 +78,25 @@
     "buyTxid": "DRY_RUN_BUY_1788573423393",
     "sellTxid": "DRY_RUN_SELL_1788573544195",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T03:01:21.224236Z",
+    "token": "HDAys8iAKZt2WSwMqjMYvo2dwgjXea72VXGta4TApump",
+    "symbol": "ROBINPEPE",
+    "marketCap": 2175.0,
+    "liquidity": 2228.52,
+    "candidateScore": 3.2,
+    "entryPrice": 2.68737e-06,
+    "exitPrice": 2.175e-06,
+    "peakPrice": 2.705e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1334609674142377,
+    "profitLamports": -133460967,
+    "pnlPct": -19.065852487748245,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788575025835",
+    "sellTxid": "DRY_RUN_SELL_1788577281224",
+    "source": "KOL_CALLANALYSER"
   }
 ]

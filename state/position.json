@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "85zNoV5b7XDf4uQistn7nNmBuFjuMzBzNWSGDrDGpump",
-  "symbol": "SIXSEVEN",
-  "marketCap": 71000.0,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 0.00017617649999999998,
-  "entryTime": 1788622918368,
-  "peakPrice": 0.0001977,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788622918368",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

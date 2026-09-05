@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "McbTQ3TyMj8U4eU3mgH8qXpuoyfXAV4C4Wbo5fJpump",
-  "symbol": "PONS",
-  "marketCap": 70845.0,
-  "liquidity": 21178.5,
-  "volume1h": 166502.81,
-  "volume24h": 166502.81,
-  "candidateScore": 11.1042,
-  "entryPrice": 7.11942e-05,
-  "entryTime": 1788621137032,
-  "peakPrice": 8.777e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788621137032",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

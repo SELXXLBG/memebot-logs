@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "9H8in7dWdjqN6mx78JsVmKoSbEHPAcBGhchhxkHtpump",
+  "symbol": "OBSINU",
+  "marketCap": 70000.0,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 2.165775e-06,
+  "entryTime": 1788625115404,
+  "peakPrice": 2.165775e-06,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788625115404",
+  "isDryRun": true,
+  "source": "KOL_CALLANALYSER"
+}

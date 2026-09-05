@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "HCGjWQ8g2VB2ah8vyufj7kZbRajeW61hW4gAsuUM4yNN",
-  "symbol": "Elon",
-  "marketCap": 67822.0,
-  "liquidity": 20422.32,
-  "volume1h": 95854.38,
-  "volume24h": 95854.38,
-  "candidateScore": 11.4789,
-  "entryPrice": 6.815909999999999e-05,
-  "entryTime": 1788581452692,
-  "peakPrice": 7.346e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788581452692",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

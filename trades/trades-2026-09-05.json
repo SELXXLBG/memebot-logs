@@ -618,5 +618,25 @@
     "buyTxid": "DRY_RUN_BUY_1788632222277",
     "sellTxid": "DRY_RUN_SELL_1788632349950",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T18:50:49.972474Z",
+    "token": "CXm4n3e5xKctjaor4g3H17Yje3z5RZV4YkUeFkafpump",
+    "symbol": "Gregory",
+    "marketCap": 85317.0,
+    "liquidity": 23500.07,
+    "candidateScore": 12.4076,
+    "entryPrice": 6.491294999999999e-05,
+    "exitPrice": 8.531e-05,
+    "peakPrice": 8.531e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.2199551091115102,
+    "profitLamports": 219955109,
+    "pnlPct": 31.42215844450146,
+    "reason": "TAKEPROFIT25P",
+    "buyTxid": "DRY_RUN_BUY_1788634183249",
+    "sellTxid": "DRY_RUN_SELL_1788634249972",
+    "source": "PYTHON_SCANNER"
   }
 ]

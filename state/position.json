@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "HdYKqbPW3EiuCQsKB1ASfY2s2KjwwsGP1FG3jibGpump",
-  "symbol": "USELESS",
-  "marketCap": 57000.0,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 2.2934099999999998e-06,
-  "entryTime": 1788562761322,
-  "peakPrice": 2.368e-06,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788562761322",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "7WyYhmFKsKLmY58Zo1iYMQ3VsLEFbRVR3pcsMeDXpump",
-  "symbol": "JUROR",
-  "marketCap": 132000.0,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 8.94249e-05,
-  "entryTime": 1788602113450,
-  "peakPrice": 9.804e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788602113450",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

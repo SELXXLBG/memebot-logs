@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "CXm4n3e5xKctjaor4g3H17Yje3z5RZV4YkUeFkafpump",
-  "symbol": "Gregory",
-  "marketCap": 64599.0,
-  "liquidity": 20180.35,
-  "volume1h": 156420.76,
-  "volume24h": 156420.76,
-  "candidateScore": 12.4076,
-  "entryPrice": 6.491294999999999e-05,
-  "entryTime": 1788634183249,
-  "peakPrice": 7.29e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788634183249",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

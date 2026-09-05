@@ -698,5 +698,25 @@
     "buyTxid": "DRY_RUN_BUY_1788643844401",
     "sellTxid": "DRY_RUN_SELL_1788643874251",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T22:22:05.461297Z",
+    "token": "C8WzvBhJF4aWxBoB3MfmRSJkywvfKayhrnBhtXavpump",
+    "symbol": "BILLGATES",
+    "marketCap": 2558.0,
+    "liquidity": 2509.3,
+    "candidateScore": 10.1036,
+    "entryPrice": 5.1104249999999994e-05,
+    "exitPrice": 2.557e-06,
+    "peakPrice": 5.985e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.6649755157349926,
+    "profitLamports": -664975515,
+    "pnlPct": -94.9965022478561,
+    "reason": "HARDSTOP_12P",
+    "buyTxid": "DRY_RUN_BUY_1788646683448",
+    "sellTxid": "DRY_RUN_SELL_1788646925461",
+    "source": "PYTHON_SCANNER"
   }
 ]

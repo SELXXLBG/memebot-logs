@@ -538,5 +538,25 @@
     "buyTxid": "DRY_RUN_BUY_1788622422942",
     "sellTxid": "DRY_RUN_SELL_1788622424067",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T15:42:37.852538Z",
+    "token": "85zNoV5b7XDf4uQistn7nNmBuFjuMzBzNWSGDrDGpump",
+    "symbol": "SIXSEVEN",
+    "marketCap": 165736.0,
+    "liquidity": 33696.37,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00017617649999999998,
+    "exitPrice": 0.0001657,
+    "peakPrice": 0.0001977,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.041626153317837485,
+    "profitLamports": -41626153,
+    "pnlPct": -5.946593331119641,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788622918368",
+    "sellTxid": "DRY_RUN_SELL_1788622957852",
+    "source": "KOL_CALLANALYSER"
   }
 ]

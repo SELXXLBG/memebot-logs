@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "8yUWfCRvWjD2HiQ4SStwmEWECmXfp444xkfcznmepump",
-  "symbol": "nip",
-  "marketCap": 76339.0,
-  "liquidity": 21750.14,
-  "volume1h": 35173.03,
-  "volume24h": 35173.03,
-  "candidateScore": 9.7171,
-  "entryPrice": 7.671164999999998e-05,
-  "entryTime": 1788622422942,
-  "peakPrice": 7.671164999999998e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788622422942",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

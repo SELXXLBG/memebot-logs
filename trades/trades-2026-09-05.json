@@ -238,5 +238,25 @@
     "buyTxid": "DRY_RUN_BUY_1788590425242",
     "sellTxid": "DRY_RUN_SELL_1788590430680",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T07:03:01.319276Z",
+    "token": "AbGCa1neeXBQNQKe2DFyfdGmq1LDHZwYBw9jGHbjpump",
+    "symbol": "FOMO",
+    "marketCap": 2029.0,
+    "liquidity": 2085.35,
+    "candidateScore": 3.2,
+    "entryPrice": 3.28836e-05,
+    "exitPrice": 2.029e-06,
+    "peakPrice": 3.439e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.6568082570034912,
+    "profitLamports": -656808257,
+    "pnlPct": -93.82975100049875,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788591745115",
+    "sellTxid": "DRY_RUN_SELL_1788591781319",
+    "source": "KOL_CALLANALYSER"
   }
 ]

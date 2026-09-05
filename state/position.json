@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "CBzJvfeWtomVHYgs9AAigQravRwuxj6HgcFtiGHwpump",
+  "symbol": "PONSJAK",
+  "marketCap": 77000.0,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 9.401774999999999e-05,
+  "entryTime": 1788597410959,
+  "peakPrice": 9.401774999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788597410959",
+  "isDryRun": true,
+  "source": "KOL_CALLANALYSER"
+}

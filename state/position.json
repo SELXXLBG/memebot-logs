@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "9TCjvTFgbwJetcRqEkZ31EMi4TxCBmGJM38n9mxypump",
-  "symbol": "CATIUS",
-  "marketCap": 66000.0,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 6.016935e-05,
-  "entryTime": 1788600087620,
-  "peakPrice": 7.284e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788600087620",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

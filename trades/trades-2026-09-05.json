@@ -218,5 +218,25 @@
     "buyTxid": "DRY_RUN_BUY_1788588498510",
     "sellTxid": "DRY_RUN_SELL_1788588568988",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T06:40:30.680459Z",
+    "token": "3bDqtpr8L2akw3SXyy4MDPwf93eCsyWTktgPMh1xpump",
+    "symbol": "PONSCHAN",
+    "marketCap": 4205.0,
+    "liquidity": 3795.66,
+    "candidateScore": 3.2,
+    "entryPrice": 4.8270149999999994e-05,
+    "exitPrice": 4.204e-06,
+    "peakPrice": 4.8270149999999994e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.6390347865088465,
+    "profitLamports": -639034786,
+    "pnlPct": -91.29068378697808,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788590425242",
+    "sellTxid": "DRY_RUN_SELL_1788590430680",
+    "source": "KOL_CALLANALYSER"
   }
 ]

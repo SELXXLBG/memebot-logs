@@ -38,5 +38,25 @@
     "buyTxid": "DRY_RUN_BUY_1788569969972",
     "sellTxid": "DRY_RUN_SELL_1788570023822",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T01:28:01.830728Z",
+    "token": "2Cx4k2vSTpQMfbi8qDVW63QUQNaNVq6wFyJ2gTZTpump",
+    "symbol": "PONANSEM",
+    "marketCap": 69367.0,
+    "liquidity": 20730.29,
+    "candidateScore": 3.2,
+    "entryPrice": 5.0169599999999995e-05,
+    "exitPrice": 6.936e-05,
+    "peakPrice": 6.936e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.2677573670110984,
+    "profitLamports": 267757367,
+    "pnlPct": 38.251052430156925,
+    "reason": "TAKEPROFIT25P",
+    "buyTxid": "DRY_RUN_BUY_1788571640193",
+    "sellTxid": "DRY_RUN_SELL_1788571681830",
+    "source": "KOL_CALLANALYSER"
   }
 ]

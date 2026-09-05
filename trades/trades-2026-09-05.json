@@ -378,5 +378,25 @@
     "buyTxid": "DRY_RUN_BUY_1788602113450",
     "sellTxid": "DRY_RUN_SELL_1788602165474",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T10:19:59.642494Z",
+    "token": "CiZxizEmVT17ZpXLMmvJL4cRgjpyXXnCxGa6S94npump",
+    "symbol": "CHUMPWHALE",
+    "marketCap": 57032.0,
+    "liquidity": 18644.75,
+    "candidateScore": 3.2,
+    "entryPrice": 5.708399999999999e-05,
+    "exitPrice": 5.703e-05,
+    "peakPrice": 6.627e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0006621820475088075,
+    "profitLamports": -662182,
+    "pnlPct": -0.09459743535840108,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788603542447",
+    "sellTxid": "DRY_RUN_SELL_1788603599642",
+    "source": "KOL_CALLANALYSER"
   }
 ]

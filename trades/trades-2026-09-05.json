@@ -678,5 +678,25 @@
     "buyTxid": "DRY_RUN_BUY_1788640766435",
     "sellTxid": "DRY_RUN_SELL_1788640917203",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T21:31:14.251698Z",
+    "token": "5kWkcgQ1iKPLHK2MnYZJFdSagXU4PtA2geafRvNLpump",
+    "symbol": "MAGASLUG",
+    "marketCap": 49152.0,
+    "liquidity": 17160.8,
+    "candidateScore": 10.4015,
+    "entryPrice": 5.328509999999999e-05,
+    "exitPrice": 4.915e-05,
+    "peakPrice": 5.328509999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.05432231524384849,
+    "profitLamports": -54322315,
+    "pnlPct": -7.760330749121214,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788643844401",
+    "sellTxid": "DRY_RUN_SELL_1788643874251",
+    "source": "PYTHON_SCANNER"
   }
 ]

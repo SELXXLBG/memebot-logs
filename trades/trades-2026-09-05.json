@@ -638,5 +638,25 @@
     "buyTxid": "DRY_RUN_BUY_1788634183249",
     "sellTxid": "DRY_RUN_SELL_1788634249972",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T19:25:43.143569Z",
+    "token": "CEoBBZCu9J4W4mpHroaW5GfPYJrkF2ahDXcmo8v6pump",
+    "symbol": "JACKMAN",
+    "marketCap": 47909.0,
+    "liquidity": 16923.66,
+    "candidateScore": 9.8017,
+    "entryPrice": 5.209919999999999e-05,
+    "exitPrice": 4.79e-05,
+    "peakPrice": 5.209919999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.05642006019286274,
+    "profitLamports": -56420060,
+    "pnlPct": -8.060008598980392,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788636297798",
+    "sellTxid": "DRY_RUN_SELL_1788636343143",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -578,5 +578,25 @@
     "buyTxid": "DRY_RUN_BUY_1788624048850",
     "sellTxid": "DRY_RUN_SELL_1788624058625",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T17:48:37.300660Z",
+    "token": "9H8in7dWdjqN6mx78JsVmKoSbEHPAcBGhchhxkHtpump",
+    "symbol": "OBSINU",
+    "marketCap": 2056.0,
+    "liquidity": 2175.81,
+    "candidateScore": 3.2,
+    "entryPrice": 2.165775e-06,
+    "exitPrice": 2.122e-06,
+    "peakPrice": 2.165775e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.014148514965774326,
+    "profitLamports": -14148514,
+    "pnlPct": -2.0212164236820467,
+    "reason": "FORCE_EXIT_90M",
+    "buyTxid": "DRY_RUN_BUY_1788625115404",
+    "sellTxid": "DRY_RUN_SELL_1788630517300",
+    "source": "KOL_CALLANALYSER"
   }
 ]

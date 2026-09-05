@@ -198,5 +198,25 @@
     "buyTxid": "DRY_RUN_BUY_1788587206650",
     "sellTxid": "DRY_RUN_SELL_1788587210344",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T06:09:28.988553Z",
+    "token": "Hp2dzmvVTr1EuXxmM8k8Z1DAhTx8VSXAny8DQLp3pump",
+    "symbol": "PINU",
+    "marketCap": 145828.0,
+    "liquidity": 31378.09,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00013748399999999997,
+    "exitPrice": 0.0001458,
+    "peakPrice": 0.0001712,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.042340926944226344,
+    "profitLamports": 42340926,
+    "pnlPct": 6.048703849175192,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788588498510",
+    "sellTxid": "DRY_RUN_SELL_1788588568988",
+    "source": "KOL_CALLANALYSER"
   }
 ]

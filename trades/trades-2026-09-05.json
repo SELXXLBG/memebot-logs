@@ -558,5 +558,25 @@
     "buyTxid": "DRY_RUN_BUY_1788622918368",
     "sellTxid": "DRY_RUN_SELL_1788622957852",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T16:00:58.625770Z",
+    "token": "A2vPDnxfugHouzsJd7kiQkE8zqN4MXjazaT5zHG2qg11",
+    "symbol": "OSINT",
+    "marketCap": 60010.0,
+    "liquidity": 20805.88,
+    "candidateScore": 12.519,
+    "entryPrice": 6.835004999999998e-05,
+    "exitPrice": 6.001e-05,
+    "peakPrice": 6.835004999999998e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.08541376341348672,
+    "profitLamports": -85413763,
+    "pnlPct": -12.201966201926675,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788624048850",
+    "sellTxid": "DRY_RUN_SELL_1788624058625",
+    "source": "PYTHON_SCANNER"
   }
 ]

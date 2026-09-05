@@ -658,5 +658,25 @@
     "buyTxid": "DRY_RUN_BUY_1788636297798",
     "sellTxid": "DRY_RUN_SELL_1788636343143",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T20:41:57.203135Z",
+    "token": "DHLqUh8wJjJCnfdZpjFkeKhdic9nTpMxzD1Vkx8DG17U",
+    "symbol": "SWIFT",
+    "marketCap": 80045.0,
+    "liquidity": 24529.05,
+    "candidateScore": 10.575,
+    "entryPrice": 8.213865e-05,
+    "exitPrice": 8.004e-05,
+    "peakPrice": 8.597e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.017885063852400768,
+    "profitLamports": -17885063,
+    "pnlPct": -2.5550091217715383,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788640766435",
+    "sellTxid": "DRY_RUN_SELL_1788640917203",
+    "source": "PYTHON_SCANNER"
   }
 ]

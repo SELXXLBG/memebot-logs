@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "CiZxizEmVT17ZpXLMmvJL4cRgjpyXXnCxGa6S94npump",
+  "symbol": "CHUMPWHALE",
+  "marketCap": 53000.0,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 5.708399999999999e-05,
+  "entryTime": 1788603542447,
+  "peakPrice": 5.708399999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788603542447",
+  "isDryRun": true,
+  "source": "KOL_CALLANALYSER"
+}

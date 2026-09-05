@@ -298,5 +298,25 @@
     "buyTxid": "DRY_RUN_BUY_1788597410959",
     "sellTxid": "DRY_RUN_SELL_1788597427129",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T09:03:50.240891Z",
+    "token": "Ebqfs1YUXftAm4YerpfNtKCYtoW2s1cC1bxXodrepump",
+    "symbol": "AI",
+    "marketCap": 2019.0,
+    "liquidity": 2068.01,
+    "candidateScore": 3.2,
+    "entryPrice": 2.0662799999999995e-06,
+    "exitPrice": 2.019e-06,
+    "peakPrice": 2.0662799999999995e-06,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.01601719031302611,
+    "profitLamports": -16017190,
+    "pnlPct": -2.2881700447180155,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788599004420",
+    "sellTxid": "DRY_RUN_SELL_1788599030240",
+    "source": "KOL_CALLANALYSER"
   }
 ]

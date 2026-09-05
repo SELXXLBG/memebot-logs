@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "HDAys8iAKZt2WSwMqjMYvo2dwgjXea72VXGta4TApump",
+  "symbol": "ROBINPEPE",
+  "marketCap": 30000.0,
+  "liquidity": 0,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 3.2,
+  "entryPrice": 2.68737e-06,
+  "entryTime": 1788575025835,
+  "peakPrice": 2.68737e-06,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788575025835",
+  "isDryRun": true,
+  "source": "KOL_CALLANALYSER"
+}

@@ -458,5 +458,25 @@
     "buyTxid": "DRY_RUN_BUY_1788612040843",
     "sellTxid": "DRY_RUN_SELL_1788612060958",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T14:35:50.532485Z",
+    "token": "3URpNcV9wAPjwMAyuBsPjwwkGN9wFJuwcRs3RMbdpair",
+    "symbol": "PAIRZ",
+    "marketCap": 166619.0,
+    "liquidity": 33814.34,
+    "candidateScore": 3.2,
+    "entryPrice": 0.00017878949999999998,
+    "exitPrice": 0.0001719,
+    "peakPrice": 0.0002046,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.026973899473962303,
+    "profitLamports": -26973899,
+    "pnlPct": -3.853414210566043,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788617365767",
+    "sellTxid": "DRY_RUN_SELL_1788618950532",
+    "source": "KOL_CALLANALYSER"
   }
 ]

@@ -98,5 +98,25 @@
     "buyTxid": "DRY_RUN_BUY_1788575025835",
     "sellTxid": "DRY_RUN_SELL_1788577281224",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T03:08:18.839431Z",
+    "token": "7qsnJuQdWHZcmv3H9LcESqNAKZf6K3mtPYkYtpfqpump",
+    "symbol": "VLADSTONKS",
+    "marketCap": 91180.0,
+    "liquidity": 24386.05,
+    "candidateScore": 3.2,
+    "entryPrice": 9.395744999999999e-05,
+    "exitPrice": 9.118e-05,
+    "peakPrice": 9.395744999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.020692504958361335,
+    "profitLamports": -20692504,
+    "pnlPct": -2.9560721369087624,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788577691392",
+    "sellTxid": "DRY_RUN_SELL_1788577698839",
+    "source": "KOL_CALLANALYSER"
   }
 ]

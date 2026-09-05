@@ -438,5 +438,25 @@
     "buyTxid": "DRY_RUN_BUY_1788610389050",
     "sellTxid": "DRY_RUN_SELL_1788610445207",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T12:41:00.958516Z",
+    "token": "8RQniNaU348sKHap11zQWWSh6WfDgWm5GbEMjsVRpump",
+    "symbol": "Paperbag",
+    "marketCap": 104362.0,
+    "liquidity": 27075.42,
+    "candidateScore": 8.4425,
+    "entryPrice": 0.00011195699999999999,
+    "exitPrice": 0.0001082,
+    "peakPrice": 0.00011195699999999999,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.023490268585260318,
+    "profitLamports": -23490268,
+    "pnlPct": -3.3557526550371883,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788612040843",
+    "sellTxid": "DRY_RUN_SELL_1788612060958",
+    "source": "PYTHON_SCANNER"
   }
 ]

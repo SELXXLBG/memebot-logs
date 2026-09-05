@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "Hp2dzmvVTr1EuXxmM8k8Z1DAhTx8VSXAny8DQLp3pump",
-  "symbol": "PINU",
-  "marketCap": 86000.0,
-  "liquidity": 0,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 0.00013748399999999997,
-  "entryTime": 1788588498510,
-  "peakPrice": 0.0001712,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788588498510",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

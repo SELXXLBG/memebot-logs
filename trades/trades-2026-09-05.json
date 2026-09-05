@@ -498,5 +498,25 @@
     "buyTxid": "DRY_RUN_BUY_1788619545729",
     "sellTxid": "DRY_RUN_SELL_1788619555907",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-05T15:13:55.819966Z",
+    "token": "McbTQ3TyMj8U4eU3mgH8qXpuoyfXAV4C4Wbo5fJpump",
+    "symbol": "PONS",
+    "marketCap": 58781.0,
+    "liquidity": 19240.63,
+    "candidateScore": 11.1042,
+    "entryPrice": 7.11942e-05,
+    "exitPrice": 5.878e-05,
+    "peakPrice": 8.777e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1220596621634908,
+    "profitLamports": -122059662,
+    "pnlPct": -17.4370945947844,
+    "reason": "HARDSTOP_15P",
+    "buyTxid": "DRY_RUN_BUY_1788621137032",
+    "sellTxid": "DRY_RUN_SELL_1788621235819",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "7kTWZ2P6SfTjJF4SbhyDFfHRS199YpWYfz2xydqPpump",
-  "symbol": "USDCAMC",
-  "marketCap": 51552.0,
-  "liquidity": 17518.93,
-  "volume1h": 22433.57,
-  "volume24h": 22433.57,
-  "candidateScore": 11.1082,
-  "entryPrice": 5.180774999999999e-05,
-  "entryTime": 1788610389050,
-  "peakPrice": 5.180774999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788610389050",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

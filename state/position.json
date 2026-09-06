@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "6A33arqkS7JJMb5ZNQsWE9Brm4t1nc6ZybNvCx8K8L17",
+  "symbol": "ARMY",
+  "marketCap": 61100.0,
+  "liquidity": 21663.01,
+  "volume1h": 39776.99,
+  "volume24h": 39776.99,
+  "candidateScore": 10.1903,
+  "entryPrice": 6.14055e-05,
+  "entryTime": 1788691426543,
+  "peakPrice": 6.14055e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788691426543",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

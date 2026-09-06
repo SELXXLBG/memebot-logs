@@ -238,5 +238,25 @@
     "buyTxid": "DRY_RUN_BUY_1788678543611",
     "sellTxid": "DRY_RUN_SELL_1788678754161",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T07:29:09.119100Z",
+    "token": "2uykRtjU3xJBZQTNKF8oiB6oTpB9agT6Sj4kxksPQwai",
+    "symbol": "DINO",
+    "marketCap": 32208.0,
+    "liquidity": 16063.09,
+    "candidateScore": 10.7304,
+    "entryPrice": 5.052134999999999e-05,
+    "exitPrice": 3.22e-05,
+    "peakPrice": 5.052134999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.25385198534876835,
+    "profitLamports": -253851985,
+    "pnlPct": -36.26456933553834,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788679741104",
+    "sellTxid": "DRY_RUN_SELL_1788679749119",
+    "source": "PYTHON_SCANNER"
   }
 ]

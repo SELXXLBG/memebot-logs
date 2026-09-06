@@ -478,5 +478,25 @@
     "buyTxid": "DRY_RUN_BUY_1788695895187",
     "sellTxid": "DRY_RUN_SELL_1788696169698",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T14:23:32.434571Z",
+    "token": "476MWyHnzcUc2jAnBxdqVBFZpArT3VGGwPsUHjnjA3GC",
+    "symbol": "LMEOW",
+    "marketCap": 63390.0,
+    "liquidity": 22058.68,
+    "candidateScore": 8.2575,
+    "entryPrice": 6.9345e-05,
+    "exitPrice": 6.339e-05,
+    "peakPrice": 7.072e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06011248107289633,
+    "profitLamports": -60112481,
+    "pnlPct": -8.587497296128047,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1788704443946",
+    "sellTxid": "DRY_RUN_SELL_1788704612434",
+    "source": "PYTHON_SCANNER"
   }
 ]

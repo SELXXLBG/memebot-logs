@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "75tWrvyvdWBPEf9tfwekU3LxxoGZmvB2F565mRecemE6",
-  "symbol": "CHIP",
-  "marketCap": 54836.0,
-  "liquidity": 20505.16,
-  "volume1h": 31679.45,
-  "volume24h": 31679.45,
-  "candidateScore": 10.2325,
-  "entryPrice": 5.5104149999999997e-05,
-  "entryTime": 1788688855487,
-  "peakPrice": 5.5104149999999997e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788688855487",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

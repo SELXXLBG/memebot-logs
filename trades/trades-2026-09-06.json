@@ -98,5 +98,25 @@
     "buyTxid": "DRY_RUN_BUY_1788663778599",
     "sellTxid": "DRY_RUN_SELL_1788663928996",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T03:34:04.738127Z",
+    "token": "91nowY3KccRAccm1CWGwK5qk7QBqr3q6GRcv2tQ4pump",
+    "symbol": "ZANSEM",
+    "marketCap": 72883.0,
+    "liquidity": 21689.78,
+    "candidateScore": 11.6791,
+    "entryPrice": 7.831964999999998e-05,
+    "exitPrice": 7.288e-05,
+    "peakPrice": 7.925e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.04861813095436451,
+    "profitLamports": -48618130,
+    "pnlPct": -6.94544727919493,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1788665583647",
+    "sellTxid": "DRY_RUN_SELL_1788665644738",
+    "source": "PYTHON_SCANNER"
   }
 ]

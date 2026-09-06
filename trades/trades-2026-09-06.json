@@ -598,5 +598,25 @@
     "buyTxid": "DRY_RUN_BUY_1788719166597",
     "sellTxid": "DRY_RUN_SELL_1788719174992",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T18:31:32.127461Z",
+    "token": "AHVAZZEBWXuo3xstsMLePnseDQKM1GPBq48DU7Stpump",
+    "symbol": "GIVE",
+    "marketCap": 56627.0,
+    "liquidity": 18744.63,
+    "candidateScore": 9.9489,
+    "entryPrice": 6.44607e-05,
+    "exitPrice": 5.662e-05,
+    "peakPrice": 6.853e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.08514474710947913,
+    "profitLamports": -85144747,
+    "pnlPct": -12.16353530135416,
+    "reason": "HARDSTOP_12P",
+    "buyTxid": "DRY_RUN_BUY_1788719441322",
+    "sellTxid": "DRY_RUN_SELL_1788719492127",
+    "source": "PYTHON_SCANNER"
   }
 ]

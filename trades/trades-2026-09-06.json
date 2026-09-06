@@ -558,5 +558,25 @@
     "buyTxid": "DRY_RUN_BUY_1788712837854",
     "sellTxid": "DRY_RUN_SELL_1788712875719",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T17:49:54.328062Z",
+    "token": "C1SmvbwWEZkCremPBW9pQtZBv4mPpvCbg5ep1VvgqAtx",
+    "symbol": "ZGUY",
+    "marketCap": 50384.0,
+    "liquidity": 17544.8,
+    "candidateScore": 10.392,
+    "entryPrice": 5.233034999999999e-05,
+    "exitPrice": 5.038e-05,
+    "peakPrice": 5.233034999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.026088971313969686,
+    "profitLamports": -26088971,
+    "pnlPct": -3.7269959019956693,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788716966862",
+    "sellTxid": "DRY_RUN_SELL_1788716994328",
+    "source": "PYTHON_SCANNER"
   }
 ]

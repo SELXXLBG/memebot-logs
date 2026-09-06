@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "2Tu8xDmYVX3huNY5GxYRjbx1KzUDZMquLaJbcvPYT1Qx",
-  "symbol": "SOLCAT",
-  "marketCap": 119538.0,
-  "liquidity": 30646.91,
-  "volume1h": 47365.01,
-  "volume24h": 494134.5,
-  "candidateScore": 7.7453,
-  "entryPrice": 0.00012009749999999999,
-  "entryTime": 1788680660116,
-  "peakPrice": 0.0001226,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788680660116",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

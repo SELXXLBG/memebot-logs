@@ -698,5 +698,25 @@
     "buyTxid": "DRY_RUN_BUY_1788725386306",
     "sellTxid": "DRY_RUN_SELL_1788725426026",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T20:17:20.846808Z",
+    "token": "Ex7ntKfpYHh23Pmr9NvGNRU2bNqUmNnhFHkmzusf8FAM",
+    "symbol": "GANDALF",
+    "marketCap": 69850.0,
+    "liquidity": 22730.49,
+    "candidateScore": 10.1772,
+    "entryPrice": 5.3566499999999996e-05,
+    "exitPrice": 6.985e-05,
+    "peakPrice": 6.985e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.21279064340586012,
+    "profitLamports": 212790643,
+    "pnlPct": 30.398663343694306,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1788725754090",
+    "sellTxid": "DRY_RUN_SELL_1788725840846",
+    "source": "PYTHON_SCANNER"
   }
 ]

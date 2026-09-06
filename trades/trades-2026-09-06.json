@@ -78,5 +78,25 @@
     "buyTxid": "DRY_RUN_BUY_1788659283470",
     "sellTxid": "DRY_RUN_SELL_1788659355885",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T03:05:28.996931Z",
+    "token": "GMBd6JCTfKKZp5vRspF62waM7C8BSr3Xh5tKERzjpump",
+    "symbol": "ZGOONER",
+    "marketCap": 60029.0,
+    "liquidity": 19500.68,
+    "candidateScore": 11.8493,
+    "entryPrice": 7.297304999999998e-05,
+    "exitPrice": 6.002e-05,
+    "peakPrice": 7.73e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.12425320032532546,
+    "profitLamports": -124253200,
+    "pnlPct": -17.75045718933221,
+    "reason": "HARDSTOP_12P",
+    "buyTxid": "DRY_RUN_BUY_1788663778599",
+    "sellTxid": "DRY_RUN_SELL_1788663928996",
+    "source": "PYTHON_SCANNER"
   }
 ]

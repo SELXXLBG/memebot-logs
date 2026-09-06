@@ -518,5 +518,25 @@
     "buyTxid": "DRY_RUN_BUY_1788706713315",
     "sellTxid": "DRY_RUN_SELL_1788706751052",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T16:39:44.470079Z",
+    "token": "365mw7xLoo9oB8ooemnga39bEqyjYtKDrSdJZcKMxCfx",
+    "symbol": "SLO",
+    "marketCap": 47263.0,
+    "liquidity": 18827.05,
+    "candidateScore": 10.4566,
+    "entryPrice": 5.2561499999999995e-05,
+    "exitPrice": 4.726e-05,
+    "peakPrice": 5.2561499999999995e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.07060395917163699,
+    "profitLamports": -70603959,
+    "pnlPct": -10.086279881662428,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788712776481",
+    "sellTxid": "DRY_RUN_SELL_1788712784470",
+    "source": "PYTHON_SCANNER"
   }
 ]

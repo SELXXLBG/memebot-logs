@@ -618,5 +618,25 @@
     "buyTxid": "DRY_RUN_BUY_1788719441322",
     "sellTxid": "DRY_RUN_SELL_1788719492127",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T19:24:41.739591Z",
+    "token": "93ew6KrBKyMEGgzh78AdFBFtSPNyvXcC3Fn7iX5r28F9",
+    "symbol": "NOLA",
+    "marketCap": 107033.0,
+    "liquidity": 28617.7,
+    "candidateScore": 8.4889,
+    "entryPrice": 0.00011507249999999999,
+    "exitPrice": 0.000107,
+    "peakPrice": 0.00011507249999999999,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.04910599839231785,
+    "profitLamports": -49105998,
+    "pnlPct": -7.0151426274739785,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788722629123",
+    "sellTxid": "DRY_RUN_SELL_1788722681739",
+    "source": "PYTHON_SCANNER"
   }
 ]

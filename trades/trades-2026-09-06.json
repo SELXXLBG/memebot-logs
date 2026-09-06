@@ -258,5 +258,25 @@
     "buyTxid": "DRY_RUN_BUY_1788679741104",
     "sellTxid": "DRY_RUN_SELL_1788679749119",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T07:30:18.200484Z",
+    "token": "Au6uWJqXKC5aMpxyreVk2FQ3xZWAH95rp519R9k3pump",
+    "symbol": "ANSEMINU",
+    "marketCap": 55333.0,
+    "liquidity": 18459.62,
+    "candidateScore": 10.0455,
+    "entryPrice": 5.25414e-05,
+    "exitPrice": 5.533e-05,
+    "peakPrice": 6.754e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.03715203629899473,
+    "profitLamports": 37152036,
+    "pnlPct": 5.307433756999248,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788679771644",
+    "sellTxid": "DRY_RUN_SELL_1788679818200",
+    "source": "PYTHON_SCANNER"
   }
 ]

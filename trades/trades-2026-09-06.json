@@ -858,5 +858,25 @@
     "buyTxid": "DRY_RUN_BUY_1788734468937",
     "sellTxid": "DRY_RUN_SELL_1788736099703",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T23:09:31.559044Z",
+    "token": "ES5kVscAXiF9H9FK5crZZpYbLa4EmRA5rLYoPaLGpump",
+    "symbol": "ZWIF",
+    "marketCap": 71257.0,
+    "liquidity": 21270.38,
+    "candidateScore": 10.2252,
+    "entryPrice": 5.253134999999999e-05,
+    "exitPrice": 7.125e-05,
+    "peakPrice": 7.125e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.24943305283416484,
+    "profitLamports": 249433052,
+    "pnlPct": 35.63329326202355,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1788736122928",
+    "sellTxid": "DRY_RUN_SELL_1788736171559",
+    "source": "PYTHON_SCANNER"
   }
 ]

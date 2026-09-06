@@ -438,5 +438,25 @@
     "buyTxid": "DRY_RUN_BUY_1788691426543",
     "sellTxid": "DRY_RUN_SELL_1788691437822",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T11:16:40.447378Z",
+    "token": "9GJQUmiEZBpgSiEaqvi9hXXFs45crcfTwQ1vYY7Xgx6A",
+    "symbol": "401jk",
+    "marketCap": 56855.0,
+    "liquidity": 19667.47,
+    "candidateScore": 10.2478,
+    "entryPrice": 6.670185e-05,
+    "exitPrice": 5.926e-05,
+    "peakPrice": 6.907e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.07809820867037424,
+    "profitLamports": -78098208,
+    "pnlPct": -11.156886952910607,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1788693259657",
+    "sellTxid": "DRY_RUN_SELL_1788693400447",
+    "source": "PYTHON_SCANNER"
   }
 ]

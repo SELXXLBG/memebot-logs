@@ -838,5 +838,25 @@
     "buyTxid": "DRY_RUN_BUY_1788734254780",
     "sellTxid": "DRY_RUN_SELL_1788734321829",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T23:08:19.703706Z",
+    "token": "GyqQahKrKaJMpf8UfENbP3jupnRxekzpUURDeyq9y1XS",
+    "symbol": "KPOP",
+    "marketCap": 35172.0,
+    "liquidity": 16182.56,
+    "candidateScore": 10.3868,
+    "entryPrice": 6.602849999999999e-05,
+    "exitPrice": 3.517e-05,
+    "peakPrice": 6.602849999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.3271458536843938,
+    "profitLamports": -327145853,
+    "pnlPct": -46.7351219549134,
+    "reason": "HARDSTOP_12P",
+    "buyTxid": "DRY_RUN_BUY_1788734468937",
+    "sellTxid": "DRY_RUN_SELL_1788736099703",
+    "source": "PYTHON_SCANNER"
   }
 ]

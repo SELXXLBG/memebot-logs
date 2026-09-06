@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "EoFf2HSSe8Uoff7uwReDE6FfT2EVvscNeK82Cd7FL9JL",
+  "symbol": "RENT",
+  "marketCap": 54686.0,
+  "liquidity": 20363.17,
+  "volume1h": 22640.02,
+  "volume24h": 22640.02,
+  "candidateScore": 9.8067,
+  "entryPrice": 5.4953399999999995e-05,
+  "entryTime": 1788677104601,
+  "peakPrice": 5.4953399999999995e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788677104601",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

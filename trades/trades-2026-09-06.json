@@ -638,5 +638,25 @@
     "buyTxid": "DRY_RUN_BUY_1788722629123",
     "sellTxid": "DRY_RUN_SELL_1788722681739",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T19:34:56.570238Z",
+    "token": "CJRF5UbMmKx2YymCJMGPZyikQWVeHFzTjEMfvFr3wmsN",
+    "symbol": "CLAUDE",
+    "marketCap": 42234.0,
+    "liquidity": 17715.05,
+    "candidateScore": 10.723,
+    "entryPrice": 5.594835e-05,
+    "exitPrice": 4.223e-05,
+    "peakPrice": 5.594835e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.171637680110316,
+    "profitLamports": -171637680,
+    "pnlPct": -24.519668587188,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788723273721",
+    "sellTxid": "DRY_RUN_SELL_1788723296570",
+    "source": "PYTHON_SCANNER"
   }
 ]

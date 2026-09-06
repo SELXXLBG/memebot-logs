@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "D2fUAY3yYvLsNfQPLn8B8V22Sn8daXQy2xSe1DEipump",
-  "symbol": "ape",
-  "marketCap": 52922.0,
-  "liquidity": 18032.2,
-  "volume1h": 28351.36,
-  "volume24h": 28351.36,
-  "candidateScore": 10.2733,
-  "entryPrice": 5.31846e-05,
-  "entryTime": 1788726976675,
-  "peakPrice": 6.305e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788726976675",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

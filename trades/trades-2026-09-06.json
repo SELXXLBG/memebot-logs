@@ -718,5 +718,25 @@
     "buyTxid": "DRY_RUN_BUY_1788725754090",
     "sellTxid": "DRY_RUN_SELL_1788725840846",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T20:38:36.316605Z",
+    "token": "D2fUAY3yYvLsNfQPLn8B8V22Sn8daXQy2xSe1DEipump",
+    "symbol": "ape",
+    "marketCap": 69502.0,
+    "liquidity": 20991.6,
+    "candidateScore": 10.2733,
+    "entryPrice": 5.31846e-05,
+    "exitPrice": 6.95e-05,
+    "peakPrice": 6.95e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.21473847692753162,
+    "profitLamports": 214738476,
+    "pnlPct": 30.67692527536166,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1788726976675",
+    "sellTxid": "DRY_RUN_SELL_1788727116316",
+    "source": "PYTHON_SCANNER"
   }
 ]

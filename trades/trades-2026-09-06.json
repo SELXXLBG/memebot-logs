@@ -38,5 +38,25 @@
     "buyTxid": "DRY_RUN_BUY_1788658395840",
     "sellTxid": "DRY_RUN_SELL_1788658405598",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T01:40:02.508309Z",
+    "token": "FQd7FHYj87z1NVMYm3sbvLApbf1skRvrXaFptW3546VB",
+    "symbol": "ZOLANA",
+    "marketCap": 43071.0,
+    "liquidity": 17792.75,
+    "candidateScore": 10.3307,
+    "entryPrice": 5.035049999999999e-05,
+    "exitPrice": 4.307e-05,
+    "peakPrice": 5.348e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.10121746556637957,
+    "profitLamports": -101217465,
+    "pnlPct": -14.459637938054225,
+    "reason": "HARDSTOP_12P",
+    "buyTxid": "DRY_RUN_BUY_1788658764187",
+    "sellTxid": "DRY_RUN_SELL_1788658802508",
+    "source": "PYTHON_SCANNER"
   }
 ]

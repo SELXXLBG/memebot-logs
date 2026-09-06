@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "Ex7ntKfpYHh23Pmr9NvGNRU2bNqUmNnhFHkmzusf8FAM",
-  "symbol": "GANDALF",
-  "marketCap": 53302.0,
-  "liquidity": 19702.2,
-  "volume1h": 32133.94,
-  "volume24h": 32133.94,
-  "candidateScore": 10.1772,
-  "entryPrice": 5.3566499999999996e-05,
-  "entryTime": 1788725754090,
-  "peakPrice": 6.379e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788725754090",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

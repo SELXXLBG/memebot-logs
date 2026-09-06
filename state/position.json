@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "9Dog1iTiReBKbttQ5jo67G6zdXCjRRbLTb2GvQCwpump",
+  "symbol": "ZIF",
+  "marketCap": 61442.0,
+  "liquidity": 19767.52,
+  "volume1h": 130718.45,
+  "volume24h": 130718.45,
+  "candidateScore": 11.1239,
+  "entryPrice": 6.183764999999999e-05,
+  "entryTime": 1788731502411,
+  "peakPrice": 6.183764999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788731502411",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

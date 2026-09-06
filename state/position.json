@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "BQhAa3AcCAKJWyjyhpQBdGpaQ74HKwk29v8sUjMxdNz2",
+  "symbol": "QUEEF",
+  "marketCap": 54189.0,
+  "liquidity": 20058.36,
+  "volume1h": 20262.38,
+  "volume24h": 20262.38,
+  "candidateScore": 11.1423,
+  "entryPrice": 5.445089999999999e-05,
+  "entryTime": 1788678543611,
+  "peakPrice": 5.445089999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788678543611",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

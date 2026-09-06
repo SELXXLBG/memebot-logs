@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "3Dfiey2bUzvik697LEeRQ2hj68dMXsgBNN5JVLUhj1ck",
-  "symbol": "SPX",
-  "marketCap": 50685.0,
-  "liquidity": 17622.7,
-  "volume1h": 99219.45,
-  "volume24h": 99219.45,
-  "candidateScore": 11.5603,
-  "entryPrice": 5.0933399999999996e-05,
-  "entryTime": 1788676034056,
-  "peakPrice": 5.0933399999999996e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788676034056",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

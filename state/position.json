@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "C1SmvbwWEZkCremPBW9pQtZBv4mPpvCbg5ep1VvgqAtx",
+  "symbol": "ZGUY",
+  "marketCap": 52075.0,
+  "liquidity": 17866.0,
+  "volume1h": 12885.78,
+  "volume24h": 12885.78,
+  "candidateScore": 10.392,
+  "entryPrice": 5.233034999999999e-05,
+  "entryTime": 1788716966862,
+  "peakPrice": 5.233034999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788716966862",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

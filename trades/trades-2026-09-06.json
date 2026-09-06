@@ -198,5 +198,25 @@
     "buyTxid": "DRY_RUN_BUY_1788677043458",
     "sellTxid": "DRY_RUN_SELL_1788677082940",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T06:46:37.912696Z",
+    "token": "EoFf2HSSe8Uoff7uwReDE6FfT2EVvscNeK82Cd7FL9JL",
+    "symbol": "RENT",
+    "marketCap": 50889.0,
+    "liquidity": 19740.66,
+    "candidateScore": 9.8067,
+    "entryPrice": 5.4953399999999995e-05,
+    "exitPrice": 5.088e-05,
+    "peakPrice": 5.922e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.05188723536669243,
+    "profitLamports": -51887235,
+    "pnlPct": -7.412462195241776,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1788677104601",
+    "sellTxid": "DRY_RUN_SELL_1788677197912",
+    "source": "PYTHON_SCANNER"
   }
 ]

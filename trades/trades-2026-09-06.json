@@ -298,5 +298,25 @@
     "buyTxid": "DRY_RUN_BUY_1788680660116",
     "sellTxid": "DRY_RUN_SELL_1788680869830",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T08:44:15.171478Z",
+    "token": "Da28zQTFm22qsofAtdxgDmbRfxiYhnou7ZBaQktapump",
+    "symbol": "PONSHUB",
+    "marketCap": 54507.0,
+    "liquidity": 18476.88,
+    "candidateScore": 10.7036,
+    "entryPrice": 5.1305249999999995e-05,
+    "exitPrice": 5.45e-05,
+    "peakPrice": 6.507e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.04358861909843546,
+    "profitLamports": 43588619,
+    "pnlPct": 6.226945585490781,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788684174772",
+    "sellTxid": "DRY_RUN_SELL_1788684255171",
+    "source": "PYTHON_SCANNER"
   }
 ]

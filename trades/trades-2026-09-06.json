@@ -798,5 +798,25 @@
     "buyTxid": "DRY_RUN_BUY_1788731502411",
     "sellTxid": "DRY_RUN_SELL_1788731552241",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T22:12:15.362373Z",
+    "token": "GH37DfLYgT9wPNzzE1TSvBKH4cCRndJwT1M2pRrPpump",
+    "symbol": "CHOP",
+    "marketCap": 53610.0,
+    "liquidity": 18684.46,
+    "candidateScore": 11.3987,
+    "entryPrice": 6.831989999999999e-05,
+    "exitPrice": 5.513e-05,
+    "peakPrice": 6.831989999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1351426158410652,
+    "profitLamports": -135142615,
+    "pnlPct": -19.306087977295032,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788732726162",
+    "sellTxid": "DRY_RUN_SELL_1788732735362",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -658,5 +658,25 @@
     "buyTxid": "DRY_RUN_BUY_1788723273721",
     "sellTxid": "DRY_RUN_SELL_1788723296570",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T19:53:07.094297Z",
+    "token": "FMRVmq3BWA2hZWBLCW389bsdoCRYd3YgSfSFdYaYpump",
+    "symbol": "iCat",
+    "marketCap": 44419.0,
+    "liquidity": 16376.44,
+    "candidateScore": 10.6613,
+    "entryPrice": 5.1506249999999995e-05,
+    "exitPrice": 4.441e-05,
+    "peakPrice": 5.1506249999999995e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.09644217934716659,
+    "profitLamports": -96442179,
+    "pnlPct": -13.777454192452371,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788724373539",
+    "sellTxid": "DRY_RUN_SELL_1788724387094",
+    "source": "PYTHON_SCANNER"
   }
 ]

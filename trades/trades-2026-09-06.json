@@ -758,5 +758,25 @@
     "buyTxid": "DRY_RUN_BUY_1788727525714",
     "sellTxid": "DRY_RUN_SELL_1788727528912",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T21:26:42.813375Z",
+    "token": "4P8ZC4cGTBPz4TPsFHtuoyLT8ftDcf8J9pzmJrUMoNb8",
+    "symbol": "BUDDY",
+    "marketCap": 74950.0,
+    "liquidity": 25018.05,
+    "candidateScore": 10.2506,
+    "entryPrice": 5.25816e-05,
+    "exitPrice": 7.496e-05,
+    "peakPrice": 7.496e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.2979156206733915,
+    "profitLamports": 297915620,
+    "pnlPct": 42.559374381913074,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1788729941908",
+    "sellTxid": "DRY_RUN_SELL_1788730002813",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "Au6uWJqXKC5aMpxyreVk2FQ3xZWAH95rp519R9k3pump",
+  "symbol": "ANSEMINU",
+  "marketCap": 52287.0,
+  "liquidity": 17872.39,
+  "volume1h": 27960.6,
+  "volume24h": 27960.6,
+  "candidateScore": 10.0455,
+  "entryPrice": 5.25414e-05,
+  "entryTime": 1788679771644,
+  "peakPrice": 5.25414e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788679771644",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

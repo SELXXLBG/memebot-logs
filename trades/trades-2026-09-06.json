@@ -918,5 +918,25 @@
     "buyTxid": "DRY_RUN_BUY_1788737720119",
     "sellTxid": "DRY_RUN_SELL_1788737731011",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T23:37:10.422888Z",
+    "token": "5Zq4aKL7woJ4wAeHRpqJX4LwdYTZarD49mcwe1JGpump",
+    "symbol": "TISMCAT",
+    "marketCap": 74091.0,
+    "liquidity": 21743.41,
+    "candidateScore": 9.2884,
+    "entryPrice": 7.772669999999999e-05,
+    "exitPrice": 7.409e-05,
+    "peakPrice": 7.772669999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.03275180858057772,
+    "profitLamports": -32751808,
+    "pnlPct": -4.678829797225388,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788737807642",
+    "sellTxid": "DRY_RUN_SELL_1788737830422",
+    "source": "PYTHON_SCANNER"
   }
 ]

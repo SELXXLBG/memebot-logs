@@ -498,5 +498,25 @@
     "buyTxid": "DRY_RUN_BUY_1788704443946",
     "sellTxid": "DRY_RUN_SELL_1788704612434",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T14:59:11.052289Z",
+    "token": "2rA7wLGp7EqXZdpGx268ZojNNKWovkUWRKEa96VBpump",
+    "symbol": "GEKKO",
+    "marketCap": 49877.0,
+    "liquidity": 17541.4,
+    "candidateScore": 11.4302,
+    "entryPrice": 5.1757499999999994e-05,
+    "exitPrice": 4.987e-05,
+    "peakPrice": 5.442e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.02552770129932849,
+    "profitLamports": -25527701,
+    "pnlPct": -3.6468144713326414,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788706713315",
+    "sellTxid": "DRY_RUN_SELL_1788706751052",
+    "source": "PYTHON_SCANNER"
   }
 ]

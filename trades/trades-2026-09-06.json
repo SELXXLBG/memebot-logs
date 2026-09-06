@@ -898,5 +898,25 @@
     "buyTxid": "DRY_RUN_BUY_1788737562866",
     "sellTxid": "DRY_RUN_SELL_1788737570972",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T23:35:31.011908Z",
+    "token": "B6k3qHh3vbMh4KPyqBo4ahJP9LZnNWkvrN8JdSThpump",
+    "symbol": "ACTA",
+    "marketCap": 85896.0,
+    "liquidity": 24044.86,
+    "candidateScore": 3.2,
+    "entryPrice": 9.321374999999999e-05,
+    "exitPrice": 8.589e-05,
+    "peakPrice": 9.321374999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0549985919459306,
+    "profitLamports": -54998591,
+    "pnlPct": -7.856941706561514,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788737720119",
+    "sellTxid": "DRY_RUN_SELL_1788737731011",
+    "source": "KOL_CALLANALYSER"
   }
 ]

@@ -418,5 +418,25 @@
     "buyTxid": "DRY_RUN_BUY_1788690906944",
     "sellTxid": "DRY_RUN_SELL_1788691219838",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T10:43:57.822983Z",
+    "token": "6A33arqkS7JJMb5ZNQsWE9Brm4t1nc6ZybNvCx8K8L17",
+    "symbol": "ARMY",
+    "marketCap": 56338.0,
+    "liquidity": 20802.65,
+    "candidateScore": 10.1903,
+    "entryPrice": 6.14055e-05,
+    "exitPrice": 5.633e-05,
+    "peakPrice": 6.14055e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.05785882372100215,
+    "profitLamports": -57858823,
+    "pnlPct": -8.26554624585745,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788691426543",
+    "sellTxid": "DRY_RUN_SELL_1788691437822",
+    "source": "PYTHON_SCANNER"
   }
 ]

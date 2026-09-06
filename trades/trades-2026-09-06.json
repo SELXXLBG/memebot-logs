@@ -878,5 +878,25 @@
     "buyTxid": "DRY_RUN_BUY_1788736122928",
     "sellTxid": "DRY_RUN_SELL_1788736171559",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T23:32:50.972093Z",
+    "token": "GfqpMW4WyARXbFcC9Z6LguuF9fNdDnVbT2K9Risvpump",
+    "symbol": "Zbull",
+    "marketCap": 48344.0,
+    "liquidity": 17178.18,
+    "candidateScore": 9.3316,
+    "entryPrice": 5.188814999999999e-05,
+    "exitPrice": 4.834e-05,
+    "peakPrice": 5.188814999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.047866516728771284,
+    "profitLamports": -47866516,
+    "pnlPct": -6.838073818395898,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788737562866",
+    "sellTxid": "DRY_RUN_SELL_1788737570972",
+    "source": "PYTHON_SCANNER"
   }
 ]

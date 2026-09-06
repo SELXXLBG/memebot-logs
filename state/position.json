@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "4ytoC4JhuZsqyLC9jTYGxLvwGu4vELA9w4xWc4qRgHik",
+  "symbol": "BAG",
+  "marketCap": 107153.0,
+  "liquidity": 29689.85,
+  "volume1h": 178428.94,
+  "volume24h": 523148.98,
+  "candidateScore": 9.3256,
+  "entryPrice": 0.00010763549999999999,
+  "entryTime": 1788670012329,
+  "peakPrice": 0.00010763549999999999,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788670012329",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

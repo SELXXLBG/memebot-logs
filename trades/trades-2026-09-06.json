@@ -158,5 +158,25 @@
     "buyTxid": "DRY_RUN_BUY_1788676034056",
     "sellTxid": "DRY_RUN_SELL_1788676126851",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T06:35:52.652568Z",
+    "token": "6ghHENQf93fipqeQxWMDyqKPGA3TykfwJRp54J3LBuC9",
+    "symbol": "WAGIE",
+    "marketCap": 48995.0,
+    "liquidity": 18428.0,
+    "candidateScore": 10.8995,
+    "entryPrice": 5.6973449999999996e-05,
+    "exitPrice": 4.899e-05,
+    "peakPrice": 5.6973449999999996e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.09808805680540672,
+    "profitLamports": -98088056,
+    "pnlPct": -14.012579543629533,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788676523912",
+    "sellTxid": "DRY_RUN_SELL_1788676552652",
+    "source": "PYTHON_SCANNER"
   }
 ]

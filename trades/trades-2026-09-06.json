@@ -678,5 +678,25 @@
     "buyTxid": "DRY_RUN_BUY_1788724373539",
     "sellTxid": "DRY_RUN_SELL_1788724387094",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T20:10:26.026078Z",
+    "token": "AjToeC9PjBK7NnHG8xFz3bwu3UZLQC37LfyPjUDRpump",
+    "symbol": "MelonMusk",
+    "marketCap": 61404.0,
+    "liquidity": 19595.65,
+    "candidateScore": 10.7223,
+    "entryPrice": 6.527475e-05,
+    "exitPrice": 6.14e-05,
+    "peakPrice": 6.541e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.04155243796414382,
+    "profitLamports": -41552437,
+    "pnlPct": -5.93606256630626,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788725386306",
+    "sellTxid": "DRY_RUN_SELL_1788725426026",
+    "source": "PYTHON_SCANNER"
   }
 ]

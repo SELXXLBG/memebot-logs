@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "AjToeC9PjBK7NnHG8xFz3bwu3UZLQC37LfyPjUDRpump",
+  "symbol": "MelonMusk",
+  "marketCap": 64956.0,
+  "liquidity": 20188.61,
+  "volume1h": 53255.1,
+  "volume24h": 53255.1,
+  "candidateScore": 10.7223,
+  "entryPrice": 6.527475e-05,
+  "entryTime": 1788725386306,
+  "peakPrice": 6.527475e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788725386306",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

@@ -18,5 +18,25 @@
     "buyTxid": "DRY_RUN_BUY_1788657812771",
     "sellTxid": "DRY_RUN_SELL_1788657816530",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T01:33:25.598942Z",
+    "token": "DMZHr3GEVR6ZNi4pBxKByoP1DCxtxhjtnBKkhQh3NYtd",
+    "symbol": "JUPCAT",
+    "marketCap": 73211.0,
+    "liquidity": 23487.55,
+    "candidateScore": 12.2852,
+    "entryPrice": 7.710359999999998e-05,
+    "exitPrice": 7.321e-05,
+    "peakPrice": 7.710359999999998e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.03534880342811478,
+    "profitLamports": -35348803,
+    "pnlPct": -5.0498290611592545,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788658395840",
+    "sellTxid": "DRY_RUN_SELL_1788658405598",
+    "source": "PYTHON_SCANNER"
   }
 ]

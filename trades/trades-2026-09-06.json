@@ -138,5 +138,25 @@
     "buyTxid": "DRY_RUN_BUY_1788670012329",
     "sellTxid": "DRY_RUN_SELL_1788670056206",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T06:28:46.851205Z",
+    "token": "3Dfiey2bUzvik697LEeRQ2hj68dMXsgBNN5JVLUhj1ck",
+    "symbol": "SPX",
+    "marketCap": 46432.0,
+    "liquidity": 16802.55,
+    "candidateScore": 11.5603,
+    "entryPrice": 5.0933399999999996e-05,
+    "exitPrice": 4.643e-05,
+    "peakPrice": 5.0933399999999996e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06189219647618255,
+    "profitLamports": -61892196,
+    "pnlPct": -8.841742353740365,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788676034056",
+    "sellTxid": "DRY_RUN_SELL_1788676126851",
+    "source": "PYTHON_SCANNER"
   }
 ]

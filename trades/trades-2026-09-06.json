@@ -218,5 +218,25 @@
     "buyTxid": "DRY_RUN_BUY_1788677104601",
     "sellTxid": "DRY_RUN_SELL_1788677197912",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T07:12:34.161057Z",
+    "token": "BQhAa3AcCAKJWyjyhpQBdGpaQ74HKwk29v8sUjMxdNz2",
+    "symbol": "QUEEF",
+    "marketCap": 58587.0,
+    "liquidity": 20809.81,
+    "candidateScore": 11.1423,
+    "entryPrice": 5.445089999999999e-05,
+    "exitPrice": 5.858e-05,
+    "peakPrice": 6.525e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.05308213454690383,
+    "profitLamports": 53082134,
+    "pnlPct": 7.583162078129119,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788678543611",
+    "sellTxid": "DRY_RUN_SELL_1788678754161",
+    "source": "PYTHON_SCANNER"
   }
 ]

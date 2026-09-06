@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "6ghHENQf93fipqeQxWMDyqKPGA3TykfwJRp54J3LBuC9",
-  "symbol": "WAGIE",
-  "marketCap": 56697.0,
-  "liquidity": 19900.55,
-  "volume1h": 10859.27,
-  "volume24h": 10859.27,
-  "candidateScore": 10.8995,
-  "entryPrice": 5.6973449999999996e-05,
-  "entryTime": 1788676523912,
-  "peakPrice": 5.6973449999999996e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788676523912",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "5nu8tJjrBzY1JbTAZ2DK8mipj1Xsujzes6UMjEXHq9TP",
+  "symbol": "BABYZCAT",
+  "marketCap": 62484.0,
+  "liquidity": 21613.0,
+  "volume1h": 16599.34,
+  "volume24h": 16599.34,
+  "candidateScore": 8.944,
+  "entryPrice": 6.279239999999999e-05,
+  "entryTime": 1788687414561,
+  "peakPrice": 6.279239999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788687414561",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

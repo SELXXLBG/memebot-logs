@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "GfqpMW4WyARXbFcC9Z6LguuF9fNdDnVbT2K9Risvpump",
+  "symbol": "Zbull",
+  "marketCap": 51638.0,
+  "liquidity": 17809.01,
+  "volume1h": 11060.73,
+  "volume24h": 11060.73,
+  "candidateScore": 9.3316,
+  "entryPrice": 5.188814999999999e-05,
+  "entryTime": 1788737562866,
+  "peakPrice": 5.188814999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788737562866",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

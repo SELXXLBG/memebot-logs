@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "ES5kVscAXiF9H9FK5crZZpYbLa4EmRA5rLYoPaLGpump",
+  "symbol": "ZWIF",
+  "marketCap": 52275.0,
+  "liquidity": 17937.01,
+  "volume1h": 42449.58,
+  "volume24h": 42449.58,
+  "candidateScore": 10.2252,
+  "entryPrice": 5.253134999999999e-05,
+  "entryTime": 1788736122928,
+  "peakPrice": 5.253134999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788736122928",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

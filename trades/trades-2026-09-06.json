@@ -1,0 +1,22 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T01:23:36.530295Z",
+    "token": "9mYtoY66aQpgTRs8Aqo3Z8r8N9d6ddfTtaFV7S1Vpump",
+    "symbol": "wait",
+    "marketCap": 50938.0,
+    "liquidity": 17637.27,
+    "candidateScore": 11.0868,
+    "entryPrice": 5.265194999999999e-05,
+    "exitPrice": 5.093e-05,
+    "peakPrice": 5.265194999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.02289307423561699,
+    "profitLamports": -22893074,
+    "pnlPct": -3.270439176516713,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788657812771",
+    "sellTxid": "DRY_RUN_SELL_1788657816530",
+    "source": "PYTHON_SCANNER"
+  }
+]

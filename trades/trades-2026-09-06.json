@@ -738,5 +738,25 @@
     "buyTxid": "DRY_RUN_BUY_1788726976675",
     "sellTxid": "DRY_RUN_SELL_1788727116316",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T20:45:28.912342Z",
+    "token": "FPuhxgKu2PY3GfpqLBpJsV4TnJbyym9PHQdfDFqZpump",
+    "symbol": "luffy",
+    "marketCap": 43521.0,
+    "liquidity": 16252.25,
+    "candidateScore": 11.119,
+    "entryPrice": 5.3064e-05,
+    "exitPrice": 4.352e-05,
+    "peakPrice": 5.3064e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1259007990351274,
+    "profitLamports": -125900799,
+    "pnlPct": -17.98582843358963,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788727525714",
+    "sellTxid": "DRY_RUN_SELL_1788727528912",
+    "source": "PYTHON_SCANNER"
   }
 ]

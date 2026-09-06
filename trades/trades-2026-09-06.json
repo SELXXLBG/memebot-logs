@@ -778,5 +778,25 @@
     "buyTxid": "DRY_RUN_BUY_1788729941908",
     "sellTxid": "DRY_RUN_SELL_1788730002813",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T21:52:32.241303Z",
+    "token": "9Dog1iTiReBKbttQ5jo67G6zdXCjRRbLTb2GvQCwpump",
+    "symbol": "ZIF",
+    "marketCap": 53098.0,
+    "liquidity": 18235.11,
+    "candidateScore": 11.1239,
+    "entryPrice": 6.183764999999999e-05,
+    "exitPrice": 5.318e-05,
+    "peakPrice": 6.484e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.09800429026652843,
+    "profitLamports": -98004290,
+    "pnlPct": -14.000612895218348,
+    "reason": "HARDSTOP_12P",
+    "buyTxid": "DRY_RUN_BUY_1788731502411",
+    "sellTxid": "DRY_RUN_SELL_1788731552241",
+    "source": "PYTHON_SCANNER"
   }
 ]

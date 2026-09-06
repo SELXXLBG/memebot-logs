@@ -458,5 +458,25 @@
     "buyTxid": "DRY_RUN_BUY_1788693259657",
     "sellTxid": "DRY_RUN_SELL_1788693400447",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T12:02:49.698127Z",
+    "token": "HoU1W2n3LfNgWbc8FNDRAxem4QK7r6aqwyQcS3vZpump",
+    "symbol": "MPGA",
+    "marketCap": 65771.0,
+    "liquidity": 20344.65,
+    "candidateScore": 9.4114,
+    "entryPrice": 5.0450999999999995e-05,
+    "exitPrice": 6.577e-05,
+    "peakPrice": 6.577e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.21254880973617976,
+    "profitLamports": 212548809,
+    "pnlPct": 30.36411567659711,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1788695895187",
+    "sellTxid": "DRY_RUN_SELL_1788696169698",
+    "source": "PYTHON_SCANNER"
   }
 ]

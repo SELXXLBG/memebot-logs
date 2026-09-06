@@ -358,5 +358,25 @@
     "buyTxid": "DRY_RUN_BUY_1788687414561",
     "sellTxid": "DRY_RUN_SELL_1788688808780",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-06T10:01:16.278396Z",
+    "token": "75tWrvyvdWBPEf9tfwekU3LxxoGZmvB2F565mRecemE6",
+    "symbol": "CHIP",
+    "marketCap": 52997.0,
+    "liquidity": 20168.99,
+    "candidateScore": 10.2325,
+    "entryPrice": 5.5104149999999997e-05,
+    "exitPrice": 5.299e-05,
+    "peakPrice": 5.5104149999999997e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.026856507177771514,
+    "profitLamports": -26856507,
+    "pnlPct": -3.836643882538788,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788688855487",
+    "sellTxid": "DRY_RUN_SELL_1788688876278",
+    "source": "PYTHON_SCANNER"
   }
 ]

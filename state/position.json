@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "4a5gawV973iNTxxHaxDTy3nWpTSip6HLBMLyYFyxpump",
-  "symbol": "JUDE",
-  "marketCap": 51951.0,
-  "liquidity": 17910.88,
-  "volume1h": 42717.85,
-  "volume24h": 42717.85,
-  "candidateScore": 10.7364,
-  "entryPrice": 5.220975e-05,
-  "entryTime": 1788712837854,
-  "peakPrice": 6.21e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788712837854",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

@@ -978,5 +978,25 @@
     "buyTxid": "DRY_RUN_BUY_1788806283739",
     "sellTxid": "DRY_RUN_SELL_1788806344378",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T18:55:27.316953Z",
+    "token": "6E8dr2atU5RjvLew9DVqDnFuMuPSaZriTr62Uq3B7ryY",
+    "symbol": "TESLACAT",
+    "marketCap": 59638.0,
+    "liquidity": 20644.81,
+    "candidateScore": 8.6424,
+    "entryPrice": 7.14354e-05,
+    "exitPrice": 5.963e-05,
+    "peakPrice": 7.14354e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1156818608141061,
+    "profitLamports": -115681860,
+    "pnlPct": -16.52598011630087,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788807325373",
+    "sellTxid": "DRY_RUN_SELL_1788807327316",
+    "source": "PYTHON_SCANNER"
   }
 ]

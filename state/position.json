@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "GMjrCSY397YNau4JXMv7Jjx1VP5mCUag9hYzvhw7pump",
-  "symbol": "jorky",
-  "marketCap": 70790.0,
-  "liquidity": 20915.13,
-  "volume1h": 27647.6,
-  "volume24h": 27647.6,
-  "candidateScore": 9.6991,
-  "entryPrice": 7.11339e-05,
-  "entryTime": 1788796486780,
-  "peakPrice": 7.11339e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788796486780",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

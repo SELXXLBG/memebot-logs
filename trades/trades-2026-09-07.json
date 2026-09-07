@@ -818,5 +818,25 @@
     "buyTxid": "DRY_RUN_BUY_1788800776075",
     "sellTxid": "DRY_RUN_SELL_1788800782414",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T17:25:21.900366Z",
+    "token": "9euTyXEEGmpMNnsB73XjmDKPFkdPTyFmp1YphEebuERr",
+    "symbol": "ZPOPCAT",
+    "marketCap": 50142.0,
+    "liquidity": 17393.72,
+    "candidateScore": 9.8923,
+    "entryPrice": 5.3616749999999994e-05,
+    "exitPrice": 5.014e-05,
+    "peakPrice": 5.3616749999999994e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.04539113243529304,
+    "profitLamports": -45391132,
+    "pnlPct": -6.484447490756148,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788801909259",
+    "sellTxid": "DRY_RUN_SELL_1788801921900",
+    "source": "PYTHON_SCANNER"
   }
 ]

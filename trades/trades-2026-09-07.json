@@ -798,5 +798,25 @@
     "buyTxid": "DRY_RUN_BUY_1788800531797",
     "sellTxid": "DRY_RUN_SELL_1788800746200",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T17:06:22.414294Z",
+    "token": "59h4NEuR6mD5Ph7NUpao4ureXHzKv7Aap8Gtin4gpump",
+    "symbol": "DOGE",
+    "marketCap": 69678.0,
+    "liquidity": 20977.5,
+    "candidateScore": 3.2,
+    "entryPrice": 7.711365e-05,
+    "exitPrice": 6.967e-05,
+    "peakPrice": 7.711365e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06756981416389961,
+    "profitLamports": -67569814,
+    "pnlPct": -9.6528305948428,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788800776075",
+    "sellTxid": "DRY_RUN_SELL_1788800782414",
+    "source": "KOL_CALLANALYSER"
   }
 ]

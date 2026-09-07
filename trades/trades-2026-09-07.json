@@ -958,5 +958,25 @@
     "buyTxid": "DRY_RUN_BUY_1788806131108",
     "sellTxid": "DRY_RUN_SELL_1788806191939",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T18:39:04.378226Z",
+    "token": "8A8hNasQWVQY11JXWxko1ebJfnQ51K9QYqM6kaiUpump",
+    "symbol": "LULU",
+    "marketCap": 59284.0,
+    "liquidity": 19026.07,
+    "candidateScore": 9.2305,
+    "entryPrice": 6.26919e-05,
+    "exitPrice": 5.928e-05,
+    "peakPrice": 6.26919e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.038096309092562126,
+    "profitLamports": -38096309,
+    "pnlPct": -5.442329870366018,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1788806283739",
+    "sellTxid": "DRY_RUN_SELL_1788806344378",
+    "source": "PYTHON_SCANNER"
   }
 ]

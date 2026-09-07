@@ -738,5 +738,25 @@
     "buyTxid": "DRY_RUN_BUY_1788790794862",
     "sellTxid": "DRY_RUN_SELL_1788790811665",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T15:11:16.518239Z",
+    "token": "HYm6BfpDQkfUtnCWVnj6YAGzJvnpzuCWDZKrpbAVkBFh",
+    "symbol": "WUFF",
+    "marketCap": 30355.0,
+    "liquidity": 14677.48,
+    "candidateScore": 10.6499,
+    "entryPrice": 5.05113e-05,
+    "exitPrice": 3.035e-05,
+    "peakPrice": 5.05113e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.27940104491470225,
+    "profitLamports": -279401044,
+    "pnlPct": -39.91443498781461,
+    "reason": "HARDSTOP_12P",
+    "buyTxid": "DRY_RUN_BUY_1788793735229",
+    "sellTxid": "DRY_RUN_SELL_1788793876518",
+    "source": "PYTHON_SCANNER"
   }
 ]

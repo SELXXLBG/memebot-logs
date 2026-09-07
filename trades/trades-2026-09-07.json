@@ -258,5 +258,25 @@
     "buyTxid": "DRY_RUN_BUY_1788755160468",
     "sellTxid": "DRY_RUN_SELL_1788755168655",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T04:31:04.250872Z",
+    "token": "2UcBL7QvEcqGjxdaxCFp3bvNAGah8fME6MwGjM2yNVDA",
+    "symbol": "QINU",
+    "marketCap": 53596.0,
+    "liquidity": 18155.62,
+    "candidateScore": 11.3621,
+    "entryPrice": 6.408884999999999e-05,
+    "exitPrice": 5.359e-05,
+    "peakPrice": 6.564e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.11467197492231478,
+    "profitLamports": -114671974,
+    "pnlPct": -16.381710703187828,
+    "reason": "HARDSTOP_12P",
+    "buyTxid": "DRY_RUN_BUY_1788755404335",
+    "sellTxid": "DRY_RUN_SELL_1788755464250",
+    "source": "PYTHON_SCANNER"
   }
 ]

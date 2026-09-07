@@ -58,5 +58,25 @@
     "buyTxid": "DRY_RUN_BUY_1788742392944",
     "sellTxid": "DRY_RUN_SELL_1788742505579",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T01:01:51.208700Z",
+    "token": "CEzvF3uFKNKPgCJ9xkgUGk758jjstiUhbkFxaXLFpVF4",
+    "symbol": "ABTC",
+    "marketCap": 76178.0,
+    "liquidity": 23799.27,
+    "candidateScore": 8.1397,
+    "entryPrice": 5.7867899999999995e-05,
+    "exitPrice": 7.617e-05,
+    "peakPrice": 7.617e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.22139165236685626,
+    "profitLamports": 221391652,
+    "pnlPct": 31.627378909550895,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1788742636389",
+    "sellTxid": "DRY_RUN_SELL_1788742911208",
+    "source": "PYTHON_SCANNER"
   }
 ]

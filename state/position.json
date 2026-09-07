@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "6fbgUAM323YmfyA9cE3wozr7UKHhgquW4qBCgGhxHLDt",
-  "symbol": "PRIMECAT",
-  "marketCap": 64037.0,
-  "liquidity": 22262.48,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 6.435014999999999e-05,
-  "entryTime": 1788745559586,
-  "peakPrice": 6.435014999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788745559586",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

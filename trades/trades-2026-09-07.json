@@ -838,5 +838,25 @@
     "buyTxid": "DRY_RUN_BUY_1788801909259",
     "sellTxid": "DRY_RUN_SELL_1788801921900",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T17:39:13.133830Z",
+    "token": "AFNHhHDorwwitTFyVCWYgWDDJD5FE2dkrQYjdswqpump",
+    "symbol": "Hunter",
+    "marketCap": 47181.0,
+    "liquidity": 16801.89,
+    "candidateScore": 10.1656,
+    "entryPrice": 5.155649999999999e-05,
+    "exitPrice": 4.718e-05,
+    "peakPrice": 5.155649999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.05942121749924832,
+    "profitLamports": -59421217,
+    "pnlPct": -8.488745357035475,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788802703315",
+    "sellTxid": "DRY_RUN_SELL_1788802753133",
+    "source": "PYTHON_SCANNER"
   }
 ]

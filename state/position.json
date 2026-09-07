@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "59h4NEuR6mD5Ph7NUpao4ureXHzKv7Aap8Gtin4gpump",
-  "symbol": "DOGE",
-  "marketCap": 76731.0,
-  "liquidity": 22097.28,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 7.711365e-05,
-  "entryTime": 1788800776075,
-  "peakPrice": 7.711365e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788800776075",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

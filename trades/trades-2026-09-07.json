@@ -438,5 +438,25 @@
     "buyTxid": "DRY_RUN_BUY_1788764560665",
     "sellTxid": "DRY_RUN_SELL_1788764647573",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T07:07:37.743963Z",
+    "token": "6FvYsQQ1qsq5X4UEbF2i47CTTUZkqSt838nMrvYKZqjp",
+    "symbol": "REAR",
+    "marketCap": 64745.0,
+    "liquidity": 21801.59,
+    "candidateScore": 11.0195,
+    "entryPrice": 6.631994999999998e-05,
+    "exitPrice": 6.474e-05,
+    "peakPrice": 7.852e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.016676203766739787,
+    "profitLamports": -16676203,
+    "pnlPct": -2.3823148238199696,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788764652403",
+    "sellTxid": "DRY_RUN_SELL_1788764857743",
+    "source": "PYTHON_SCANNER"
   }
 ]

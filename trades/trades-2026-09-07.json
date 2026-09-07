@@ -338,5 +338,25 @@
     "buyTxid": "DRY_RUN_BUY_1788760020293",
     "sellTxid": "DRY_RUN_SELL_1788760209861",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T06:09:56.241384Z",
+    "token": "EDVGxSvTs5ktbGfkYyKrPtLHR4rg2AysGAXGvFK9cwJw",
+    "symbol": "ZECTARDIO",
+    "marketCap": 53220.0,
+    "liquidity": 21048.57,
+    "candidateScore": 8.5619,
+    "entryPrice": 5.371724999999999e-05,
+    "exitPrice": 5.322e-05,
+    "peakPrice": 5.773e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.006479762087597419,
+    "profitLamports": -6479762,
+    "pnlPct": -0.9256802982282029,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788760992652",
+    "sellTxid": "DRY_RUN_SELL_1788761396241",
+    "source": "PYTHON_SCANNER"
   }
 ]

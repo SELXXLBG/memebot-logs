@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "3XH7gTLsXt8Gk4uNt4mvN8nC7QXrfwrY9CfqGLua6Wui",
-  "symbol": "WEBISTICS",
-  "marketCap": 85569.0,
-  "liquidity": 23536.32,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 8.598779999999999e-05,
-  "entryTime": 1788762603688,
-  "peakPrice": 8.598779999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788762603688",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

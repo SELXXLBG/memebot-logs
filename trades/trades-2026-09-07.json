@@ -518,5 +518,25 @@
     "buyTxid": "DRY_RUN_BUY_1788770990348",
     "sellTxid": "DRY_RUN_SELL_1788771031203",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T09:34:19.555678Z",
+    "token": "A1w96WdPGiJR2w31Drqkb8GuNREU1zmrYkvDL5BTpump",
+    "symbol": "CASHPONS",
+    "marketCap": 55576.0,
+    "liquidity": 18758.74,
+    "candidateScore": 3.2,
+    "entryPrice": 7.188764999999999e-05,
+    "exitPrice": 5.557e-05,
+    "peakPrice": 7.188764999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.15889175678993533,
+    "profitLamports": -158891756,
+    "pnlPct": -22.69882239856219,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788773636089",
+    "sellTxid": "DRY_RUN_SELL_1788773659555",
+    "source": "KOL_CALLANALYSER"
   }
 ]

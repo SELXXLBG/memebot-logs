@@ -38,5 +38,25 @@
     "buyTxid": "DRY_RUN_BUY_1788741082774",
     "sellTxid": "DRY_RUN_SELL_1788741129121",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T00:55:05.579371Z",
+    "token": "DDczJtZojgdSCUyZzQcxpAvGFzrX9miocXa4JRSJpump",
+    "symbol": "BRUSK",
+    "marketCap": 64519.0,
+    "liquidity": 20370.29,
+    "candidateScore": 3.2,
+    "entryPrice": 7.094295e-05,
+    "exitPrice": 6.451e-05,
+    "peakPrice": 7.875e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06347445376883815,
+    "profitLamports": -63474453,
+    "pnlPct": -9.06777910983402,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1788742392944",
+    "sellTxid": "DRY_RUN_SELL_1788742505579",
+    "source": "KOL_CALLANALYSER"
   }
 ]

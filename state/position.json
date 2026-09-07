@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "hvbN1SERjSZb4rpL7ZAkKJ2reZjCmo1urrd5Z3Npump",
-  "symbol": "CHEEKS",
-  "marketCap": 91635.0,
-  "liquidity": 24492.37,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 9.208814999999999e-05,
-  "entryTime": 1788777071979,
-  "peakPrice": 9.507e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788777071979",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

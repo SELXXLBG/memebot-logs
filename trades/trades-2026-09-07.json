@@ -278,5 +278,25 @@
     "buyTxid": "DRY_RUN_BUY_1788755404335",
     "sellTxid": "DRY_RUN_SELL_1788755464250",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T04:55:45.414793Z",
+    "token": "6UtY9iTZMQQ5QZVrbzFnNaJntV7oySm9k97mvwnuZcxr",
+    "symbol": "NEARKAT",
+    "marketCap": 56720.0,
+    "liquidity": 20303.2,
+    "candidateScore": 9.655,
+    "entryPrice": 5.772719999999999e-05,
+    "exitPrice": 5.672e-05,
+    "peakPrice": 6.184e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.01221330672542571,
+    "profitLamports": -12213306,
+    "pnlPct": -1.7447581036322442,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788756839382",
+    "sellTxid": "DRY_RUN_SELL_1788756945414",
+    "source": "PYTHON_SCANNER"
   }
 ]

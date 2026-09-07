@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "A1w96WdPGiJR2w31Drqkb8GuNREU1zmrYkvDL5BTpump",
-  "symbol": "CASHPONS",
-  "marketCap": 71534.0,
-  "liquidity": 21481.95,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 7.188764999999999e-05,
-  "entryTime": 1788773636089,
-  "peakPrice": 7.188764999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788773636089",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

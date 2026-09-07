@@ -138,5 +138,25 @@
     "buyTxid": "DRY_RUN_BUY_1788746942687",
     "sellTxid": "DRY_RUN_SELL_1788746969010",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T02:21:08.016250Z",
+    "token": "AdfCFpku5yhixaJXvxdNpJcHqEWX4iMstueY4us2h3eJ",
+    "symbol": "POLLY",
+    "marketCap": 108785.0,
+    "liquidity": 28572.61,
+    "candidateScore": 6.0793,
+    "entryPrice": 0.00012009749999999999,
+    "exitPrice": 0.0001087,
+    "peakPrice": 0.00012009749999999999,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06643144112075601,
+    "profitLamports": -66431441,
+    "pnlPct": -9.490205874393718,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788747614518",
+    "sellTxid": "DRY_RUN_SELL_1788747668016",
+    "source": "PYTHON_SCANNER"
   }
 ]

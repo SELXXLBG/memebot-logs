@@ -718,5 +718,25 @@
     "buyTxid": "DRY_RUN_BUY_1788788812211",
     "sellTxid": "DRY_RUN_SELL_1788788880153",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T14:20:11.665234Z",
+    "token": "9iH8MzNcq6T88D9pU3qhHEx94bLuA5GcfKCgTbsENEc9",
+    "symbol": "HIMA",
+    "marketCap": 62744.0,
+    "liquidity": 21468.52,
+    "candidateScore": 11.3884,
+    "entryPrice": 6.557624999999999e-05,
+    "exitPrice": 6.274e-05,
+    "peakPrice": 6.557624999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.030275823945406937,
+    "profitLamports": -30275823,
+    "pnlPct": -4.325117706486706,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788790794862",
+    "sellTxid": "DRY_RUN_SELL_1788790811665",
+    "source": "PYTHON_SCANNER"
   }
 ]

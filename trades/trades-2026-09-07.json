@@ -918,5 +918,25 @@
     "buyTxid": "DRY_RUN_BUY_1788806039527",
     "sellTxid": "DRY_RUN_SELL_1788806058558",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T18:35:14.769183Z",
+    "token": "Cz6mhQNWuybjs5NRRSTy9aw23ouTrt3r2iqHBZaHsa9",
+    "symbol": "ZUNI",
+    "marketCap": 57787.0,
+    "liquidity": 18868.93,
+    "candidateScore": 11.448,
+    "entryPrice": 6.168689999999999e-05,
+    "exitPrice": 5.778e-05,
+    "peakPrice": 6.168689999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.04433404823390366,
+    "profitLamports": -44334048,
+    "pnlPct": -6.333435461986238,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788806100449",
+    "sellTxid": "DRY_RUN_SELL_1788806114769",
+    "source": "PYTHON_SCANNER"
   }
 ]

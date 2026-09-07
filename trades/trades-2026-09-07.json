@@ -758,5 +758,25 @@
     "buyTxid": "DRY_RUN_BUY_1788793735229",
     "sellTxid": "DRY_RUN_SELL_1788793876518",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T15:56:22.866895Z",
+    "token": "GMjrCSY397YNau4JXMv7Jjx1VP5mCUag9hYzvhw7pump",
+    "symbol": "jorky",
+    "marketCap": 61931.0,
+    "liquidity": 19456.84,
+    "candidateScore": 9.6991,
+    "entryPrice": 7.11339e-05,
+    "exitPrice": 6.193e-05,
+    "peakPrice": 7.11339e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.09057186517258294,
+    "profitLamports": -90571865,
+    "pnlPct": -12.938837881797562,
+    "reason": "HARDSTOP_12P",
+    "buyTxid": "DRY_RUN_BUY_1788796486780",
+    "sellTxid": "DRY_RUN_SELL_1788796582866",
+    "source": "PYTHON_SCANNER"
   }
 ]

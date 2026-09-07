@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "BQV3y7mFxgbJoMnRbGZNX31z2tU9UXGSojd37yRQpump",
+  "symbol": "Spiffy",
+  "marketCap": 51976.0,
+  "liquidity": 17673.96,
+  "volume1h": 9584.72,
+  "volume24h": 9584.72,
+  "candidateScore": 9.4434,
+  "entryPrice": 5.2229849999999996e-05,
+  "entryTime": 1788800531797,
+  "peakPrice": 5.2229849999999996e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788800531797",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

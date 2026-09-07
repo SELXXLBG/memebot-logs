@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "9euTyXEEGmpMNnsB73XjmDKPFkdPTyFmp1YphEebuERr",
+  "symbol": "ZPOPCAT",
+  "marketCap": 53354.0,
+  "liquidity": 17986.52,
+  "volume1h": 28264.69,
+  "volume24h": 28264.69,
+  "candidateScore": 9.8923,
+  "entryPrice": 5.3616749999999994e-05,
+  "entryTime": 1788801909259,
+  "peakPrice": 5.3616749999999994e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788801909259",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

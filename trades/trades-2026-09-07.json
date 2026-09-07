@@ -578,5 +578,25 @@
     "buyTxid": "DRY_RUN_BUY_1788777071979",
     "sellTxid": "DRY_RUN_SELL_1788777196633",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T11:02:08.190944Z",
+    "token": "AQVZAvm9VZSFfctKuTKvbnjPNtnYxuDZ2QnkCU4gpump",
+    "symbol": "NASDONK",
+    "marketCap": 145280.0,
+    "liquidity": 32007.34,
+    "candidateScore": 10.0883,
+    "entryPrice": 0.00011215799999999999,
+    "exitPrice": 0.0001479,
+    "peakPrice": 0.0001479,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.22307280800299575,
+    "profitLamports": 223072808,
+    "pnlPct": 31.867544000427966,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1788778801051",
+    "sellTxid": "DRY_RUN_SELL_1788778928190",
+    "source": "PYTHON_SCANNER"
   }
 ]

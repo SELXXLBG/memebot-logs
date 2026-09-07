@@ -858,5 +858,25 @@
     "buyTxid": "DRY_RUN_BUY_1788802703315",
     "sellTxid": "DRY_RUN_SELL_1788802753133",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T17:46:07.791139Z",
+    "token": "9RTgAbmZDokuacjafPNHMNHsRkCpqGuBsbE1uPeqpump",
+    "symbol": "lapetop",
+    "marketCap": 43375.0,
+    "liquidity": 16047.44,
+    "candidateScore": 11.1532,
+    "entryPrice": 5.096355e-05,
+    "exitPrice": 4.337e-05,
+    "peakPrice": 5.096355e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1042997397159342,
+    "profitLamports": -104299739,
+    "pnlPct": -14.899962816562029,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788803162024",
+    "sellTxid": "DRY_RUN_SELL_1788803167791",
+    "source": "PYTHON_SCANNER"
   }
 ]

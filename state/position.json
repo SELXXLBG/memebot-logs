@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "Di85N4ji3btFSnEVSi7vjBP5eEXiencPz7D11pgardhr",
-  "symbol": "onlypump",
-  "marketCap": 51651.0,
-  "liquidity": 17802.01,
-  "volume1h": 62574.05,
-  "volume24h": 62574.05,
-  "candidateScore": 11.0567,
-  "entryPrice": 5.1908249999999996e-05,
-  "entryTime": 1788746942687,
-  "peakPrice": 5.1908249999999996e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788746942687",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

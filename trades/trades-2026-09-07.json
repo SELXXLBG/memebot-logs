@@ -318,5 +318,25 @@
     "buyTxid": "DRY_RUN_BUY_1788758734913",
     "sellTxid": "DRY_RUN_SELL_1788758788017",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T05:50:09.861459Z",
+    "token": "9zsfUvRpdq8noRUNtynQtZdYuQtUkXguzBnDEZrSTNK",
+    "symbol": "BUCK",
+    "marketCap": 37570.0,
+    "liquidity": 16454.21,
+    "candidateScore": 10.4503,
+    "entryPrice": 5.132534999999999e-05,
+    "exitPrice": 3.756e-05,
+    "peakPrice": 5.391e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.18773851517817208,
+    "profitLamports": -187738515,
+    "pnlPct": -26.819787882596014,
+    "reason": "HARDSTOP_12P",
+    "buyTxid": "DRY_RUN_BUY_1788760020293",
+    "sellTxid": "DRY_RUN_SELL_1788760209861",
+    "source": "PYTHON_SCANNER"
   }
 ]

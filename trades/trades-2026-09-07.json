@@ -678,5 +678,25 @@
     "buyTxid": "DRY_RUN_BUY_1788787466303",
     "sellTxid": "DRY_RUN_SELL_1788787556992",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T13:44:59.295665Z",
+    "token": "ATaKBKZCAuiPoxq85UiCQc2uJcFrEfxVY6HLUF4FEi9C",
+    "symbol": "STONKGUY",
+    "marketCap": 59579.0,
+    "liquidity": 18821.66,
+    "candidateScore": 10.9267,
+    "entryPrice": 6.363659999999999e-05,
+    "exitPrice": 5.957e-05,
+    "peakPrice": 6.363659999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.04473243385095983,
+    "profitLamports": -44732433,
+    "pnlPct": -6.390347692994262,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788788690589",
+    "sellTxid": "DRY_RUN_SELL_1788788699295",
+    "source": "PYTHON_SCANNER"
   }
 ]

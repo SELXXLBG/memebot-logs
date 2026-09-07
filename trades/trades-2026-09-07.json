@@ -98,5 +98,25 @@
     "buyTxid": "DRY_RUN_BUY_1788744832067",
     "sellTxid": "DRY_RUN_SELL_1788744893560",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T01:46:20.390734Z",
+    "token": "6fbgUAM323YmfyA9cE3wozr7UKHhgquW4qBCgGhxHLDt",
+    "symbol": "PRIMECAT",
+    "marketCap": 57184.0,
+    "liquidity": 21062.71,
+    "candidateScore": 3.2,
+    "entryPrice": 6.435014999999999e-05,
+    "exitPrice": 5.718e-05,
+    "peakPrice": 6.435014999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.07799678788627523,
+    "profitLamports": -77996787,
+    "pnlPct": -11.142398269467892,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788745559586",
+    "sellTxid": "DRY_RUN_SELL_1788745580390",
+    "source": "KOL_CALLANALYSER"
   }
 ]

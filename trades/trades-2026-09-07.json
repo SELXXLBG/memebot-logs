@@ -158,5 +158,25 @@
     "buyTxid": "DRY_RUN_BUY_1788747614518",
     "sellTxid": "DRY_RUN_SELL_1788747668016",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T02:30:21.805817Z",
+    "token": "DpdvsXhfSzCJy1AAaP8Zt5sjHGcEJEQkhqZqtYZFu2yu",
+    "symbol": "PIZZA",
+    "marketCap": 60638.0,
+    "liquidity": 21210.47,
+    "candidateScore": 10.6044,
+    "entryPrice": 5.231024999999999e-05,
+    "exitPrice": 6.063e-05,
+    "peakPrice": 6.79e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.11133238705607426,
+    "profitLamports": 111332387,
+    "pnlPct": 15.904626722296324,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788748103484",
+    "sellTxid": "DRY_RUN_SELL_1788748221805",
+    "source": "PYTHON_SCANNER"
   }
 ]

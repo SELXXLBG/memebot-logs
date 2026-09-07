@@ -658,5 +658,25 @@
     "buyTxid": "DRY_RUN_BUY_1788781739224",
     "sellTxid": "DRY_RUN_SELL_1788787141013",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T13:25:56.992350Z",
+    "token": "DDAJ1GNcnjDTDrTbmfsgNbCSFnezduBkBohT6VmNpump",
+    "symbol": "FIX6900",
+    "marketCap": 41844.0,
+    "liquidity": 15901.97,
+    "candidateScore": 11.6452,
+    "entryPrice": 5.2511249999999996e-05,
+    "exitPrice": 4.184e-05,
+    "peakPrice": 5.62e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.14225285057963763,
+    "profitLamports": -142252850,
+    "pnlPct": -20.321835797091094,
+    "reason": "HARDSTOP_12P",
+    "buyTxid": "DRY_RUN_BUY_1788787466303",
+    "sellTxid": "DRY_RUN_SELL_1788787556992",
+    "source": "PYTHON_SCANNER"
   }
 ]

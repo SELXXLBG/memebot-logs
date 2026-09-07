@@ -358,5 +358,25 @@
     "buyTxid": "DRY_RUN_BUY_1788760992652",
     "sellTxid": "DRY_RUN_SELL_1788761396241",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T06:30:31.757992Z",
+    "token": "3XH7gTLsXt8Gk4uNt4mvN8nC7QXrfwrY9CfqGLua6Wui",
+    "symbol": "WEBISTICS",
+    "marketCap": 74508.0,
+    "liquidity": 21848.1,
+    "candidateScore": 3.2,
+    "entryPrice": 8.598779999999999e-05,
+    "exitPrice": 7.45e-05,
+    "peakPrice": 8.598779999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.09351861543149141,
+    "profitLamports": -93518615,
+    "pnlPct": -13.359802204498775,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788762603688",
+    "sellTxid": "DRY_RUN_SELL_1788762631758",
+    "source": "KOL_CALLANALYSER"
   }
 ]

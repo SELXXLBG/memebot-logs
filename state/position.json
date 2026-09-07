@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "nasd9ZCaNtC3wZ4G7updmA48VGmcgyNnXsYQ6cRLkjP",
+  "symbol": "NASDAQ",
+  "marketCap": 51433.0,
+  "liquidity": 17966.52,
+  "volume1h": 130049.15,
+  "volume24h": 130049.15,
+  "candidateScore": 11.1183,
+  "entryPrice": 5.168714999999999e-05,
+  "entryTime": 1788741082774,
+  "peakPrice": 5.168714999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788741082774",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

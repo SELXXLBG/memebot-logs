@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "7FixfVqcsm1p7yUPhMyB379JAgdBfA5Sj9BrzcsSpump",
-  "symbol": "NITRO",
-  "marketCap": 106387.0,
-  "liquidity": 26626.63,
-  "volume1h": 951.08,
-  "volume24h": 6000.35,
-  "candidateScore": 8.9179,
-  "entryPrice": 0.00011024849999999999,
-  "entryTime": 1788781739224,
-  "peakPrice": 0.0001113,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788781739224",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

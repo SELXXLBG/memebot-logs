@@ -218,5 +218,25 @@
     "buyTxid": "DRY_RUN_BUY_1788753938113",
     "sellTxid": "DRY_RUN_SELL_1788753992584",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T04:09:02.643391Z",
+    "token": "FFgjwTgfVP7YZyUSn2VBQvbSz5P7EjWnhJW3bVSMSTNK",
+    "symbol": "STINK",
+    "marketCap": 72407.0,
+    "liquidity": 23376.47,
+    "candidateScore": 11.2083,
+    "entryPrice": 7.28022e-05,
+    "exitPrice": 7.24e-05,
+    "peakPrice": 7.706e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.003867190826650852,
+    "profitLamports": -3867190,
+    "pnlPct": -0.5524558323786932,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788754060733",
+    "sellTxid": "DRY_RUN_SELL_1788754142643",
+    "source": "PYTHON_SCANNER"
   }
 ]

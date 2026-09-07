@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "DDczJtZojgdSCUyZzQcxpAvGFzrX9miocXa4JRSJpump",
-  "symbol": "BRUSK",
-  "marketCap": 70590.0,
-  "liquidity": 21276.91,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.2,
-  "entryPrice": 7.094295e-05,
-  "entryTime": 1788742392944,
-  "peakPrice": 7.875e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788742392944",
-  "isDryRun": true,
-  "source": "KOL_CALLANALYSER"
-}
+{}

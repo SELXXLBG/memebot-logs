@@ -1,0 +1,22 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T00:15:08.352022Z",
+    "token": "4yFh2vMdY99TWv7uEaDBP16Ar3qmNaU4HtMbD6n3FVcg",
+    "symbol": "METCAT",
+    "marketCap": 92608.0,
+    "liquidity": 26590.85,
+    "candidateScore": 7.6957,
+    "entryPrice": 9.673124999999998e-05,
+    "exitPrice": 9.26e-05,
+    "peakPrice": 0.000104,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.02989597467209395,
+    "profitLamports": -29895974,
+    "pnlPct": -4.27085352458485,
+    "reason": "BREAKEVENEXIT",
+    "buyTxid": "DRY_RUN_BUY_1788739921885",
+    "sellTxid": "DRY_RUN_SELL_1788740108352",
+    "source": "PYTHON_SCANNER"
+  }
+]

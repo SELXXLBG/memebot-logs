@@ -778,5 +778,25 @@
     "buyTxid": "DRY_RUN_BUY_1788796486780",
     "sellTxid": "DRY_RUN_SELL_1788796582866",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T17:05:46.200641Z",
+    "token": "BQV3y7mFxgbJoMnRbGZNX31z2tU9UXGSojd37yRQpump",
+    "symbol": "Spiffy",
+    "marketCap": 56424.0,
+    "liquidity": 18541.07,
+    "candidateScore": 9.4434,
+    "entryPrice": 5.2229849999999996e-05,
+    "exitPrice": 5.642e-05,
+    "peakPrice": 6.635e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.05615763782587929,
+    "profitLamports": 56157637,
+    "pnlPct": 8.022519689411329,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1788800531797",
+    "sellTxid": "DRY_RUN_SELL_1788800746200",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "7UAYgD2X3JgCRh474Kg4surRgCnrvuh1Kw5Gs3uCZfag",
+  "symbol": "ape",
+  "marketCap": 71412.0,
+  "liquidity": 21417.49,
+  "volume1h": 148747.14,
+  "volume24h": 148747.14,
+  "candidateScore": 11.2555,
+  "entryPrice": 7.17771e-05,
+  "entryTime": 1788744832067,
+  "peakPrice": 7.17771e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788744832067",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

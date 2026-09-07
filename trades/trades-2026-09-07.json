@@ -618,5 +618,25 @@
     "buyTxid": "DRY_RUN_BUY_1788781005742",
     "sellTxid": "DRY_RUN_SELL_1788781140978",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T11:47:54.247385Z",
+    "token": "32hcVghqThDPvdNBmqusrpFeE2yHF3L1aUPHup6ppump",
+    "symbol": "HACHI",
+    "marketCap": 83232.0,
+    "liquidity": 23947.02,
+    "candidateScore": 9.4464,
+    "entryPrice": 0.00010502249999999999,
+    "exitPrice": 8.671e-05,
+    "peakPrice": 0.00010502249999999999,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.12205717822371392,
+    "profitLamports": -122057178,
+    "pnlPct": -17.436739746244847,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788781647927",
+    "sellTxid": "DRY_RUN_SELL_1788781674247",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -878,5 +878,25 @@
     "buyTxid": "DRY_RUN_BUY_1788803162024",
     "sellTxid": "DRY_RUN_SELL_1788803167791",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T18:11:07.140104Z",
+    "token": "AheYipNbRWTsAqf6S9Ajw7zsRVUBvVkwvvEtaEScHT9i",
+    "symbol": "Bullgates",
+    "marketCap": 62768.0,
+    "liquidity": 19772.77,
+    "candidateScore": 11.4167,
+    "entryPrice": 6.771689999999998e-05,
+    "exitPrice": 6.276e-05,
+    "peakPrice": 6.771689999999998e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.05124023692756145,
+    "profitLamports": -51240236,
+    "pnlPct": -7.320033846794494,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788804663719",
+    "sellTxid": "DRY_RUN_SELL_1788804667140",
+    "source": "PYTHON_SCANNER"
   }
 ]

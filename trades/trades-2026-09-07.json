@@ -378,5 +378,25 @@
     "buyTxid": "DRY_RUN_BUY_1788762603688",
     "sellTxid": "DRY_RUN_SELL_1788762631758",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T06:37:29.878804Z",
+    "token": "3HC5wu2PmpSEgXKgS2r7TDCDCg7xsotx32Ym7ubzN1NX",
+    "symbol": "BRAINLET",
+    "marketCap": 85669.0,
+    "liquidity": 23452.45,
+    "candidateScore": 10.2084,
+    "entryPrice": 6.22095e-05,
+    "exitPrice": 8.566e-05,
+    "peakPrice": 8.566e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.26387207741582885,
+    "profitLamports": 263872077,
+    "pnlPct": 37.69601105940413,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1788763003210",
+    "sellTxid": "DRY_RUN_SELL_1788763049878",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "pbJFoQ9yKVPdCHPvLj5eGtWA225ERQG9Hm5nEcMpump",
+  "symbol": "Pweg",
+  "marketCap": 52581.0,
+  "liquidity": 17871.59,
+  "volume1h": 9953.55,
+  "volume24h": 9953.55,
+  "candidateScore": 9.3229,
+  "entryPrice": 5.2842899999999995e-05,
+  "entryTime": 1788753938113,
+  "peakPrice": 5.2842899999999995e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788753938113",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

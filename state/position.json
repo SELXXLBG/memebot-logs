@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "Edd4a2XDwoJDV22hpQ5Spp5cb867tKr4TBt2mu7rSTNK",
-  "symbol": "LMEOW",
-  "marketCap": 78583.0,
-  "liquidity": 28690.2,
-  "volume1h": 142781.89,
-  "volume24h": 142781.89,
-  "candidateScore": 11.3075,
-  "entryPrice": 7.897289999999998e-05,
-  "entryTime": 1788755160468,
-  "peakPrice": 7.897289999999998e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788755160468",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

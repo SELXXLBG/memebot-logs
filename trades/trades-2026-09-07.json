@@ -458,5 +458,25 @@
     "buyTxid": "DRY_RUN_BUY_1788764652403",
     "sellTxid": "DRY_RUN_SELL_1788764857743",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T08:12:21.725590Z",
+    "token": "Gk2Fgh2TNx9wWKQYMSEnP7yHFwzXTWNfsKrWGAApump",
+    "symbol": "SIDEYE",
+    "marketCap": 46820.0,
+    "liquidity": 16749.13,
+    "candidateScore": 10.1222,
+    "entryPrice": 5.1184649999999995e-05,
+    "exitPrice": 4.682e-05,
+    "peakPrice": 5.1184649999999995e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0596908448138259,
+    "profitLamports": -59690844,
+    "pnlPct": -8.527263544832273,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788768719469",
+    "sellTxid": "DRY_RUN_SELL_1788768741725",
+    "source": "PYTHON_SCANNER"
   }
 ]

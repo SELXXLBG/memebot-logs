@@ -598,5 +598,25 @@
     "buyTxid": "DRY_RUN_BUY_1788778801051",
     "sellTxid": "DRY_RUN_SELL_1788778928190",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T11:39:00.978420Z",
+    "token": "AGi2s9zPRPHs3zEDPhPTroumTEXK5ufymYSfEFndCSSW",
+    "symbol": "LEVERCAT",
+    "marketCap": 71829.0,
+    "liquidity": 23514.19,
+    "candidateScore": 11.7292,
+    "entryPrice": 5.303384999999999e-05,
+    "exitPrice": 7.192e-05,
+    "peakPrice": 7.192e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.24928050669525237,
+    "profitLamports": 249280506,
+    "pnlPct": 35.611500956464624,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1788781005742",
+    "sellTxid": "DRY_RUN_SELL_1788781140978",
+    "source": "PYTHON_SCANNER"
   }
 ]

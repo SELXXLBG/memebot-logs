@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "DDAJ1GNcnjDTDrTbmfsgNbCSFnezduBkBohT6VmNpump",
+  "symbol": "FIX6900",
+  "marketCap": 52257.0,
+  "liquidity": 17946.16,
+  "volume1h": 82107.72,
+  "volume24h": 82107.72,
+  "candidateScore": 11.6452,
+  "entryPrice": 5.2511249999999996e-05,
+  "entryTime": 1788787466303,
+  "peakPrice": 5.2511249999999996e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788787466303",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

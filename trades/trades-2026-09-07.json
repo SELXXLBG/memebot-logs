@@ -298,5 +298,25 @@
     "buyTxid": "DRY_RUN_BUY_1788756839382",
     "sellTxid": "DRY_RUN_SELL_1788756945414",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T05:26:28.017053Z",
+    "token": "FsVXgLjmzPhHQeyA78YLHw2Ab6NxdufXPEkW8YZBpump",
+    "symbol": "pupfun",
+    "marketCap": 42178.0,
+    "liquidity": 16031.01,
+    "candidateScore": 11.0259,
+    "entryPrice": 5.4702149999999996e-05,
+    "exitPrice": 4.217e-05,
+    "peakPrice": 5.737e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1603685595538749,
+    "profitLamports": -160368559,
+    "pnlPct": -22.909794221982132,
+    "reason": "HARDSTOP_12P",
+    "buyTxid": "DRY_RUN_BUY_1788758734913",
+    "sellTxid": "DRY_RUN_SELL_1788758788017",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -938,5 +938,25 @@
     "buyTxid": "DRY_RUN_BUY_1788806100449",
     "sellTxid": "DRY_RUN_SELL_1788806114769",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T18:36:31.939114Z",
+    "token": "3GXtoGmXaZHYEASkeDxejdrSWpeqqRWxCdzUVAagpump",
+    "symbol": "PUMPCAT",
+    "marketCap": 51360.0,
+    "liquidity": 17563.87,
+    "candidateScore": 10.191,
+    "entryPrice": 5.4501149999999996e-05,
+    "exitPrice": 5.136e-05,
+    "peakPrice": 5.4501149999999996e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.040344194572041046,
+    "profitLamports": -40344194,
+    "pnlPct": -5.7634563674344355,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1788806131108",
+    "sellTxid": "DRY_RUN_SELL_1788806191939",
+    "source": "PYTHON_SCANNER"
   }
 ]

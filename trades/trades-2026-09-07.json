@@ -698,5 +698,25 @@
     "buyTxid": "DRY_RUN_BUY_1788788690589",
     "sellTxid": "DRY_RUN_SELL_1788788699295",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T13:48:00.153085Z",
+    "token": "xeKm1qmxyHLJZLdwKpsZdx5UFtYyb124GTWRZWypump",
+    "symbol": "PUMPFOLIO",
+    "marketCap": 81498.0,
+    "liquidity": 22937.36,
+    "candidateScore": 11.0307,
+    "entryPrice": 6.066179999999999e-05,
+    "exitPrice": 8.149e-05,
+    "peakPrice": 8.149e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.2403446650115889,
+    "profitLamports": 240344665,
+    "pnlPct": 34.334952144512705,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1788788812211",
+    "sellTxid": "DRY_RUN_SELL_1788788880153",
+    "source": "PYTHON_SCANNER"
   }
 ]

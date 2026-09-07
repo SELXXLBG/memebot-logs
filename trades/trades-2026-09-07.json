@@ -898,5 +898,25 @@
     "buyTxid": "DRY_RUN_BUY_1788804663719",
     "sellTxid": "DRY_RUN_SELL_1788804667140",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T18:34:18.558876Z",
+    "token": "D1sBQ9g4qY4PxoLATC6DoA3gERdqbZRLQ4UEuBkEJYAa",
+    "symbol": "SPAGHETTI",
+    "marketCap": 40629.0,
+    "liquidity": 17560.79,
+    "candidateScore": 10.7488,
+    "entryPrice": 6.397829999999998e-05,
+    "exitPrice": 4.062e-05,
+    "peakPrice": 6.397829999999998e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.2555680597952742,
+    "profitLamports": -255568059,
+    "pnlPct": -36.50972282789632,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788806039527",
+    "sellTxid": "DRY_RUN_SELL_1788806058558",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -198,5 +198,25 @@
     "buyTxid": "DRY_RUN_BUY_1788752926981",
     "sellTxid": "DRY_RUN_SELL_1788752964093",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T04:06:32.583997Z",
+    "token": "pbJFoQ9yKVPdCHPvLj5eGtWA225ERQG9Hm5nEcMpump",
+    "symbol": "Pweg",
+    "marketCap": 49607.0,
+    "liquidity": 17311.48,
+    "candidateScore": 9.3229,
+    "entryPrice": 5.2842899999999995e-05,
+    "exitPrice": 4.96e-05,
+    "peakPrice": 5.2842899999999995e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0429580889769486,
+    "profitLamports": -42958088,
+    "pnlPct": -6.1368698538498005,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788753938113",
+    "sellTxid": "DRY_RUN_SELL_1788753992584",
+    "source": "PYTHON_SCANNER"
   }
 ]

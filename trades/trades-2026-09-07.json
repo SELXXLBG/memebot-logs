@@ -538,5 +538,25 @@
     "buyTxid": "DRY_RUN_BUY_1788773636089",
     "sellTxid": "DRY_RUN_SELL_1788773659555",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T09:44:01.603951Z",
+    "token": "847y1VzYhvdx1XdYohCw5q4XVJsdqegjMkp8LGsf4J2x",
+    "symbol": "TITCOIN",
+    "marketCap": 47389.0,
+    "liquidity": 18696.11,
+    "candidateScore": 10.6937,
+    "entryPrice": 5.8722149999999995e-05,
+    "exitPrice": 4.738e-05,
+    "peakPrice": 5.8722149999999995e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.13520460337368437,
+    "profitLamports": -135204603,
+    "pnlPct": -19.314943339097766,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788774210896",
+    "sellTxid": "DRY_RUN_SELL_1788774241603",
+    "source": "PYTHON_SCANNER"
   }
 ]

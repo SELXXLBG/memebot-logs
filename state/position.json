@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "AdfCFpku5yhixaJXvxdNpJcHqEWX4iMstueY4us2h3eJ",
-  "symbol": "POLLY",
-  "marketCap": 119598.0,
-  "liquidity": 29948.74,
-  "volume1h": 9739.05,
-  "volume24h": 283614.31,
-  "candidateScore": 6.0793,
-  "entryPrice": 0.00012009749999999999,
-  "entryTime": 1788747614518,
-  "peakPrice": 0.00012009749999999999,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788747614518",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

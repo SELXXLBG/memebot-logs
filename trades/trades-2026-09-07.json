@@ -18,5 +18,25 @@
     "buyTxid": "DRY_RUN_BUY_1788739921885",
     "sellTxid": "DRY_RUN_SELL_1788740108352",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T00:32:09.121395Z",
+    "token": "nasd9ZCaNtC3wZ4G7updmA48VGmcgyNnXsYQ6cRLkjP",
+    "symbol": "NASDAQ",
+    "marketCap": 35828.0,
+    "liquidity": 14706.73,
+    "candidateScore": 11.1183,
+    "entryPrice": 5.168714999999999e-05,
+    "exitPrice": 3.582e-05,
+    "peakPrice": 5.5e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.21488909719340293,
+    "profitLamports": -214889097,
+    "pnlPct": -30.69844245620042,
+    "reason": "HARDSTOP_12P",
+    "buyTxid": "DRY_RUN_BUY_1788741082774",
+    "sellTxid": "DRY_RUN_SELL_1788741129121",
+    "source": "PYTHON_SCANNER"
   }
 ]

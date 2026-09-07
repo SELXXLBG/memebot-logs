@@ -498,5 +498,25 @@
     "buyTxid": "DRY_RUN_BUY_1788770613427",
     "sellTxid": "DRY_RUN_SELL_1788770692357",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T08:50:31.203394Z",
+    "token": "5MP8UfgsivXrRLSFn9bJvmzVdwUqs3VtkkwNkWZdpump",
+    "symbol": "ZWOJAK",
+    "marketCap": 62299.0,
+    "liquidity": 20169.2,
+    "candidateScore": 3.2,
+    "entryPrice": 6.973695e-05,
+    "exitPrice": 6.229e-05,
+    "peakPrice": 6.999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0747504013295677,
+    "profitLamports": -74750401,
+    "pnlPct": -10.678628761366815,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1788770990348",
+    "sellTxid": "DRY_RUN_SELL_1788771031203",
+    "source": "KOL_CALLANALYSER"
   }
 ]

@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "7BtiPa5r8EYiY74QeSo1bCL3GPeg9bDmT94LRTvzpump",
-  "symbol": "Chipmunk",
-  "marketCap": 66455.0,
-  "liquidity": 20500.09,
-  "volume1h": 105632.09,
-  "volume24h": 105632.09,
-  "candidateScore": 11.6811,
-  "entryPrice": 6.678224999999999e-05,
-  "entryTime": 1788770613427,
-  "peakPrice": 7.722e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788770613427",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

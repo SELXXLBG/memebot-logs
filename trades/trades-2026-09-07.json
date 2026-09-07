@@ -118,5 +118,25 @@
     "buyTxid": "DRY_RUN_BUY_1788745559586",
     "sellTxid": "DRY_RUN_SELL_1788745580390",
     "source": "KOL_CALLANALYSER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-07T02:09:29.010374Z",
+    "token": "Di85N4ji3btFSnEVSi7vjBP5eEXiencPz7D11pgardhr",
+    "symbol": "onlypump",
+    "marketCap": 68127.0,
+    "liquidity": 20747.53,
+    "candidateScore": 11.0567,
+    "entryPrice": 5.1908249999999996e-05,
+    "exitPrice": 6.812e-05,
+    "peakPrice": 6.812e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.21862083580163091,
+    "profitLamports": 218620835,
+    "pnlPct": 31.23154797166156,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1788746942687",
+    "sellTxid": "DRY_RUN_SELL_1788746969010",
+    "source": "PYTHON_SCANNER"
   }
 ]

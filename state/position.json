@@ -1,1 +1,17 @@
-{}
+{
+  "tokenAddress": "4yFh2vMdY99TWv7uEaDBP16Ar3qmNaU4HtMbD6n3FVcg",
+  "symbol": "METCAT",
+  "marketCap": 96253.0,
+  "liquidity": 27104.53,
+  "volume1h": 56063.85,
+  "volume24h": 151836.49,
+  "candidateScore": 7.6957,
+  "entryPrice": 9.673124999999998e-05,
+  "entryTime": 1788739921885,
+  "peakPrice": 9.673124999999998e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1788739921885",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

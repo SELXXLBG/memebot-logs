@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "AFNHhHDorwwitTFyVCWYgWDDJD5FE2dkrQYjdswqpump",
-  "symbol": "Hunter",
-  "marketCap": 51301.0,
-  "liquidity": 17582.24,
-  "volume1h": 29016.0,
-  "volume24h": 29016.0,
-  "candidateScore": 10.1656,
-  "entryPrice": 5.155649999999999e-05,
-  "entryTime": 1788802703315,
-  "peakPrice": 5.155649999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788802703315",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

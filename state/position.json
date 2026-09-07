@@ -1,17 +1,1 @@
-{
-  "tokenAddress": "EDVGxSvTs5ktbGfkYyKrPtLHR4rg2AysGAXGvFK9cwJw",
-  "symbol": "ZECTARDIO",
-  "marketCap": 53460.0,
-  "liquidity": 20942.94,
-  "volume1h": 31444.26,
-  "volume24h": 138052.66,
-  "candidateScore": 8.5619,
-  "entryPrice": 5.371724999999999e-05,
-  "entryTime": 1788760992652,
-  "peakPrice": 5.773e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1788760992652",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

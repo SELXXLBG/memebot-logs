@@ -18,5 +18,25 @@
     "buyTxid": "DRY_RUN_BUY_1788809349597",
     "sellTxid": "DRY_RUN_SELL_1789156804958",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-11T20:08:27.514493Z",
+    "token": "u24BzZQ7QSQDC3HMUE7dig9fWSUqkZbQuvLsw811Hue",
+    "symbol": "OMEN",
+    "marketCap": 95785.0,
+    "liquidity": 27274.87,
+    "candidateScore": 9.5237,
+    "entryPrice": 9.625889999999998e-05,
+    "exitPrice": 0.0001658,
+    "peakPrice": 0.0001658,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.5057066930953918,
+    "profitLamports": 505706693,
+    "pnlPct": 72.2438132993417,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1789157264528",
+    "sellTxid": "DRY_RUN_SELL_1789157307514",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -58,5 +58,25 @@
     "buyTxid": "DRY_RUN_BUY_1789159742435",
     "sellTxid": "DRY_RUN_SELL_1789159813397",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-11T22:36:41.825640Z",
+    "token": "Aga79MLGY8S3qHcxuhQzxAeTDpDTD2ZtNRBuKpJopump",
+    "symbol": "CMNY",
+    "marketCap": 62260.0,
+    "liquidity": 19375.19,
+    "candidateScore": 10.4663,
+    "entryPrice": 6.25713e-05,
+    "exitPrice": 4.667e-05,
+    "peakPrice": 6.566e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.17789162123849114,
+    "profitLamports": -177891621,
+    "pnlPct": -25.41308874835588,
+    "reason": "HARDSTOP_12P",
+    "buyTxid": "DRY_RUN_BUY_1789165539952",
+    "sellTxid": "DRY_RUN_SELL_1789166201825",
+    "source": "PYTHON_SCANNER"
   }
 ]

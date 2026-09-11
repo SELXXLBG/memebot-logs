@@ -98,5 +98,25 @@
     "buyTxid": "DRY_RUN_BUY_1789170590769",
     "sellTxid": "DRY_RUN_SELL_1789170887882",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-11T23:57:59.061966Z",
+    "token": "FDLUrwjczQDNyn8BnrYMBUqGC17UaEETKUuyYtTDf1yw",
+    "symbol": "FLYWHEEL",
+    "marketCap": 60681.0,
+    "liquidity": 19231.77,
+    "candidateScore": 10.8561,
+    "entryPrice": 6.0983399999999996e-05,
+    "exitPrice": 5.76e-05,
+    "peakPrice": 6.175e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.03883647025256052,
+    "profitLamports": -38836470,
+    "pnlPct": -5.548067178937218,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1789170990450",
+    "sellTxid": "DRY_RUN_SELL_1789171079061",
+    "source": "PYTHON_SCANNER"
   }
 ]

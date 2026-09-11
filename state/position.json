@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "Aga79MLGY8S3qHcxuhQzxAeTDpDTD2ZtNRBuKpJopump",
-  "symbol": "CMNY",
-  "pairAddress": "8U6eLHydugCLoCpgzATyEDCeQM75RnWe1CdPWgQSiPVP",
-  "marketCap": 62260.0,
-  "liquidity": 19375.19,
-  "volume1h": 10900.92,
-  "volume24h": 10900.92,
-  "candidateScore": 10.4663,
-  "entryPrice": 6.25713e-05,
-  "entryTime": 1789165539952,
-  "peakPrice": 6.566e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1789165539952",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

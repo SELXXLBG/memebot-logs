@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "FDLUrwjczQDNyn8BnrYMBUqGC17UaEETKUuyYtTDf1yw",
+  "symbol": "FLYWHEEL",
+  "pairAddress": "Df3VCw7ZQy2KiSkyrT39tVpT5LgEp1agyHPzkvKYCyfH",
+  "marketCap": 60681.0,
+  "liquidity": 19231.77,
+  "volume1h": 68008.22,
+  "volume24h": 68008.22,
+  "candidateScore": 10.8561,
+  "entryPrice": 6.0983399999999996e-05,
+  "entryTime": 1789170990450,
+  "peakPrice": 6.0983399999999996e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1789170990450",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

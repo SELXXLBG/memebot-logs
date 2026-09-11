@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "84PqNXQ9xeBG73BsF3kxS91g1oBimLogxRGxNQmLpump",
-  "symbol": "TINGLE",
-  "pairAddress": "BLCwj1TLZkGvzFjw9cbeX8bpsdFWdvbLQ4hVgeHAZUGQ",
-  "marketCap": 70858.0,
-  "liquidity": 21479.44,
-  "volume1h": 112867.3,
-  "volume24h": 272890.23,
-  "candidateScore": 10.493,
-  "entryPrice": 7.252079999999999e-05,
-  "entryTime": 1789159742435,
-  "peakPrice": 7.252079999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1789159742435",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

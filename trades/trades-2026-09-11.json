@@ -38,5 +38,25 @@
     "buyTxid": "DRY_RUN_BUY_1789157264528",
     "sellTxid": "DRY_RUN_SELL_1789157307514",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-11T20:50:13.397792Z",
+    "token": "84PqNXQ9xeBG73BsF3kxS91g1oBimLogxRGxNQmLpump",
+    "symbol": "TINGLE",
+    "marketCap": 70858.0,
+    "liquidity": 21479.44,
+    "candidateScore": 10.493,
+    "entryPrice": 7.252079999999999e-05,
+    "exitPrice": 6.508e-05,
+    "peakPrice": 7.252079999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.07182160152673439,
+    "profitLamports": -71821601,
+    "pnlPct": -10.260228789533485,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1789159742435",
+    "sellTxid": "DRY_RUN_SELL_1789159813397",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -98,5 +98,25 @@
     "buyTxid": "DRY_RUN_BUY_1789195551420",
     "sellTxid": "DRY_RUN_SELL_1789195821212",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-12T08:08:52.204909Z",
+    "token": "EacamThc6ZJZTDrMGoShDVHVtN7zRMWk7dNpTrVzPALL",
+    "symbol": "CATON",
+    "marketCap": 55558.0,
+    "liquidity": 18192.04,
+    "candidateScore": 8.9091,
+    "entryPrice": 5.582775e-05,
+    "exitPrice": 5.252e-05,
+    "peakPrice": 5.582775e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.041474445952057876,
+    "profitLamports": -41474445,
+    "pnlPct": -5.924920850293983,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1789200472174",
+    "sellTxid": "DRY_RUN_SELL_1789200532204",
+    "source": "PYTHON_SCANNER"
   }
 ]

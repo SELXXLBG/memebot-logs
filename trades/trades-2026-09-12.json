@@ -18,5 +18,25 @@
     "buyTxid": "DRY_RUN_BUY_1789171979018",
     "sellTxid": "DRY_RUN_SELL_1789172078006",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-12T01:02:19.921056Z",
+    "token": "8PBCyTAd61JuVvUdzT3CgYmyc7v8c3dP9xoP7p9m2gGL",
+    "symbol": "WAGMI",
+    "marketCap": 62198.0,
+    "liquidity": 20475.31,
+    "candidateScore": 10.7256,
+    "entryPrice": 6.250094999999999e-05,
+    "exitPrice": 5.934e-05,
+    "peakPrice": 6.424e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.035402101888051186,
+    "profitLamports": -35402101,
+    "pnlPct": -5.057443126864455,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1789174878546",
+    "sellTxid": "DRY_RUN_SELL_1789174939921",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -78,5 +78,25 @@
     "buyTxid": "DRY_RUN_BUY_1789190423694",
     "sellTxid": "DRY_RUN_SELL_1789190588982",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-12T06:50:21.212809Z",
+    "token": "78BwiwsWHzjWyfmLdoJu7if5JzHED7GtTbv1Njc2STNK",
+    "symbol": "ME",
+    "marketCap": 64460.0,
+    "liquidity": 21417.16,
+    "candidateScore": 10.6422,
+    "entryPrice": 6.47823e-05,
+    "exitPrice": 7.29e-05,
+    "peakPrice": 7.858e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.08771516293802473,
+    "profitLamports": 87715162,
+    "pnlPct": 12.530737562574961,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1789195551420",
+    "sellTxid": "DRY_RUN_SELL_1789195821212",
+    "source": "PYTHON_SCANNER"
   }
 ]

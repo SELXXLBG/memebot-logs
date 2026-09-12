@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "78BwiwsWHzjWyfmLdoJu7if5JzHED7GtTbv1Njc2STNK",
-  "symbol": "ME",
-  "pairAddress": "BKz8eueyTPiQqkFzV39MPXrTj1YS1y5QvRTHaGFgpsP2",
-  "marketCap": 64460.0,
-  "liquidity": 21417.16,
-  "volume1h": 93084.13,
-  "volume24h": 93084.13,
-  "candidateScore": 10.6422,
-  "entryPrice": 6.47823e-05,
-  "entryTime": 1789195551420,
-  "peakPrice": 7.858e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1789195551420",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

@@ -298,5 +298,25 @@
     "buyTxid": "DRY_RUN_BUY_1789250563263",
     "sellTxid": "DRY_RUN_SELL_1789250590894",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-12T23:11:17.194285Z",
+    "token": "93oiJqw78EUpL4JAxKSb1rdnsZw69HQjgQQ9DVpPpump",
+    "symbol": "PUMPDOG",
+    "marketCap": 83765.0,
+    "liquidity": 22778.62,
+    "candidateScore": 11.7173,
+    "entryPrice": 8.422904999999999e-05,
+    "exitPrice": 7.999e-05,
+    "peakPrice": 8.422904999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.03522935376808824,
+    "profitLamports": -35229353,
+    "pnlPct": -5.032764824012605,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1789254602853",
+    "sellTxid": "DRY_RUN_SELL_1789254677194",
+    "source": "PYTHON_SCANNER"
   }
 ]

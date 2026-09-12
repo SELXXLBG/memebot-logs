@@ -58,5 +58,25 @@
     "buyTxid": "DRY_RUN_BUY_1789175915283",
     "sellTxid": "DRY_RUN_SELL_1789176029046",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-12T05:23:08.982292Z",
+    "token": "J3dJgDNZJbhnG8zwVKuE5Ngsj6usWv7gib8MPBfQSTNK",
+    "symbol": "Puhcoin",
+    "marketCap": 69780.0,
+    "liquidity": 22468.37,
+    "candidateScore": 11.4444,
+    "entryPrice": 7.011885e-05,
+    "exitPrice": 7.3e-05,
+    "peakPrice": 8.035e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.028762665103606224,
+    "profitLamports": 28762665,
+    "pnlPct": 4.108952157658032,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1789190423694",
+    "sellTxid": "DRY_RUN_SELL_1789190588982",
+    "source": "PYTHON_SCANNER"
   }
 ]

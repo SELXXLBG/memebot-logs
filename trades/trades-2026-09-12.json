@@ -238,5 +238,25 @@
     "buyTxid": "DRY_RUN_BUY_1789238373419",
     "sellTxid": "DRY_RUN_SELL_1789238681061",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-12T20:31:13.743901Z",
+    "token": "8w689zFsegRorSrRkYzhcHrWrxhy8CFyYfCdSezHpump",
+    "symbol": "TENT",
+    "marketCap": 62636.0,
+    "liquidity": 19620.78,
+    "candidateScore": 12.5806,
+    "entryPrice": 6.294315e-05,
+    "exitPrice": 8.757e-05,
+    "peakPrice": 8.757e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.2738788096877898,
+    "profitLamports": 273878809,
+    "pnlPct": 39.125544241112834,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1789245025038",
+    "sellTxid": "DRY_RUN_SELL_1789245073743",
+    "source": "PYTHON_SCANNER"
   }
 ]

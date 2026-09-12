@@ -358,5 +358,25 @@
     "buyTxid": "DRY_RUN_BUY_1789256701434",
     "sellTxid": "DRY_RUN_SELL_1789256705466",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-12T23:55:47.166605Z",
+    "token": "4uFipPwF5cjUe2RxH71UwHA9YodLzR2ULX4cTBpTpump",
+    "symbol": "JEWCAT",
+    "marketCap": 80000.0,
+    "liquidity": 24838.11,
+    "candidateScore": 11.8815,
+    "entryPrice": 8.04e-05,
+    "exitPrice": 7.391e-05,
+    "peakPrice": 8.04e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.05650497512437811,
+    "profitLamports": -56504975,
+    "pnlPct": -8.072139303482588,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1789257339004",
+    "sellTxid": "DRY_RUN_SELL_1789257347166",
+    "source": "PYTHON_SCANNER"
   }
 ]

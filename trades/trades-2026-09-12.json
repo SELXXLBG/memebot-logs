@@ -138,5 +138,25 @@
     "buyTxid": "DRY_RUN_BUY_1789202886637",
     "sellTxid": "DRY_RUN_SELL_1789202990067",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-12T10:41:12.494897Z",
+    "token": "88gsSGZ8UNpU1ZgB61HyrFd7J2RaTs7wDNJKPXGmpump",
+    "symbol": "commotitty",
+    "marketCap": 81861.0,
+    "liquidity": 22492.25,
+    "candidateScore": 11.4093,
+    "entryPrice": 8.22693e-05,
+    "exitPrice": 7.812e-05,
+    "peakPrice": 8.22693e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.03530490717679618,
+    "profitLamports": -35304907,
+    "pnlPct": -5.043558168113741,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1789209593323",
+    "sellTxid": "DRY_RUN_SELL_1789209672494",
+    "source": "PYTHON_SCANNER"
   }
 ]

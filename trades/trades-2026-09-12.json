@@ -178,5 +178,25 @@
     "buyTxid": "DRY_RUN_BUY_1789216684591",
     "sellTxid": "DRY_RUN_SELL_1789216760903",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-12T14:05:45.441718Z",
+    "token": "3xbNQg4tXDdUNp93ioXeNDTURPbf2nXFbwga1t9cpump",
+    "symbol": "WALLY",
+    "marketCap": 56358.0,
+    "liquidity": 18357.46,
+    "candidateScore": 10.5516,
+    "entryPrice": 5.663174999999999e-05,
+    "exitPrice": 7.727e-05,
+    "peakPrice": 7.727e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.25510027502240357,
+    "profitLamports": 255100275,
+    "pnlPct": 36.44289643177194,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1789221785426",
+    "sellTxid": "DRY_RUN_SELL_1789221945441",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "HHDuCwdk67cfJJKmohQ5ziw4JML9xFmB5u8r3kLXSAke",
+  "symbol": "STONKBULL",
+  "pairAddress": "EoZcwMsopX7nU8qmMZN4dhGpSqsPLDV6RtWXCRHjyAMt",
+  "marketCap": 68499.0,
+  "liquidity": 22761.13,
+  "volume1h": 78601.0,
+  "volume24h": 78601.0,
+  "candidateScore": 11.2526,
+  "entryPrice": 6.883245e-05,
+  "entryTime": 1789255970568,
+  "peakPrice": 6.883245e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1789255970568",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

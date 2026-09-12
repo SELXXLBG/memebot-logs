@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "8w689zFsegRorSrRkYzhcHrWrxhy8CFyYfCdSezHpump",
-  "symbol": "TENT",
-  "pairAddress": "6uuZjoKFLirnfYkf7w2wjqnfAiQJ56csLMjCdVCtngnp",
-  "marketCap": 62636.0,
-  "liquidity": 19620.78,
-  "volume1h": 135573.49,
-  "volume24h": 135573.49,
-  "candidateScore": 12.5806,
-  "entryPrice": 6.294315e-05,
-  "entryTime": 1789245025038,
-  "peakPrice": 6.961e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1789245025038",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

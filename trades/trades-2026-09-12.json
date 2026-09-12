@@ -278,5 +278,25 @@
     "buyTxid": "DRY_RUN_BUY_1789246911682",
     "sellTxid": "DRY_RUN_SELL_1789247149716",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-12T22:03:10.894614Z",
+    "token": "4YkVZe57ESXywBGC4mzbYVrHgK8Sno7aNx2f1HsKpump",
+    "symbol": "SCAT",
+    "marketCap": 62701.0,
+    "liquidity": 19529.29,
+    "candidateScore": 10.902,
+    "entryPrice": 6.30135e-05,
+    "exitPrice": 4.459e-05,
+    "peakPrice": 6.30135e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.20466169947709617,
+    "profitLamports": -204661699,
+    "pnlPct": -29.237385639585167,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1789250563263",
+    "sellTxid": "DRY_RUN_SELL_1789250590894",
+    "source": "PYTHON_SCANNER"
   }
 ]

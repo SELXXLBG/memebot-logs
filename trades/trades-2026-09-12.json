@@ -318,5 +318,25 @@
     "buyTxid": "DRY_RUN_BUY_1789254602853",
     "sellTxid": "DRY_RUN_SELL_1789254677194",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-12T23:36:37.541018Z",
+    "token": "HHDuCwdk67cfJJKmohQ5ziw4JML9xFmB5u8r3kLXSAke",
+    "symbol": "STONKBULL",
+    "marketCap": 68499.0,
+    "liquidity": 22761.13,
+    "candidateScore": 11.2526,
+    "entryPrice": 6.883245e-05,
+    "exitPrice": 5.694e-05,
+    "peakPrice": 7.073e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.12094172152814549,
+    "profitLamports": -120941721,
+    "pnlPct": -17.27738878973507,
+    "reason": "HARDSTOP_12P",
+    "buyTxid": "DRY_RUN_BUY_1789255970568",
+    "sellTxid": "DRY_RUN_SELL_1789256197541",
+    "source": "PYTHON_SCANNER"
   }
 ]

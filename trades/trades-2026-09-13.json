@@ -198,5 +198,25 @@
     "buyTxid": "DRY_RUN_BUY_1789324532553",
     "sellTxid": "DRY_RUN_SELL_1789324536707",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-13T18:47:16.252075Z",
+    "token": "GJRxYW8MiEPhJztdh41EXsuZvNQj7sJZRnuKSrTBpump",
+    "symbol": "aicate",
+    "marketCap": 68482.0,
+    "liquidity": 20385.65,
+    "candidateScore": 11.8063,
+    "entryPrice": 6.882239999999999e-05,
+    "exitPrice": 6.261e-05,
+    "peakPrice": 6.91e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06318698563258462,
+    "profitLamports": -63186985,
+    "pnlPct": -9.026712233226377,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1789325081085",
+    "sellTxid": "DRY_RUN_SELL_1789325236252",
+    "source": "PYTHON_SCANNER"
   }
 ]

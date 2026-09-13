@@ -58,5 +58,25 @@
     "buyTxid": "DRY_RUN_BUY_1789274799914",
     "sellTxid": "DRY_RUN_SELL_1789274999861",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-13T04:54:18.910316Z",
+    "token": "HoCeDUrd5BqfYmaRk2eiUpzshEvpwfYpgrJ4YKFCpump",
+    "symbol": "APU",
+    "marketCap": 61454.0,
+    "liquidity": 21351.75,
+    "candidateScore": 11.6966,
+    "entryPrice": 6.175725e-05,
+    "exitPrice": 5.115e-05,
+    "peakPrice": 6.175725e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.12023001348019866,
+    "profitLamports": -120230013,
+    "pnlPct": -17.17571621145695,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1789275226007",
+    "sellTxid": "DRY_RUN_SELL_1789275258910",
+    "source": "PYTHON_SCANNER"
   }
 ]

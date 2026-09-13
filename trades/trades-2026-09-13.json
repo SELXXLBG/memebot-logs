@@ -78,5 +78,25 @@
     "buyTxid": "DRY_RUN_BUY_1789275226007",
     "sellTxid": "DRY_RUN_SELL_1789275258910",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-13T08:00:08.153469Z",
+    "token": "8StnEDgfxfvxpCUUMH9ChXaqAkGGtxvnfxCAYHYnPXja",
+    "symbol": "FLOPPY",
+    "marketCap": 59196.0,
+    "liquidity": 20254.1,
+    "candidateScore": 10.3238,
+    "entryPrice": 5.9485949999999996e-05,
+    "exitPrice": 4.982e-05,
+    "peakPrice": 7.072e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.11374391768140205,
+    "profitLamports": -113743917,
+    "pnlPct": -16.24913109734315,
+    "reason": "HARDSTOP_12P",
+    "buyTxid": "DRY_RUN_BUY_1789286121795",
+    "sellTxid": "DRY_RUN_SELL_1789286408153",
+    "source": "PYTHON_SCANNER"
   }
 ]

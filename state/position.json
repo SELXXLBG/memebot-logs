@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "8StnEDgfxfvxpCUUMH9ChXaqAkGGtxvnfxCAYHYnPXja",
+  "symbol": "FLOPPY",
+  "pairAddress": "8jvjNdWNKoFj9V3TKUYrpPTdQzNxuJ5LjNhLCPm8hRAA",
+  "marketCap": 59196.0,
+  "liquidity": 20254.1,
+  "volume1h": 13183.63,
+  "volume24h": 13183.63,
+  "candidateScore": 10.3238,
+  "entryPrice": 5.9485949999999996e-05,
+  "entryTime": 1789286121795,
+  "peakPrice": 5.9485949999999996e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1789286121795",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

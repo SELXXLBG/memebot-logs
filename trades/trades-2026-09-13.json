@@ -98,5 +98,25 @@
     "buyTxid": "DRY_RUN_BUY_1789286121795",
     "sellTxid": "DRY_RUN_SELL_1789286408153",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-13T09:20:20.074483Z",
+    "token": "DN2H2DMpyLkYqh2ErbxDgsr8vCbexgYthq9d78D8LeRf",
+    "symbol": "ZEAL",
+    "marketCap": 90735.0,
+    "liquidity": 24862.41,
+    "candidateScore": 9.7746,
+    "entryPrice": 9.118364999999999e-05,
+    "exitPrice": 7.826e-05,
+    "peakPrice": 9.118364999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.09921246846337027,
+    "profitLamports": -99212468,
+    "pnlPct": -14.17320978048147,
+    "reason": "HARDSTOP_12P",
+    "buyTxid": "DRY_RUN_BUY_1789291110018",
+    "sellTxid": "DRY_RUN_SELL_1789291220074",
+    "source": "PYTHON_SCANNER"
   }
 ]

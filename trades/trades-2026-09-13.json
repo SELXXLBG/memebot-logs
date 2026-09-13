@@ -38,5 +38,25 @@
     "buyTxid": "DRY_RUN_BUY_1789267627385",
     "sellTxid": "DRY_RUN_SELL_1789267776190",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-13T04:49:59.861495Z",
+    "token": "7eQ6SVLzrqmQCBcwZNCj7dsoqRVufWG8V6viJrfvpump",
+    "symbol": "LAMBO",
+    "marketCap": 62441.0,
+    "liquidity": 19369.48,
+    "candidateScore": 9.8143,
+    "entryPrice": 6.27522e-05,
+    "exitPrice": 5.609e-05,
+    "peakPrice": 6.27522e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.07431675702206456,
+    "profitLamports": -74316757,
+    "pnlPct": -10.616679574580651,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1789274799914",
+    "sellTxid": "DRY_RUN_SELL_1789274999861",
+    "source": "PYTHON_SCANNER"
   }
 ]

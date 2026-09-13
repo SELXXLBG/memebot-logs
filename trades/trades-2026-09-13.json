@@ -1,0 +1,22 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-13T02:29:34.312965Z",
+    "token": "BDS2EAqpJE5m24wcRMLeVMyy1V3zjLHQznFu8EFopump",
+    "symbol": "PUMPCHAN",
+    "marketCap": 84224.0,
+    "liquidity": 25434.05,
+    "candidateScore": 9.2686,
+    "entryPrice": 8.46411e-05,
+    "exitPrice": 7.692e-05,
+    "peakPrice": 8.46411e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06385514838535887,
+    "profitLamports": -63855148,
+    "pnlPct": -9.122164055051266,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1789266550574",
+    "sellTxid": "DRY_RUN_SELL_1789266574312",
+    "source": "PYTHON_SCANNER"
+  }
+]

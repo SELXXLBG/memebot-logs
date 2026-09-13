@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "2q68mqEbjwmnMjs1o3KZDNZVyMv6RZKkHcm64iinpump",
-  "symbol": "PUMP",
-  "pairAddress": "4FsJvbRPUs55eXoR2mLdbAKhceusQxSyK5NDu62ntQme",
-  "marketCap": 110427.0,
-  "liquidity": 34634.67,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 0,
-  "entryPrice": 0.00011095199999999999,
-  "entryTime": 1789309045774,
-  "peakPrice": 0.000115,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1789309045774",
-  "isDryRun": true,
-  "source": "PUMPPORTAL_GRADUATION"
-}
+{}

@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "JCCbSSggrVn9Uq2FxdSRBu5QUPzFnaLBS3kUCQsDpump",
-  "symbol": "ElonMusket",
-  "pairAddress": "CzDhQ3ziCyFSuq4SQP8Tr3w7bkEWEJYBfubRZ8Dy4p4t",
-  "marketCap": 82946.0,
-  "liquidity": 22075.86,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 5.87,
-  "entryPrice": 8.33547e-05,
-  "entryTime": 1789511634285,
-  "peakPrice": 8.33547e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1789511634285",
-  "isDryRun": true,
-  "source": "PUMPPORTAL_GRADUATION"
-}
+{}

@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "HN3RNTWouzabY9Fcje119ncrj7uwXAfqKvXiBR1jpump",
-  "symbol": "moth",
-  "pairAddress": "7R74qdmsXxx47joEfAFEgif4G2dzAY1kBRT4Z1hBU67C",
-  "marketCap": 56312.0,
-  "liquidity": 18049.62,
-  "volume1h": 93992.36,
-  "volume24h": 93992.36,
-  "candidateScore": 11.5741,
-  "entryPrice": 5.659155e-05,
-  "entryTime": 1789509159058,
-  "peakPrice": 6.219e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1789509159058",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

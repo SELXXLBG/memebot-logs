@@ -58,5 +58,25 @@
     "buyTxid": "DRY_RUN_BUY_1789509159058",
     "sellTxid": "DRY_RUN_SELL_1789509219208",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-15T22:18:58.003571Z",
+    "token": "BLuEgQHNqF8YtGQhY3Ruvqiq1m2w1mgS9uMY9hhdZtrr",
+    "symbol": "BLUES",
+    "marketCap": 63988.0,
+    "liquidity": 20915.89,
+    "candidateScore": 10.1219,
+    "entryPrice": 6.429989999999998e-05,
+    "exitPrice": 9.871e-05,
+    "peakPrice": 9.871e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.3746050926984336,
+    "profitLamports": 374605092,
+    "pnlPct": 53.51501324263338,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1789510392437",
+    "sellTxid": "DRY_RUN_SELL_1789510738003",
+    "source": "PYTHON_SCANNER"
   }
 ]

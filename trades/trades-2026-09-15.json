@@ -1,0 +1,22 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-15T19:23:52.712967Z",
+    "token": "98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump",
+    "symbol": "PUMP",
+    "marketCap": 86204.0,
+    "liquidity": 22709.15,
+    "candidateScore": 4.47,
+    "entryPrice": 8.663099999999999e-05,
+    "exitPrice": 0.0001551,
+    "peakPrice": 0.0001551,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.5532465283789869,
+    "profitLamports": 553246528,
+    "pnlPct": 79.03521833985528,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1789500227783",
+    "sellTxid": "DRY_RUN_SELL_1789500232712",
+    "source": "PUMPPORTAL_GRADUATION"
+  }
+]

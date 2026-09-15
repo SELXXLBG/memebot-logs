@@ -78,5 +78,25 @@
     "buyTxid": "DRY_RUN_BUY_1789510392437",
     "sellTxid": "DRY_RUN_SELL_1789510738003",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-15T22:34:31.760993Z",
+    "token": "JCCbSSggrVn9Uq2FxdSRBu5QUPzFnaLBS3kUCQsDpump",
+    "symbol": "ElonMusket",
+    "marketCap": 82946.0,
+    "liquidity": 22075.86,
+    "candidateScore": 5.87,
+    "entryPrice": 8.33547e-05,
+    "exitPrice": 7.488e-05,
+    "peakPrice": 8.33547e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.07116923220886161,
+    "profitLamports": -71169232,
+    "pnlPct": -10.167033172694516,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1789511634285",
+    "sellTxid": "DRY_RUN_SELL_1789511671761",
+    "source": "PUMPPORTAL_GRADUATION"
   }
 ]

@@ -38,5 +38,25 @@
     "buyTxid": "DRY_RUN_BUY_1789506492276",
     "sellTxid": "DRY_RUN_SELL_1789506600165",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-15T21:53:39.208124Z",
+    "token": "HN3RNTWouzabY9Fcje119ncrj7uwXAfqKvXiBR1jpump",
+    "symbol": "moth",
+    "marketCap": 56312.0,
+    "liquidity": 18049.62,
+    "candidateScore": 11.5741,
+    "entryPrice": 5.659155e-05,
+    "exitPrice": 5.284e-05,
+    "peakPrice": 6.219e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.046404189318016514,
+    "profitLamports": -46404189,
+    "pnlPct": -6.629169902573788,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1789509159058",
+    "sellTxid": "DRY_RUN_SELL_1789509219208",
+    "source": "PYTHON_SCANNER"
   }
 ]

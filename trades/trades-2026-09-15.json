@@ -98,5 +98,25 @@
     "buyTxid": "DRY_RUN_BUY_1789511634285",
     "sellTxid": "DRY_RUN_SELL_1789511671761",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-15T22:56:16.195434Z",
+    "token": "AxUwe3ex83MCKvsvhXwW2adw5L4dENwHyy5t5MX7crUV",
+    "symbol": "LCAT",
+    "marketCap": 65251.0,
+    "liquidity": 19680.68,
+    "candidateScore": 10.67,
+    "entryPrice": 6.557624999999999e-05,
+    "exitPrice": 5.699e-05,
+    "peakPrice": 6.557624999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.09165475305464998,
+    "profitLamports": -91654753,
+    "pnlPct": -13.093536150664283,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1789512964044",
+    "sellTxid": "DRY_RUN_SELL_1789512976195",
+    "source": "PYTHON_SCANNER"
   }
 ]

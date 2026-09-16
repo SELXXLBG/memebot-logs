@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "ARXGZZiQTQ5LkdK6HarDbKeJrzGC1mfMY4bkchUWNmEW",
-  "symbol": "fun",
-  "pairAddress": "AkReZPmRoKEnoxthXe2k61Ldzt1rqyAZd9U2TLFtTGL",
-  "marketCap": 64477.0,
-  "liquidity": 21423.99,
-  "volume1h": 95928.59,
-  "volume24h": 95928.59,
-  "candidateScore": 11.9883,
-  "entryPrice": 6.479235e-05,
-  "entryTime": 1789569681999,
-  "peakPrice": 8.283e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1789569681999",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "98CJQ2bBoRVKRCY2JWVaGm6kUgiV5jMMfzSoHDkbpump",
-  "symbol": "MORITZ",
-  "pairAddress": "6rvkAJmHvBALaLEJ3mLwoBoC7ZF5eQ2wCZk89R64BUVi",
-  "marketCap": 93667.0,
-  "liquidity": 23602.06,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 6.23,
-  "entryPrice": 9.412829999999998e-05,
-  "entryTime": 1789554660454,
-  "peakPrice": 0.0001101,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1789554660454",
-  "isDryRun": true,
-  "source": "PUMPPORTAL_GRADUATION"
-}
+{}

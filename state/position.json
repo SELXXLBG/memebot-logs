@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "HuDwEgKxqBLNKHBSFiVh8o5tdfzSBmhKochDqRFYCzVf",
+  "symbol": "ZINU",
+  "pairAddress": "782nRjbSR76jqKq7KYNFqyMmn4hbAM4eqydEQ6hzd3P5",
+  "marketCap": 60280.0,
+  "liquidity": 20686.76,
+  "volume1h": 143860.62,
+  "volume24h": 143860.62,
+  "candidateScore": 10.6473,
+  "entryPrice": 6.0581399999999996e-05,
+  "entryTime": 1789594471937,
+  "peakPrice": 6.0581399999999996e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1789594471937",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

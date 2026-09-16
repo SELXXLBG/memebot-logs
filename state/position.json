@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "9wv2atm9TEpNRQJrKACb7ZT3wppzejbW4YRUPnMtpump",
-  "symbol": "pillInu",
-  "pairAddress": "9m1oNKudvhHgLvtH7yGhJ4q4h6zsnEdxeDCHPb1AtKnW",
-  "marketCap": 59572.0,
-  "liquidity": 18667.71,
-  "volume1h": 47691.41,
-  "volume24h": 47691.41,
-  "candidateScore": 10.6143,
-  "entryPrice": 5.986784999999999e-05,
-  "entryTime": 1789594720306,
-  "peakPrice": 7.586e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1789594720306",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

@@ -238,5 +238,25 @@
     "buyTxid": "DRY_RUN_BUY_1789589960005",
     "sellTxid": "DRY_RUN_SELL_1789590040042",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-16T21:36:19.059200Z",
+    "token": "HuDwEgKxqBLNKHBSFiVh8o5tdfzSBmhKochDqRFYCzVf",
+    "symbol": "ZINU",
+    "marketCap": 60280.0,
+    "liquidity": 20686.76,
+    "candidateScore": 10.6473,
+    "entryPrice": 6.0581399999999996e-05,
+    "exitPrice": 5.492e-05,
+    "peakPrice": 6.157e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06541578768400853,
+    "profitLamports": -65415787,
+    "pnlPct": -9.345112526286934,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1789594471937",
+    "sellTxid": "DRY_RUN_SELL_1789594579059",
+    "source": "PYTHON_SCANNER"
   }
 ]

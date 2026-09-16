@@ -78,5 +78,25 @@
     "buyTxid": "DRY_RUN_BUY_1789554660454",
     "sellTxid": "DRY_RUN_SELL_1789554819647",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-16T14:16:32.803053Z",
+    "token": "AsQpZjQtE5xanP9pm7WhVddWgYbGcZF8fW7mimT6pump",
+    "symbol": "LIFE",
+    "marketCap": 81905.0,
+    "liquidity": 21949.35,
+    "candidateScore": 4.96,
+    "entryPrice": 8.23095e-05,
+    "exitPrice": 9.546e-05,
+    "peakPrice": 0.0001058,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.11183824467406558,
+    "profitLamports": 111838244,
+    "pnlPct": 15.976892096295083,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1789567931790",
+    "sellTxid": "DRY_RUN_SELL_1789568192803",
+    "source": "PUMPPORTAL_GRADUATION"
   }
 ]

@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "4ezKbbyyqD2ggwth9ZAVjg4nHgQQUgAsKfdkWBKzpump",
+  "symbol": "pillcate",
+  "pairAddress": "BQKRwY5BFZ9feipSrLmU8rVdnLf4pAEpBe13BWTq5tTw",
+  "marketCap": 71007.0,
+  "liquidity": 20429.36,
+  "volume1h": 56836.03,
+  "volume24h": 56836.03,
+  "candidateScore": 10.803,
+  "entryPrice": 7.1355e-05,
+  "entryTime": 1789575155199,
+  "peakPrice": 7.1355e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1789575155199",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

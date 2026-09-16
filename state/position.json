@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "49oghr24QmeSU2Rc8gViFSyEGMMAoWm82gLKsagSpump",
-  "symbol": "PUMPBALL",
-  "pairAddress": "2zhSCbvKWkmWtCRx5hsA44eL1r3Uw5y4co1WpcQj9R8Z",
-  "marketCap": 77358.0,
-  "liquidity": 23674.15,
-  "volume1h": 65686.21,
-  "volume24h": 65686.21,
-  "candidateScore": 11.158,
-  "entryPrice": 7.773674999999999e-05,
-  "entryTime": 1789602534598,
-  "peakPrice": 7.773674999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1789602534598",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

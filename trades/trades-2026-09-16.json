@@ -38,5 +38,25 @@
     "buyTxid": "DRY_RUN_BUY_1789540069202",
     "sellTxid": "DRY_RUN_SELL_1789540123537",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-16T07:50:35.681094Z",
+    "token": "HpYdUftXwEaG7jekkjFvFLWeJ5dfqaFvtDHoRC6jd99s",
+    "symbol": "GIN-CHAN",
+    "marketCap": 63543.0,
+    "liquidity": 19303.83,
+    "candidateScore": 11.522,
+    "entryPrice": 6.38577e-05,
+    "exitPrice": 8.579e-05,
+    "peakPrice": 8.579e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.240419088066122,
+    "profitLamports": 240419088,
+    "pnlPct": 34.345584009446,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1789544981648",
+    "sellTxid": "DRY_RUN_SELL_1789545035681",
+    "source": "PYTHON_SCANNER"
   }
 ]

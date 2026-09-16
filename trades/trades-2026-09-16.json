@@ -278,5 +278,25 @@
     "buyTxid": "DRY_RUN_BUY_1789594720306",
     "sellTxid": "DRY_RUN_SELL_1789594960858",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-16T21:52:09.690819Z",
+    "token": "6jCoYLamcA7Zs38yZfrBPxqs9VsqSFva1BSJhmabpump",
+    "symbol": "PUMP",
+    "marketCap": 61051.0,
+    "liquidity": 18848.45,
+    "candidateScore": 4.12,
+    "entryPrice": 6.135525e-05,
+    "exitPrice": 3.413e-05,
+    "peakPrice": 6.135525e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.310611968820924,
+    "profitLamports": -310611968,
+    "pnlPct": -44.37313840298915,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1789595524045",
+    "sellTxid": "DRY_RUN_SELL_1789595529690",
+    "source": "PUMPPORTAL_GRADUATION"
   }
 ]

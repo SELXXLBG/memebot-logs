@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "CgTPWVY5fu4FqHtjzi8v5yTkuQA9iTne4ay8fu4EASY",
-  "symbol": "JACKPOT",
-  "pairAddress": "HjLUwfhCfMM8i59GGPWNXqLJks8dM1xdaXWjz6DDgq2n",
-  "marketCap": 56698.0,
-  "liquidity": 19674.2,
-  "volume1h": 30976.59,
-  "volume24h": 30976.59,
-  "candidateScore": 10.8955,
-  "entryPrice": 5.6973449999999996e-05,
-  "entryTime": 1789577253116,
-  "peakPrice": 5.6973449999999996e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1789577253116",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

@@ -158,5 +158,25 @@
     "buyTxid": "DRY_RUN_BUY_1789575155199",
     "sellTxid": "DRY_RUN_SELL_1789575228664",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-16T16:48:10.562108Z",
+    "token": "CgTPWVY5fu4FqHtjzi8v5yTkuQA9iTne4ay8fu4EASY",
+    "symbol": "JACKPOT",
+    "marketCap": 56698.0,
+    "liquidity": 19674.2,
+    "candidateScore": 10.8955,
+    "entryPrice": 5.6973449999999996e-05,
+    "exitPrice": 8.127e-05,
+    "peakPrice": 8.127e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.29851773062716064,
+    "profitLamports": 298517730,
+    "pnlPct": 42.64539008959438,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1789577253116",
+    "sellTxid": "DRY_RUN_SELL_1789577290562",
+    "source": "PYTHON_SCANNER"
   }
 ]

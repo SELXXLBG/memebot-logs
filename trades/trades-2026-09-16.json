@@ -1,0 +1,22 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-16T01:02:37.379477Z",
+    "token": "C9ybLz9i1nLm1S6ztrCRS8vGdetbpwTYeq7vCAxBps3B",
+    "symbol": "PUMP",
+    "marketCap": 60651.0,
+    "liquidity": 18661.93,
+    "candidateScore": 3.99,
+    "entryPrice": 6.095324999999999e-05,
+    "exitPrice": 5.177e-05,
+    "peakPrice": 6.095324999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.10546238305586644,
+    "profitLamports": -105462383,
+    "pnlPct": -15.066054722266637,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1789520553439",
+    "sellTxid": "DRY_RUN_SELL_1789520557379",
+    "source": "PUMPPORTAL_GRADUATION"
+  }
+]

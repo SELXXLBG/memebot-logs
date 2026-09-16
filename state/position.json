@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "AsQpZjQtE5xanP9pm7WhVddWgYbGcZF8fW7mimT6pump",
+  "symbol": "LIFE",
+  "pairAddress": "42jZq2dwQWidnrrQHxFdrvUcfUkgns9c2Ar13u1hHy6h",
+  "marketCap": 81905.0,
+  "liquidity": 21949.35,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 4.96,
+  "entryPrice": 8.23095e-05,
+  "entryTime": 1789567931790,
+  "peakPrice": 8.23095e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1789567931790",
+  "isDryRun": true,
+  "source": "PUMPPORTAL_GRADUATION"
+}

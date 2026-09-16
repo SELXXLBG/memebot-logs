@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "HpYdUftXwEaG7jekkjFvFLWeJ5dfqaFvtDHoRC6jd99s",
+  "symbol": "GIN-CHAN",
+  "pairAddress": "Gx7XRnFb2w5EedWtDF1ULGY9wzR5LAFiaQ1nuFh2e5fp",
+  "marketCap": 63543.0,
+  "liquidity": 19303.83,
+  "volume1h": 118395.83,
+  "volume24h": 118395.83,
+  "candidateScore": 11.522,
+  "entryPrice": 6.38577e-05,
+  "entryTime": 1789544981648,
+  "peakPrice": 6.38577e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1789544981648",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

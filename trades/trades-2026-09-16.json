@@ -58,5 +58,25 @@
     "buyTxid": "DRY_RUN_BUY_1789544981648",
     "sellTxid": "DRY_RUN_SELL_1789545035681",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-16T10:33:39.647950Z",
+    "token": "98CJQ2bBoRVKRCY2JWVaGm6kUgiV5jMMfzSoHDkbpump",
+    "symbol": "MORITZ",
+    "marketCap": 93667.0,
+    "liquidity": 23602.06,
+    "candidateScore": 6.23,
+    "entryPrice": 9.412829999999998e-05,
+    "exitPrice": 0.0001007,
+    "peakPrice": 0.0001101,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.048871487108552984,
+    "profitLamports": 48871487,
+    "pnlPct": 6.98164101550757,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1789554660454",
+    "sellTxid": "DRY_RUN_SELL_1789554819647",
+    "source": "PUMPPORTAL_GRADUATION"
   }
 ]

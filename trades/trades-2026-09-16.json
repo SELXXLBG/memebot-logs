@@ -258,5 +258,25 @@
     "buyTxid": "DRY_RUN_BUY_1789594471937",
     "sellTxid": "DRY_RUN_SELL_1789594579059",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-16T21:42:40.858957Z",
+    "token": "9wv2atm9TEpNRQJrKACb7ZT3wppzejbW4YRUPnMtpump",
+    "symbol": "pillInu",
+    "marketCap": 59572.0,
+    "liquidity": 18667.71,
+    "candidateScore": 10.6143,
+    "entryPrice": 5.986784999999999e-05,
+    "exitPrice": 2.466e-06,
+    "peakPrice": 7.586e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.6711664942034831,
+    "profitLamports": -671166494,
+    "pnlPct": -95.88092774335473,
+    "reason": "HARDSTOP_12P",
+    "buyTxid": "DRY_RUN_BUY_1789594720306",
+    "sellTxid": "DRY_RUN_SELL_1789594960858",
+    "source": "PYTHON_SCANNER"
   }
 ]

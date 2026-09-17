@@ -58,5 +58,25 @@
     "buyTxid": "DRY_RUN_BUY_1789613242448",
     "sellTxid": "DRY_RUN_SELL_1789613441820",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-17T04:18:54.567363Z",
+    "token": "8gAdGRvfJuCgZKmd2gnSusaLX96ns9qSzqfSosTxpump",
+    "symbol": "trmp",
+    "marketCap": 61524.0,
+    "liquidity": 19041.13,
+    "candidateScore": 3.97,
+    "entryPrice": 6.182759999999999e-05,
+    "exitPrice": 4.942e-05,
+    "peakPrice": 6.695e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.14047642153342513,
+    "profitLamports": -140476421,
+    "pnlPct": -20.068060219060733,
+    "reason": "HARDSTOP_12P",
+    "buyTxid": "DRY_RUN_BUY_1789618637162",
+    "sellTxid": "DRY_RUN_SELL_1789618734567",
+    "source": "PUMPPORTAL_GRADUATION"
   }
 ]

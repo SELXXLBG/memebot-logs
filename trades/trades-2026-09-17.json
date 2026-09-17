@@ -258,5 +258,25 @@
     "buyTxid": "DRY_RUN_BUY_1789636451987",
     "sellTxid": "DRY_RUN_SELL_1789636505412",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-17T09:51:22.568596Z",
+    "token": "y3sSx36EZT4F3bvDKzyXBkzw2jWPHe2VQPCzfgvpump",
+    "symbol": "lockinu",
+    "marketCap": 79267.0,
+    "liquidity": 21944.16,
+    "candidateScore": 4.88,
+    "entryPrice": 7.965629999999999e-05,
+    "exitPrice": 0.0001458,
+    "peakPrice": 0.0001458,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.5812545900324267,
+    "profitLamports": 581254590,
+    "pnlPct": 83.0363700046324,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1789638606696",
+    "sellTxid": "DRY_RUN_SELL_1789638682568",
+    "source": "PUMPPORTAL_GRADUATION"
   }
 ]

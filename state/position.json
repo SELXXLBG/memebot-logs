@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "3giB8yXeWxQp911BEjLrwBc5YFJCqMqB7uf9keijKASp",
+  "symbol": "Lilly",
+  "pairAddress": "85YbU45Gtq7YfmGimSBENpUFxkykvLZxiNf7uMCLKbgX",
+  "marketCap": 60634.0,
+  "liquidity": 19046.68,
+  "volume1h": 61994.97,
+  "volume24h": 61994.97,
+  "candidateScore": 10.8853,
+  "entryPrice": 6.093314999999999e-05,
+  "entryTime": 1789636451987,
+  "peakPrice": 6.093314999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1789636451987",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

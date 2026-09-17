@@ -138,5 +138,25 @@
     "buyTxid": "DRY_RUN_BUY_1789626208985",
     "sellTxid": "DRY_RUN_SELL_1789626221564",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-17T06:47:09.758514Z",
+    "token": "HfPRSC163tabNV2PhQQ6WvvpbWWwCEaia2exokuwpump",
+    "symbol": "SHIPAID",
+    "marketCap": 56106.0,
+    "liquidity": 18114.98,
+    "candidateScore": 3.96,
+    "entryPrice": 5.638049999999999e-05,
+    "exitPrice": 4.66e-05,
+    "peakPrice": 5.638049999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.12143116857778834,
+    "profitLamports": -121431168,
+    "pnlPct": -17.347309796826906,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1789627627521",
+    "sellTxid": "DRY_RUN_SELL_1789627629758",
+    "source": "PUMPPORTAL_GRADUATION"
   }
 ]

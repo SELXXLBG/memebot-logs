@@ -198,5 +198,25 @@
     "buyTxid": "DRY_RUN_BUY_1789631077951",
     "sellTxid": "DRY_RUN_SELL_1789631081565",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-17T07:54:34.153870Z",
+    "token": "DDndHihssMMJnd3je9Fxukq4M9PdxwQ2XqF8cZgkZu1s",
+    "symbol": "COINU",
+    "marketCap": 72648.0,
+    "liquidity": 22989.22,
+    "candidateScore": 10.6951,
+    "entryPrice": 7.300319999999999e-05,
+    "exitPrice": 5.956e-05,
+    "peakPrice": 7.300319999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.12890174677274413,
+    "profitLamports": -128901746,
+    "pnlPct": -18.414535253249163,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1789631660384",
+    "sellTxid": "DRY_RUN_SELL_1789631674153",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -338,5 +338,25 @@
     "buyTxid": "DRY_RUN_BUY_1789650527775",
     "sellTxid": "DRY_RUN_SELL_1789650757901",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-17T13:30:24.555683Z",
+    "token": "Et9hoXBRReqRKDUtjhPg4BvKzhawNqQTB99u4YoTpump",
+    "symbol": "UPSEY",
+    "marketCap": 59850.0,
+    "liquidity": 19000.88,
+    "candidateScore": 11.8424,
+    "entryPrice": 6.037034999999999e-05,
+    "exitPrice": 5.731e-05,
+    "peakPrice": 6.037034999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.03548505185078428,
+    "profitLamports": -35485051,
+    "pnlPct": -5.069293121540611,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1789651733355",
+    "sellTxid": "DRY_RUN_SELL_1789651824555",
+    "source": "PYTHON_SCANNER"
   }
 ]

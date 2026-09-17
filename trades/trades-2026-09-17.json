@@ -438,5 +438,25 @@
     "buyTxid": "DRY_RUN_BUY_1789662757172",
     "sellTxid": "DRY_RUN_SELL_1789662763704",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-17T17:09:20.337173Z",
+    "token": "G4hgryWhpNchZsjXZeiwNtGnAL6NjgLDLQx7KHCpump",
+    "symbol": "PRECUM",
+    "marketCap": 61878.0,
+    "liquidity": 19403.08,
+    "candidateScore": 11.2358,
+    "entryPrice": 6.217935e-05,
+    "exitPrice": 6.406e-05,
+    "peakPrice": 7.083e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.021171900317388408,
+    "profitLamports": 21171900,
+    "pnlPct": 3.024557188198344,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1789664892252",
+    "sellTxid": "DRY_RUN_SELL_1789664960337",
+    "source": "PYTHON_SCANNER"
   }
 ]

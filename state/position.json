@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "HfPRSC163tabNV2PhQQ6WvvpbWWwCEaia2exokuwpump",
-  "symbol": "SHIPAID",
-  "pairAddress": "GkZ7DqUeCMAVykDDUbWhmi5Q5newMw6fuCLBzueZQ1oe",
-  "marketCap": 56106.0,
-  "liquidity": 18114.98,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 3.96,
-  "entryPrice": 5.638049999999999e-05,
-  "entryTime": 1789627627521,
-  "peakPrice": 5.638049999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1789627627521",
-  "isDryRun": true,
-  "source": "PUMPPORTAL_GRADUATION"
-}
+{}

@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "Dmnbpvb17XpkbJDdvupsgC6gDgAUfivRLbnmGNMypump",
+  "symbol": "WOFIINU",
+  "pairAddress": "DHLVY142UVumsrJfnbtogoFNCxAFtCSuj486kN1pEVgX",
+  "marketCap": 55706.0,
+  "liquidity": 18133.87,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 4.93,
+  "entryPrice": 5.597849999999999e-05,
+  "entryTime": 1789662757172,
+  "peakPrice": 5.597849999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1789662757172",
+  "isDryRun": true,
+  "source": "PUMPPORTAL_GRADUATION"
+}

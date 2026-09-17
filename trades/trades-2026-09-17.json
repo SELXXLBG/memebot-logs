@@ -378,5 +378,25 @@
     "buyTxid": "DRY_RUN_BUY_1789656151266",
     "sellTxid": "DRY_RUN_SELL_1789656210753",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-17T15:26:23.377815Z",
+    "token": "DTebU1UejUv1M5oXjiUQXQYcA4hNPPtusaK9YTfQRqDt",
+    "symbol": "STONK500",
+    "marketCap": 60735.0,
+    "liquidity": 20942.09,
+    "candidateScore": 9.422,
+    "entryPrice": 6.1033649999999995e-05,
+    "exitPrice": 8.881e-05,
+    "peakPrice": 8.881e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.318569264659741,
+    "profitLamports": 318569264,
+    "pnlPct": 45.50989495139158,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1789658734112",
+    "sellTxid": "DRY_RUN_SELL_1789658783377",
+    "source": "PYTHON_SCANNER"
   }
 ]

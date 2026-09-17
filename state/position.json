@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "y3sSx36EZT4F3bvDKzyXBkzw2jWPHe2VQPCzfgvpump",
+  "symbol": "lockinu",
+  "pairAddress": "4iHvxvXrLFZJjdaXpHPNNsDd43ypGNwZiEz6xqSwcbbo",
+  "marketCap": 79267.0,
+  "liquidity": 21944.16,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 4.88,
+  "entryPrice": 7.965629999999999e-05,
+  "entryTime": 1789638606696,
+  "peakPrice": 7.965629999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1789638606696",
+  "isDryRun": true,
+  "source": "PUMPPORTAL_GRADUATION"
+}

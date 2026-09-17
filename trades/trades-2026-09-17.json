@@ -18,5 +18,25 @@
     "buyTxid": "DRY_RUN_BUY_1789603383504",
     "sellTxid": "DRY_RUN_SELL_1789603411386",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-17T01:54:18.363849Z",
+    "token": "3fLxKevLbMyVZ5EpHVST7EnpNDEgULFg93X2vb4nW1LF",
+    "symbol": "ZBANK",
+    "marketCap": 90557.0,
+    "liquidity": 27160.06,
+    "candidateScore": 7.4431,
+    "entryPrice": 9.100274999999999e-05,
+    "exitPrice": 9.075e-05,
+    "peakPrice": 9.447e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0019441720167796754,
+    "profitLamports": -1944172,
+    "pnlPct": -0.27773885953995364,
+    "reason": "FORCE_EXIT_60M",
+    "buyTxid": "DRY_RUN_BUY_1789606457814",
+    "sellTxid": "DRY_RUN_SELL_1789610058363",
+    "source": "PYTHON_SCANNER"
   }
 ]

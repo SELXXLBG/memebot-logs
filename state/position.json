@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "4Cn3SW6zi7xF2he5zQa2toKCWt4ukW6Q8AvYFxpkpump",
-  "symbol": "PAIDCOIN",
-  "pairAddress": "EvtQqaAzz1e4eJyknvU2FoYa23eFYdGi34caP8hdTqRp",
-  "marketCap": 57008.0,
-  "liquidity": 18245.13,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 4.13,
-  "entryPrice": 5.7285e-05,
-  "entryTime": 1789626208985,
-  "peakPrice": 5.7285e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1789626208985",
-  "isDryRun": true,
-  "source": "PUMPPORTAL_GRADUATION"
-}
+{}

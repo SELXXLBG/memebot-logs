@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "62pH4YTNVormUNRxX2pN8Xj31JwKteFxnm76REzTpump",
+  "symbol": "WIFDUKE",
+  "pairAddress": "DfJ5VHes3w7oaYdPXBq5q26g7UEhvf8CiWZ6xJDfopMu",
+  "marketCap": 58911.0,
+  "liquidity": 18491.58,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 5.03,
+  "entryPrice": 5.920454999999999e-05,
+  "entryTime": 1789603383504,
+  "peakPrice": 5.920454999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1789603383504",
+  "isDryRun": true,
+  "source": "PUMPPORTAL_GRADUATION"
+}

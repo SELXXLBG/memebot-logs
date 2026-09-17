@@ -238,5 +238,25 @@
     "buyTxid": "DRY_RUN_BUY_1789632263829",
     "sellTxid": "DRY_RUN_SELL_1789632353337",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-17T09:15:05.412571Z",
+    "token": "3giB8yXeWxQp911BEjLrwBc5YFJCqMqB7uf9keijKASp",
+    "symbol": "Lilly",
+    "marketCap": 60634.0,
+    "liquidity": 19046.68,
+    "candidateScore": 10.8853,
+    "entryPrice": 6.093314999999999e-05,
+    "exitPrice": 6.042e-05,
+    "peakPrice": 6.897e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.005895066970934428,
+    "profitLamports": -5895066,
+    "pnlPct": -0.8421524244192041,
+    "reason": "PROFIT_LOCK",
+    "buyTxid": "DRY_RUN_BUY_1789636451987",
+    "sellTxid": "DRY_RUN_SELL_1789636505412",
+    "source": "PYTHON_SCANNER"
   }
 ]

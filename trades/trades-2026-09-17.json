@@ -418,5 +418,25 @@
     "buyTxid": "DRY_RUN_BUY_1789662084104",
     "sellTxid": "DRY_RUN_SELL_1789662086423",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-17T16:32:43.704550Z",
+    "token": "Dmnbpvb17XpkbJDdvupsgC6gDgAUfivRLbnmGNMypump",
+    "symbol": "WOFIINU",
+    "marketCap": 55706.0,
+    "liquidity": 18133.87,
+    "candidateScore": 4.93,
+    "entryPrice": 5.597849999999999e-05,
+    "exitPrice": 5.106e-05,
+    "peakPrice": 5.597849999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06150486347436951,
+    "profitLamports": -61504863,
+    "pnlPct": -8.786409067767073,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1789662757172",
+    "sellTxid": "DRY_RUN_SELL_1789662763704",
+    "source": "PUMPPORTAL_GRADUATION"
   }
 ]

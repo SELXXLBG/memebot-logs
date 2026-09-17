@@ -118,5 +118,25 @@
     "buyTxid": "DRY_RUN_BUY_1789620512762",
     "sellTxid": "DRY_RUN_SELL_1789620921309",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-17T06:23:41.564028Z",
+    "token": "4Cn3SW6zi7xF2he5zQa2toKCWt4ukW6Q8AvYFxpkpump",
+    "symbol": "PAIDCOIN",
+    "marketCap": 57008.0,
+    "liquidity": 18245.13,
+    "candidateScore": 4.13,
+    "entryPrice": 5.7285e-05,
+    "exitPrice": 5.235e-05,
+    "peakPrice": 5.7285e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06030374443571614,
+    "profitLamports": -60303744,
+    "pnlPct": -8.614820633673736,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1789626208985",
+    "sellTxid": "DRY_RUN_SELL_1789626221564",
+    "source": "PUMPPORTAL_GRADUATION"
   }
 ]

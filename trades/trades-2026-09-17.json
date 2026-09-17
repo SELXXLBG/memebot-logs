@@ -178,5 +178,25 @@
     "buyTxid": "DRY_RUN_BUY_1789629539009",
     "sellTxid": "DRY_RUN_SELL_1789629546132",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-17T07:44:41.565666Z",
+    "token": "DTAq9XwEhZcLnUWq8QDUmX9jEyrPmneeiuZ27Po7uLe6",
+    "symbol": "MILKERS",
+    "marketCap": 55437.0,
+    "liquidity": 18101.47,
+    "candidateScore": 11.0962,
+    "entryPrice": 5.570715e-05,
+    "exitPrice": 5.197e-05,
+    "peakPrice": 5.570715e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.04695995038338883,
+    "profitLamports": -46959950,
+    "pnlPct": -6.708564340484119,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1789631077951",
+    "sellTxid": "DRY_RUN_SELL_1789631081565",
+    "source": "PYTHON_SCANNER"
   }
 ]

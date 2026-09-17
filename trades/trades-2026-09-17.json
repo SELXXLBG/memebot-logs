@@ -98,5 +98,25 @@
     "buyTxid": "DRY_RUN_BUY_1789619256299",
     "sellTxid": "DRY_RUN_SELL_1789619276691",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-17T04:55:21.309658Z",
+    "token": "G1VVLLrBKZnfVhgzzyAHVtEs4qXTz8KkYjiaLG9qpump",
+    "symbol": "ASH",
+    "marketCap": 60634.0,
+    "liquidity": 19326.31,
+    "candidateScore": 10.2616,
+    "entryPrice": 6.286275e-05,
+    "exitPrice": 8.202e-05,
+    "peakPrice": 8.202e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.21332307288497573,
+    "profitLamports": 213323072,
+    "pnlPct": 30.474724697853677,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1789620512762",
+    "sellTxid": "DRY_RUN_SELL_1789620921309",
+    "source": "PYTHON_SCANNER"
   }
 ]

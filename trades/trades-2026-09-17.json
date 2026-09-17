@@ -398,5 +398,25 @@
     "buyTxid": "DRY_RUN_BUY_1789658734112",
     "sellTxid": "DRY_RUN_SELL_1789658783377",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-17T16:21:26.423162Z",
+    "token": "DdWMWacKQKkfBZsXsbBnha6LxBfPdJeoBdsn5NYSpump",
+    "symbol": "SVEN",
+    "marketCap": 55962.0,
+    "liquidity": 18177.35,
+    "candidateScore": 4.94,
+    "entryPrice": 5.6239799999999996e-05,
+    "exitPrice": 8.361e-05,
+    "peakPrice": 8.361e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.34066870792570386,
+    "profitLamports": 340668707,
+    "pnlPct": 48.666958275100555,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1789662084104",
+    "sellTxid": "DRY_RUN_SELL_1789662086423",
+    "source": "PUMPPORTAL_GRADUATION"
   }
 ]

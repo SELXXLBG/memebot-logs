@@ -1,0 +1,22 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-17T00:03:31.386111Z",
+    "token": "62pH4YTNVormUNRxX2pN8Xj31JwKteFxnm76REzTpump",
+    "symbol": "WIFDUKE",
+    "marketCap": 58911.0,
+    "liquidity": 18491.58,
+    "candidateScore": 5.03,
+    "entryPrice": 5.920454999999999e-05,
+    "exitPrice": 5.186e-05,
+    "peakPrice": 5.920454999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.08683766703741506,
+    "profitLamports": -86837667,
+    "pnlPct": -12.40538100534501,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1789603383504",
+    "sellTxid": "DRY_RUN_SELL_1789603411386",
+    "source": "PUMPPORTAL_GRADUATION"
+  }
+]

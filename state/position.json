@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "DdWMWacKQKkfBZsXsbBnha6LxBfPdJeoBdsn5NYSpump",
+  "symbol": "SVEN",
+  "pairAddress": "ECcdtLPLMrkmLqSWBvEML61mVZKXrSKkDg1AyH2X11MD",
+  "marketCap": 55962.0,
+  "liquidity": 18177.35,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 4.94,
+  "entryPrice": 5.6239799999999996e-05,
+  "entryTime": 1789662084104,
+  "peakPrice": 5.6239799999999996e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1789662084104",
+  "isDryRun": true,
+  "source": "PUMPPORTAL_GRADUATION"
+}

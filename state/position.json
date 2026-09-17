@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "4fBiGYVbKJGZybXutS8Q8C1YhtjkbeZ8DsBxWjETpaid",
-  "symbol": "PAID",
-  "pairAddress": "89Gh6PssFKhsvA9Epg69JmvHa5rtUYXySmiQ3LQDr3WY",
-  "marketCap": 72282.0,
-  "liquidity": 20861.44,
-  "volume1h": 76728.09,
-  "volume24h": 76728.09,
-  "candidateScore": 11.5943,
-  "entryPrice": 7.26414e-05,
-  "entryTime": 1789619256299,
-  "peakPrice": 7.26414e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1789619256299",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

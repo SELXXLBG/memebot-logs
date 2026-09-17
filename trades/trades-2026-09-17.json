@@ -278,5 +278,25 @@
     "buyTxid": "DRY_RUN_BUY_1789638606696",
     "sellTxid": "DRY_RUN_SELL_1789638682568",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-17T11:08:18.943294Z",
+    "token": "GeCCvWvWhCUY4x1DRPAqnZifpiwvURtnK3CJYcTy7bq3",
+    "symbol": "STONKEY",
+    "marketCap": 55380.0,
+    "liquidity": 19194.09,
+    "candidateScore": 10.5194,
+    "entryPrice": 5.56569e-05,
+    "exitPrice": 4.741e-05,
+    "peakPrice": 5.915e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.10372173081864061,
+    "profitLamports": -103721730,
+    "pnlPct": -14.817390116948658,
+    "reason": "HARDSTOP_12P",
+    "buyTxid": "DRY_RUN_BUY_1789641783015",
+    "sellTxid": "DRY_RUN_SELL_1789643298943",
+    "source": "PYTHON_SCANNER"
   }
 ]

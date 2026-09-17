@@ -38,5 +38,25 @@
     "buyTxid": "DRY_RUN_BUY_1789606457814",
     "sellTxid": "DRY_RUN_SELL_1789610058363",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-17T02:50:41.820801Z",
+    "token": "3ZD4TXm6CYTWFSeQXoE1sCYAev9kMXNtfrVKW3E1e7ph",
+    "symbol": "ACTII",
+    "marketCap": 89770.0,
+    "liquidity": 31403.52,
+    "candidateScore": 10.1496,
+    "entryPrice": 9.021884999999999e-05,
+    "exitPrice": 9.522e-05,
+    "peakPrice": 0.0001029,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.038803476213673846,
+    "profitLamports": 38803476,
+    "pnlPct": 5.54335374481055,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1789613242448",
+    "sellTxid": "DRY_RUN_SELL_1789613441820",
+    "source": "PYTHON_SCANNER"
   }
 ]

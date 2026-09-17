@@ -318,5 +318,25 @@
     "buyTxid": "DRY_RUN_BUY_1789643471685",
     "sellTxid": "DRY_RUN_SELL_1789643549272",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-17T13:12:37.901618Z",
+    "token": "3qbBseQzxKjqgpY17KDzdrX3bFEjVLizZP7iEURC21mn",
+    "symbol": "SUCCESSKID",
+    "marketCap": 61011.0,
+    "liquidity": 19119.76,
+    "candidateScore": 10.5234,
+    "entryPrice": 6.131505e-05,
+    "exitPrice": 8.924e-05,
+    "peakPrice": 8.924e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.31880370316912415,
+    "profitLamports": 318803703,
+    "pnlPct": 45.543386167017744,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1789650527775",
+    "sellTxid": "DRY_RUN_SELL_1789650757901",
+    "source": "PYTHON_SCANNER"
   }
 ]

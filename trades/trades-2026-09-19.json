@@ -338,5 +338,25 @@
     "buyTxid": "DRY_RUN_BUY_1789857226794",
     "sellTxid": "DRY_RUN_SELL_1789857441866",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-19T22:47:14.832571Z",
+    "token": "Ad881PycCzmgVmSvuvynMVQnhN929QDVykLf9iNLpump",
+    "symbol": "PHILANDOG",
+    "marketCap": 74841.0,
+    "liquidity": 22278.61,
+    "candidateScore": 10.6668,
+    "entryPrice": 7.521419999999999e-05,
+    "exitPrice": 7.484e-05,
+    "peakPrice": 7.521419999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0034825870646765593,
+    "profitLamports": -3482587,
+    "pnlPct": -0.4975124378109371,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1789858022094",
+    "sellTxid": "DRY_RUN_SELL_1789858034832",
+    "source": "PYTHON_SCANNER"
   }
 ]

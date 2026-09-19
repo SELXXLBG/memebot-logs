@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "BogW64mUGVFasbL5PWwYNsVPobqSNM2v2irgbJgpump",
-  "symbol": "SADFROG",
-  "pairAddress": "6RXwsECNXBPByR6aX2KJuVA4dZS1cV2KQaJNaLUQJVAP",
-  "marketCap": 91259.0,
-  "liquidity": 24890.65,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 5.75,
-  "entryPrice": 9.170624999999998e-05,
-  "entryTime": 1789836622196,
-  "peakPrice": 9.170624999999998e-05,
-  "solAmountLamports": 350000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1789836622196",
-  "isDryRun": true,
-  "source": "PUMPPORTAL_GRADUATION"
-}
+{}

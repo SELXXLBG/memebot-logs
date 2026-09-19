@@ -58,5 +58,25 @@
     "buyTxid": "DRY_RUN_BUY_1789830214518",
     "sellTxid": "DRY_RUN_SELL_1789830281951",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-19T15:44:05.641376Z",
+    "token": "7wWVPHVW2kVrybjToyCEXuEdZBcV8ZwfWmn6jWZtpump",
+    "symbol": "mercury",
+    "marketCap": 60947.0,
+    "liquidity": 19971.66,
+    "candidateScore": 11.3706,
+    "entryPrice": 6.124469999999999e-05,
+    "exitPrice": 5.814e-05,
+    "peakPrice": 6.124469999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.03548535628389058,
+    "profitLamports": -35485356,
+    "pnlPct": -5.06933661198437,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1789832634532",
+    "sellTxid": "DRY_RUN_SELL_1789832645641",
+    "source": "PYTHON_SCANNER"
   }
 ]

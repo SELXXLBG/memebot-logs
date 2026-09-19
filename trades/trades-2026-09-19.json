@@ -38,5 +38,25 @@
     "buyTxid": "DRY_RUN_BUY_1789829324651",
     "sellTxid": "DRY_RUN_SELL_1789829337439",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-19T15:04:41.951614Z",
+    "token": "7774yeu5mFopndp9hv5afGTsfChDzKecC8UU7Q2ppump",
+    "symbol": "GINNAN",
+    "marketCap": 101326.0,
+    "liquidity": 26566.78,
+    "candidateScore": 12.0,
+    "entryPrice": 0.00010180649999999999,
+    "exitPrice": 0.0001403,
+    "peakPrice": 0.0001403,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.26467317902098597,
+    "profitLamports": 264673179,
+    "pnlPct": 37.81045414585514,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1789830214518",
+    "sellTxid": "DRY_RUN_SELL_1789830281951",
+    "source": "PYTHON_SCANNER"
   }
 ]

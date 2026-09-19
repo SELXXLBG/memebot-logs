@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "BmnGRH8N1ZXoXQGsE8dgSege1b4PaAhD6bAnoWcSdpHk",
-  "symbol": "KERMIT",
-  "pairAddress": "2Wxh5hWsGnxdaM2eKFB8cDKwKA9nGtujMN2ntXRpuwUN",
-  "marketCap": 81952.0,
-  "liquidity": 25522.03,
-  "volume1h": 71037.4,
-  "volume24h": 71037.4,
-  "candidateScore": 10.9964,
-  "entryPrice": 8.235974999999999e-05,
-  "entryTime": 1789842611674,
-  "peakPrice": 8.235974999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1789842611674",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

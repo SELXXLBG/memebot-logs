@@ -98,5 +98,25 @@
     "buyTxid": "DRY_RUN_BUY_1789836622196",
     "sellTxid": "DRY_RUN_SELL_1789836635054",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-19T17:02:37.564751Z",
+    "token": "BMZFVnXxz34xp5nNGVQYPP32hQMvuajj6UL3Sh7BynsX",
+    "symbol": "MFOX",
+    "marketCap": 58144.0,
+    "liquidity": 19496.32,
+    "candidateScore": 10.4403,
+    "entryPrice": 5.8430699999999996e-05,
+    "exitPrice": 6.522e-05,
+    "peakPrice": 6.91e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.08133583886552796,
+    "profitLamports": 81335838,
+    "pnlPct": 11.61940555221828,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1789837315668",
+    "sellTxid": "DRY_RUN_SELL_1789837357564",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "7wC4zCJQp6AEJH5K7onsRKCBzRn8MEqSvCTcZfVBpump",
+  "symbol": "PUMPOK",
+  "pairAddress": "ANJebNWdSXb6WU5hCAkkjaSNaXtiWWDCyZoSyihh6bGP",
+  "marketCap": 99236.0,
+  "liquidity": 25951.1,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 6.58,
+  "entryPrice": 9.972614999999998e-05,
+  "entryTime": 1789854769303,
+  "peakPrice": 9.972614999999998e-05,
+  "solAmountLamports": 350000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1789854769303",
+  "isDryRun": true,
+  "source": "PUMPPORTAL_GRADUATION"
+}

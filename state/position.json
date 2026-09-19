@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "7wWVPHVW2kVrybjToyCEXuEdZBcV8ZwfWmn6jWZtpump",
+  "symbol": "mercury",
+  "pairAddress": "DVR4EwCLBaaDJtUWDpXjiUAxq7q4168ctrTH1B1eLEUS",
+  "marketCap": 60947.0,
+  "liquidity": 19971.66,
+  "volume1h": 62921.86,
+  "volume24h": 62921.86,
+  "candidateScore": 11.3706,
+  "entryPrice": 6.124469999999999e-05,
+  "entryTime": 1789832634532,
+  "peakPrice": 6.124469999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1789832634532",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

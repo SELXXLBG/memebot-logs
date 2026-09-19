@@ -298,5 +298,25 @@
     "buyTxid": "DRY_RUN_BUY_1789853748124",
     "sellTxid": "DRY_RUN_SELL_1789853760177",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-19T21:53:02.094048Z",
+    "token": "7wC4zCJQp6AEJH5K7onsRKCBzRn8MEqSvCTcZfVBpump",
+    "symbol": "PUMPOK",
+    "marketCap": 99236.0,
+    "liquidity": 25951.1,
+    "candidateScore": 6.58,
+    "entryPrice": 9.972614999999998e-05,
+    "exitPrice": 7.462e-05,
+    "peakPrice": 9.972614999999998e-05,
+    "solAmountLamports": 350000000,
+    "profitSOL": -0.08811282196294548,
+    "profitLamports": -88112821,
+    "pnlPct": -25.175091989412994,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1789854769303",
+    "sellTxid": "DRY_RUN_SELL_1789854782094",
+    "source": "PUMPPORTAL_GRADUATION"
   }
 ]

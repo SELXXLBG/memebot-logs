@@ -258,5 +258,25 @@
     "buyTxid": "DRY_RUN_BUY_1789847494225",
     "sellTxid": "DRY_RUN_SELL_1789847506622",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-19T20:32:53.862051Z",
+    "token": "Bb1E8obYNUkoh8fegyWuBHycfZz4eYKoqVu9417rpump",
+    "symbol": "c52",
+    "marketCap": 63591.0,
+    "liquidity": 20473.61,
+    "candidateScore": 12.1617,
+    "entryPrice": 6.390795e-05,
+    "exitPrice": 6.634e-05,
+    "peakPrice": 7.407e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.026638861049368773,
+    "profitLamports": 26638861,
+    "pnlPct": 3.8055515784812535,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1789849842102",
+    "sellTxid": "DRY_RUN_SELL_1789849973862",
+    "source": "PYTHON_SCANNER"
   }
 ]

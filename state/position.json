@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "F1BQXs8RTr3pugsCddw3dGVWhfTAPhyLJpuWYpzgRZtU",
-  "symbol": "Bogdanoff",
-  "pairAddress": "8d3fXyUxozZR7jjwmCUZ3axA6yMp7Rs5Hfu9MC4FbB7h",
-  "marketCap": 97222.0,
-  "liquidity": 29673.79,
-  "volume1h": 111554.32,
-  "volume24h": 335955.17,
-  "candidateScore": 9.7935,
-  "entryPrice": 0.00010120349999999998,
-  "entryTime": 1789857226794,
-  "peakPrice": 0.0001045,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1789857226794",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

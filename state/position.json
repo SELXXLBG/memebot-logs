@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "CysMK7RvwxTwUEds9kcSgBhWcUKT8YyntNMcvSu1pump",
+  "symbol": "SPEPE",
+  "pairAddress": "FF1mjsU1wBJzNsrwMENsVf14xh2vuwqMzwzLC9b1PM1x",
+  "marketCap": 79550.0,
+  "liquidity": 23034.41,
+  "volume1h": 0,
+  "volume24h": 0,
+  "candidateScore": 5.89,
+  "entryPrice": 7.99377e-05,
+  "entryTime": 1789842172875,
+  "peakPrice": 7.99377e-05,
+  "solAmountLamports": 350000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1789842172875",
+  "isDryRun": true,
+  "source": "PUMPPORTAL_GRADUATION"
+}

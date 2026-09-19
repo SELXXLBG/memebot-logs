@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "Ad881PycCzmgVmSvuvynMVQnhN929QDVykLf9iNLpump",
+  "symbol": "PHILANDOG",
+  "pairAddress": "5xzfbPzKqXqWXRENBfc49guVrEsZa22SqXiqNtnAYHAR",
+  "marketCap": 74841.0,
+  "liquidity": 22278.61,
+  "volume1h": 55620.51,
+  "volume24h": 55620.51,
+  "candidateScore": 10.6668,
+  "entryPrice": 7.521419999999999e-05,
+  "entryTime": 1789858022094,
+  "peakPrice": 7.521419999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1789858022094",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

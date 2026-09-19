@@ -178,5 +178,25 @@
     "buyTxid": "DRY_RUN_BUY_1789842611674",
     "sellTxid": "DRY_RUN_SELL_1789842623913",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-19T19:01:26.158963Z",
+    "token": "J1iU4MYbu85wBMTLQdFzP6hUQZaN1ZdsCE2phPgSpump",
+    "symbol": "SPEPE",
+    "marketCap": 105227.0,
+    "liquidity": 27097.45,
+    "candidateScore": 11.9872,
+    "entryPrice": 0.00010572599999999998,
+    "exitPrice": 0.0001039,
+    "peakPrice": 0.00010572599999999998,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.012089741407033134,
+    "profitLamports": -12089741,
+    "pnlPct": -1.727105915290448,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1789844474081",
+    "sellTxid": "DRY_RUN_SELL_1789844486158",
+    "source": "PYTHON_SCANNER"
   }
 ]

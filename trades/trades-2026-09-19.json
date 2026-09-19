@@ -318,5 +318,25 @@
     "buyTxid": "DRY_RUN_BUY_1789854769303",
     "sellTxid": "DRY_RUN_SELL_1789854782094",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-19T22:37:21.866138Z",
+    "token": "F1BQXs8RTr3pugsCddw3dGVWhfTAPhyLJpuWYpzgRZtU",
+    "symbol": "Bogdanoff",
+    "marketCap": 97222.0,
+    "liquidity": 29673.79,
+    "candidateScore": 9.7935,
+    "entryPrice": 0.00010120349999999998,
+    "exitPrice": 8.701e-05,
+    "peakPrice": 0.0001045,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.09817298808835655,
+    "profitLamports": -98172988,
+    "pnlPct": -14.024712584050935,
+    "reason": "HARDSTOP_12P",
+    "buyTxid": "DRY_RUN_BUY_1789857226794",
+    "sellTxid": "DRY_RUN_SELL_1789857441866",
+    "source": "PYTHON_SCANNER"
   }
 ]

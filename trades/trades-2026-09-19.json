@@ -238,5 +238,25 @@
     "buyTxid": "DRY_RUN_BUY_1789846544795",
     "sellTxid": "DRY_RUN_SELL_1789846557437",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-19T19:51:46.622762Z",
+    "token": "kkfhrRkYhft8fJArWZ2Q3Gm9DE435DpLH9CRxjuRXtv",
+    "symbol": "COLLECTR",
+    "marketCap": 102963.0,
+    "liquidity": 33317.35,
+    "candidateScore": 10.111,
+    "entryPrice": 0.00010341449999999998,
+    "exitPrice": 0.0001029,
+    "peakPrice": 0.00010341449999999998,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0034825870646765017,
+    "profitLamports": -3482587,
+    "pnlPct": -0.49751243781092885,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1789847494225",
+    "sellTxid": "DRY_RUN_SELL_1789847506622",
+    "source": "PYTHON_SCANNER"
   }
 ]

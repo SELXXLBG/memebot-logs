@@ -78,5 +78,25 @@
     "buyTxid": "DRY_RUN_BUY_1789832634532",
     "sellTxid": "DRY_RUN_SELL_1789832645641",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-19T16:50:35.054174Z",
+    "token": "BogW64mUGVFasbL5PWwYNsVPobqSNM2v2irgbJgpump",
+    "symbol": "SADFROG",
+    "marketCap": 91259.0,
+    "liquidity": 24890.65,
+    "candidateScore": 5.75,
+    "entryPrice": 9.170624999999998e-05,
+    "exitPrice": 8.714e-05,
+    "peakPrice": 9.170624999999998e-05,
+    "solAmountLamports": 350000000,
+    "profitSOL": -0.017427247325018696,
+    "profitLamports": -17427247,
+    "pnlPct": -4.9792135214339135,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1789836622196",
+    "sellTxid": "DRY_RUN_SELL_1789836635054",
+    "source": "PUMPPORTAL_GRADUATION"
   }
 ]

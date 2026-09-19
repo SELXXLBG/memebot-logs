@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "kkfhrRkYhft8fJArWZ2Q3Gm9DE435DpLH9CRxjuRXtv",
+  "symbol": "COLLECTR",
+  "pairAddress": "z3KT36uYYec3MvGhCiCf2E77kjZnz1xQ6dfBQKjZJYB",
+  "marketCap": 102963.0,
+  "liquidity": 33317.35,
+  "volume1h": 92434.2,
+  "volume24h": 92434.2,
+  "candidateScore": 10.111,
+  "entryPrice": 0.00010341449999999998,
+  "entryTime": 1789847494225,
+  "peakPrice": 0.00010341449999999998,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1789847494225",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

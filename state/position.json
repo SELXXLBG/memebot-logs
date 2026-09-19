@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "BMZFVnXxz34xp5nNGVQYPP32hQMvuajj6UL3Sh7BynsX",
+  "symbol": "MFOX",
+  "pairAddress": "8nj8CiftZ7sHKjSFPb1a3eU53BKDHNYrxH32MtVuWXU8",
+  "marketCap": 58144.0,
+  "liquidity": 19496.32,
+  "volume1h": 43470.56,
+  "volume24h": 43470.56,
+  "candidateScore": 10.4403,
+  "entryPrice": 5.8430699999999996e-05,
+  "entryTime": 1789837315668,
+  "peakPrice": 5.8430699999999996e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1789837315668",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

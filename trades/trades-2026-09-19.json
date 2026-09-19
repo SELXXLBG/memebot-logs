@@ -158,5 +158,25 @@
     "buyTxid": "DRY_RUN_BUY_1789842172875",
     "sellTxid": "DRY_RUN_SELL_1789842184891",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-19T18:30:23.913229Z",
+    "token": "BmnGRH8N1ZXoXQGsE8dgSege1b4PaAhD6bAnoWcSdpHk",
+    "symbol": "KERMIT",
+    "marketCap": 81952.0,
+    "liquidity": 25522.03,
+    "candidateScore": 10.9964,
+    "entryPrice": 8.235974999999999e-05,
+    "exitPrice": 8.195e-05,
+    "peakPrice": 8.235974999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0034825870646765073,
+    "profitLamports": -3482587,
+    "pnlPct": -0.49751243781092963,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1789842611674",
+    "sellTxid": "DRY_RUN_SELL_1789842623913",
+    "source": "PYTHON_SCANNER"
   }
 ]

@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "98mj1sAwDDd6gLfnQFtvkwSUczqySe7LoDN5dDnxpump",
-  "symbol": "PEENUS",
-  "pairAddress": "FStSwHyArF4oa8tKMw3kxCTL6ms66DcRs6o6JAwb5VTg",
-  "marketCap": 61903.0,
-  "liquidity": 20097.85,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 4.08,
-  "entryPrice": 6.22095e-05,
-  "entryTime": 1789846544795,
-  "peakPrice": 6.22095e-05,
-  "solAmountLamports": 350000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1789846544795",
-  "isDryRun": true,
-  "source": "PUMPPORTAL_GRADUATION"
-}
+{}

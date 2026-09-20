@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "Axry7dMTys16Mc4XJCRXzibsXkKZPNfgoVDGTCtEtSzy",
+  "symbol": "Shame",
+  "pairAddress": "G7JQWJWKRsfiKqjiRjJwBaC8vsyUpKeHiy8P1z1DGdv1",
+  "marketCap": 66547.0,
+  "liquidity": 23029.29,
+  "volume1h": 122914.03,
+  "volume24h": 122914.03,
+  "candidateScore": 10.5632,
+  "entryPrice": 6.687269999999999e-05,
+  "entryTime": 1789918376055,
+  "peakPrice": 6.687269999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1789918376055",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

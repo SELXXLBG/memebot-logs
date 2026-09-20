@@ -14,5 +14,7 @@
   "tokenAmountRaw": "0",
   "txid": "DRY_RUN_BUY_1789918376055",
   "isDryRun": true,
-  "source": "PYTHON_SCANNER"
+  "source": "PYTHON_SCANNER",
+  "pnl_at_12s": 8.4299,
+  "peak_pnl_at_12s": 8.4299
 }

@@ -78,5 +78,25 @@
     "buyTxid": "DRY_RUN_BUY_1789876713264",
     "sellTxid": "DRY_RUN_SELL_1789876832738",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-20T04:35:51.340446Z",
+    "token": "B1Y2WMUsSBP7mNzViMvAzerhiXHZ7VF62AynJhkbpump",
+    "symbol": "SOLDI",
+    "marketCap": 110040.0,
+    "liquidity": 27686.9,
+    "candidateScore": 8.7319,
+    "entryPrice": 0.00011467049999999998,
+    "exitPrice": 0.0001141,
+    "peakPrice": 0.00011467049999999998,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.003482587064676518,
+    "profitLamports": -3482587,
+    "pnlPct": -0.49751243781093124,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1789878939097",
+    "sellTxid": "DRY_RUN_SELL_1789878951340",
+    "source": "PYTHON_SCANNER"
   }
 ]

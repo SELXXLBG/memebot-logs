@@ -256,5 +256,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-20T15:04:53.505046Z",
+    "token": "HvLeKFBX6CGmLQ4x8Y4uKtRgbMVhsq9Aq3Vvf4oHh3im",
+    "symbol": "GREENLAND",
+    "marketCap": 65245.0,
+    "liquidity": 20416.23,
+    "candidateScore": 10.4822,
+    "entryPrice": 6.55662e-05,
+    "exitPrice": 6.534e-05,
+    "peakPrice": 6.55662e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0024149638075716706,
+    "profitLamports": -2414963,
+    "pnlPct": -0.3449948296530958,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1789916680836",
+    "sellTxid": "DRY_RUN_SELL_1789916693505",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.345,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

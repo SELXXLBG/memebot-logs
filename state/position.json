@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "AjHawC2nBLyzymfD3Z3tQf569dAZ74Xiujgid4wHpump",
-  "symbol": "JEANPOOP",
-  "pairAddress": "54b7hVdRQhHY2yYhFVVCdqe944WcEEzvMyRbLyP5vNy5",
-  "marketCap": 62510.0,
-  "liquidity": 20203.78,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 4.19,
-  "entryPrice": 6.281249999999999e-05,
-  "entryTime": 1789881712512,
-  "peakPrice": 6.281249999999999e-05,
-  "solAmountLamports": 350000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1789881712512",
-  "isDryRun": true,
-  "source": "PUMPPORTAL_GRADUATION"
-}
+{}

@@ -38,5 +38,25 @@
     "buyTxid": "DRY_RUN_BUY_1789871260161",
     "sellTxid": "DRY_RUN_SELL_1789871272299",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-20T02:48:47.780083Z",
+    "token": "DoS97Zccy12UXs4NYMNHYKHWFwTaa6PkXDL2NfKBpump",
+    "symbol": "ALTIGRINO",
+    "marketCap": 68209.0,
+    "liquidity": 21084.75,
+    "candidateScore": 4.37,
+    "entryPrice": 6.854099999999999e-05,
+    "exitPrice": 6.82e-05,
+    "peakPrice": 6.854099999999999e-05,
+    "solAmountLamports": 350000000,
+    "profitSOL": -0.0017412935323382513,
+    "profitLamports": -1741293,
+    "pnlPct": -0.49751243781092896,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1789872514870",
+    "sellTxid": "DRY_RUN_SELL_1789872527780",
+    "source": "PUMPPORTAL_GRADUATION"
   }
 ]

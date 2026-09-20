@@ -1,0 +1,22 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-20T00:00:54.304856Z",
+    "token": "FKkDMWqFUTZcW6zacy9ikP5cdTb4dbXCtz3WkSyqpump",
+    "symbol": "PumpPay",
+    "marketCap": 63827.0,
+    "liquidity": 20554.92,
+    "candidateScore": 11.445,
+    "entryPrice": 6.413909999999998e-05,
+    "exitPrice": 0.0001057,
+    "peakPrice": 0.0001057,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.4535865018374129,
+    "profitLamports": 453586501,
+    "pnlPct": 64.798071691059,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1789862360456",
+    "sellTxid": "DRY_RUN_SELL_1789862454304",
+    "source": "PYTHON_SCANNER"
+  }
+]

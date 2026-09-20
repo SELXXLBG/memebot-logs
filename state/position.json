@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "DoS97Zccy12UXs4NYMNHYKHWFwTaa6PkXDL2NfKBpump",
-  "symbol": "ALTIGRINO",
-  "pairAddress": "EpuoEs6onsnMGUJquoZzPB2vJimtrsMb7UJSy513dAMT",
-  "marketCap": 68209.0,
-  "liquidity": 21084.75,
-  "volume1h": 0,
-  "volume24h": 0,
-  "candidateScore": 4.37,
-  "entryPrice": 6.854099999999999e-05,
-  "entryTime": 1789872514870,
-  "peakPrice": 6.854099999999999e-05,
-  "solAmountLamports": 350000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1789872514870",
-  "isDryRun": true,
-  "source": "PUMPPORTAL_GRADUATION"
-}
+{}

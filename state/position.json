@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "HvLeKFBX6CGmLQ4x8Y4uKtRgbMVhsq9Aq3Vvf4oHh3im",
+  "symbol": "GREENLAND",
+  "pairAddress": "BgUYEozYRSj44JLyVqUjcwN1d9ZVsknLQJj3GDNBp368",
+  "marketCap": 65245.0,
+  "liquidity": 20416.23,
+  "volume1h": 21277.45,
+  "volume24h": 21277.45,
+  "candidateScore": 10.4822,
+  "entryPrice": 6.55662e-05,
+  "entryTime": 1789916680836,
+  "peakPrice": 6.55662e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1789916680836",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

@@ -204,5 +204,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-20T13:41:48.751455Z",
+    "token": "7cdaMYtNnqo7KEbdEDXczs1t7zbz2sQqQF4Wxqnxpump",
+    "symbol": "JEANWIFHAT",
+    "marketCap": 96088.0,
+    "liquidity": 25506.76,
+    "candidateScore": 12.0116,
+    "entryPrice": 9.65604e-05,
+    "exitPrice": 9.608e-05,
+    "peakPrice": 9.65604e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0034825870646765897,
+    "profitLamports": -3482587,
+    "pnlPct": -0.49751243781094145,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1789911696347",
+    "sellTxid": "DRY_RUN_SELL_1789911708751",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

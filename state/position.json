@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "VcD3NHLewdH5eycBBfexuBz1upieNvuCfcKd9n3M92C",
-  "symbol": "SEED",
-  "pairAddress": "D8i7T19K6gZ2Jm7twaEkbMKpsHFoxyAsBWDPEMx44RrG",
-  "marketCap": 57906.0,
-  "liquidity": 19267.49,
-  "volume1h": 111276.78,
-  "volume24h": 111276.78,
-  "candidateScore": 11.9225,
-  "entryPrice": 5.818949999999999e-05,
-  "entryTime": 1789880190673,
-  "peakPrice": 5.818949999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1789880190673",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

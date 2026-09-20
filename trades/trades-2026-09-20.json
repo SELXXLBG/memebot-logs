@@ -178,5 +178,31 @@
     "buyTxid": "DRY_RUN_BUY_1789908291388",
     "sellTxid": "DRY_RUN_SELL_1789908296506",
     "source": "PYTHON_SCANNER"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-20T13:40:47.053783Z",
+    "token": "7q4sYiAcTSrquLtwQ3ygwvotREVJgCRPmRLpkMNRpump",
+    "symbol": "WAR",
+    "marketCap": 84358.0,
+    "liquidity": 23628.26,
+    "candidateScore": 11.446,
+    "entryPrice": 8.477174999999999e-05,
+    "exitPrice": 8.435e-05,
+    "peakPrice": 8.477174999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.003482587064676504,
+    "profitLamports": -3482587,
+    "pnlPct": -0.49751243781092913,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1789911634979",
+    "sellTxid": "DRY_RUN_SELL_1789911647053",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

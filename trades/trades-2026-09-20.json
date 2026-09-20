@@ -158,5 +158,25 @@
     "buyTxid": "DRY_RUN_BUY_1789884279937",
     "sellTxid": "DRY_RUN_SELL_1789884292686",
     "source": "PUMPPORTAL_GRADUATION"
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-20T12:44:56.506425Z",
+    "token": "HLfoPLWXgR5ErZQvvvdeZrh3esJbNmi6pXFWH2YWpump",
+    "symbol": "Foxi",
+    "marketCap": 66680.0,
+    "liquidity": 20690.02,
+    "candidateScore": 10.9025,
+    "entryPrice": 6.70134e-05,
+    "exitPrice": 6.346e-05,
+    "peakPrice": 6.70134e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.037117651096646324,
+    "profitLamports": -37117651,
+    "pnlPct": -5.30252158523519,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1789908291388",
+    "sellTxid": "DRY_RUN_SELL_1789908296506",
+    "source": "PYTHON_SCANNER"
   }
 ]

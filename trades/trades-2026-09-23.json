@@ -232,5 +232,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-23T15:37:29.092228Z",
+    "token": "338pB21eL9EX7gFP3gJWe9okCDF5BSKRxVa9xs4spump",
+    "symbol": "SATURNCAT",
+    "marketCap": 114968.0,
+    "liquidity": 28841.84,
+    "candidateScore": 12.3,
+    "entryPrice": 0.0001154745,
+    "exitPrice": 0.0001144,
+    "peakPrice": 0.0001154745,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.006513559270661435,
+    "profitLamports": -6513559,
+    "pnlPct": -0.9305084672373478,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790177836573",
+    "sellTxid": "DRY_RUN_SELL_1790177849092",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.9305,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

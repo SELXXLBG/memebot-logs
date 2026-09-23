@@ -414,5 +414,31 @@
     "peak_pnl_at_20s": 4.7161,
     "pnl_at_30s": 4.7161,
     "peak_pnl_at_30s": 4.7161
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-23T23:18:44.155506Z",
+    "token": "6LYWeAHk3iXreuKBN1PqyeFay9eAmnBwZiuVeCVbpump",
+    "symbol": "CASHCATE",
+    "marketCap": 62142.0,
+    "liquidity": 20461.3,
+    "candidateScore": 10.3263,
+    "entryPrice": 6.24507e-05,
+    "exitPrice": 2.458e-06,
+    "peakPrice": 6.356e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.672448667508931,
+    "profitLamports": -672448667,
+    "pnlPct": -96.06409535841871,
+    "reason": "HARDSTOP_12P",
+    "buyTxid": "DRY_RUN_BUY_1790205493409",
+    "sellTxid": "DRY_RUN_SELL_1790205524155",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": 1.7763,
+    "peak_pnl_at_12s": 1.7763,
+    "pnl_at_20s": 1.7763,
+    "peak_pnl_at_20s": 1.7763,
+    "pnl_at_30s": -96.0641,
+    "peak_pnl_at_30s": 1.7763
   }
 ]

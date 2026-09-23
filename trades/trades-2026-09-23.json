@@ -388,5 +388,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-23T21:56:50.971235Z",
+    "token": "euwCqqdorT6VCYgQjVg9jeT3dpXvjuv86EGQtBVpump",
+    "symbol": "SCATE",
+    "marketCap": 67374.0,
+    "liquidity": 21366.08,
+    "candidateScore": 10.6865,
+    "entryPrice": 6.770685e-05,
+    "exitPrice": 7.933e-05,
+    "peakPrice": 8.524e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.12016812183700767,
+    "profitLamports": 120168121,
+    "pnlPct": 17.166874548143955,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1790200387561",
+    "sellTxid": "DRY_RUN_SELL_1790200610971",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": 4.7161,
+    "peak_pnl_at_12s": 4.7161,
+    "pnl_at_20s": 4.7161,
+    "peak_pnl_at_20s": 4.7161,
+    "pnl_at_30s": 4.7161,
+    "peak_pnl_at_30s": 4.7161
   }
 ]

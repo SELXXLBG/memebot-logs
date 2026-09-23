@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "7uNUAogctSAby1pZUAt2QmBpe2bradWeep78adZmpump",
+  "symbol": "todd",
+  "pairAddress": "GUK8N22XBkFEguoHbb3unVLM5PYYbCydAHdysjtetA15",
+  "marketCap": 70670.0,
+  "liquidity": 22335.01,
+  "volume1h": 59356.28,
+  "volume24h": 59356.28,
+  "candidateScore": 10.975,
+  "entryPrice": 7.10133e-05,
+  "entryTime": 1790146016255,
+  "peakPrice": 7.10133e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1790146016255",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

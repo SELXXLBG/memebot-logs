@@ -18,5 +18,7 @@
   "pnl_at_12s": 1.0273,
   "peak_pnl_at_12s": 1.0273,
   "pnl_at_20s": 1.0273,
-  "peak_pnl_at_20s": 1.0273
+  "peak_pnl_at_20s": 1.0273,
+  "pnl_at_30s": 1.0273,
+  "peak_pnl_at_30s": 1.0273
 }

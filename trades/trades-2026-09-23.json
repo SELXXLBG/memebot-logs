@@ -128,5 +128,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-23T06:53:14.578716Z",
+    "token": "6GH3fLq5W1wHGTE6m2jmUMqBgHtB7sUeeLzRKt7opump",
+    "symbol": "SHINYHUNTERS",
+    "marketCap": 72655.0,
+    "liquidity": 22601.5,
+    "candidateScore": 10.4274,
+    "entryPrice": 7.301324999999999e-05,
+    "exitPrice": 7.087e-05,
+    "peakPrice": 7.301324999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.020547982729162046,
+    "profitLamports": -20547982,
+    "pnlPct": -2.9354261041660066,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790146382272",
+    "sellTxid": "DRY_RUN_SELL_1790146394578",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -2.9354,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

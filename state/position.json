@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "338pB21eL9EX7gFP3gJWe9okCDF5BSKRxVa9xs4spump",
-  "symbol": "SATURNCAT",
-  "pairAddress": "EXsym96wYsF8pxdrk3FmWfK2odjXQfWpXjSuRX9zvo23",
-  "marketCap": 114968.0,
-  "liquidity": 28841.84,
-  "volume1h": 169468.91,
-  "volume24h": 169468.91,
-  "candidateScore": 12.3,
-  "entryPrice": 0.0001154745,
-  "entryTime": 1790177836573,
-  "peakPrice": 0.0001154745,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1790177836573",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

@@ -50,5 +50,31 @@
     "peak_pnl_at_20s": 1.0273,
     "pnl_at_30s": 1.0273,
     "peak_pnl_at_30s": 1.0273
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-23T02:36:14.508937Z",
+    "token": "CUKJkyVs5F6RVfcHptLHJ9KLW42ME3so3vtWbF8fpump",
+    "symbol": "SNAKECAT",
+    "marketCap": 72545.0,
+    "liquidity": 22663.93,
+    "candidateScore": 10.4833,
+    "entryPrice": 7.290269999999998e-05,
+    "exitPrice": 7.336e-05,
+    "peakPrice": 8.086e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.004390921049563516,
+    "profitLamports": 4390921,
+    "pnlPct": 0.627274435651931,
+    "reason": "PROFIT_LOCK",
+    "buyTxid": "DRY_RUN_BUY_1790130789578",
+    "sellTxid": "DRY_RUN_SELL_1790130974508",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": 1.7109,
+    "peak_pnl_at_12s": 1.7109,
+    "pnl_at_20s": 1.7109,
+    "peak_pnl_at_20s": 1.7109,
+    "pnl_at_30s": 1.7109,
+    "peak_pnl_at_30s": 1.7109
   }
 ]

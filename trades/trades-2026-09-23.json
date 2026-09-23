@@ -76,5 +76,31 @@
     "peak_pnl_at_20s": 1.7109,
     "pnl_at_30s": 1.7109,
     "peak_pnl_at_30s": 1.7109
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-23T06:31:25.407457Z",
+    "token": "9G5vJSw3Zp2x9Cmj9gEsw1GeJqWX2iYMsfsC6uR41jT4",
+    "symbol": "MAU",
+    "marketCap": 88568.0,
+    "liquidity": 27242.96,
+    "candidateScore": 11.4746,
+    "entryPrice": 8.90028e-05,
+    "exitPrice": 8.856e-05,
+    "peakPrice": 8.90028e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0034825870646765784,
+    "profitLamports": -3482587,
+    "pnlPct": -0.4975124378109398,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790145072633",
+    "sellTxid": "DRY_RUN_SELL_1790145085407",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

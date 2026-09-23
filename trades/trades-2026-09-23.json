@@ -336,5 +336,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-23T19:23:02.621960Z",
+    "token": "GtmQ6DAJsyx37Nb46jmooYGGa9RVcVeyAftbEgZ2pump",
+    "symbol": "MUSESTREAM",
+    "marketCap": 77256.0,
+    "liquidity": 23110.46,
+    "candidateScore": 11.7045,
+    "entryPrice": 7.763624999999999e-05,
+    "exitPrice": 7.725e-05,
+    "peakPrice": 7.763624999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.003482587064676586,
+    "profitLamports": -3482587,
+    "pnlPct": -0.49751243781094084,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790191369327",
+    "sellTxid": "DRY_RUN_SELL_1790191382621",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

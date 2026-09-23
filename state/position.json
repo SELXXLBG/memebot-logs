@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "7wsLMVCQFW3XQh6oMbZeqZ1wbZzYGPcbyDswmGxzZ4RL",
-  "symbol": "EGG",
-  "pairAddress": "C7KctaEGmGGBHExGfQ6RwyyPtWsJ84ngjFTNCJftDgpg",
-  "marketCap": 70129.0,
-  "liquidity": 23471.31,
-  "volume1h": 54864.61,
-  "volume24h": 54864.61,
-  "candidateScore": 11.0063,
-  "entryPrice": 7.04706e-05,
-  "entryTime": 1790188126403,
-  "peakPrice": 7.04706e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1790188126403",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

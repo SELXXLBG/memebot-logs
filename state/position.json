@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "2YPWT4QK1Why57mxBZGwBAFckBC4nLwEAL2t6CcCQtvw",
+  "symbol": "FCAT",
+  "pairAddress": "13L9ZwrkeBXcZL8y1yhxnAkEDaMgyMZRmgvhs6hgLdMh",
+  "marketCap": 85026.0,
+  "liquidity": 26199.32,
+  "volume1h": 151976.19,
+  "volume24h": 151976.19,
+  "candidateScore": 10.8602,
+  "entryPrice": 8.544509999999999e-05,
+  "entryTime": 1790197300857,
+  "peakPrice": 8.544509999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1790197300857",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

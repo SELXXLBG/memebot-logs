@@ -232,5 +232,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-24T16:12:24.967318Z",
+    "token": "BewoWqr56gfPQXzWiMUSCVY4fJbthPZrdj17L3qCXEmg",
+    "symbol": "HI",
+    "marketCap": 73524.0,
+    "liquidity": 22781.18,
+    "candidateScore": 10.7663,
+    "entryPrice": 7.38876e-05,
+    "exitPrice": 0.0001076,
+    "peakPrice": 0.0001076,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.3193862028269968,
+    "profitLamports": 319386202,
+    "pnlPct": 45.626600403856685,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1790266342105",
+    "sellTxid": "DRY_RUN_SELL_1790266344967",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": null,
+    "peak_pnl_at_12s": null,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

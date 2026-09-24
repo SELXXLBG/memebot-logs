@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "3MPMS79faRVnM99tdHJFEwit6pRMeQQrWfmX32dmpump",
-  "symbol": "POLAR",
-  "pairAddress": "8TqyBEPyFRNg3khB2Gr2uvDdUp6FGRYevwe66Z5QE47R",
-  "marketCap": 55961.0,
-  "liquidity": 19369.33,
-  "volume1h": 58773.85,
-  "volume24h": 58773.85,
-  "candidateScore": 10.9048,
-  "entryPrice": 5.6239799999999996e-05,
-  "entryTime": 1790227551005,
-  "peakPrice": 5.6239799999999996e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1790227551005",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

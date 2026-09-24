@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "7CEBEYQVe3RvapwgS4QttVehqN9C2Hh859ZGbRWduRDm",
+  "symbol": "OAT",
+  "pairAddress": "9mmbtyUSNyaa34D1gNf58Mw96ZBdBqK1e5HfnPazPvnJ",
+  "marketCap": 68062.0,
+  "liquidity": 23617.35,
+  "volume1h": 97525.68,
+  "volume24h": 110721.9,
+  "candidateScore": 11.1267,
+  "entryPrice": 6.840029999999999e-05,
+  "entryTime": 1790219569122,
+  "peakPrice": 6.840029999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1790219569122",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

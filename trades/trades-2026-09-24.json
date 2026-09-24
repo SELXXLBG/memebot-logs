@@ -336,5 +336,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-24T18:49:34.560459Z",
+    "token": "qe5iaQ3GkKa1T11XvFirmyZZ7vy7uYZX994UhwVpump",
+    "symbol": "JEANINU",
+    "marketCap": 84462.0,
+    "liquidity": 25465.33,
+    "candidateScore": 10.3475,
+    "entryPrice": 8.662094999999999e-05,
+    "exitPrice": 8.619e-05,
+    "peakPrice": 8.662094999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0034825870646765593,
+    "profitLamports": -3482587,
+    "pnlPct": -0.4975124378109371,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790275761591",
+    "sellTxid": "DRY_RUN_SELL_1790275774560",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

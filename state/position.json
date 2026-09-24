@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "DJrY9mfDpaDCaPQJp5jprgegxZZ87CMftWs1b7x5bonk",
-  "symbol": "Golden",
-  "pairAddress": "6oLWH77vTVhRsyShHCxrGe9iGVUowih9aEJE58DRuWon",
-  "marketCap": 75443.0,
-  "liquidity": 25235.77,
-  "volume1h": 109539.26,
-  "volume24h": 109539.26,
-  "candidateScore": 11.7265,
-  "entryPrice": 7.583729999999999e-05,
-  "entryTime": 1790290193569,
-  "peakPrice": 7.583729999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1790290193569",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

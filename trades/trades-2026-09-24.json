@@ -258,5 +258,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-24T16:59:20.402683Z",
+    "token": "5pSEZw1iytqYznD7crsGyKNek7q5JkjBqj2KmfqxUVZd",
+    "symbol": "CHONK",
+    "marketCap": 73367.0,
+    "liquidity": 22850.52,
+    "candidateScore": 11.126,
+    "entryPrice": 7.37268e-05,
+    "exitPrice": 6.277e-05,
+    "peakPrice": 7.37268e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.10402947096578175,
+    "profitLamports": -104029470,
+    "pnlPct": -14.861352995111679,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1790269156806",
+    "sellTxid": "DRY_RUN_SELL_1790269160402",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": null,
+    "peak_pnl_at_12s": null,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

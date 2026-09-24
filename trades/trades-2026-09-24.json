@@ -206,5 +206,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-24T14:32:08.792160Z",
+    "token": "H61eoVSK7XmGmAA3NTt5d3Rg4WDxvqMfqpWSeZSJk1aG",
+    "symbol": "NP",
+    "marketCap": 72219.0,
+    "liquidity": 22896.84,
+    "candidateScore": 10.4169,
+    "entryPrice": 7.257105e-05,
+    "exitPrice": 7.049e-05,
+    "peakPrice": 7.257105e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.02007322479142853,
+    "profitLamports": -20073224,
+    "pnlPct": -2.8676035416326475,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790260316252",
+    "sellTxid": "DRY_RUN_SELL_1790260328792",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -2.8676,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

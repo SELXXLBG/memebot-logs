@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "qe5iaQ3GkKa1T11XvFirmyZZ7vy7uYZX994UhwVpump",
+  "symbol": "JEANINU",
+  "pairAddress": "C3sJPraWPRGcY6nRKsNn5Wpy8YSBiwjVurMrhCBcpZ5x",
+  "marketCap": 84462.0,
+  "liquidity": 25465.33,
+  "volume1h": 114037.77,
+  "volume24h": 443215.03,
+  "candidateScore": 10.3475,
+  "entryPrice": 8.662094999999999e-05,
+  "entryTime": 1790275761591,
+  "peakPrice": 8.662094999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1790275761591",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "6WgVQG1yjXA7cjJQYt8VpJGX7aVjbyXz6Aaq1UPapump",
+  "symbol": "RIP",
+  "pairAddress": "HT6Lkwg7QVNLkq6WPt8gCa2nfYfu8AGAfe81wUAxeu1k",
+  "marketCap": 62538.0,
+  "liquidity": 20773.26,
+  "volume1h": 28533.57,
+  "volume24h": 28533.57,
+  "candidateScore": 10.0771,
+  "entryPrice": 6.284265e-05,
+  "entryTime": 1790303556048,
+  "peakPrice": 6.284265e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1790303556048",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

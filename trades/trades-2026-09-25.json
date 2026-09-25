@@ -804,5 +804,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-25T22:21:57.448403Z",
+    "token": "CtFc55to2syfMCnihwB2yW7p8DGDz6UCNYdBJkMtpump",
+    "symbol": "CATECOIN",
+    "marketCap": 88766.0,
+    "liquidity": 25566.79,
+    "candidateScore": 10.7122,
+    "entryPrice": 8.920379999999998e-05,
+    "exitPrice": 8.948e-05,
+    "peakPrice": 8.948e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.0021673964562049603,
+    "profitLamports": 2167396,
+    "pnlPct": 0.3096280651721372,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790374905142",
+    "sellTxid": "DRY_RUN_SELL_1790374917448",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": 0.3096,
+    "peak_pnl_at_12s": 0.3096,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

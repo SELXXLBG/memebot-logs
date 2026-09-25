@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "HWyMjL72dikK2bSU2JqS2FjyBG2GLo8mq3Q5EBzTVeN8",
-  "symbol": "BANDS",
-  "pairAddress": "6T66r7rvwv3WcFbXFmMQpEXfk1RqW5qxhjv32g9iDFvb",
-  "marketCap": 118030.0,
-  "liquidity": 36922.14,
-  "volume1h": 98137.29,
-  "volume24h": 98137.29,
-  "candidateScore": 10.229,
-  "entryPrice": 0.00011858999999999999,
-  "entryTime": 1790341950379,
-  "peakPrice": 0.00011858999999999999,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1790341950379",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

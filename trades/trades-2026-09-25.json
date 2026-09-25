@@ -700,5 +700,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-25T21:48:11.051098Z",
+    "token": "4z74i8Jo5zTWkFyyrx5zuusLasgKu6JtREVKgKVSpump",
+    "symbol": "JEANTRUMP",
+    "marketCap": 70425.0,
+    "liquidity": 22391.64,
+    "candidateScore": 10.1644,
+    "entryPrice": 7.077209999999999e-05,
+    "exitPrice": 8.528e-05,
+    "peakPrice": 9.199e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.14349623651128068,
+    "profitLamports": 143496236,
+    "pnlPct": 20.499462358754386,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1790372644084",
+    "sellTxid": "DRY_RUN_SELL_1790372891051",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": 16.8681,
+    "peak_pnl_at_12s": 16.8681,
+    "pnl_at_20s": 16.8681,
+    "peak_pnl_at_20s": 16.8681,
+    "pnl_at_30s": 16.8681,
+    "peak_pnl_at_30s": 16.8681
   }
 ]

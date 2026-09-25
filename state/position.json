@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "FF6t1UqgUXufL7FRgsnRk21fxQcRgVsUx7axMHXvDXLz",
-  "symbol": "PATCH",
-  "pairAddress": "AFBA87aTPLTBZxu6gM37H6p27J5PCM9iFVSqoEFCwYKN",
-  "marketCap": 80057.0,
-  "liquidity": 24318.94,
-  "volume1h": 177457.39,
-  "volume24h": 177457.39,
-  "candidateScore": 11.4907,
-  "entryPrice": 8.045024999999998e-05,
-  "entryTime": 1790373528431,
-  "peakPrice": 8.045024999999998e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1790373528431",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

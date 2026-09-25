@@ -232,5 +232,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-25T08:33:55.531443Z",
+    "token": "Ekfbe93ybDm7JnS3xFbTVrfiov2xtx7bgJkbQc74SLWo",
+    "symbol": "RPG",
+    "marketCap": 77270.0,
+    "liquidity": 23323.21,
+    "candidateScore": 10.5559,
+    "entryPrice": 7.765634999999999e-05,
+    "exitPrice": 7.727e-05,
+    "peakPrice": 7.765634999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.003482587064676527,
+    "profitLamports": -3482587,
+    "pnlPct": -0.4975124378109324,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790325222784",
+    "sellTxid": "DRY_RUN_SELL_1790325235531",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

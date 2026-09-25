@@ -206,5 +206,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-25T07:35:22.719006Z",
+    "token": "Bqy9DSJGRbun7s8dr7mkN8fm3hPa44p64hhy3MQWpump",
+    "symbol": "Desk",
+    "marketCap": 76462.0,
+    "liquidity": 23109.31,
+    "candidateScore": 11.3996,
+    "entryPrice": 7.684229999999999e-05,
+    "exitPrice": 7.646e-05,
+    "peakPrice": 7.684229999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0034825870646765377,
+    "profitLamports": -3482587,
+    "pnlPct": -0.497512437810934,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790321710241",
+    "sellTxid": "DRY_RUN_SELL_1790321722719",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

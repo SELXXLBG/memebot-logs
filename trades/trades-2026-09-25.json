@@ -414,5 +414,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-25T13:17:21.219937Z",
+    "token": "Fvto3QgSLbcWdq331BoR66RDkT7dZYgTS9JzbntMf7rD",
+    "symbol": "OPENGAP",
+    "marketCap": 73550.0,
+    "liquidity": 23610.22,
+    "candidateScore": 10.7886,
+    "entryPrice": 7.660109999999999e-05,
+    "exitPrice": 7.622e-05,
+    "peakPrice": 7.660109999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0034825870646765134,
+    "profitLamports": -3482587,
+    "pnlPct": -0.4975124378109305,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790342228380",
+    "sellTxid": "DRY_RUN_SELL_1790342241219",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

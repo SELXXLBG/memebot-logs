@@ -596,5 +596,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-25T16:30:53.317174Z",
+    "token": "YfiiXt4bBUTdFSYLfsdoM7q2GtJWbe4SbkuNnsRpump",
+    "symbol": "WOAR",
+    "marketCap": 80629.0,
+    "liquidity": 24127.46,
+    "candidateScore": 10.867,
+    "entryPrice": 8.11638e-05,
+    "exitPrice": 8.076e-05,
+    "peakPrice": 8.11638e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.003482587064676539,
+    "profitLamports": -3482587,
+    "pnlPct": -0.4975124378109342,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790353840528",
+    "sellTxid": "DRY_RUN_SELL_1790353853317",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

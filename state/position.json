@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "5g9PWcRUHpmqm5uKycpShKXJB18sGLeCEzgB3qrRpump",
+  "symbol": "SWARM",
+  "pairAddress": "Ftjga524YrS7RPzGCcezMuQnFDYa8PcvWDY5mFmZk5dy",
+  "marketCap": 62769.0,
+  "liquidity": 20852.8,
+  "volume1h": 99865.09,
+  "volume24h": 99865.09,
+  "candidateScore": 11.6955,
+  "entryPrice": 6.316424999999998e-05,
+  "entryTime": 1790326506192,
+  "peakPrice": 6.316424999999998e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1790326506192",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

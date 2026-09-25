@@ -388,5 +388,31 @@
     "peak_pnl_at_20s": 0.9902,
     "pnl_at_30s": 0.9902,
     "peak_pnl_at_30s": 0.9902
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-25T13:12:42.683854Z",
+    "token": "HWyMjL72dikK2bSU2JqS2FjyBG2GLo8mq3Q5EBzTVeN8",
+    "symbol": "BANDS",
+    "marketCap": 118030.0,
+    "liquidity": 36922.14,
+    "candidateScore": 10.229,
+    "entryPrice": 0.00011858999999999999,
+    "exitPrice": 0.0001176,
+    "peakPrice": 0.00011858999999999999,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.005843663040728495,
+    "profitLamports": -5843663,
+    "pnlPct": -0.8348090058183565,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790341950379",
+    "sellTxid": "DRY_RUN_SELL_1790341962683",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.8348,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

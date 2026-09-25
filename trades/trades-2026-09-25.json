@@ -284,5 +284,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-25T09:44:06.550463Z",
+    "token": "gBKgRzx2JZ3gSanVAN7aWDKNDbSTxSx4WTWNvywpump",
+    "symbol": "UNPEG",
+    "marketCap": 74184.0,
+    "liquidity": 23075.21,
+    "candidateScore": 11.7248,
+    "entryPrice": 7.455089999999999e-05,
+    "exitPrice": 6.757e-05,
+    "peakPrice": 7.455089999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06554756548881356,
+    "profitLamports": -65547565,
+    "pnlPct": -9.363937926973366,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1790329445357",
+    "sellTxid": "DRY_RUN_SELL_1790329446550",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": null,
+    "peak_pnl_at_12s": null,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

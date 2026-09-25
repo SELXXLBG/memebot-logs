@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "J7duGTXo2woN1N5KQ3zzDKxGpzrrrgD9quZpyWDNyRsQ",
-  "symbol": "SHH",
-  "pairAddress": "DyoAFpSs6rY2RHsuGQDeniZN8dGGJRNnhDTEDs7eQDjq",
-  "marketCap": 96705.0,
-  "liquidity": 27946.06,
-  "volume1h": 137648.63,
-  "volume24h": 181112.89,
-  "candidateScore": 10.3133,
-  "entryPrice": 9.71835e-05,
-  "entryTime": 1790360088463,
-  "peakPrice": 9.71835e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1790360088463",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

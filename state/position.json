@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "9a6BEKKxBDigghehcyMg5v4wM9MA3Mjmtyardzqjpump",
+  "symbol": "MINILLA",
+  "pairAddress": "3zNqsnvwf5CNxQu1YdMDYnAe31MUCPKwigZpxWyqKQK3",
+  "marketCap": 58963.0,
+  "liquidity": 20049.35,
+  "volume1h": 66956.07,
+  "volume24h": 66956.07,
+  "candidateScore": 11.0313,
+  "entryPrice": 5.9254799999999994e-05,
+  "entryTime": 1790309190407,
+  "peakPrice": 5.9254799999999994e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1790309190407",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

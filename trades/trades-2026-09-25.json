@@ -752,5 +752,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-25T21:58:55.985430Z",
+    "token": "FF6t1UqgUXufL7FRgsnRk21fxQcRgVsUx7axMHXvDXLz",
+    "symbol": "PATCH",
+    "marketCap": 80057.0,
+    "liquidity": 24318.94,
+    "candidateScore": 11.4907,
+    "entryPrice": 8.045024999999998e-05,
+    "exitPrice": 6.889e-05,
+    "peakPrice": 8.045024999999998e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.10058607648826434,
+    "profitLamports": -100586076,
+    "pnlPct": -14.369439498323477,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1790373528431",
+    "sellTxid": "DRY_RUN_SELL_1790373535985",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": null,
+    "peak_pnl_at_12s": null,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

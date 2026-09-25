@@ -726,5 +726,31 @@
     "peak_pnl_at_20s": 16.8681,
     "pnl_at_30s": 16.8681,
     "peak_pnl_at_30s": 16.8681
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-25T21:52:54.157922Z",
+    "token": "26JCsJvgj7Yp59cgLzP5p4194S18JgfYN6k5KYTypump",
+    "symbol": "Agents",
+    "marketCap": 81353.0,
+    "liquidity": 24547.47,
+    "candidateScore": 12.4274,
+    "entryPrice": 8.175674999999999e-05,
+    "exitPrice": 8.135e-05,
+    "peakPrice": 8.175674999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0034825870646765654,
+    "profitLamports": -3482587,
+    "pnlPct": -0.49751243781093796,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790373162024",
+    "sellTxid": "DRY_RUN_SELL_1790373174157",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

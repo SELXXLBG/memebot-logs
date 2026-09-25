@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "CtFc55to2syfMCnihwB2yW7p8DGDz6UCNYdBJkMtpump",
+  "symbol": "CATECOIN",
+  "pairAddress": "5Rwh3DN6ap9bTud64SPG2CzRu6aaM5Kr8tQRoUsedxg1",
+  "marketCap": 88766.0,
+  "liquidity": 25566.79,
+  "volume1h": 61822.68,
+  "volume24h": 61822.68,
+  "candidateScore": 10.7122,
+  "entryPrice": 8.920379999999998e-05,
+  "entryTime": 1790374905142,
+  "peakPrice": 8.920379999999998e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1790374905142",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

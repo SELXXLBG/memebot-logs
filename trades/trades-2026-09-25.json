@@ -1,0 +1,28 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-25T00:00:14.747466Z",
+    "token": "9BneT2FuDZQ6YL3yhnL4Aif1PEh5mudTGRkmL3wpump",
+    "symbol": "Pills",
+    "marketCap": 57592.0,
+    "liquidity": 19773.83,
+    "candidateScore": 11.6813,
+    "entryPrice": 5.7877949999999994e-05,
+    "exitPrice": 4.554e-05,
+    "peakPrice": 5.7877949999999994e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.1492202989221283,
+    "profitLamports": -149220298,
+    "pnlPct": -21.317185560304043,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1790294406313",
+    "sellTxid": "DRY_RUN_SELL_1790294414747",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": null,
+    "peak_pnl_at_12s": null,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
+  }
+]

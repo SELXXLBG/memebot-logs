@@ -622,5 +622,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-25T18:15:01.386030Z",
+    "token": "J7duGTXo2woN1N5KQ3zzDKxGpzrrrgD9quZpyWDNyRsQ",
+    "symbol": "SHH",
+    "marketCap": 96705.0,
+    "liquidity": 27946.06,
+    "candidateScore": 10.3133,
+    "entryPrice": 9.71835e-05,
+    "exitPrice": 9.67e-05,
+    "peakPrice": 9.71835e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0034825870646765897,
+    "profitLamports": -3482587,
+    "pnlPct": -0.49751243781094145,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790360088463",
+    "sellTxid": "DRY_RUN_SELL_1790360101386",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

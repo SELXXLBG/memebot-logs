@@ -466,5 +466,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-25T14:25:16.490890Z",
+    "token": "CmTFnmtW19nCEz5QGmV7ojqhVKaXJVsPwR6t4QvCGiBd",
+    "symbol": "Poocoin",
+    "marketCap": 88395.0,
+    "liquidity": 27142.76,
+    "candidateScore": 11.5812,
+    "entryPrice": 8.883194999999999e-05,
+    "exitPrice": 8.051e-05,
+    "peakPrice": 9.064e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.065577362649362,
+    "profitLamports": -65577362,
+    "pnlPct": -9.368194664194572,
+    "reason": "VELOCITY_KILL",
+    "buyTxid": "DRY_RUN_BUY_1790346246707",
+    "sellTxid": "DRY_RUN_SELL_1790346316490",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": 2.0354,
+    "peak_pnl_at_12s": 2.0354,
+    "pnl_at_20s": 2.0354,
+    "peak_pnl_at_20s": 2.0354,
+    "pnl_at_30s": 2.0354,
+    "peak_pnl_at_30s": 2.0354
   }
 ]

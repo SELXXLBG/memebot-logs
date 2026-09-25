@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "Bqy9DSJGRbun7s8dr7mkN8fm3hPa44p64hhy3MQWpump",
-  "symbol": "Desk",
-  "pairAddress": "3diQYBCJf2Fr5mHpJXia5Rr4mHGsTxJLMyztLzc2vLho",
-  "marketCap": 76462.0,
-  "liquidity": 23109.31,
-  "volume1h": 75318.1,
-  "volume24h": 75318.1,
-  "candidateScore": 11.3996,
-  "entryPrice": 7.684229999999999e-05,
-  "entryTime": 1790321710241,
-  "peakPrice": 7.684229999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1790321710241",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

@@ -570,5 +570,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-25T16:27:51.299108Z",
+    "token": "CmuBeUrVtq3M7r8U7NB8AkAcb3HKq5vPbvG4xDjipump",
+    "symbol": "ONIT",
+    "marketCap": 63484.0,
+    "liquidity": 21245.61,
+    "candidateScore": 11.799,
+    "entryPrice": 6.379739999999999e-05,
+    "exitPrice": 6.23e-05,
+    "peakPrice": 6.379739999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.016429823158937405,
+    "profitLamports": -16429823,
+    "pnlPct": -2.3471175941339153,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790353658699",
+    "sellTxid": "DRY_RUN_SELL_1790353671299",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -2.3471,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

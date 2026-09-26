@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "DWdC7Z5Sw8Uz1y1T222vH9r2fRfiorG9wXxNJYTSpump",
+  "symbol": "SKY",
+  "pairAddress": "2aTdzDH4LDLs2nJi1hqWoFgQ3azBT33LshmaxocnQicq",
+  "marketCap": 86760.0,
+  "liquidity": 25127.68,
+  "volume1h": 31324.05,
+  "volume24h": 31324.05,
+  "candidateScore": 10.4981,
+  "entryPrice": 8.719379999999999e-05,
+  "entryTime": 1790426320930,
+  "peakPrice": 8.719379999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1790426320930",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

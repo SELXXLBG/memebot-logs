@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "8JbRMGtCjanNYDWuMreoxwM7HUyrAAFSQoyHE4BnroLL",
+  "symbol": "MORTY",
+  "pairAddress": "BWHq8hqdmFcNz1pUGCSuteMPxkDaS4YGHiMA44n4VPS2",
+  "marketCap": 58390.0,
+  "liquidity": 20293.96,
+  "volume1h": 74015.55,
+  "volume24h": 74015.55,
+  "candidateScore": 11.365,
+  "entryPrice": 5.875229999999999e-05,
+  "entryTime": 1790384073768,
+  "peakPrice": 5.875229999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1790384073768",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

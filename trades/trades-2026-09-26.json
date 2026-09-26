@@ -76,5 +76,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-26T04:18:31.456669Z",
+    "token": "GnsezSFRNdXDjUVXYWCYcrqUydMG1Urrm14GXtiFiHNG",
+    "symbol": "INVESTUSA",
+    "marketCap": 64970.0,
+    "liquidity": 21600.91,
+    "candidateScore": 11.2229,
+    "entryPrice": 6.52848e-05,
+    "exitPrice": 6.496e-05,
+    "peakPrice": 6.52848e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0034825870646765515,
+    "profitLamports": -3482587,
+    "pnlPct": -0.49751243781093596,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790396298909",
+    "sellTxid": "DRY_RUN_SELL_1790396311456",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

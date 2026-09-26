@@ -258,5 +258,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-26T19:25:17.939469Z",
+    "token": "yqmDP7DVtL78nqmVH1jMYRxTR7LixpssPBgKFynpump",
+    "symbol": "PUPPET",
+    "marketCap": 78182.0,
+    "liquidity": 23765.03,
+    "candidateScore": 10.3426,
+    "entryPrice": 7.85709e-05,
+    "exitPrice": 7.271e-05,
+    "peakPrice": 7.85709e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.05221564217795644,
+    "profitLamports": -52215642,
+    "pnlPct": -7.459377453993778,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1790450710176",
+    "sellTxid": "DRY_RUN_SELL_1790450717939",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": null,
+    "peak_pnl_at_12s": null,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

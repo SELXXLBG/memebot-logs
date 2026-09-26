@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "9jEbkZPhcwYCpYEiyNj5NPdj1ewNRppc7XQBSupVpump",
-  "symbol": "AMP",
-  "pairAddress": "6sCKfP4A5ZCi4ESAEAXJKbTJfry5EpL4ywMoViYrsn7h",
-  "marketCap": 62261.0,
-  "liquidity": 20928.26,
-  "volume1h": 69680.13,
-  "volume24h": 69680.13,
-  "candidateScore": 11.3451,
-  "entryPrice": 6.25713e-05,
-  "entryTime": 1790443701437,
-  "peakPrice": 6.25713e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1790443701437",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

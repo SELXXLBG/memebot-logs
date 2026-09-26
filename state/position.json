@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "ZrQdfsbm4XVBXMBr8V9Qxvy4Jkt36b5K9iEZmR9pump",
+  "symbol": "TROLLOWEEN",
+  "pairAddress": "2Uzgmpwp45rw2eNUzBgXvYjmLLe3tFX7qRM64ELu9bM9",
+  "marketCap": 107145.0,
+  "liquidity": 29057.97,
+  "volume1h": 165992.28,
+  "volume24h": 199361.47,
+  "candidateScore": 10.0307,
+  "entryPrice": 0.00011135399999999998,
+  "entryTime": 1790452969611,
+  "peakPrice": 0.00011135399999999998,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1790452969611",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

@@ -310,5 +310,31 @@
     "peak_pnl_at_20s": 10.9842,
     "pnl_at_30s": 10.9842,
     "peak_pnl_at_30s": 10.9842
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-26T20:03:01.690935Z",
+    "token": "ZrQdfsbm4XVBXMBr8V9Qxvy4Jkt36b5K9iEZmR9pump",
+    "symbol": "TROLLOWEEN",
+    "marketCap": 107145.0,
+    "liquidity": 29057.97,
+    "candidateScore": 10.0307,
+    "entryPrice": 0.00011135399999999998,
+    "exitPrice": 0.0001112,
+    "peakPrice": 0.00011135399999999998,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0009680837688810484,
+    "profitLamports": -968083,
+    "pnlPct": -0.1382976812687212,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790452969611",
+    "sellTxid": "DRY_RUN_SELL_1790452981690",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.1383,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

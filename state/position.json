@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "82CfUnavgMwUzY1UkUnWpqKMRPqoBuSb15VnEjn1yx9a",
-  "symbol": "MONEKO",
-  "pairAddress": "4XBhhZm2T8KxYGqVmT4WL7RFpqVi3qejBz7roQ55VPYj",
-  "marketCap": 77096.0,
-  "liquidity": 25402.31,
-  "volume1h": 64331.32,
-  "volume24h": 64331.32,
-  "candidateScore": 10.3732,
-  "entryPrice": 7.747544999999999e-05,
-  "entryTime": 1790484199632,
-  "peakPrice": 7.747544999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1790484199632",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

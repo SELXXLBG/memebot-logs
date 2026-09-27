@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "5HiQSA6gHtzDQX8no9iLvUAXmX9ncWRseUjbDqCjM8Zq",
-  "symbol": "Charlie",
-  "pairAddress": "HNzV3NPuDiHnJbVy6pU3W6fK4zMoP7LgwJQTpLgJ98Vn",
-  "marketCap": 78383.0,
-  "liquidity": 24087.87,
-  "volume1h": 143158.99,
-  "volume24h": 143158.99,
-  "candidateScore": 11.7569,
-  "entryPrice": 7.877189999999999e-05,
-  "entryTime": 1790538193057,
-  "peakPrice": 7.877189999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1790538193057",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

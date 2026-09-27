@@ -258,5 +258,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-27T14:04:08.470986Z",
+    "token": "39JRjoQBnxzMqGmieYf3Y22Hk58pUiTijmfyqt4Cpump",
+    "symbol": "THESIS",
+    "marketCap": 74430.0,
+    "liquidity": 23313.95,
+    "candidateScore": 10.8374,
+    "entryPrice": 7.480214999999999e-05,
+    "exitPrice": 0.0001011,
+    "peakPrice": 0.0001011,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.2460958007223056,
+    "profitLamports": 246095800,
+    "pnlPct": 35.156542960329375,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1790517789754",
+    "sellTxid": "DRY_RUN_SELL_1790517848471",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": 9.7027,
+    "peak_pnl_at_12s": 9.7027,
+    "pnl_at_20s": 9.7027,
+    "peak_pnl_at_20s": 9.7027,
+    "pnl_at_30s": 9.7027,
+    "peak_pnl_at_30s": 9.7027
   }
 ]

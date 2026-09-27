@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "89UXq8hC49uBgeeEprWymmpjLcqidNzZ2NX9GzBhCGAg",
+  "symbol": "Traincat",
+  "pairAddress": "AiG7CEjydWsvxZ1S1DgKiUFBfqy51XXCMrpBxJzASWPi",
+  "marketCap": 64375.0,
+  "liquidity": 21587.35,
+  "volume1h": 94691.09,
+  "volume24h": 94691.09,
+  "candidateScore": 11.778,
+  "entryPrice": 6.469184999999999e-05,
+  "entryTime": 1790541425820,
+  "peakPrice": 6.469184999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1790541425820",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

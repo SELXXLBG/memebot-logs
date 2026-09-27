@@ -232,5 +232,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-27T12:42:34.800781Z",
+    "token": "G3tVtSxKneK3oMyezU5QRoEKRtffsivS9RbTq3MMpump",
+    "symbol": "BLOX",
+    "marketCap": 58676.0,
+    "liquidity": 20521.45,
+    "candidateScore": 11.2684,
+    "entryPrice": 5.8963349999999995e-05,
+    "exitPrice": 5.39e-05,
+    "peakPrice": 5.8963349999999995e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.06011098419611496,
+    "profitLamports": -60110984,
+    "pnlPct": -8.587283456587851,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1790512943476",
+    "sellTxid": "DRY_RUN_SELL_1790512954800",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": null,
+    "peak_pnl_at_12s": null,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

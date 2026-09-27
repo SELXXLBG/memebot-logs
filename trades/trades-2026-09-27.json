@@ -414,5 +414,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-27T21:48:54.098826Z",
+    "token": "3FfCcJoAJhbXyd4LaiLw4QvLqxnMKhTKfZkUgPRsRRT2",
+    "symbol": "CHOOSERICH",
+    "marketCap": 78942.0,
+    "liquidity": 24252.98,
+    "candidateScore": 11.4957,
+    "entryPrice": 7.941509999999999e-05,
+    "exitPrice": 7.902e-05,
+    "peakPrice": 7.941509999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0034825870646765485,
+    "profitLamports": -3482587,
+    "pnlPct": -0.49751243781093557,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790545721667",
+    "sellTxid": "DRY_RUN_SELL_1790545734098",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

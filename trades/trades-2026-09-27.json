@@ -1,0 +1,28 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-27T00:31:42.728716Z",
+    "token": "AciM27Z9vURTsPo2ZCm14WnsYNjANs8SvC1Zp72Epump",
+    "symbol": "Jon",
+    "marketCap": 68650.0,
+    "liquidity": 22270.34,
+    "candidateScore": 11.6939,
+    "entryPrice": 6.90636e-05,
+    "exitPrice": 6.557e-05,
+    "peakPrice": 6.90636e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.03540968035260256,
+    "profitLamports": -35409680,
+    "pnlPct": -5.058525764657508,
+    "reason": "INSTANT_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1790469102443",
+    "sellTxid": "DRY_RUN_SELL_1790469102728",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": null,
+    "peak_pnl_at_12s": null,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
+  }
+]

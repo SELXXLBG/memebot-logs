@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "5u21uHjzfqcG9LYK9HNxZCthLHnzkCjqc14GPjSeVnid",
-  "symbol": "MITSUNAKA",
-  "pairAddress": "2BHD13ySqiFQnr63zcHg4kCR9JJbB3VPjjLja1ek1yWw",
-  "marketCap": 60774.0,
-  "liquidity": 20731.68,
-  "volume1h": 96424.1,
-  "volume24h": 96424.1,
-  "candidateScore": 10.6539,
-  "entryPrice": 6.107385e-05,
-  "entryTime": 1790477329900,
-  "peakPrice": 6.107385e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1790477329900",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

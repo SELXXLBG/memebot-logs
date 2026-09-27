@@ -24,5 +24,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-27T01:08:03.645197Z",
+    "token": "FHsjgRRqDRh8w3SQp3Z4uNf2BBHEh86KkEo2Df4fpump",
+    "symbol": "NCAT",
+    "marketCap": 64746.0,
+    "liquidity": 21368.03,
+    "candidateScore": 10.1675,
+    "entryPrice": 6.506369999999999e-05,
+    "exitPrice": 6.474e-05,
+    "peakPrice": 6.506369999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0034825870646765984,
+    "profitLamports": -3482587,
+    "pnlPct": -0.4975124378109427,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790471271315",
+    "sellTxid": "DRY_RUN_SELL_1790471283645",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

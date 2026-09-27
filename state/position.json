@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "4Z9eH1BCuq2Y6FFRXkZft9LoxwMqQWo7bJsEbcd7pump",
-  "symbol": "catwifvault",
-  "pairAddress": "5VrRBNcwXW2V26iqQHWeSTwwZz5ZuyhjiyHWcMCyG2KS",
-  "marketCap": 118981.0,
-  "liquidity": 30146.84,
-  "volume1h": 233382.37,
-  "volume24h": 233382.37,
-  "candidateScore": 11.5646,
-  "entryPrice": 0.000119595,
-  "entryTime": 1790549565210,
-  "peakPrice": 0.000119595,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1790549565210",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

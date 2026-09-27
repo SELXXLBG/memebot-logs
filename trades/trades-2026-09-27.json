@@ -180,5 +180,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-27T07:50:38.524545Z",
+    "token": "Hk2No4cHkAV1Sz6Q1imbmFpUy1cMJr1vMpGugTGzpump",
+    "symbol": "LOOT",
+    "marketCap": 58956.0,
+    "liquidity": 20575.47,
+    "candidateScore": 11.5161,
+    "entryPrice": 5.9244749999999995e-05,
+    "exitPrice": 5.895e-05,
+    "peakPrice": 5.9244749999999995e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.003482587064676527,
+    "profitLamports": -3482587,
+    "pnlPct": -0.4975124378109324,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790495425562",
+    "sellTxid": "DRY_RUN_SELL_1790495438524",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

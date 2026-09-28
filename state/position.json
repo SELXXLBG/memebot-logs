@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "BHdfzHB5NHU4wfF7P46cJkA4PogmHYfnp51ijLSgpHa4",
-  "symbol": "ZSHIB",
-  "pairAddress": "CaREMnjWjZ1Pb4Rf1W8Y4XZbi7S6iMP526yZvteTeCUv",
-  "marketCap": 69907.0,
-  "liquidity": 23692.72,
-  "volume1h": 80187.7,
-  "volume24h": 97979.58,
-  "candidateScore": 10.3094,
-  "entryPrice": 7.024949999999999e-05,
-  "entryTime": 1790606222460,
-  "peakPrice": 7.024949999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1790606222460",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

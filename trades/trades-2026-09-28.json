@@ -154,5 +154,31 @@
     "peak_pnl_at_20s": 12.9142,
     "pnl_at_30s": 12.9142,
     "peak_pnl_at_30s": 12.9142
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-28T10:46:00.095290Z",
+    "token": "76fFhcA142kf9gdg11ahYTmEiZnPXokxJkcF1axupump",
+    "symbol": "KOG",
+    "marketCap": 55840.0,
+    "liquidity": 19504.57,
+    "candidateScore": 10.0882,
+    "entryPrice": 5.6119199999999996e-05,
+    "exitPrice": 5.252e-05,
+    "peakPrice": 5.6119199999999996e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.04489443897988565,
+    "profitLamports": -44894438,
+    "pnlPct": -6.413491282840806,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790592347217",
+    "sellTxid": "DRY_RUN_SELL_1790592360095",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -6.4135,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

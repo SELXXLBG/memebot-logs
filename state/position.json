@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "BH2PVkGqyQDUUpAB1pdk75Q2zLh4dyfbfUsXUDvBX2FL",
+  "symbol": "SHORK",
+  "pairAddress": "BSgh1UmymJYMByDJKxjZarZ9XyTDTtHWawqAuZSAktpW",
+  "marketCap": 84791.0,
+  "liquidity": 27053.37,
+  "volume1h": 52969.96,
+  "volume24h": 52969.96,
+  "candidateScore": 10.3087,
+  "entryPrice": 8.658074999999999e-05,
+  "entryTime": 1790588972293,
+  "peakPrice": 8.658074999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1790588972293",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

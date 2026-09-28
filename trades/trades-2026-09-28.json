@@ -310,5 +310,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-28T16:34:09.669263Z",
+    "token": "2GyjqZhMUWxpuiVgypqV6KZ1agbzgitEVUU16mSnpump",
+    "symbol": "BAYPAY",
+    "marketCap": 61423.0,
+    "liquidity": 20828.34,
+    "candidateScore": 11.4583,
+    "entryPrice": 6.17271e-05,
+    "exitPrice": 6.142e-05,
+    "peakPrice": 6.17271e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.003482587064676492,
+    "profitLamports": -3482587,
+    "pnlPct": -0.49751243781092747,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790613236541",
+    "sellTxid": "DRY_RUN_SELL_1790613249669",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

@@ -232,5 +232,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-28T14:37:15.837404Z",
+    "token": "BHdfzHB5NHU4wfF7P46cJkA4PogmHYfnp51ijLSgpHa4",
+    "symbol": "ZSHIB",
+    "marketCap": 69907.0,
+    "liquidity": 23692.72,
+    "candidateScore": 10.3094,
+    "entryPrice": 7.024949999999999e-05,
+    "exitPrice": 6.99e-05,
+    "peakPrice": 7.024949999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0034825870646764887,
+    "profitLamports": -3482587,
+    "pnlPct": -0.49751243781092697,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790606222460",
+    "sellTxid": "DRY_RUN_SELL_1790606235837",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

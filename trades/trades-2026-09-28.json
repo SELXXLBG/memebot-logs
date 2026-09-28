@@ -1,0 +1,28 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-28T06:22:18.879565Z",
+    "token": "BM2k8mJUbMthHoioykyUm2NjMrXvLBYhoXruwYLpump",
+    "symbol": "LEVERAGE",
+    "marketCap": 62565.0,
+    "liquidity": 20988.53,
+    "candidateScore": 11.1774,
+    "entryPrice": 6.287279999999999e-05,
+    "exitPrice": 6.256e-05,
+    "peakPrice": 6.287279999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0034825870646765585,
+    "profitLamports": -3482587,
+    "pnlPct": -0.49751243781093696,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790576526783",
+    "sellTxid": "DRY_RUN_SELL_1790576538879",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
+  }
+]

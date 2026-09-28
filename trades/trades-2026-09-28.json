@@ -128,5 +128,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-28T10:36:05.146019Z",
+    "token": "8X8uT6CaWKSGaMEyWJysWfi5vb83wAhsRFggFaTYpump",
+    "symbol": "COPYCAT",
+    "marketCap": 55945.0,
+    "liquidity": 19510.55,
+    "candidateScore": 10.563,
+    "entryPrice": 5.62197e-05,
+    "exitPrice": 5.983e-05,
+    "peakPrice": 6.348e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.04495239213300678,
+    "profitLamports": 44952392,
+    "pnlPct": 6.421770304715254,
+    "reason": "TRAILINGSTOP",
+    "buyTxid": "DRY_RUN_BUY_1790591732427",
+    "sellTxid": "DRY_RUN_SELL_1790591765146",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": 12.9142,
+    "peak_pnl_at_12s": 12.9142,
+    "pnl_at_20s": 12.9142,
+    "peak_pnl_at_20s": 12.9142,
+    "pnl_at_30s": 12.9142,
+    "peak_pnl_at_30s": 12.9142
   }
 ]

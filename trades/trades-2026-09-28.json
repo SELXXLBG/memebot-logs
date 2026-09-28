@@ -284,5 +284,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-28T16:15:39.781736Z",
+    "token": "CZWyKU9MghRchXXw6x34aPN7MGeQR8QJKwymX6cpump",
+    "symbol": "AZZ",
+    "marketCap": 79292.0,
+    "liquidity": 25463.13,
+    "candidateScore": 10.7936,
+    "entryPrice": 7.968644999999999e-05,
+    "exitPrice": 7.929e-05,
+    "peakPrice": 7.968644999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.003482587064676545,
+    "profitLamports": -3482587,
+    "pnlPct": -0.497512437810935,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790612127026",
+    "sellTxid": "DRY_RUN_SELL_1790612139781",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

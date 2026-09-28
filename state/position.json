@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "J698fNgUeX9EeZJrWVLdeTUwemiwTUiWbwvLkVKWpump",
-  "symbol": "BUBBLE",
-  "pairAddress": "14REKPVWHur4citUM5E2dM6CRvAhzk1W3EojTgpzdABm",
-  "marketCap": 67106.0,
-  "liquidity": 21774.43,
-  "volume1h": 67282.31,
-  "volume24h": 67282.31,
-  "candidateScore": 11.744,
-  "entryPrice": 6.74355e-05,
-  "entryTime": 1790601128294,
-  "peakPrice": 6.74355e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1790601128294",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

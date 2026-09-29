@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "BGKX2Vk5RMCrnmAn9kCnF6EKCVVFziX4GybEM2jhCV7P",
+  "symbol": "BUTTHOLE",
+  "pairAddress": "CT1kdk4eSX22QLVSfce7b7a6CxdNGMCA9QpjKHXmw5qP",
+  "marketCap": 63343.0,
+  "liquidity": 21103.65,
+  "volume1h": 106982.95,
+  "volume24h": 106982.95,
+  "candidateScore": 11.336,
+  "entryPrice": 6.36567e-05,
+  "entryTime": 1790722127418,
+  "peakPrice": 6.36567e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1790722127418",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

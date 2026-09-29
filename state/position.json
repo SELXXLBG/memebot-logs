@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "2uPFpHPaQUyrrsRfYeziTjzNoju449gruMQFRie2pump",
+  "symbol": "Virus",
+  "pairAddress": "7mZmfuz1DtBxSYsAaxEpkkThLLZv9sFyDdiktG83fE62",
+  "marketCap": 82953.0,
+  "liquidity": 24494.63,
+  "volume1h": 184917.29,
+  "volume24h": 184917.29,
+  "candidateScore": 11.4158,
+  "entryPrice": 8.336474999999998e-05,
+  "entryTime": 1790657051699,
+  "peakPrice": 8.336474999999998e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1790657051699",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

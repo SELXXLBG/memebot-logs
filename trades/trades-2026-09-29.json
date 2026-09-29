@@ -180,5 +180,31 @@
     "peak_pnl_at_20s": 4.3795,
     "pnl_at_30s": 4.3795,
     "peak_pnl_at_30s": 4.3795
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-29T21:23:29.910612Z",
+    "token": "8y2h8RDbF1FVKhcHNqaZFg4yJ5azXUyUeoByEAvJpump",
+    "symbol": "NI",
+    "marketCap": 83940.0,
+    "liquidity": 24497.17,
+    "candidateScore": 11.2722,
+    "entryPrice": 8.446019999999999e-05,
+    "exitPrice": 8.404e-05,
+    "peakPrice": 8.446019999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.003482587064676503,
+    "profitLamports": -3482587,
+    "pnlPct": -0.497512437810929,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790716997073",
+    "sellTxid": "DRY_RUN_SELL_1790717009910",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

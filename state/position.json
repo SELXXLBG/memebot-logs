@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "8CeF2mccj1DsBM7zgB2zMRGk2JsaeFCwzFVxU7xm1QWm",
+  "symbol": "stillwet",
+  "pairAddress": "C1qTQgqh5Xfs4DfS7Zxv1SnQwU8YqvFC5kLu3T2SZY5n",
+  "marketCap": 60370.0,
+  "liquidity": 20468.81,
+  "volume1h": 89850.96,
+  "volume24h": 89850.96,
+  "candidateScore": 11.2939,
+  "entryPrice": 6.0671849999999994e-05,
+  "entryTime": 1790642844969,
+  "peakPrice": 6.0671849999999994e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1790642844969",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

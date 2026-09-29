@@ -102,5 +102,31 @@
     "peak_pnl_at_20s": 1.1579,
     "pnl_at_30s": 1.1579,
     "peak_pnl_at_30s": 1.1579
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-29T06:37:06.291247Z",
+    "token": "CcAYnECixzDgGegpAqcziUUycTDM8EHGwt8YE1GNpump",
+    "symbol": "bul",
+    "marketCap": 73040.0,
+    "liquidity": 22702.63,
+    "candidateScore": 10.6697,
+    "entryPrice": 7.340519999999999e-05,
+    "exitPrice": 7.304e-05,
+    "peakPrice": 7.340519999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0034825870646764986,
+    "profitLamports": -3482587,
+    "pnlPct": -0.49751243781092847,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790663814253",
+    "sellTxid": "DRY_RUN_SELL_1790663826291",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

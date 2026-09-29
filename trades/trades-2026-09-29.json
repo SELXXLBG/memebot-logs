@@ -206,5 +206,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-29T22:49:00.201218Z",
+    "token": "BGKX2Vk5RMCrnmAn9kCnF6EKCVVFziX4GybEM2jhCV7P",
+    "symbol": "BUTTHOLE",
+    "marketCap": 63343.0,
+    "liquidity": 21103.65,
+    "candidateScore": 11.336,
+    "entryPrice": 6.36567e-05,
+    "exitPrice": 6.334e-05,
+    "peakPrice": 6.36567e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0034825870646765784,
+    "profitLamports": -3482587,
+    "pnlPct": -0.4975124378109398,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790722127418",
+    "sellTxid": "DRY_RUN_SELL_1790722140201",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

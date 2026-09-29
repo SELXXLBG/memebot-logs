@@ -128,5 +128,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-29T10:10:22.520331Z",
+    "token": "5BzMG8pmZyjPBFkaPSYZK2qRgTsViMqMWV9SmyDQpump",
+    "symbol": "HODL",
+    "marketCap": 73445.0,
+    "liquidity": 23073.62,
+    "candidateScore": 10.6602,
+    "entryPrice": 7.38072e-05,
+    "exitPrice": 6.933e-05,
+    "peakPrice": 7.38072e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.04246252398140011,
+    "profitLamports": -42462523,
+    "pnlPct": -6.066074854485731,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790676609155",
+    "sellTxid": "DRY_RUN_SELL_1790676622520",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -6.0661,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

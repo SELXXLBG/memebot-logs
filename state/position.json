@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "HdV17YZbXy8isu3VyvrPWdoUwB8MXDkDHrrr3SfHpump",
-  "symbol": "pen",
-  "pairAddress": "HYZeqDaHdeaxEMfRLXBpMTExQTKCJCnB4jep56pvF9SY",
-  "marketCap": 64130.0,
-  "liquidity": 21147.15,
-  "volume1h": 85646.38,
-  "volume24h": 85646.38,
-  "candidateScore": 10.86,
-  "entryPrice": 6.445064999999999e-05,
-  "entryTime": 1790752117048,
-  "peakPrice": 6.445064999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1790752117048",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

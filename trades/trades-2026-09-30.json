@@ -1,0 +1,28 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-30T03:14:32.127978Z",
+    "token": "5YGhsaztAXZsyuTcXcG5xWc9JrQS4Wvev8Lu4tUFpump",
+    "symbol": "BloxPad",
+    "marketCap": 79718.0,
+    "liquidity": 24052.32,
+    "candidateScore": 11.2805,
+    "entryPrice": 8.055074999999999e-05,
+    "exitPrice": 8.015e-05,
+    "peakPrice": 8.055074999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.0034825870646765685,
+    "profitLamports": -3482587,
+    "pnlPct": -0.4975124378109384,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790738059860",
+    "sellTxid": "DRY_RUN_SELL_1790738072127",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
+  }
+]

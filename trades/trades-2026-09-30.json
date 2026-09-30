@@ -258,5 +258,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-30T13:10:33.388888Z",
+    "token": "3Cnyn7GchZafTrBBGUajMNb1LecHtKKoEC6tmVXzpump",
+    "symbol": "SEALED",
+    "marketCap": 81478.0,
+    "liquidity": 24434.33,
+    "candidateScore": 11.3798,
+    "entryPrice": 8.187735e-05,
+    "exitPrice": 8.147e-05,
+    "peakPrice": 8.187735e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.003482587064676577,
+    "profitLamports": -3482587,
+    "pnlPct": -0.4975124378109396,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790773821296",
+    "sellTxid": "DRY_RUN_SELL_1790773833388",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

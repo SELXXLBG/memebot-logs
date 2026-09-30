@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "H3vfXFZfFQnba2NV2seTMBdY92yLK2VJHsppUzYv6ua",
+  "symbol": "GENNYWEALTH",
+  "pairAddress": "HnFFnT64a5YYSUgNYt4Kr6qvVFr4FxbYLMngTU7kjWLH",
+  "marketCap": 83692.0,
+  "liquidity": 24478.66,
+  "volume1h": 33709.81,
+  "volume24h": 33709.81,
+  "candidateScore": 11.4886,
+  "entryPrice": 8.410844999999998e-05,
+  "entryTime": 1790768359911,
+  "peakPrice": 8.410844999999998e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1790768359911",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

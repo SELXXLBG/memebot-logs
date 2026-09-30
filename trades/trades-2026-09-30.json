@@ -24,5 +24,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-30T03:22:25.371164Z",
+    "token": "3b5fTE5NyvCtMgKcDkvt4vUW2KDc7mgUSW8a8XYVpump",
+    "symbol": "sendor",
+    "marketCap": 72769.0,
+    "liquidity": 22823.41,
+    "candidateScore": 11.4379,
+    "entryPrice": 7.31238e-05,
+    "exitPrice": 0.0001237,
+    "peakPrice": 0.0001237,
+    "solAmountLamports": 700000000,
+    "profitSOL": 0.48415618444336855,
+    "profitLamports": 484156184,
+    "pnlPct": 69.16516920619551,
+    "reason": "TAKEPROFIT30P",
+    "buyTxid": "DRY_RUN_BUY_1790738487687",
+    "sellTxid": "DRY_RUN_SELL_1790738545371",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": 69.1652,
+    "peak_pnl_at_20s": 69.1652,
+    "pnl_at_30s": 69.1652,
+    "peak_pnl_at_30s": 69.1652
   }
 ]

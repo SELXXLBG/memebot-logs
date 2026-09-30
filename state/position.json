@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "3b5fTE5NyvCtMgKcDkvt4vUW2KDc7mgUSW8a8XYVpump",
+  "symbol": "sendor",
+  "pairAddress": "AfGTgT5ukB1u2AZ7RRPRvvwNCKzSA43Lpk4iBcXhg1Dd",
+  "marketCap": 72769.0,
+  "liquidity": 22823.41,
+  "volume1h": 135256.35,
+  "volume24h": 135256.35,
+  "candidateScore": 11.4379,
+  "entryPrice": 7.31238e-05,
+  "entryTime": 1790738487687,
+  "peakPrice": 7.31238e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1790738487687",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

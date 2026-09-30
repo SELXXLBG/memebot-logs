@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "3Cnyn7GchZafTrBBGUajMNb1LecHtKKoEC6tmVXzpump",
-  "symbol": "SEALED",
-  "pairAddress": "44d97xWFr8XBGHug66PSEDQbd82tsvNTnsLPM6agpFxZ",
-  "marketCap": 81478.0,
-  "liquidity": 24434.33,
-  "volume1h": 61732.09,
-  "volume24h": 61732.09,
-  "candidateScore": 11.3798,
-  "entryPrice": 8.187735e-05,
-  "entryTime": 1790773821296,
-  "peakPrice": 8.187735e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1790773821296",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

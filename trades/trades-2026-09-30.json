@@ -154,5 +154,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-30T10:58:37.248893Z",
+    "token": "3FYAXQtJwqw7WAuLD65QZwdcWMRvHyzCGds8G6x7pump",
+    "symbol": "Dotpad",
+    "marketCap": 57381.0,
+    "liquidity": 20029.02,
+    "candidateScore": 11.2049,
+    "entryPrice": 5.7666899999999995e-05,
+    "exitPrice": 5.738e-05,
+    "peakPrice": 5.7666899999999995e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.003482587064676521,
+    "profitLamports": -3482587,
+    "pnlPct": -0.49751243781093163,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790765904885",
+    "sellTxid": "DRY_RUN_SELL_1790765917248",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

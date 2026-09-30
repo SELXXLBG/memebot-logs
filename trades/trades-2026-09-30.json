@@ -284,5 +284,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-30T16:02:27.868962Z",
+    "token": "A8f6L4hMAe6EADayA91e7ZhAZrT76AsVvK5dXRRnpump",
+    "symbol": "SGI",
+    "marketCap": 65645.0,
+    "liquidity": 21482.32,
+    "candidateScore": 10.8952,
+    "entryPrice": 6.596819999999999e-05,
+    "exitPrice": 5.805e-05,
+    "peakPrice": 6.596819999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.08402139212529662,
+    "profitLamports": -84021392,
+    "pnlPct": -12.003056017899517,
+    "reason": "FAST_DUMP",
+    "buyTxid": "DRY_RUN_BUY_1790784145819",
+    "sellTxid": "DRY_RUN_SELL_1790784147868",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": null,
+    "peak_pnl_at_12s": null,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "5YGhsaztAXZsyuTcXcG5xWc9JrQS4Wvev8Lu4tUFpump",
-  "symbol": "BloxPad",
-  "pairAddress": "G1j1hZcGdeSeRJXR2G89QZYvhFZik94K32tLzE8XEHyn",
-  "marketCap": 79718.0,
-  "liquidity": 24052.32,
-  "volume1h": 83314.99,
-  "volume24h": 83314.99,
-  "candidateScore": 11.2805,
-  "entryPrice": 8.055074999999999e-05,
-  "entryTime": 1790738059860,
-  "peakPrice": 8.055074999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1790738059860",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

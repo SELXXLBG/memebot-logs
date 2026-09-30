@@ -76,5 +76,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-09-30T07:08:49.948526Z",
+    "token": "HdV17YZbXy8isu3VyvrPWdoUwB8MXDkDHrrr3SfHpump",
+    "symbol": "pen",
+    "marketCap": 64130.0,
+    "liquidity": 21147.15,
+    "candidateScore": 10.86,
+    "entryPrice": 6.445064999999999e-05,
+    "exitPrice": 6.413e-05,
+    "peakPrice": 6.445064999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.003482587064676489,
+    "profitLamports": -3482587,
+    "pnlPct": -0.497512437810927,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790752117048",
+    "sellTxid": "DRY_RUN_SELL_1790752129948",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

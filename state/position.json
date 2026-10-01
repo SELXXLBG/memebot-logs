@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "2GU7xJt4M5djAC7az3jzpFr5ApBTJK2e3LWXKrNypump",
+  "symbol": "MICROCHIMPS",
+  "pairAddress": "3RbHzMCHM1bSxddHKMMmZfG3VJrhBFYFNvDmsQCULMcR",
+  "marketCap": 61622.0,
+  "liquidity": 20611.65,
+  "volume1h": 75745.72,
+  "volume24h": 75745.72,
+  "candidateScore": 11.0297,
+  "entryPrice": 6.192809999999999e-05,
+  "entryTime": 1790895770911,
+  "peakPrice": 6.192809999999999e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1790895770911",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

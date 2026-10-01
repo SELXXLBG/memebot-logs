@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "HpsfKJnkBu53mxLGUCdr4PiTodXouZiVvZD5AoRWdHkY",
+  "symbol": "snowball",
+  "pairAddress": "FivAjNRmjWeDdepuTJbqjgwfsDsg1LZSj7q3soLbW2gv",
+  "marketCap": 59647.0,
+  "liquidity": 20319.62,
+  "volume1h": 128822.0,
+  "volume24h": 128822.0,
+  "candidateScore": 11.4974,
+  "entryPrice": 5.9938199999999995e-05,
+  "entryTime": 1790828846526,
+  "peakPrice": 5.9938199999999995e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1790828846526",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

@@ -232,5 +232,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-10-01T16:04:00.141915Z",
+    "token": "EdBGYHVib6iXkBxUdB5uzUKHwXYruKKEkwt69BU6pump",
+    "symbol": "CODE",
+    "marketCap": 56406.0,
+    "liquidity": 19543.66,
+    "candidateScore": 11.3356,
+    "entryPrice": 5.6682e-05,
+    "exitPrice": 5.64e-05,
+    "peakPrice": 5.6682e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.003482587064676554,
+    "profitLamports": -3482587,
+    "pnlPct": -0.49751243781093635,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790870627600",
+    "sellTxid": "DRY_RUN_SELL_1790870640142",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

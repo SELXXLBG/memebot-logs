@@ -310,5 +310,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-10-01T20:57:36.848069Z",
+    "token": "2Wtxyc24kMMLeTdW7XsDsfsaUgQASHUsYUzm8qPWpump",
+    "symbol": "RipGo",
+    "marketCap": 73600.0,
+    "liquidity": 24513.92,
+    "candidateScore": 11.0469,
+    "entryPrice": 7.395795e-05,
+    "exitPrice": 7.359e-05,
+    "peakPrice": 7.395795e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.003482587064676525,
+    "profitLamports": -3482587,
+    "pnlPct": -0.4975124378109322,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790888244670",
+    "sellTxid": "DRY_RUN_SELL_1790888256848",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

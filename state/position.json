@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "JAqGStn3hvZxb1wmJRigtD2sEPode3KvuGLcEmP4pump",
-  "symbol": "HUNT",
-  "pairAddress": "2b4RoajTGM8GLv1qbnbw1L8cU4sYpUxF2Ek36gB7dHii",
-  "marketCap": 90451.0,
-  "liquidity": 28252.62,
-  "volume1h": 98595.77,
-  "volume24h": 98595.77,
-  "candidateScore": 10.647,
-  "entryPrice": 9.090225e-05,
-  "entryTime": 1790886381997,
-  "peakPrice": 9.090225e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1790886381997",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

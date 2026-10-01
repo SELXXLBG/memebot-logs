@@ -128,5 +128,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-10-01T09:29:30.407963Z",
+    "token": "BsaissLqJmMMrXXmuhaRVjDa49Qf5QYzDpE8nZvc1vWJ",
+    "symbol": "Mars3D",
+    "marketCap": 57197.0,
+    "liquidity": 19773.7,
+    "candidateScore": 10.5141,
+    "entryPrice": 5.747594999999999e-05,
+    "exitPrice": 5.534e-05,
+    "peakPrice": 6.565e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.026013750098954326,
+    "profitLamports": -26013750,
+    "pnlPct": -3.7162500141363326,
+    "reason": "PROFIT_LOCK",
+    "buyTxid": "DRY_RUN_BUY_1790846870500",
+    "sellTxid": "DRY_RUN_SELL_1790846970407",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": 10.1852,
+    "peak_pnl_at_12s": 10.1852,
+    "pnl_at_20s": 10.1852,
+    "peak_pnl_at_20s": 10.1852,
+    "pnl_at_30s": 10.1852,
+    "peak_pnl_at_30s": 10.1852
   }
 ]

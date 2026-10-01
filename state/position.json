@@ -1,1 +1,18 @@
-{}
+{
+  "tokenAddress": "EdBGYHVib6iXkBxUdB5uzUKHwXYruKKEkwt69BU6pump",
+  "symbol": "CODE",
+  "pairAddress": "7PxVThJvYsH1nbsVvRajp2N9aej6iwHCQYA2RKWwVsx4",
+  "marketCap": 56406.0,
+  "liquidity": 19543.66,
+  "volume1h": 76279.43,
+  "volume24h": 76279.43,
+  "candidateScore": 11.3356,
+  "entryPrice": 5.6682e-05,
+  "entryTime": 1790870627600,
+  "peakPrice": 5.6682e-05,
+  "solAmountLamports": 700000000,
+  "tokenAmountRaw": "0",
+  "txid": "DRY_RUN_BUY_1790870627600",
+  "isDryRun": true,
+  "source": "PYTHON_SCANNER"
+}

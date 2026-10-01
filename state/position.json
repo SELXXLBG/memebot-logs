@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "Fq7wzJ9S6TRm7NrPGEwWKmQPqdF8K1g5uTp9DGFcpump",
-  "symbol": "FORREST",
-  "pairAddress": "ErgojZ4yKHxJkVgQqWEbPAbt7NHctL5a3oLyP1iTin8Y",
-  "marketCap": 76202.0,
-  "liquidity": 23360.87,
-  "volume1h": 158170.05,
-  "volume24h": 158170.05,
-  "candidateScore": 11.3786,
-  "entryPrice": 7.658099999999999e-05,
-  "entryTime": 1790828237576,
-  "peakPrice": 7.669e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1790828237576",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

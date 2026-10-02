@@ -50,5 +50,31 @@
     "peak_pnl_at_20s": 3.2283,
     "pnl_at_30s": 3.2283,
     "peak_pnl_at_30s": 3.2283
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-10-02T19:30:43.589963Z",
+    "token": "4zWD7Lo2AE8wjdXeANYoLoiLNnRiEjkadHyiHcpJ8Nfw",
+    "symbol": "RONNIE",
+    "marketCap": 73392.0,
+    "liquidity": 24946.26,
+    "candidateScore": 11.2479,
+    "entryPrice": 7.375694999999999e-05,
+    "exitPrice": 7.263e-05,
+    "peakPrice": 7.375694999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.010695466664497262,
+    "profitLamports": -10695466,
+    "pnlPct": -1.5279238092138947,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790969431145",
+    "sellTxid": "DRY_RUN_SELL_1790969443589",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -1.5279,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

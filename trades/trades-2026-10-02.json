@@ -102,5 +102,31 @@
     "peak_pnl_at_20s": 2.7529,
     "pnl_at_30s": 2.7529,
     "peak_pnl_at_30s": 2.7529
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-10-02T21:36:09.730860Z",
+    "token": "37PbQspU3ewcqY5ymJbzDiKLQS7fLgjBbph1fUbmpump",
+    "symbol": "FNC",
+    "marketCap": 66412.0,
+    "liquidity": 21540.52,
+    "candidateScore": 11.1915,
+    "entryPrice": 6.674205e-05,
+    "exitPrice": 6.641e-05,
+    "peakPrice": 6.674205e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.003482587064676613,
+    "profitLamports": -3482587,
+    "pnlPct": -0.49751243781094473,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790976957206",
+    "sellTxid": "DRY_RUN_SELL_1790976969730",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

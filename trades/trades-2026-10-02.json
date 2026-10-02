@@ -1,0 +1,28 @@
+[
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-10-02T02:22:23.275301Z",
+    "token": "DBn1mFRGcnKoSCkgh7w7BFM64dZvpbtZQWeXnyBJanon",
+    "symbol": "anon",
+    "marketCap": 71657.0,
+    "liquidity": 22806.07,
+    "candidateScore": 11.424,
+    "entryPrice": 7.200824999999998e-05,
+    "exitPrice": 7.165e-05,
+    "peakPrice": 7.200824999999998e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.003482587064676514,
+    "profitLamports": -3482587,
+    "pnlPct": -0.49751243781093063,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1790907730719",
+    "sellTxid": "DRY_RUN_SELL_1790907743275",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
+  }
+]

@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "DBn1mFRGcnKoSCkgh7w7BFM64dZvpbtZQWeXnyBJanon",
-  "symbol": "anon",
-  "pairAddress": "5B94srvYnVNY71GW5vKpKSWdBH2KW5PcDXNwrgRBwsB7",
-  "marketCap": 71657.0,
-  "liquidity": 22806.07,
-  "volume1h": 167467.44,
-  "volume24h": 167467.44,
-  "candidateScore": 11.424,
-  "entryPrice": 7.200824999999998e-05,
-  "entryTime": 1790907730719,
-  "peakPrice": 7.200824999999998e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1790907730719",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

@@ -24,5 +24,31 @@
     "peak_pnl_at_20s": null,
     "pnl_at_30s": null,
     "peak_pnl_at_30s": null
+  },
+  {
+    "status": "[SIMULATION]",
+    "timestamp": "2026-10-03T04:29:17.799192Z",
+    "token": "YbYhD93eSsgyCbMEUBWHpUc5wNjUbWe7VWQTvdPpump",
+    "symbol": "GENIUS",
+    "marketCap": 88134.0,
+    "liquidity": 25310.56,
+    "candidateScore": 11.0005,
+    "entryPrice": 8.857064999999999e-05,
+    "exitPrice": 8.813e-05,
+    "peakPrice": 8.857064999999999e-05,
+    "solAmountLamports": 700000000,
+    "profitSOL": -0.003482587064676568,
+    "profitLamports": -3482587,
+    "pnlPct": -0.49751243781093835,
+    "reason": "NEVER_GREEN_12S",
+    "buyTxid": "DRY_RUN_BUY_1791001745671",
+    "sellTxid": "DRY_RUN_SELL_1791001757799",
+    "source": "PYTHON_SCANNER",
+    "pnl_at_12s": -0.4975,
+    "peak_pnl_at_12s": 0.0,
+    "pnl_at_20s": null,
+    "peak_pnl_at_20s": null,
+    "pnl_at_30s": null,
+    "peak_pnl_at_30s": null
   }
 ]

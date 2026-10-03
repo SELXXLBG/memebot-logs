@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "YbYhD93eSsgyCbMEUBWHpUc5wNjUbWe7VWQTvdPpump",
-  "symbol": "GENIUS",
-  "pairAddress": "8weKxS6ksge7okrCQZoam4PRKb5aJ34ZadrLQTpSa4yt",
-  "marketCap": 88134.0,
-  "liquidity": 25310.56,
-  "volume1h": 104673.68,
-  "volume24h": 104673.68,
-  "candidateScore": 11.0005,
-  "entryPrice": 8.857064999999999e-05,
-  "entryTime": 1791001745671,
-  "peakPrice": 8.857064999999999e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1791001745671",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}

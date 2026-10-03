@@ -1,18 +1,1 @@
-{
-  "tokenAddress": "2BcRevrDhP4MgCw2KyqByFZ4S7mpsi1vY8ZypXwepump",
-  "symbol": "CAREBOND",
-  "pairAddress": "6MCvg9asw4ziB85nfoJSbbx2oyCZjGeucVP96RbSb2hV",
-  "marketCap": 86676.0,
-  "liquidity": 25106.11,
-  "volume1h": 147741.25,
-  "volume24h": 147741.25,
-  "candidateScore": 11.0917,
-  "entryPrice": 8.710334999999998e-05,
-  "entryTime": 1791020122721,
-  "peakPrice": 8.710334999999998e-05,
-  "solAmountLamports": 700000000,
-  "tokenAmountRaw": "0",
-  "txid": "DRY_RUN_BUY_1791020122721",
-  "isDryRun": true,
-  "source": "PYTHON_SCANNER"
-}
+{}
